@@ -12,3 +12,9 @@
 - [ ] run of raspberry pi
 ## Complete 
 - [x] change hosting to pjpcode.com
+
+# Task Llist
+
+|❌|                    Task                                  |✔️ Date   |Notes                             |
+|--|----------------------------------------------------------|:--------:|----------------------------------|
+|❌|Optimized values                                          |2020-01-25|no notes here                     |
