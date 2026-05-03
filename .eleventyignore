@@ -1,0 +1,11 @@
+node_modules
+_site
+README.md
+CLAUDE.md
+tasks.md
+package.json
+package-lock.json
+.eleventy.js
+.github
+pjpcode/orphan
+pjpcode/RM_*
