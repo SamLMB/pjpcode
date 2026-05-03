@@ -49,10 +49,8 @@ mark `RM_`, or keep where they are.
   `huitres_farcies_bretonne.htm` (claims 67).
 - HTMLs with no clear recipe number: `commentaires_pierre.html` (closing
   commentary, intentionally orphan).
-- Chef Pioger pages — kept as self-contained orphan folders per your direction:
-  `rôti_de_boeuf_du_chef_michel_pioger/` and
-  `pommes_de_terre_rôties_du_chef_michel_pioger/`. `liste_par_mots_clefs.html`
-  still links to them.
+- Chef Pioger pages — kept as self-contained orphan folders under `orphan/`
+  per your direction. Nothing currently links to them.
 - Sidecar leftover: `coque_aux_pates_fichiers/` (only RM_ files inside now).
 - Loose JPGs not referenced by any recipe HTML: `1_avant_cuisson.jpg`,
   `2_après_avoir_fait_dorer.jpg`, `3_sur_lit_de_sel.jpg`, `5_sortant_du_four.jpg`,
@@ -88,8 +86,8 @@ mark `RM_`, or keep where they are.
   Word export) and `pjpcode/recettes_liste_par_numeros.htm` (links exclusively
   to the old `f6fqx.free.fr/pjpcode/...` host). Both need to be regenerated
   from `voici.htm` against the new `0XXX/recipe.html` paths to be useful.
-- [ ] Decide whether the chef Pioger pages belong in `voici.htm`'s numbered
-  list — currently only reachable via `liste_par_mots_clefs.html`.
+- [ ] Decide whether the chef Pioger pages (now under `orphan/`) belong in
+  `voici.htm`'s numbered list, or stay orphaned.
 
 ## Missing content
 

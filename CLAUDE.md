@@ -12,12 +12,9 @@ The site has a hand-built navigation hierarchy across three files in `pjpcode/`:
 
 1. `/index.html` — root splash, links into `pjpcode/indexpjpcode.html`.
 2. `pjpcode/indexpjpcode.html` — photo of the cooks; the photo links to `voici.htm`.
-3. `pjpcode/voici.htm` — the **sommaire**: a numbered list of every recipe with `<a href="…">` links to each recipe's HTML file. This is the primary index. It also links to:
-   - `recettes_alpha.htm` — alphabetical list
-   - `recettes_liste_par_numeros.htm` — numeric list
-   - `liste_par_mots_clefs.html` — keyword list
+3. `pjpcode/voici.htm` — the **sommaire**: a numbered list of every recipe with `<a href="…">` links to each recipe's HTML file. This is the primary index. Two further index pages (`recettes_alpha.htm`, `recettes_liste_par_numeros.htm`) live at `pjpcode/` root but currently aren't linked from anywhere — see `tasks.md`.
 
-When adding a recipe, **all four index pages** (`voici.htm`, `recettes_alpha.htm`, `recettes_liste_par_numeros.htm`, `liste_par_mots_clefs.html`) need to be updated by hand — there is no generator.
+When adding a recipe, the index page `voici.htm` needs to be updated by hand — there is no generator.
 
 ## Recipe storage layout
 
@@ -46,10 +43,9 @@ files awaiting deletion. Recipe HTMLs no longer reference them.
 
 Files at `pjpcode/` root that aren't in a `XXXX/` folder are either
 navigation pages (`voici.htm`, `indexpjpcode.html`,
-`liste_par_mots_clefs.html`, `recettes_alpha.htm`,
-`recettes_liste_par_numeros.htm`, `lisez moi d'abord.htm`,
-`nous_deux.jpg`), the chef Pioger orphan-recipe folders, or unattributed
-orphans — see `tasks.md` for the inventory.
+`recettes_alpha.htm`, `recettes_liste_par_numeros.htm`,
+`lisez moi d'abord.htm`, `nous_deux.jpg`), or live under `orphan/` —
+see `tasks.md` for the inventory.
 
 ## Encoding gotchas
 
