@@ -19,18 +19,40 @@ The site has a hand-built navigation hierarchy across three files in `pjpcode/`:
 
 When adding a recipe, **all four index pages** (`voici.htm`, `recettes_alpha.htm`, `recettes_liste_par_numeros.htm`, `liste_par_mots_clefs.html`) need to be updated by hand — there is no generator.
 
-## Two generations of recipe storage
+## Recipe storage layout
 
-Older recipes (numbers ≲ 142) are individual HTML files directly under `pjpcode/`, e.g. `pjpcode/financiers.html`, `pjpcode/gigot_de_7_heures.html`. These come in two flavors:
-- **Word-exported HTML** (most of them) — heavy `mso-*` styles, `windows-1252` charset, `<u1:p>` and `<o:p>` tags. Don't try to clean these up; they render fine and the whitespace/markup is fragile.
-- **Image-only pages** — the HTML body is just one `<img>` pointing at a scan of a handwritten recipe (e.g. `financiers.html` → `financiers.jpg`).
+Each recipe lives in `pjpcode/XXXX/` where `XXXX` is the four-digit
+zero-padded recipe number (e.g. `pjpcode/0001/`, `pjpcode/0030/`,
+`pjpcode/0253/`). Inside, the files use generic names — the recipe name
+isn't part of any filename:
 
-Newer recipes (143 and up) are stored as `pjpcode/<num>/recette <num>/recette n° <num>.{docx,pdf}` — no HTML wrapper, just the Office files. When writing links to new-format recipes, link directly to the PDF.
+- `recipe.html` — the recipe page (Word-exported HTML for older recipes;
+  a handwritten placeholder for image-only recipes; a short generated
+  placeholder for recipes whose only source is Word docs).
+- `recipe.pdf` and/or `recipe.docx` — Word-format copies (recipes 143+
+  and a handful of older ones that have both).
+- `image-01.jpg`, `image-02.jpg`, … — recipe images, two-digit
+  zero-padded, numbered in the order they appear in `recipe.html`. The
+  extension matches the original (`.jpg`, `.png`, `.gif`).
 
-Some recipes also have a `*_fichiers/` companion folder (e.g. `boeuf_en_croute_de_sel_fichiers/`) — this is Word's standard "saved-as-HTML" sidecar with `filelist.xml`, images, and CSS. Keep these alongside their parent HTML.
+Word HTML is fragile — heavy `mso-*` styles, `windows-1252` charset,
+`<u1:p>`/`<o:p>` tags, VML imagedata for old IE. Don't try to clean it up;
+the whitespace/markup is load-bearing.
+
+A few recipes still have leftover Word `*_fichiers/` sidecar dirs at
+`pjpcode/` root (e.g. `boeuf_en_croute_de_sel_fichiers/`) — they should
+have been emptied during reorganization and only contain `RM_`-prefixed
+files awaiting deletion. Recipe HTMLs no longer reference them.
+
+Files at `pjpcode/` root that aren't in a `XXXX/` folder are either
+navigation pages (`voici.htm`, `indexpjpcode.html`,
+`liste_par_mots_clefs.html`, `recettes_alpha.htm`,
+`recettes_liste_par_numeros.htm`, `lisez moi d'abord.htm`,
+`nous_deux.jpg`), the chef Pioger orphan-recipe folders, or unattributed
+orphans — see `tasks.md` for the inventory.
 
 ## Encoding gotchas
 
 - Most older HTML declares `charset=ISO-8859-1` or `windows-1252` and stores French accents as 8-bit bytes (e.g. `derni�re mise � jour`). These display correctly in browsers but may look like mojibake in editors that auto-detect UTF-8. **Don't blanket-convert files to UTF-8** — you'd also need to update the `<meta charset>` and re-test rendering across every page.
-- Filenames mix accented (`pétrissant_pâte`) and unaccented forms, sometimes for the same image — this is the "doubles" referenced in the latest commit. Don't dedupe without checking which filename the HTML references.
+- All filenames in the repo are lowercase. Inside `pjpcode/XXXX/` recipe folders names are normalized (`recipe.{html,pdf,docx}`, `image-NN.<ext>`), so the old NFC/NFD accent-duplicate problem is mostly gone within recipes — any remaining `RM_`-prefixed files at root are the duplicates pending deletion.
 - `.gitattributes` enables `* text=auto` LF normalization, which can churn the Word-exported HTML on commit. If you see large whitespace-only diffs, that's why.
