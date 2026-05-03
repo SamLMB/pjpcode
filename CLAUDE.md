@@ -18,9 +18,10 @@ When adding a recipe, the index page `voici.htm` needs to be updated by hand —
 
 ## Recipe storage layout
 
-Each recipe lives in `pjpcode/XXXX/` where `XXXX` is the four-digit
-zero-padded recipe number (e.g. `pjpcode/0001/`, `pjpcode/0030/`,
-`pjpcode/0253/`). Inside, the files use generic names — the recipe name
+Each recipe lives in `pjpcode/recipes/XXXX/` where `XXXX` is the
+four-digit zero-padded recipe number (e.g. `pjpcode/recipes/0001/`,
+`pjpcode/recipes/0030/`, `pjpcode/recipes/0253/`). URLs follow the same
+shape: `pjpcode.com/recipes/0030/recipe.html`. Inside, the files use generic names — the recipe name
 isn't part of any filename:
 
 - `recipe.html` — the recipe page (Word-exported HTML for older recipes;
@@ -36,16 +37,12 @@ Word HTML is fragile — heavy `mso-*` styles, `windows-1252` charset,
 `<u1:p>`/`<o:p>` tags, VML imagedata for old IE. Don't try to clean it up;
 the whitespace/markup is load-bearing.
 
-A few recipes still have leftover Word `*_fichiers/` sidecar dirs at
-`pjpcode/` root (e.g. `boeuf_en_croute_de_sel_fichiers/`) — they should
-have been emptied during reorganization and only contain `RM_`-prefixed
-files awaiting deletion. Recipe HTMLs no longer reference them.
-
-Files at `pjpcode/` root that aren't in a `XXXX/` folder are either
-navigation pages (`voici.htm`, `indexpjpcode.html`,
-`recettes_alpha.htm`, `recettes_liste_par_numeros.htm`,
-`lisez moi d'abord.htm`, `nous_deux.jpg`), or live under `orphan/` —
-see `tasks.md` for the inventory.
+Files at `pjpcode/` root are either navigation pages (`voici.htm`,
+`indexpjpcode.html`, `recettes_alpha.htm`,
+`recettes_liste_par_numeros.htm`, `lisez moi d'abord.htm`,
+`nous_deux.jpg`), the `recipes/` directory itself, the `orphan/`
+directory of unattributed files, or `RM_`-prefixed entries pending
+deletion — see `tasks.md` for the inventory.
 
 ## Encoding gotchas
 
