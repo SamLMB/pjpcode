@@ -3,6 +3,26 @@
 Things noted during cleanup that aren't blocking but should not be forgotten.
 Check items off as they're resolved; remove resolved sections when they go stale.
 
+## Next session — pick up here
+
+Recommended order when resuming:
+
+1. **Triage `pjpcode/orphan/`** (Phase 3 leftover). Per-file content
+   decisions; see "Orphan files left in place" below for the inventory.
+2. **Bulk-delete the `RM_*_OLD` archive** (256 files: 253
+   `RM_recipe_OLD.html` + 3 top-level `RM_*_OLD.htm`). Closes
+   Checkpoint 3.
+3. **Phase 2 hand-polish backlog** — recipes 86, 100, 136, 173, 252,
+   plus alt-text restoration on 87, 92, 109, 112, 115, 117, 148. See
+   "Phase 2 follow-up" below.
+4. **Small loose ends** — `indexpjpcode.html` typography fix
+   (`Bienvenue sur le PJP code !` space before `!`), and decommission
+   the old VM at `34.73.98.109` once the GitHub Pages deploy is
+   trusted.
+5. **Phase 4 optional polish** — print stylesheet, schema.org Recipe
+   JSON-LD, client-side keyword search, RSS feed. Pure
+   would-be-nice work.
+
 ## Remodel plan (Eleventy migration)
 
 The dev branch shipped a working Eleventy prototype: shared template +
@@ -42,30 +62,37 @@ passthrough-copies them), so you can always compare side-by-side at
 Phase 3 deletes the `_OLD.html` archive once you're satisfied.
 
 ### Phase 0 — decisions to lock in
-- [ ] **URL strategy for the sommaire:** keep generated content at
-  `pjpcode/voici.htm` (preserves all incoming links — `permalink: voici.htm`
-  in the front matter) or move to `voici.html` with a tiny redirect at
-  the old URL. Default plan: keep `voici.htm`.
-- [ ] **`recettes_alpha.htm` and `recettes_liste_par_numeros.htm`:**
-  regenerate from the same data source (alphabetical and numeric views
-  of the same recipe list) or delete them. They're orphans now anyway.
-- [ ] **`recipe-v2.md` files:** delete after the corresponding full
-  `recipe.md` lands, or keep as before/after artifacts for a while.
+- [x] **URL strategy for the sommaire:** keep generated content at
+  `pjpcode/voici.htm` via `permalink: voici.htm` in front matter
+  (preserves all incoming links). Original archived as `voici_OLD.htm`
+  during the migration, deleted in Phase 3.
+- [x] **`recettes_alpha.htm` and `recettes_liste_par_numeros.htm`:**
+  regenerate from the same recipes collection that drives voici
+  (alphabetical and numeric views).
+- [x] **`recipe-v2.md` files:** delete each one as the corresponding
+  canonical `recipe.md` lands in Phase 2. The `recipe_OLD.html` archive
+  is the real safety net.
 
 **✅ Checkpoint 0:** decisions captured, ready to start.
 
 ### Phase 1 — sommaire and data layer
-- [ ] Switch `_data/recipes.js` from a hand-curated 4-recipe seed to
-  Eleventy *collections*: each `recipe.md` declares its own `number`,
-  `title`, `subtitle?`, `images?`, etc. in front matter; voici iterates
-  the `recipes` collection sorted by number. This makes adding a recipe
-  a single-file change.
-- [ ] Rename existing `voici.htm` → `voici_OLD.htm` (safety archive).
-- [ ] Add `voici.md` (or `voici.htm.md` with explicit permalink) that
-  generates the new sommaire content at the canonical URL.
-- [ ] Optionally regenerate the alphabetical and numeric indexes
-  (similar pattern: rename old `.htm` to `_OLD.htm`, add `.md`).
-- [ ] Delete `voici-v2.md` (replaced by the canonical voici).
+- [x] Replaced the 4-recipe `_data/recipes.js` seed with the full
+  253-entry list extracted from `voici.htm` (one-time pass with
+  `/tmp/extract_recipes.py`; can be re-run if needed). All hrefs
+  normalized to `/pjpcode/recipes/XXXX/recipe.html`. The migration to a
+  proper Eleventy *collection* (driven by recipe.md front matter)
+  happens incrementally during Phase 2 — entries here will be removed
+  or replaced as each `recipe.md` lands. See Phase 3 cleanup.
+- [x] Renamed existing `voici.htm` → `voici_OLD.htm` (safety archive).
+- [x] Added `pjpcode/voici.md` with `permalink: /pjpcode/voici.htm`,
+  iterating the recipes data into the same numbered sommaire layout.
+- [x] Regenerated `recettes_alpha.htm` and
+  `recettes_liste_par_numeros.htm` from the same data (originals
+  archived as `_OLD.htm`). Alpha view sorts via `Intl.Collator('fr')`
+  in `_data/recipesAlpha.js` so French accents collate correctly.
+- [x] Updated `_layouts/recipe.njk` back-link from `voici-v2.html` to
+  `voici.htm`.
+- [x] Deleted `voici-v2.md` (replaced by canonical `voici.md`).
 
 **✅ Checkpoint 1:** in `npm run serve`, hit
 `http://localhost:8080/pjpcode/voici.htm` — see the new sommaire with all
@@ -90,53 +117,168 @@ original sommaire as a safety net.
 
 Buckets to convert in roughly this order (easy → hard):
 
-- [ ] **Bucket A — placeholders** (~10 recipes: 14, 58, 59, 95, 131,
-  143, 204, 221, 237, 251, plus any others that have only PDF/DOCX or
-  only an image). Pattern prototyped on `0143`. Trivial.
-  - **✅ Checkpoint 2A:** all 10 placeholders render. Spot-check 2–3.
-- [ ] **Bucket B — image-only handwritten** (~30–40 recipes, mostly
-  numbers 1–44). Each is just title + `![](image-01.jpg)`. Pattern
-  prototyped on `0001`. Mechanical batch.
-  - **✅ Checkpoint 2B:** images appear, scaled correctly; spot-check 5
-    across the bucket including any with multiple images.
-- [ ] **Bucket C — Word HTML, simple prose** (~100 recipes). Pandoc
-  html→md per file, light hand-edit. Pattern prototyped on `0086`.
-  - **✅ Checkpoint 2C:** spot-check 10 across the bucket. Watch for
-    accent issues (windows-1252 → utf-8 conversion artifacts), broken
-    inter-recipe references, missing observations sections.
-- [ ] **Bucket D — Word HTML with multiple images / sidecars / VML**
-  (~30 recipes including 138, 133, 86, etc.). Same as C but more
-  careful image placement. Pattern prototyped on `0138`.
-  - **✅ Checkpoint 2D:** spot-check 5 — confirm all images appear in
-    the right places, sidecar refs (`*_fichiers/...`) all rewritten.
-- [ ] **Bucket E — recipes with both HTML and PDF/DOCX** (~22 recipes
-  in 0143, 0155, 0195, 0204, 0213, 0221, 0223, 0225, 0230, 0235, 0236,
-  0237, 0241, 0247, 0248, 0249, 0250, 0251, 0252, 0253, 0095, 0160).
-  Prefer pandoc on the `.docx` over the html — output is much cleaner.
-  - **✅ Checkpoint 2E:** PDF + DOCX download links still work; rendered
-    HTML matches the docx content.
+- [x] **Bucket A — placeholders** (9 recipes: 14, 58, 59, 95, 131,
+  143, 204, 221, 237). Pattern prototyped on `0143`. Trivial.
+  Note: 251 was originally listed in Bucket A but its `recipe.html`
+  contains real Word HTML (~10 KB) — moved to Bucket E.
+  Side effect: recipe 14's pre-existing broken image ref
+  (`glace_fromage_blanc_vanille.jpg` typo) is fixed by the new
+  `image-01.jpg` reference.
+  - [x] **✅ Checkpoint 2A:** all 9 placeholders render at canonical
+    URLs; old pages preserved at `_OLD.html`. PDF/Word download links
+    appear automatically via the layout when `pdf:`/`docx:` set in
+    front matter.
+- [x] **Bucket B — image-only handwritten** (63 recipes: 1–13, 15–34,
+  36–57, 87, 92, 109, 112, 115, 117, 148; recipe 35 also). Pattern
+  prototyped on `0001`. Mechanical batch driven by
+  `/tmp/convert_bucket_b.py` (kept around in case re-run is needed).
+  Recipe 35 special-cased to preserve "honorable mention" prose. Each
+  image gets descriptive alt text. The prototype `0001/recipe-v2.md`
+  is marked `RM_recipe-v2.md` for review.
+  - [x] **✅ Checkpoint 2B:** spot-checked 1, 9, 35, 50, 117 — all
+    images appear with alt text; multi-image recipes (3 imgs) render
+    correctly; recipe 35's prose appears below the images.
+- [x] **Bucket C — Word HTML, simple prose** (156 recipes). Driven by
+  `/tmp/convert_bucket_c.py` (kept around for re-runs). Pandoc
+  `html-native_divs-native_spans → gfm` plus post-processing:
+  - Drops leading "Recette n°XX" + duplicate-title lines
+    (SequenceMatcher fuzzy-match against the data title).
+  - Converts `**Section :**` / `<u>Section :</u>` lines to `## Heading`
+    for French (Ingrédients, Préparation, Observations, Variantes,
+    Notes, Remarques, Suggestions, Conservation, Présentation,
+    Service, Cuisson, Sauce, Astuce, Recommandation), Spanish
+    (Ingredientes, Preparación, Observaciones, Notas), and English
+    (Ingredients, Preparation).
+  - Strips stylistic raw-HTML wrappers pandoc left as-is (`<u>`,
+    `<b>`, `<i>`, `<em>`, `<strong>`, `<big>`, `<small>`, `<font>`).
+  - Converts raw `<img …>` to `![](src)` and ensures standalone-image
+    lines are paragraph-separated.
+  - Recipe **136** has Word footnote anchors (`<a href="#_ftn1"
+    style="mso-…">[1]</a>`) preserved as raw HTML — functional but
+    cosmetically noisy; user can polish.
+  - [x] **✅ Checkpoint 2C:** spot-checked 60, 80, 105, 137, 162,
+    184, 199, 211, 222, 246. Headings, ingredient bullets, image
+    placement, French/English/Spanish all OK. Build clean.
+- [x] **Bucket D — Word HTML with multiple images / sidecars / VML**
+  (8 recipes: 62, 66, 84, 86, 100, 138, 173, 239). Final composition
+  was much smaller than the original ~30 estimate — most recipes that
+  could have been here were sidecar-free in practice.
+  - **86 and 138** have hand-polished `recipe-v2.md` prototypes that
+    were promoted to canonical `recipe.md` (image placement, tone,
+    sub-titling all preserved as the user originally crafted them).
+    **Note:** 86's prototype uses `subtitle: Recette de mon ami Kurt
+    de Dresde` and a shortened `title:` — this departs from the
+    "verbatim title, no subtitle" convention adopted later for
+    placeholders. Left as-is intentionally; adjust if desired.
+  - **62, 66, 84, 100, 173, 239** were converted by the Bucket C
+    auto-converter. Image placement reflects where pandoc emitted
+    them, not where they belong semantically — user touch-up may be
+    needed (especially 173 with 10 images).
+  - **Recipe 100** ships with three nested layout `<table>` blocks
+    that pandoc preserved as raw HTML (Word used tables for
+    image-left/text-right layout). Functional in the browser but the
+    `.md` source is messy — flag for cleanup.
+  - [x] **✅ Checkpoint 2D:** spot-checked 86, 138, 100, 173. 86 and
+    138 render perfectly (prototypes). 100 has table HTML that
+    renders but isn't ideal. 173 has all 10 images, mostly between
+    sections.
+- [x] **Bucket E — recipes with both HTML and PDF/DOCX** (17 recipes:
+  155, 160, 195, 213, 223, 225, 230, 235, 236, 241, 247, 248, 249,
+  250, 251, 252, 253). The original list also included 95, 143, 204,
+  221, 237 but those were handled in Bucket A as placeholders (the
+  user's preferred pattern: explicit "Recette disponible en :" body,
+  no extracted .docx content).
+  - Converted via `convert_bucket_c.py --docx --force` (the `.docx`
+    output was indeed cleaner than the `.html` for these — at least
+    no `--\>·` Word-tab artifacts that the html had).
+  - Pandoc emitted image refs as `media/imageN.<ext>` for 7 recipes
+    (223, 225, 230, 235, 236, 241, 247). Fixed by
+    `/tmp/fix_media_refs.py` (rewrites to actual `image-NN.<ext>` on
+    disk).
+  - **Recipe 252** (Gigot de 7 heures, the largest at 22 KB source)
+    has the ingredients list crunched onto one line — both the html
+    and docx pandoc outputs were messy here. Flag for hand-cleanup.
+  - No PDF/Word download links are added by the converter — per the
+    Phase-A user-edit pattern, those go in the body explicitly when
+    desired. The .pdf and .docx files still passthrough at the
+    canonical URLs.
+  - [x] **✅ Checkpoint 2E:** spot-checked 155, 247, 251, 252. Image
+    refs now resolve. Content matches the .docx source.
 
 **✅ Checkpoint 2 (overall):** all 253 recipes converted to `.md`.
 `recipe.html` files all renamed to `recipe_OLD.html`. `npm run serve`
 shows new pages at canonical URLs; old pages still accessible at `_OLD`
-URLs. `voici.htm` lists everything.
+URLs. `voici.htm` lists everything. Build clean: 257 written + 593
+passthrough = 850 files total.
+
+### Phase 2 follow-up — per-recipe hand-polish
+
+These are non-blocking quality issues found during Phase 2 conversion.
+Each one can be fixed in isolation by editing the corresponding
+`recipe.md`. None of them block Phase 3 cleanup.
+
+- [ ] **Recipe 86** (`recipes/0086/recipe.md`) — uses `subtitle:
+  Recette de mon ami Kurt de Dresde` and a shortened `title: Soupe à
+  l'ail et aux pommes de terre` (the original prototype). This
+  departs from the "verbatim title from `_data/recipes.js`, no
+  subtitle" convention adopted later. Decide: keep the stylized
+  prototype, or align with the convention.
+- [ ] **Recipe 100** (`recipes/0100/recipe.md`) — pandoc preserved
+  three nested layout `<table>` blocks (Word used tables for
+  image-left/text-right layout). Renders OK in the browser but the
+  `.md` source is messy. Replace tables with plain prose + image
+  references, or convert to a cleaner two-column markdown construct.
+- [ ] **Recipe 136** (`recipes/0136/recipe.md`) — Word footnote
+  anchors `<a href="#_ftn1" id="_ftnref1" style="mso-footnote-id:
+  ftn1">[1]</a>` preserved as raw HTML. Functional (anchors work)
+  but ugly. Either strip the `style="mso-…"` attrs, or convert to
+  proper markdown footnotes (`[^1]` syntax).
+- [ ] **Recipe 173** (`recipes/0173/recipe.md`) — 10 images
+  interleaved between sections; pandoc placed them where Word had
+  them, which may not be where they belong semantically. Walk
+  through and reposition as needed.
+- [ ] **Recipe 252** (`recipes/0252/recipe.md`, "Gigot de 7 heures",
+  the largest source at 22 KB) — the ingredients list is crunched
+  onto one continuous line because both the .docx and .html pandoc
+  outputs were messy. Break out into a proper bulleted list by
+  hand. Also the "Gigot de sept heures (qui ne cuit que cinq
+  heures)" duplicate-title line at the top can be dropped.
+- [ ] **Recipes 87, 92, 109, 112, 115, 117, 148** (image-only
+  Bucket B recipes that got re-processed by the Bucket C pass and
+  lost their descriptive image alt-text). Re-add alt text like
+  `![<Title> — recette manuscrite](image-01.jpg)` if accessibility
+  matters. Functionally fine without it.
 
 ### Phase 3 — cleanup
-- [ ] **Final review pass:** click through the whole sommaire, check
-  every recipe renders. If anything looks broken, fix before deleting
-  the archive.
-- [ ] Delete every `recipe_OLD.html` and `voici_OLD.htm` (the safety
-  archive). Recommended: rename to `RM_recipe_OLD.html` first per the
-  RM_ convention, then bulk-delete in a separate pass.
-- [ ] Delete `recipe-v2.md` files (the dev-branch prototype seeds).
-- [ ] Delete `voici-v2.md` if not already replaced by `voici.md`.
-- [ ] Update `_data/recipes.js` (or delete if collections replace it).
-- [ ] Update `CLAUDE.md`: `.md` is now source of truth for recipes,
-  Eleventy is the default workflow, `recipe.html` is a build artifact.
-- [ ] Resolve the orphans in `pjpcode/orphan/`: any HTML that should
-  become a numbered recipe gets converted; the rest stay or get deleted.
-- [ ] Once all `RM_` files are gone (separate cleanup pass), drop the
-  `RM_` references from this tasks.md.
+- [x] **Final review pass:** all 253 recipes return 200 over the local
+  server; 240 image refs resolve, all pdf/docx/css refs resolve, all
+  three index pages link to all 253 recipes. Build is clean.
+- [x] Renamed every `recipe_OLD.html` → `RM_recipe_OLD.html` (253),
+  plus `voici_OLD.htm`, `recettes_alpha_OLD.htm`, and
+  `recettes_liste_par_numeros_OLD.htm` to their `RM_*_OLD` form.
+  Bulk-delete is the next pass — see below.
+- [x] `recipe-v2.md` and `voici-v2.md` already deleted in earlier
+  Phase 2 work — none remain on disk.
+- [x] Decision on `_data/recipes.js`: **kept** as the hand-curated
+  nav-title list. Header comment updated to explain why. Switching to
+  an Eleventy collection driven by recipe.md front matter would either
+  change every visible sommaire title (the recipe.md `title:` is Title
+  Case for the page heading; recipes.js holds the verbatim lowercase
+  voici.htm originals) or require touching all 253 recipe.md files to
+  add a separate nav field. Not worth the churn.
+- [x] `CLAUDE.md` updated: Markdown is now source of truth, Eleventy
+  is the default workflow, the verbatim-vs-Title-Case title split is
+  documented, the Eleventy section was renamed from "prototype" to
+  "build".
+- [ ] Resolve the orphans in `pjpcode/orphan/`: per-file content
+  decisions, not mechanical cleanup. See "Orphan files left in place"
+  below for the inventory.
+- [ ] Bulk-delete the `RM_recipe_OLD.html` archive (253 files) plus
+  the three top-level `RM_*_OLD.htm`. Do this once you're satisfied
+  with a final spot-check — any of those URLs is one rename away from
+  being live again until then.
+- [ ] Once all `RM_` files are gone, drop the `RM_` references from
+  this tasks.md.
 
 **✅ Checkpoint 3:** no `_OLD` or `recipe-v2` clutter. Repo is clean. Site
 serves the same number of recipe URLs as before, all from `.md` sources.
@@ -199,6 +341,25 @@ review before pulling the trigger. They fall into a few buckets:
 - **Other**: `RM_récipients_et_unités.doc`, `RM_ls` (a stray bash output),
   `RM_236/recette 236/ultimate pjp code.html` (a stray page that landed in
   recipe 236's folder but isn't recipe 236).
+- **Phase 2 migration leftovers** (12 files inside `recipes/`):
+  - `recipes/0001/RM_recipe-v2.md` — original Bucket B prototype, superseded
+    by the new canonical `recipe.md`. Safe to delete.
+  - `recipes/0060/RM_recipe.md.pilot{1,2,3}`, same for `0080/` and `0137/`
+    (9 files total) — pilot iterations of the Bucket C converter while
+    tuning section-detection / fuzzy title-match. Safe to delete.
+  - `recipes/0086/RM_recipe.md.bucket-c-stray` and
+    `recipes/0138/RM_recipe.md.bucket-c-stray` (2 files) —
+    auto-conversions of these Bucket D recipes that were superseded
+    by promoting the hand-polished `recipe-v2.md` prototypes. Kept
+    as alternates in case you ever want to compare the auto vs
+    polished output. Safe to delete once the prototypes are confirmed
+    canonical.
+- **Phase 3 archive** (256 files): every `RM_recipe_OLD.html`
+  (253 inside `pjpcode/recipes/XXXX/`) plus `RM_voici_OLD.htm`,
+  `RM_recettes_alpha_OLD.htm`, `RM_recettes_liste_par_numeros_OLD.htm`
+  at `pjpcode/` root. Each is the original Word-exported / hand-built
+  page preserved as a one-rename rollback safety net. Delete in a
+  single pass when the new `.md` site has been spot-checked enough.
 
 ### Orphan files left in place (need a decision)
 These files weren't moved into a `XXXX/` recipe folder because we couldn't
