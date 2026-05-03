@@ -8,11 +8,11 @@ A static website serving the **PJP code**, a French family cookbook hosted at pj
 
 ## Site structure and navigation flow
 
-The site has a hand-built navigation hierarchy across three files in `PJPcode/`:
+The site has a hand-built navigation hierarchy across three files in `pjpcode/`:
 
-1. `/index.html` — root splash, links into `PJPcode/indexPJPcode.html`.
-2. `PJPcode/indexPJPcode.html` — photo of the cooks; the photo links to `voici.htm`.
-3. `PJPcode/voici.htm` — the **sommaire**: a numbered list of every recipe with `<a href="…">` links to each recipe's HTML file. This is the primary index. It also links to:
+1. `/index.html` — root splash, links into `pjpcode/indexpjpcode.html`.
+2. `pjpcode/indexpjpcode.html` — photo of the cooks; the photo links to `voici.htm`.
+3. `pjpcode/voici.htm` — the **sommaire**: a numbered list of every recipe with `<a href="…">` links to each recipe's HTML file. This is the primary index. It also links to:
    - `recettes_alpha.htm` — alphabetical list
    - `recettes_liste_par_numeros.htm` — numeric list
    - `liste_par_mots_clefs.html` — keyword list
@@ -21,11 +21,11 @@ When adding a recipe, **all four index pages** (`voici.htm`, `recettes_alpha.htm
 
 ## Two generations of recipe storage
 
-Older recipes (numbers ≲ 142) are individual HTML files directly under `PJPcode/`, e.g. `PJPcode/financiers.html`, `PJPcode/Gigot_de_7_heures.html`. These come in two flavors:
+Older recipes (numbers ≲ 142) are individual HTML files directly under `pjpcode/`, e.g. `pjpcode/financiers.html`, `pjpcode/gigot_de_7_heures.html`. These come in two flavors:
 - **Word-exported HTML** (most of them) — heavy `mso-*` styles, `windows-1252` charset, `<u1:p>` and `<o:p>` tags. Don't try to clean these up; they render fine and the whitespace/markup is fragile.
 - **Image-only pages** — the HTML body is just one `<img>` pointing at a scan of a handwritten recipe (e.g. `financiers.html` → `financiers.jpg`).
 
-Newer recipes (143 and up) are stored as `PJPcode/<num>/recette <num>/Recette n° <num>.{docx,pdf}` — no HTML wrapper, just the Office files. The most recent commit ("some doubles are uploaded") added more of these. When writing links to new-format recipes, link directly to the PDF.
+Newer recipes (143 and up) are stored as `pjpcode/<num>/recette <num>/recette n° <num>.{docx,pdf}` — no HTML wrapper, just the Office files. When writing links to new-format recipes, link directly to the PDF.
 
 Some recipes also have a `*_fichiers/` companion folder (e.g. `boeuf_en_croute_de_sel_fichiers/`) — this is Word's standard "saved-as-HTML" sidecar with `filelist.xml`, images, and CSS. Keep these alongside their parent HTML.
 

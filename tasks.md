@@ -9,10 +9,10 @@ Check items off as they're resolved; remove resolved sections when they go stale
   Unicode byte sequences (one composed, one decomposed). The filesystem treats
   them as distinct files; HTML links generally point at one or the other.
   Known cases:
-  - `PJPcode/huîtres_farcies_bretonne.htm` (two copies)
-  - `PJPcode/237/recette 237/glace à la vanille.pdf` and `.docx` (two copies each)
-  - `PJPcode/récipients_et_unités.doc` (two copies)
-  - `PJPcode/gelée_mures_manémeur.html` (two copies, plus a `gelée_mures_manémeur (2).html` variant)
+  - `pjpcode/huîtres_farcies_bretonne.htm` (two copies)
+  - `pjpcode/237/recette 237/glace à la vanille.pdf` and `.docx` (two copies each)
+  - `pjpcode/récipients_et_unités.doc` (two copies)
+  - `pjpcode/gelée_mures_manémeur.html` (two copies, plus a `gelée_mures_manémeur (2).html` variant)
 - [ ] Decide what to do with `Copie de ANZAC.html` and
   `Copie de confiture_figues_citron_vanille.html` — Word "save as" backup duplicates
   of pages that already exist under their canonical names.
@@ -22,7 +22,7 @@ Check items off as they're resolved; remove resolved sections when they go stale
 ## Site graph / navigation
 
 - [ ] Wire up the orphan navigation indexes that nothing currently links to:
-  `PJPcode/recettes_alpha.htm` and `PJPcode/recettes_liste_par_numeros.htm`.
+  `pjpcode/recettes_alpha.htm` and `pjpcode/recettes_liste_par_numeros.htm`.
   `voici.htm` used to advertise a (broken) `recettes_mots-cles.htm`; these
   orphans were probably the intended targets.
 - [ ] Decide whether the chef Pioger pages
@@ -41,7 +41,7 @@ Check items off as they're resolved; remove resolved sections when they go stale
 
 ## Cosmetic
 
-- [ ] `indexPJPcode.html` once read `Bienvenue sur le PJP code !` (space
+- [ ] `indexpjpcode.html` once read `Bienvenue sur le PJP code !` (space
   before `!`, proper French typography); the local copy is `code!`. Restore
   the space to match the original if desired. Sole content drift between old
   VM and local repo as of the deep-compare run.
