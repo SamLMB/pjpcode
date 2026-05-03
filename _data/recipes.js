@@ -258,4 +258,5 @@ module.exports = [
   {"number": 251, "title": "thon tartare", "href": "/pjpcode/recipes/0251/recipe.html"},
   {"number": 252, "title": "gigot de 7 heures", "href": "/pjpcode/recipes/0252/recipe.html"},
   {"number": 253, "title": "ficelles bretonnes", "href": "/pjpcode/recipes/0253/recipe.html"},
+  {"number": 254, "title": "carottes façon blanquette de veau, mais sans veau", "href": "/pjpcode/recipes/0254/recipe.html"},
 ];

@@ -5,23 +5,41 @@ Check items off as they're resolved; remove resolved sections when they go stale
 
 ## Next session — pick up here
 
+**FIRST — touch base:** ask the user whether they pushed all the
+recent commits (orphan triage + RM_ bulk delete + tasks.md cleanup)
+to `master`. The GitHub Pages workflow only deploys from `master`,
+so unpushed commits mean pjpcode.com lags the working tree. Once
+they confirm, **remove this paragraph from tasks.md.** If they
+haven't pushed, that's fine — just be honest about what's live
+vs. what's local before diving in.
+
 Recommended order when resuming:
 
-1. **Triage `pjpcode/orphan/`** (Phase 3 leftover). Per-file content
-   decisions; see "Orphan files left in place" below for the inventory.
-2. **Bulk-delete the `RM_*_OLD` archive** (256 files: 253
-   `RM_recipe_OLD.html` + 3 top-level `RM_*_OLD.htm`). Closes
-   Checkpoint 3.
-3. **Phase 2 hand-polish backlog** — recipes 86, 100, 136, 173, 252,
-   plus alt-text restoration on 87, 92, 109, 112, 115, 117, 148. See
-   "Phase 2 follow-up" below.
-4. **Small loose ends** — `indexpjpcode.html` typography fix
-   (`Bienvenue sur le PJP code !` space before `!`), and decommission
-   the old VM at `34.73.98.109` once the GitHub Pages deploy is
-   trusted.
-5. **Phase 4 optional polish** — print stylesheet, schema.org Recipe
-   JSON-LD, client-side keyword search, RSS feed. Pure
-   would-be-nice work.
+1. **DOCX-placeholder conversion** (recipes 143, 221, 237, 251)
+   — pandoc each `recipe.docx` → markdown, replace the "Recette
+   disponible en :" placeholder body. Same pipeline as the
+   Bucket E pass. See "Phase 2 follow-up".
+2. **Quick typo fixes** (recipes 95, 249, 250, 254) — mechanical
+   edits, plus the recipe 254 vegetarian-or-veal-side judgment
+   call. See "Phase 2 follow-up".
+3. **Formatting cleanup** (recipes 86, 100, 136, 252) — Word-table
+   HTML, footnote styles, crunched ingredients, subtitle convention
+   call. See "Phase 2 follow-up".
+4. **Image work** (recipe 173 image repositioning + alt-text on
+   87, 92, 109, 112, 115, 117, 148) — see "Phase 2 follow-up".
+5. **Image-only placeholder transcription** (recipes 14, 58, 59)
+   — handwritten manuscript scans, no Word/PDF source. Try gemini
+   vision mode to transcribe; verify line by line. Higher risk;
+   may stay placeholder if accuracy is poor. See "Phase 2 follow-up".
+6. **Files index descriptions** (`pjpcode/files/list.md`) — verify
+   guesses against actual file contents. See "Phase 2 follow-up".
+7. **Typography fix** — `indexpjpcode.html` non-breaking space
+   before `!` in `Bienvenue sur le PJP code!`. See "Cosmetic".
+8. **Old VM decommission** — take down `34.73.98.109` once the
+   GitHub Pages deploy is fully trusted. See "Infrastructure".
+9. **Phase 4 optional polish** — print stylesheet, schema.org
+   Recipe JSON-LD, client-side keyword search, RSS feed. See
+   "Phase 4 — optional polish".
 
 ## Remodel plan (Eleventy migration)
 
@@ -217,6 +235,30 @@ These are non-blocking quality issues found during Phase 2 conversion.
 Each one can be fixed in isolation by editing the corresponding
 `recipe.md`. None of them block Phase 3 cleanup.
 
+- [ ] **Placeholder DOCX recipes** (`recipes/0143/`, `0221/`, `0237/`,
+  `0251/`) — each has `recipe.docx` + `recipe.pdf` but `recipe.md`
+  is just the "Recette disponible en :" stub. Convert per recipe:
+  ```
+  pandoc recipes/0NNN/recipe.docx -f docx -t gfm \
+      --wrap=none -o /tmp/recipe-NNN.md
+  ```
+  Then hand-polish (drop "Recette n°NNN" prefix lines, normalize
+  section headings to `## Ingrédients` / `## Préparation` /
+  `## Observations`, verify image refs), and replace the placeholder
+  body. Keep `pdf: true, docx: true` in front matter so the layout
+  still offers downloads. Pattern matches recipe 95's promotion
+  earlier.
+- [ ] **Image-only placeholder recipes** (`recipes/0014/`, `0058/`,
+  `0059/`) — handwritten manuscript scans, no Word/PDF source. Try
+  gemini vision mode to transcribe:
+  ```
+  gemini -p "Transcribe this French recipe (handwritten) line by
+  line, preserving structure." pjpcode/recipes/0014/image-01.jpg
+  ```
+  (CLI flag for the image attachment depends on the gemini version.)
+  Verify each line by hand against the image — French handwriting
+  is hard. If accuracy is poor, leave as image-only placeholder.
+  Recipe 131 is irrecoverable (never digitized, no source at all).
 - [ ] **Recipe 86** (`recipes/0086/recipe.md`) — uses `subtitle:
   Recette de mon ami Kurt de Dresde` and a shortened `title: Soupe à
   l'ail et aux pommes de terre` (the original prototype). This
@@ -248,6 +290,47 @@ Each one can be fixed in isolation by editing the corresponding
   lost their descriptive image alt-text). Re-add alt text like
   `![<Title> — recette manuscrite](image-01.jpg)` if accessibility
   matters. Functionally fine without it.
+- [ ] **Files index descriptions** (`pjpcode/files/list.md`) — descriptions
+  for the 4 utility files were guessed from filenames; verify each
+  matches the actual file contents and edit. Also flag: filename
+  `récipients_et_unités.doc` keeps its accents (URL-encoded as
+  `%C3%A9.../%C3%A9...` in the link). Eventually consider renaming to
+  ASCII (`recipients_et_unites.doc`) for cleaner URLs.
+- [ ] **Recipes 249 & 250** (`recipes/0249/recipe.md` & `recipes/0250/recipe.md`,
+  Chef Michel Pioger's rôti de boeuf and pommes de terre rôties) — recovered
+  6 cooking-process photos for 249 and 4 for 250 from the Chef Pioger
+  orphan folders, and rewrote both recipes with proper markdown formatting
+  (the Bucket E docx-extracted versions had a stray `**`, missing list
+  markers, gappy ingredient numbering 1/2/3/5/6). Pre-existing typos
+  preserved in 250: `huille` → `huile` (prep step 5), `2 à 3 mois maximum`
+  → `2 à 3 fois maximum` (prep step 7 — clearly meant "times" not "months"),
+  `avantege` → `avantage` (Observations 3), `le pommes de terre` → `les`
+  (prep step 1). Also note: the pdt photos were originally labelled
+  pdt_roties_1/2/4/6 (gaps); renumbered sequentially as image-01..04.
+- [ ] **Recipe 95** (`recipes/0095/recipe.md`, "Lamelles de bœuf
+  aux deux poivrons") — promoted from a PDF/DOCX-only placeholder
+  to a full recipe by recovering `pjpcode/orphan/lamelles_boeuf_aux_deux_poivrons.html`
+  (whose body header still said "Recette n°94" — an old number from
+  before PJP renumbered). Source has a few typos to fix: "huille"
+  → "huile" (ingredients), "minuetes" → "minutes" and "reemuant"
+  → "remuant" (préparation, sauté step). Also "ail" appears in the
+  préparation but not in the ingredients list — decide whether to
+  add a clove or two to the ingredients, or drop the mention from
+  prep.
+- [ ] **Recipe 254** (`recipes/0254/recipe.md`, "Carottes façon
+  blanquette de veau, mais sans veau") — rescued from
+  `pjpcode/orphan/carottes_blanquette.html` (which self-declared
+  recipe 212, conflicting with voici-canonical 212). The body is
+  half-converted: ingredients are vegetarian, but préparation
+  steps 4–7 still reference *le veau* (PJP appears to have
+  copy-pasted from a veal recipe and not finished the edit).
+  Likely originally a side dish meant to *accompany* veal. Decide
+  the intent (vegetarian carrot blanquette, or veal-accompaniment),
+  rewrite the prep accordingly, and fix the typo "carottres" →
+  "carottes" in step 3. The "Observations" note ("préparée le 15
+  novembre 2008 à Quiberon… tous ont trouvé ce plat excellent")
+  confirms the dish was made and worked — the writeup just needs
+  finishing.
 
 ### Phase 3 — cleanup
 - [x] **Final review pass:** all 253 recipes return 200 over the local
@@ -255,8 +338,8 @@ Each one can be fixed in isolation by editing the corresponding
   three index pages link to all 253 recipes. Build is clean.
 - [x] Renamed every `recipe_OLD.html` → `RM_recipe_OLD.html` (253),
   plus `voici_OLD.htm`, `recettes_alpha_OLD.htm`, and
-  `recettes_liste_par_numeros_OLD.htm` to their `RM_*_OLD` form.
-  Bulk-delete is the next pass — see below.
+  `recettes_liste_par_numeros_OLD.htm` to their `RM_*_OLD` form,
+  then bulk-deleted the entire `RM_*` archive in one pass.
 - [x] `recipe-v2.md` and `voici-v2.md` already deleted in earlier
   Phase 2 work — none remain on disk.
 - [x] Decision on `_data/recipes.js`: **kept** as the hand-curated
@@ -270,15 +353,14 @@ Each one can be fixed in isolation by editing the corresponding
   is the default workflow, the verbatim-vs-Title-Case title split is
   documented, the Eleventy section was renamed from "prototype" to
   "build".
-- [ ] Resolve the orphans in `pjpcode/orphan/`: per-file content
-  decisions, not mechanical cleanup. See "Orphan files left in place"
-  below for the inventory.
-- [ ] Bulk-delete the `RM_recipe_OLD.html` archive (253 files) plus
-  the three top-level `RM_*_OLD.htm`. Do this once you're satisfied
-  with a final spot-check — any of those URLs is one rename away from
-  being live again until then.
-- [ ] Once all `RM_` files are gone, drop the `RM_` references from
-  this tasks.md.
+- [x] Resolved the orphans in `pjpcode/orphan/`: triaged file by
+  file. Some promoted to new/existing recipe folders (95, 167, 204,
+  249, 250, 254), one promoted to `pjpcode/commentaires/pierre.md`,
+  utility files moved to `pjpcode/files/` with an index page; the
+  rest were `RM_`'d as duplicates or unattributed.
+- [x] Bulk-deleted every `RM_*` file under `pjpcode/` in one pass
+  (`find pjpcode/pjpcode -name 'RM_*' -type f -delete`, 286 files).
+  Source tree and `_site/` both confirmed at zero `RM_*`.
 
 **✅ Checkpoint 3:** no `_OLD` or `recipe-v2` clutter. Repo is clean. Site
 serves the same number of recipe URLs as before, all from `.md` sources.
@@ -309,121 +391,17 @@ git mv pjpcode/recipes/0086/recipe_OLD.html pjpcode/recipes/0086/recipe.html
 rm    pjpcode/recipes/0086/recipe.md
 ```
 
-## Reorganization fallout (review this round)
-
-### Files marked `RM_` for deletion
-About 50 files were renamed `RM_<original>` instead of being deleted, so you can
-review before pulling the trigger. They fall into a few buckets:
-
-- **NFC/NFD duplicate filenames** (same visible name, different Unicode byte
-  sequences). Kept one copy as the canonical recipe asset, marked the other
-  `RM_`. Examples: `velouté_champignons.html`, `huîtres_farcies_bretonne.htm`,
-  `gelée_mures_manémeur.html`, the cooking-process JPGs (`1_pétrissant_pâte.jpg`,
-  `2_applatissant_pâte.jpg`, etc.).
-- **Word "Copie de" backups**: `RM_copie de anzac.html`,
-  `RM_copie de confiture_figues_citron_vanille.html`.
-- **Word `_fichiers/` sidecar artifacts** (filelist.xml, content-duplicate JPGs):
-  `boeuf_en_croute_de_sel_fichiers/RM_filelist.xml`,
-  `glace_chocolat_blanc_fichiers/RM_filelist.xml`,
-  `coque_aux_pates_fichiers/RM_caramel_tupperware*.jpg`.
-- **Leftover content-duplicate recipe files** in the original `NN/recette NN/`
-  folders that got moved into `0NNN/` but the duplicate at the original
-  location wasn't caught: `160/recette 160/RM_oeufs_cocotte_champignons.html`,
-  `213/recette 213/RM_velouté_fèves..._b.html`,
-  `236/recette 236/RM_cookies_flocons_samuel_luke.html`,
-  `241/recette 241/RM_confiture_pommes_poires_cassis.html`. After deleting,
-  `rmdir` the empty `NN/recette NN/` parent dirs.
-- **Orphan recipe HTMLs** (no recipe number we could resolve them to, OR
-  conflicting with a canonical) e.g.:
-  `RM_rôti_de_boeuf_du_chef_michel_pioger.html`,
-  `RM_pommes_de_terre_rôties_du_chef_michel_pioger.html`,
-  `RM_potage_pékino_tico.html`.
-- **Other**: `RM_récipients_et_unités.doc`, `RM_ls` (a stray bash output),
-  `RM_236/recette 236/ultimate pjp code.html` (a stray page that landed in
-  recipe 236's folder but isn't recipe 236).
-- **Phase 2 migration leftovers** (12 files inside `recipes/`):
-  - `recipes/0001/RM_recipe-v2.md` — original Bucket B prototype, superseded
-    by the new canonical `recipe.md`. Safe to delete.
-  - `recipes/0060/RM_recipe.md.pilot{1,2,3}`, same for `0080/` and `0137/`
-    (9 files total) — pilot iterations of the Bucket C converter while
-    tuning section-detection / fuzzy title-match. Safe to delete.
-  - `recipes/0086/RM_recipe.md.bucket-c-stray` and
-    `recipes/0138/RM_recipe.md.bucket-c-stray` (2 files) —
-    auto-conversions of these Bucket D recipes that were superseded
-    by promoting the hand-polished `recipe-v2.md` prototypes. Kept
-    as alternates in case you ever want to compare the auto vs
-    polished output. Safe to delete once the prototypes are confirmed
-    canonical.
-- **Phase 3 archive** (256 files): every `RM_recipe_OLD.html`
-  (253 inside `pjpcode/recipes/XXXX/`) plus `RM_voici_OLD.htm`,
-  `RM_recettes_alpha_OLD.htm`, `RM_recettes_liste_par_numeros_OLD.htm`
-  at `pjpcode/` root. Each is the original Word-exported / hand-built
-  page preserved as a one-rename rollback safety net. Delete in a
-  single pass when the new `.md` site has been spot-checked enough.
-
-### Orphan files left in place (need a decision)
-These files weren't moved into a `XXXX/` recipe folder because we couldn't
-attribute them to a numbered recipe. Decide per file: assign to a recipe,
-mark `RM_`, or keep where they are.
-
-- HTMLs with self-declared numbers that conflict with the voici-canonical
-  recipe (i.e. another file already owns that number):
-  `carottes_blanquette.html` (claims 212),
-  `lamelles_boeuf_aux_deux_poivrons.html` (claims 94),
-  `soupe_faite_avec_des_restes.htm` (claims 96),
-  `huitres_farcies_bretonne.htm` (claims 67).
-- HTMLs with no clear recipe number: `commentaires_pierre.html` (closing
-  commentary, intentionally orphan).
-- Chef Pioger pages — kept as self-contained orphan folders under `orphan/`
-  per your direction. Nothing currently links to them.
-- Sidecar leftover: `coque_aux_pates_fichiers/` (only RM_ files inside now).
-- Loose JPGs not referenced by any recipe HTML: `1_avant_cuisson.jpg`,
-  `2_après_avoir_fait_dorer.jpg`, `3_sur_lit_de_sel.jpg`, `5_sortant_du_four.jpg`,
-  `7_cassons_la_croûte.jpg`, `8_après_enlèvement_du_sel.jpg`, `38.jpg`, `40.jpg`,
-  `41.jpg`, `42.jpg`, `2008 01 13 (8).jpg`, `confiture_de_raisin_de_kermorvan.jpg`,
-  `far1.jpg`, `far2.jpg`, `img_1567.jpg`, `img_1570.jpg`, `omelette_nepita.jpg`,
-  `lamelles_boeuf_poivrons.jpg`.
-- Utility files: `four_mesures_us_&_eu.pdf`, `thermostat.xls`,
-  `weights_and_measures.xls`.
-
-### Special judgment calls
-- **Recipe 236** (cookies): two HTMLs in the folder. Picked
-  `cookies_flocons_samuel_luke.html` as the canonical, marked the other
-  (`ultimate pjp code.html`) `RM_` — it appears to be a stray copy of the
-  index page that ended up there.
-- **Recipe 138** (boeuf en croûte de sel): the original HTML referenced
-  `image002.jpg` only via Word's VML imagedata (the modern-browser fallback
-  `<img>` tags accidentally skipped it). The image is now `0138/image-07.jpg`
-  and the VML reference points at it.
-- **Shared images**: `creme_chicons_isabelle_photo.jpg` was used by both
-  recipes 88 and 230, so it was copied into each folder as `image-01.jpg`.
-  Same for `recettes_auvergnates.jpg` (recipes 226 and 227).
-- **Pre-existing broken refs left alone** (visible in 3 recipe HTMLs):
-  `0014/recipe.html` references `glace_fromage_blanc_vanille.jpg` (the actual
-  file is `gl ace_fromage_blanc_vanille.jpg` with a space — a typo in the
-  original HTML); `0133/recipe.html` and `0138/recipe.html` reference
-  `<sidecar>/filelist.xml` (a Word-only artifact, doesn't affect rendering).
-
-## Site graph / navigation
-
-- [ ] Wire up the orphan navigation indexes that nothing currently links to:
-  `pjpcode/recettes_alpha.htm` (mostly references dead absolute paths from a
-  Word export) and `pjpcode/recettes_liste_par_numeros.htm` (links exclusively
-  to the old `f6fqx.free.fr/pjpcode/...` host). Both need to be regenerated
-  from `voici.htm` against the new `0XXX/recipe.html` paths to be useful.
-- [ ] Decide whether the chef Pioger pages (now under `orphan/`) belong in
-  `voici.htm`'s numbered list, or stay orphaned.
-
 ## Missing content
 
 - [ ] Recipe #131 — *glace à la vanille, au yaourt et aux éclats de chocolat,
   comme l'adoraient les dinosaures de Malansac* — was never digitized. There's
   now a placeholder `0131/recipe.html` with the dinosaure image as
   `image-01.jpg`. If the real recipe resurfaces, drop it in.
-- [ ] Recipes 14, 58, 59, 95, 143, 204, 221, 237, 251 also got placeholder
-  `recipe.html` files because they had only PDF/DOCX or only an image in
-  the original layout. The placeholders link to the PDF/DOCX or display the
-  image; replace with proper HTML when convenient.
+- [ ] Recipes 14, 58, 59, 143, 221, 237, 251 are still placeholder
+  `recipe.md` files because they had only PDF/DOCX or only an image
+  in the original layout. The placeholders link to the PDF/DOCX or
+  display the image; replace with proper Markdown when convenient.
+  (95 and 204 were promoted to full recipes during the orphan triage.)
 
 ## Cosmetic
 

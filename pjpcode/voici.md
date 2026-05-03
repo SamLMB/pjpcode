@@ -7,6 +7,10 @@ permalink: /pjpcode/voici.htm
 Livre secret consacré à la cuisine.
 Les recettes sont classées par ordre d'inscription dans le cahier.
 
+*Reçu d'un lecteur : [un petit mot de Pierre, écrivant d'Australie](commentaires/pierre.html).*
+
+*Voir aussi : [petits outils et références](files/list.html) (équivalences four, thermostat, poids, etc.).*
+
 <ul class="recipe-list">
 {%- for r in recipes %}
   <li>

@@ -39,17 +39,20 @@ title: Bœuf en croûte de sel
 ![](image-04.jpg)
 
 - enfourner et cuire 45 minutes
+
+![](image-05.jpg)
+
 - au sortir du four, casser la croûte de sel, dégager les côtes du
   maximum de sel
 
-![](image-05.jpg)
 ![](image-06.jpg)
+![](image-07.jpg)
 
 - dégager le boudin de beurre-moutarde de son papier d'alu et le
   découper en tranches
 - servir les côtes et le beurre moutarde séparément
 
-![](image-07.jpg)
+![](image-08.jpg)
 
 ## Observations
 

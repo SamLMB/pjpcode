@@ -4,8 +4,6 @@ number: 96
 title: Soupe faite avec des restes (ou "comment vider son frigo")
 ---
 
-Recette n°96 : soupe faite avec des restes
-
 Pour notre dernier dîner à la maison avant de partir en Corse pour la Toussaint, nous avons regardé ce qui restait au frigo et décidé d'en faire une soupe.
 Il faut donc considérer cette recette comme une sorte de recueil d'idées que comme une "vraie recette". Néanmoins, cette soupe était excellente.
 
