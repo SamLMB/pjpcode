@@ -3,6 +3,170 @@
 Things noted during cleanup that aren't blocking but should not be forgotten.
 Check items off as they're resolved; remove resolved sections when they go stale.
 
+## Remodel plan (Eleventy migration)
+
+The dev branch shipped a working Eleventy prototype: shared template +
+CSS in `_layouts/` and `pjpcode/style.css`, four sample recipes
+(`0001`, `0086`, `0138`, `0143`) converted to `recipe-v2.md` alongside
+their originals, a regenerated sommaire at `voici-v2.html`, and a
+GitHub Actions deploy workflow. Production deploys verified.
+
+**Out of scope (preserved as the original author intended):**
+`index.html` (root splash), `pjpcode/indexpjpcode.html` (welcome with
+the cooks' photo), `pjpcode/nous_deux.jpg`, `pjpcode/lisez moi d'abord.htm`.
+Remodel starts at `voici` and goes deeper.
+
+### Always — how to serve and inspect locally
+
+```bash
+npm install      # once (pulls Eleventy if node_modules is missing)
+npm run serve    # http://localhost:8080  — live-reloads on .md/.njk/.css edits
+npm run build    # one-shot build to _site/
+npm run clean    # delete _site/
+```
+
+`npm run serve` is the canonical way to look at the prototype during
+work. Open `http://localhost:8080/pjpcode/voici.htm` (or `voici-v2.html`
+during the migration) and click around. Every checkpoint below assumes
+you have it running in another terminal.
+
+### Safety net: archive the old HTML before replacing
+
+Each `recipe.html` we replace gets renamed to `recipe_OLD.html` *first*,
+**then** we add `recipe.md`. Reason: if a conversion goes catastrophically
+wrong, the original page is one `git mv recipe_OLD.html recipe.html` away
+from being restored. The `_OLD.html` files stay served (Eleventy
+passthrough-copies them), so you can always compare side-by-side at
+`/recipes/0086/recipe_OLD.html` vs `/recipes/0086/recipe.html`.
+
+Phase 3 deletes the `_OLD.html` archive once you're satisfied.
+
+### Phase 0 — decisions to lock in
+- [ ] **URL strategy for the sommaire:** keep generated content at
+  `pjpcode/voici.htm` (preserves all incoming links — `permalink: voici.htm`
+  in the front matter) or move to `voici.html` with a tiny redirect at
+  the old URL. Default plan: keep `voici.htm`.
+- [ ] **`recettes_alpha.htm` and `recettes_liste_par_numeros.htm`:**
+  regenerate from the same data source (alphabetical and numeric views
+  of the same recipe list) or delete them. They're orphans now anyway.
+- [ ] **`recipe-v2.md` files:** delete after the corresponding full
+  `recipe.md` lands, or keep as before/after artifacts for a while.
+
+**✅ Checkpoint 0:** decisions captured, ready to start.
+
+### Phase 1 — sommaire and data layer
+- [ ] Switch `_data/recipes.js` from a hand-curated 4-recipe seed to
+  Eleventy *collections*: each `recipe.md` declares its own `number`,
+  `title`, `subtitle?`, `images?`, etc. in front matter; voici iterates
+  the `recipes` collection sorted by number. This makes adding a recipe
+  a single-file change.
+- [ ] Rename existing `voici.htm` → `voici_OLD.htm` (safety archive).
+- [ ] Add `voici.md` (or `voici.htm.md` with explicit permalink) that
+  generates the new sommaire content at the canonical URL.
+- [ ] Optionally regenerate the alphabetical and numeric indexes
+  (similar pattern: rename old `.htm` to `_OLD.htm`, add `.md`).
+- [ ] Delete `voici-v2.md` (replaced by the canonical voici).
+
+**✅ Checkpoint 1:** in `npm run serve`, hit
+`http://localhost:8080/pjpcode/voici.htm` — see the new sommaire with all
+253 numbered links. Every link should resolve (most still go to the old
+`recipe.html` files; that's fine until Phase 2 converts them).
+`http://localhost:8080/pjpcode/voici_OLD.htm` should still serve the
+original sommaire as a safety net.
+
+### Phase 2 — recipe conversion (batches of ~25)
+
+**Process per recipe:**
+1. Pandoc the source: prefer `docx → md` when a `.docx` exists, fall
+   back to `html → md`.
+2. Hand-edit the `.md`: title, subtitle, paragraph breaks, image
+   placement, smart quotes, fix any conversion artifacts.
+3. **Rename `recipe.html` → `recipe_OLD.html`** (do not delete; this is
+   the rollback safety net).
+4. With `npm run serve` running, open the new page in the browser and
+   check it renders correctly. Compare against
+   `/recipes/0NNN/recipe_OLD.html` to confirm nothing was lost.
+5. Commit the batch with a clear message.
+
+Buckets to convert in roughly this order (easy → hard):
+
+- [ ] **Bucket A — placeholders** (~10 recipes: 14, 58, 59, 95, 131,
+  143, 204, 221, 237, 251, plus any others that have only PDF/DOCX or
+  only an image). Pattern prototyped on `0143`. Trivial.
+  - **✅ Checkpoint 2A:** all 10 placeholders render. Spot-check 2–3.
+- [ ] **Bucket B — image-only handwritten** (~30–40 recipes, mostly
+  numbers 1–44). Each is just title + `![](image-01.jpg)`. Pattern
+  prototyped on `0001`. Mechanical batch.
+  - **✅ Checkpoint 2B:** images appear, scaled correctly; spot-check 5
+    across the bucket including any with multiple images.
+- [ ] **Bucket C — Word HTML, simple prose** (~100 recipes). Pandoc
+  html→md per file, light hand-edit. Pattern prototyped on `0086`.
+  - **✅ Checkpoint 2C:** spot-check 10 across the bucket. Watch for
+    accent issues (windows-1252 → utf-8 conversion artifacts), broken
+    inter-recipe references, missing observations sections.
+- [ ] **Bucket D — Word HTML with multiple images / sidecars / VML**
+  (~30 recipes including 138, 133, 86, etc.). Same as C but more
+  careful image placement. Pattern prototyped on `0138`.
+  - **✅ Checkpoint 2D:** spot-check 5 — confirm all images appear in
+    the right places, sidecar refs (`*_fichiers/...`) all rewritten.
+- [ ] **Bucket E — recipes with both HTML and PDF/DOCX** (~22 recipes
+  in 0143, 0155, 0195, 0204, 0213, 0221, 0223, 0225, 0230, 0235, 0236,
+  0237, 0241, 0247, 0248, 0249, 0250, 0251, 0252, 0253, 0095, 0160).
+  Prefer pandoc on the `.docx` over the html — output is much cleaner.
+  - **✅ Checkpoint 2E:** PDF + DOCX download links still work; rendered
+    HTML matches the docx content.
+
+**✅ Checkpoint 2 (overall):** all 253 recipes converted to `.md`.
+`recipe.html` files all renamed to `recipe_OLD.html`. `npm run serve`
+shows new pages at canonical URLs; old pages still accessible at `_OLD`
+URLs. `voici.htm` lists everything.
+
+### Phase 3 — cleanup
+- [ ] **Final review pass:** click through the whole sommaire, check
+  every recipe renders. If anything looks broken, fix before deleting
+  the archive.
+- [ ] Delete every `recipe_OLD.html` and `voici_OLD.htm` (the safety
+  archive). Recommended: rename to `RM_recipe_OLD.html` first per the
+  RM_ convention, then bulk-delete in a separate pass.
+- [ ] Delete `recipe-v2.md` files (the dev-branch prototype seeds).
+- [ ] Delete `voici-v2.md` if not already replaced by `voici.md`.
+- [ ] Update `_data/recipes.js` (or delete if collections replace it).
+- [ ] Update `CLAUDE.md`: `.md` is now source of truth for recipes,
+  Eleventy is the default workflow, `recipe.html` is a build artifact.
+- [ ] Resolve the orphans in `pjpcode/orphan/`: any HTML that should
+  become a numbered recipe gets converted; the rest stay or get deleted.
+- [ ] Once all `RM_` files are gone (separate cleanup pass), drop the
+  `RM_` references from this tasks.md.
+
+**✅ Checkpoint 3:** no `_OLD` or `recipe-v2` clutter. Repo is clean. Site
+serves the same number of recipe URLs as before, all from `.md` sources.
+
+### Phase 4 — optional polish
+- [ ] Print stylesheet (`@media print`) for kitchen-friendly recipes.
+- [ ] `schema.org/Recipe` JSON-LD per recipe (good for SEO).
+- [ ] Client-side keyword search (replaces the old
+  `liste_par_mots_clefs.html` if missed).
+- [ ] RSS feed for new recipes.
+
+### Useful commands
+
+```bash
+# Convert a Word docx to clean Markdown (preferred when available)
+pandoc pjpcode/recipes/0143/recipe.docx -o pjpcode/recipes/0143/recipe.md \
+       --extract-media=pjpcode/recipes/0143/
+
+# Convert Word-exported HTML to Markdown (when no .docx)
+pandoc pjpcode/recipes/0086/recipe.html -f html -t markdown_strict \
+       --strip-comments --wrap=none -o pjpcode/recipes/0086/recipe.md
+
+# Archive the old HTML before adding the new .md
+git mv pjpcode/recipes/0086/recipe.html pjpcode/recipes/0086/recipe_OLD.html
+
+# Restore from archive if a conversion is bad
+git mv pjpcode/recipes/0086/recipe_OLD.html pjpcode/recipes/0086/recipe.html
+rm    pjpcode/recipes/0086/recipe.md
+```
+
 ## Reorganization fallout (review this round)
 
 ### Files marked `RM_` for deletion
