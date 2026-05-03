@@ -1,0 +1,14 @@
+{
+  "name": "pjpcode",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PJP code static site (prototype Eleventy build)",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "clean": "rm -rf _site"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

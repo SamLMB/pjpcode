@@ -1,0 +1,176 @@
+/* PJP code prototype stylesheet.
+   Goals: legible serif body, generous line-height, comfortable max-width,
+   responsive images, restrained accent color. */
+
+:root {
+  /* Fluid width: scales with the viewport up to a generous cap so that
+     line lengths stay readable on very wide monitors. Tweak the cap (the
+     second argument to min()) to taste — set it to "none" for fully
+     uncapped, or e.g. 50rem for a narrower reading column. */
+  --max-width: min(95vw, 75rem);
+  --color-text: #1f1f1f;
+  --color-muted: #6b6b6b;
+  --color-accent: #8a3d2e;
+  --color-rule: #e0d8cf;
+  --color-bg: #fbfaf6;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 18px; }
+
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--color-text);
+  background: var(--color-bg);
+  line-height: 1.6;
+}
+
+.site-header,
+.site-footer {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.site-header .brand,
+.site-footer p {
+  font-variant-caps: small-caps;
+  letter-spacing: 0.04em;
+  color: var(--color-muted);
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.site-header .back {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+.site-header .back:hover { text-decoration: underline; }
+
+.site-footer {
+  border-top: 1px solid var(--color-rule);
+  margin-top: 3rem;
+  font-size: 0.85rem;
+}
+
+article {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.recipe-number {
+  font-variant-caps: small-caps;
+  letter-spacing: 0.08em;
+  color: var(--color-muted);
+  margin: 1.5rem 0 0.25rem;
+  font-size: 0.85rem;
+}
+
+h1 {
+  font-family: "Iowan Old Style", Georgia, serif;
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 1.15;
+  margin: 0 0 0.5rem;
+  color: var(--color-text);
+}
+
+.subtitle {
+  color: var(--color-muted);
+  font-style: italic;
+  margin: 0 0 1.5rem;
+}
+
+.recipe-body,
+.page-body {
+  margin-top: 1.5rem;
+}
+
+.recipe-body p,
+.page-body p {
+  margin: 0 0 1rem;
+}
+
+.recipe-body h2,
+.page-body h2 {
+  font-size: 1.15rem;
+  margin: 2rem 0 0.5rem;
+  color: var(--color-accent);
+  font-variant-caps: small-caps;
+  letter-spacing: 0.05em;
+}
+
+.recipe-body ul,
+.recipe-body ol,
+.page-body ul,
+.page-body ol {
+  padding-left: 1.5rem;
+  margin: 0 0 1rem;
+}
+
+.recipe-body li,
+.page-body li {
+  margin: 0.25rem 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 2px;
+}
+
+a {
+  color: var(--color-accent);
+}
+
+.downloads {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-rule);
+  font-size: 0.9rem;
+  color: var(--color-muted);
+}
+
+/* Sommaire (recipe index) */
+.recipe-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.recipe-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--color-rule);
+}
+
+.recipe-list .num {
+  font-variant-numeric: tabular-nums;
+  color: var(--color-muted);
+  flex: 0 0 2.75rem;
+  text-align: right;
+  font-size: 0.9rem;
+}
+
+.recipe-list a { text-decoration: none; }
+.recipe-list a:hover { text-decoration: underline; }
+
+.recipe-list li.unconverted {
+  color: var(--color-muted);
+}
+
+.recipe-list li.unconverted a {
+  color: var(--color-muted);
+  font-style: italic;
+}

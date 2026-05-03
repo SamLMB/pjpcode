@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} — PJP code</title>
+  <link rel="stylesheet" href="/pjpcode/style.css">
+</head>
+<body class="page">
+  <header class="site-header">
+    <a href="/pjpcode/indexpjpcode.html" class="back">← accueil</a>
+    <span class="brand">PJP code</span>
+  </header>
+
+  <article>
+    <h1>{{ title }}</h1>
+    <div class="page-body">
+      {{ content | safe }}
+    </div>
+  </article>
+
+  <footer class="site-footer">
+    <p>PJP code</p>
+  </footer>
+</body>
+</html>

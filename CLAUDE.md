@@ -4,7 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-A static website serving the **PJP code**, a French family cookbook hosted at pjpcode.com. There is no build system, no package manager, no tests, no linter — just HTML, images, and Office documents served as files. To preview, open `index.html` in a browser, or serve the directory with any static file server (e.g. `python3 -m http.server` from the repo root).
+A static website serving the **PJP code**, a French family cookbook hosted at pjpcode.com. To preview, open `index.html` in a browser, or serve the directory with any static file server (e.g. `python3 -m http.server` from the repo root).
+
+The current site is plain hand-written HTML (no build step). An **Eleventy
+prototype** has been added on top to demonstrate a Markdown + template
+workflow — see "Eleventy prototype" below.
 
 ## Site structure and navigation flow
 
@@ -43,6 +47,61 @@ Files at `pjpcode/` root are either navigation pages (`voici.htm`,
 `nous_deux.jpg`), the `recipes/` directory itself, the `orphan/`
 directory of unattributed files, or `RM_`-prefixed entries pending
 deletion — see `tasks.md` for the inventory.
+
+## Eleventy prototype
+
+A prototype build setup using [Eleventy (11ty)](https://www.11ty.dev/) is
+wired into the repo. It demonstrates rendering a few recipes from
+Markdown + a shared template, alongside the existing hand-written HTML.
+
+Layout:
+
+```
+package.json                  # Eleventy + scripts
+.eleventy.js                  # config (input ., output _site)
+.eleventyignore
+_layouts/
+  recipe.njk                  # recipe page template
+  page.njk                    # generic page template (sommaire, etc.)
+_data/
+  recipes.js                  # prototype recipe metadata (drives voici-v2)
+.github/workflows/deploy.yml  # GitHub Pages deploy via Actions
+pjpcode/
+  style.css                   # shared stylesheet for new pages
+  pjpcode.11tydata.js         # directory data: keep .html URLs flat
+  voici-v2.md                 # prototype sommaire
+  recipes/0001/recipe-v2.md   # prototype recipes (alongside recipe.html)
+  recipes/0086/recipe-v2.md
+  recipes/0138/recipe-v2.md
+  recipes/0143/recipe-v2.md
+```
+
+Existing `.html`, `.pdf`, `.docx`, image files are *passed through* by
+Eleventy unchanged. Only `.md` and `.njk` files are processed as templates.
+Each prototype recipe lives at `recipe-v2.md` next to the original
+`recipe.html`, so you can compare side-by-side without disturbing the
+existing site.
+
+**Local commands:**
+
+- `npm install` — once, to install Eleventy.
+- `npm run build` — one-shot build to `_site/`.
+- `npm run serve` — Eleventy's dev server at `http://localhost:8080`
+  (or pass `--port=8888`). Use this to view prototype pages — absolute
+  paths like `/pjpcode/style.css` only resolve when the build output is
+  served as the document root.
+- `npm run clean` — delete `_site/`.
+
+**Deploy:** `.github/workflows/deploy.yml` builds on every push to `master`
+and publishes `_site/` via GitHub Pages. To enable, set the repo's
+**Settings → Pages → Source** to **GitHub Actions** (one-time).
+
+**Browsing the prototype** (after `npm run serve`):
+- `http://localhost:8080/pjpcode/voici-v2.html` — regenerated sommaire
+  with links to the 4 prototype recipes.
+- Each prototype recipe links back via `← sommaire`.
+- The original site (`/pjpcode/voici.htm`, `/pjpcode/recipes/0086/recipe.html`,
+  etc.) is also served for direct comparison.
 
 ## Encoding gotchas
 
