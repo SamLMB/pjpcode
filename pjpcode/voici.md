@@ -11,6 +11,8 @@ Les recettes sont classées par ordre d'inscription dans le cahier.
 
 *Voir aussi : [petits outils et références](files/list.html) (équivalences four, thermostat, poids, etc.).*
 
+*Voir aussi : [toutes les photos](photos.htm).*
+
 <ul class="recipe-list">
 {%- for r in recipes %}
   <li>

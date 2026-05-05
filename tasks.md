@@ -5,14 +5,6 @@ Check items off as they're resolved; remove resolved sections when they go stale
 
 ## Next session — pick up here
 
-**FIRST — touch base:** ask the user whether they pushed all the
-recent commits (orphan triage + RM_ bulk delete + tasks.md cleanup)
-to `master`. The GitHub Pages workflow only deploys from `master`,
-so unpushed commits mean pjpcode.com lags the working tree. Once
-they confirm, **remove this paragraph from tasks.md.** If they
-haven't pushed, that's fine — just be honest about what's live
-vs. what's local before diving in.
-
 Recommended order when resuming:
 
 1. **DOCX-placeholder conversion** (recipes 143, 221, 237, 251)
@@ -371,6 +363,14 @@ serves the same number of recipe URLs as before, all from `.md` sources.
 - [ ] Client-side keyword search (replaces the old
   `liste_par_mots_clefs.html` if missed).
 - [ ] RSS feed for new recipes.
+- [x] **Photo gallery** at `/pjpcode/photos.htm` — every recipe image
+  on one page, click-through to the recipe. Linked from `voici.htm`.
+  Implemented via `_data/photos.js` (build-time scan of
+  `pjpcode/recipes/*/image-*`) + `pjpcode/photos.md` + a `.photo-grid`
+  block in `style.css`. Order is randomized client-side via a small
+  inline Fisher-Yates shuffle in `photos.md`. Possible future tweaks:
+  tile size (currently `minmax(160px, 1fr)`), or filtering by recipe
+  number range.
 
 ### Useful commands
 
@@ -407,7 +407,11 @@ rm    pjpcode/recipes/0086/recipe.md
 
 - [ ] `indexpjpcode.html` once read `Bienvenue sur le PJP code !` (space
   before `!`, proper French typography); the local copy is `code!`. Restore
-  the space to match the original if desired.
+  the space to match the original if desired. **Conflict flag:** the
+  "don't restyle the entry pages" rule covers `indexpjpcode.html` —
+  confirm with the user before touching, since this is technically a
+  text edit on a preserved page (small, one-character, and arguably a
+  restoration not a restyle, but worth checking).
 
 ## Infrastructure
 

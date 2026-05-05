@@ -174,3 +174,21 @@ a {
   color: var(--color-muted);
   font-style: italic;
 }
+
+.photo-grid {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 0.5rem;
+}
+.photo-grid li { margin: 0; }
+.photo-grid a { display: block; }
+.photo-grid img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+  background: #eee;
+}
