@@ -27,9 +27,7 @@ Recommended order when resuming:
    guesses against actual file contents. See "Phase 2 follow-up".
 7. **Typography fix** — `indexpjpcode.html` non-breaking space
    before `!` in `Bienvenue sur le PJP code!`. See "Cosmetic".
-8. **Old VM decommission** — take down `34.73.98.109` once the
-   GitHub Pages deploy is fully trusted. See "Infrastructure".
-9. **Phase 4 optional polish** — print stylesheet, schema.org
+8. **Phase 4 optional polish** — print stylesheet, schema.org
    Recipe JSON-LD, client-side keyword search, RSS feed. See
    "Phase 4 — optional polish".
 
@@ -415,5 +413,5 @@ rm    pjpcode/recipes/0086/recipe.md
 
 ## Infrastructure
 
-- [ ] Take down the old VM at `34.73.98.109` once satisfied with the new
-  deploy.
+- [x] Took down and deleted the old VM at `34.73.98.109`. GitHub Pages
+  is now the sole production host.
