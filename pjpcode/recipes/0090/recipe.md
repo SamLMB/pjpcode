@@ -4,7 +4,7 @@ number: 90
 title: Tarte Tatin, la vraie, celle des sœurs Tatin de La-Motte-Beuvron
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 8 personnes)
 

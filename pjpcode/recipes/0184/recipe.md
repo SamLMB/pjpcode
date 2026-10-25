@@ -6,7 +6,7 @@ title: Asparagus soup
 
 **Recette n° 184 : asparagus soup**
 
-## Ingredients (4 servings)
+## Ingrédients / Ingredients (4 servings)
 
 -         400 g asparagus (already cooked in water or steam)
 
@@ -22,7 +22,7 @@ title: Asparagus soup
 
 -         salt, pepper according to taste
 
-## Preparation
+## Préparation / Preparation
 
 01    dissolve the bouillon cubes of bouillon in 1 liter of water and bring it to a boil
 

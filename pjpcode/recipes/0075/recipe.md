@@ -4,7 +4,11 @@ number: 75
 title: Bouillabaisse ti-an-noz (avec photos)
 ---
 
-![](image-01.jpg)Ingrédients :  (pour 4 personnes)
+[![](image-01.jpg)](image-01.jpg)
+
+## Ingrédients
+
+  (pour 4 personnes)
 - une boîte de soupe de poisson de la Belle-Isloise, des Jeannettes ou de la Quiberonnaise de 800 g environ
 - une boîte de cotriade de la Belle-Isloise, des Jeannettes ou de la Quiberonnaise de 800 g environ
 - 200 g à 300 g de filet de saumon
@@ -28,7 +32,7 @@ title: Bouillabaisse ti-an-noz (avec photos)
 - peler les pommes de terre et les mettre à cuire doucement dans le court-bouillon
 - les y laisser quand elles sont cuites
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 - couper chaque poisson en 4 parts
 - dans une poêle, mettre à revenir  les poissons dans l'huile d'olive, en prenant bien garde à ne pas les déliter
@@ -39,7 +43,7 @@ title: Bouillabaisse ti-an-noz (avec photos)
 - couvrir de soupe, partager les moules entre les assiettes
 - servir le tout aussitôt accompagné des tartines aillées.
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 ## Observations
 

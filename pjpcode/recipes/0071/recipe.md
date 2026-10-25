@@ -4,7 +4,7 @@ number: 71
 title: Potage à la fondue d'endives du Briellec (avec photo)
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 4 personnes)
 

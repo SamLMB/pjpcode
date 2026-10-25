@@ -5,8 +5,9 @@ title: Rillettes de sardines
 ---
 
 Recette n°217 : rillettes de sardines
+## Ingrédients
 
-Ingrédients : pour 4 personnes en accompagnement de l'apérotif
+*pour 4 personnes en accompagnement de l'apérotif*
 une grosse boîte de sardines
 un carré frais Gervais
 une branche de céleri ou un bouquet de coriandre, selon goût

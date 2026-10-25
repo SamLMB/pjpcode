@@ -6,9 +6,11 @@ title: Soupe de champagne
 
 Recette n°218 : soupe de champagne
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-Ingrédients : apéritif pour 4 personnes
+## Ingrédients
+
+ apéritif pour 4 personnes
 une bouteille de champagne ou d'un mousseux de bonne qualité
 150 g de sucre en poudre
 150 ml de Cointreau

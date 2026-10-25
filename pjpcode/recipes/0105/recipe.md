@@ -4,7 +4,7 @@ number: 105
 title: Chaudron de coquillages du Vadjuner
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 6 personnes)
 
@@ -20,7 +20,7 @@ title: Chaudron de coquillages du Vadjuner
 - 20 cl de crème fraîche
 - une cuiller à soupe de viandox
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 

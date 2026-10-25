@@ -10,7 +10,7 @@ Comme aime à dire Julien Béclin quand il exécute une des recettes qui ont fai
 "Je suis jeune, il est vrai; mais aux âmes bien nées,
 La valeur n'attend pas le nombre des années."
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 8 personnes)
 
@@ -38,4 +38,4 @@ La valeur n'attend pas le nombre des années."
 Recette exécutée à Quiberon le 2 août 2008 par Julien Béclin, avec l'aide de deux jeunes marmitons (Michel Pioger et Jean-Pierre Bourdier) pour les familles Béclin, Pioger et Bourdier.
 Tout a été mangé !
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)

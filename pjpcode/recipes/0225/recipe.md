@@ -6,9 +6,10 @@ title: Tajine au poulet, aux citrons confits et aux légumes
 
 **tajine de poulet aux légumes et aux citrons confits**
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
+## Ingrédients
 
-Ingrédients pour 8 personnes :
+*pour 8 personnes :*
 - 8 cuisses et heuts de cuisses de poulet de Loué
 - 200 g d'olives vertes dénoyautées
 - 3 citrons confits

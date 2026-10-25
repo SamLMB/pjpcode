@@ -4,7 +4,7 @@ number: 69
 title: Boeuf bourguignon de Mamy de Quiberon (avec photo)
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 4 personnes)
 

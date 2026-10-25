@@ -6,9 +6,11 @@ title: Sorbet à l'orange façon orange givrée
 
 **Recette n°223 :** sorbet à l'orange, façon orange givrée
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-Ingrédients :  pour 8 personnes
+## Ingrédients
+
+  pour 8 personnes
 - un litre de jus d'orange
 - le jus et le zeste d'un grtos citron jaune
 - 400 g de sucre

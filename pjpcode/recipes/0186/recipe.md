@@ -4,7 +4,7 @@ number: 186
 title: Sushis de Marcq-en-Baroeul, les authentiques comme les fait Yohan
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 On raconte qu'au XVIème siècle de hardis navigateurs nippons arrivèrent en mer du Nord, qu'ils remontèrent le cours de l'Escaut, de la Deûle puis de la Marque ; ils débarquèrent dans un petit village de pêcheurs appelé Marcq-en-Baroeul, et se précipitèrent à l'auberge car ils mourraient de faim. On leur servit un délicieux plat fait de hareng fumé roulé dans de l'oryza sativa (une graminée locale) et des algues ; le capitaine du navire, qui s'appelait Sensé-Io-Huan épousa la patronne de l'auberge et la ramena au Japon avec la recette des sushis de Marcq-en-Baroeul.
 

@@ -6,7 +6,7 @@ title: Glace au chocolat blanc façon lapanzé
 
 Attention, cette recette est prévue pour 8 personnes gourmandes, ou 6 personnes très gourmandes ; mais évitez d'en faire si les enfants ci-dessous sont près de vous car ils vont ils vont immédiatement la manger toute et vous avec....
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 

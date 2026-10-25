@@ -6,9 +6,12 @@ title: Pounti auvergnat
 
 **Recette n°226 :** pounti auvergnat
 
-![](../0227/image-01.jpg)
+[![](../0227/image-01.jpg)](../0227/image-01.jpg)
 
-Ingrédients :  pour 6 personnes
+## Ingrédients
+
+*Pour 6 personnes*
+
 •    1 kg de chair à saucisse
 •    100 g de pruneaux
 •    150 g de farine

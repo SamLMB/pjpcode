@@ -4,7 +4,7 @@ number: 102
 title: Veau corse aux olives comme le prépare Marie-Hélène d'Anglet (avec photo du fils et de la belle-mère de la cuisinière)
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 4 personnes)
 

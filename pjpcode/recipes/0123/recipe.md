@@ -4,21 +4,22 @@ number: 123
 title: Couscous avec viandes cuites au four
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 Cette recette s'adresse à ceux qui aiment le couscous "classique"([cf. recette n°16](../0016/recipe.html)) mais qui trouvent que le poulet et le mouton,
 quand ils sont cuits avec les légumes, sont trop mous.
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 Elle consiste à faire cuire séparément viandes et légumes, les premières au four, les seconds au bouillon d'un couscous antérieur,
 bouillon qu'on a pris le soin de conserver au congélateur. Moralité : si cette recette vous plaît, ne jetez plus vos bouillons de coucous !
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 Cette recette a été exécutée en mai 2007 à Quiberon lors de la visite de Christine et Michel.
+## Ingrédients
 
-Ingrédients : pour 4 personnes mais 2 repas
+*pour 4 personnes mais 2 repas*
 un litre de bouillon de couscous conservé d'un couscous précédent
 750 g de graîne de couscous
 6 morceaux de poulet

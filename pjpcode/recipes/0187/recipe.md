@@ -7,8 +7,9 @@ title: Chicons d'avril en soupe
 Recette n°187 : chicons d'avril en soupe
 
 Non, ce n'est pas un poisson d'avril, mais un chicon d'avril, à vrai dire la meilleure selon moi des soupes de chicons que je n'aie jamais faite.
+## Ingrédients
 
-Ingrédients : pour 6 personnes
+*pour 6 personnes*
 - 4 grosses pommes de terre (environ 600 g)
 - 3 grosses endives (environ 600 g)
 - 3 grosses carottes (environ 300 g)

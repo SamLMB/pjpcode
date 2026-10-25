@@ -5,8 +5,9 @@ title: Bourride bretonne très simple
 ---
 
 **Recette n°228 :** bourride bretonne
+## Ingrédients
 
-Ingrédients :  pour 4 personnes
+*pour 4 personnes*
 - 2 litres d'une soupe de poissons bretonne toute faite de bonne qualité
 - 2 grosses pommes de terre ne se délitant pas à la cuisson (bintje par exemple)
 - 2 carottes moyennes

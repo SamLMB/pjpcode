@@ -4,11 +4,12 @@ number: 130
 title: Pâté de viande et foie de porc de Picardie
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 Attention : il faut ne pas être allergique à la vue du sang, du foie, et des chairs broyées ; il faut en outre disposer d'un grand moule à terrine (moule métallique à couvercle par exemple) et d'un récipient pouvant l'accueillir comme un bain-marie, le tout entrant dans le four
+## Ingrédients
 
-  **Ingrédients :** (pour 12 personnes)
+*(pour 12 personnes)*
 - 1 kg de chair à saucisse
 - 500 g de foie de porc (on peut remplacer par des foies de volaille si on en trouve)
 - 10 échalotes hachées
@@ -20,7 +21,6 @@ Attention : il faut ne pas être allergique à la vue du sang, du foie, et des c
 - une bonne pincée de poivre
 - une grosse pincée d'herbes de Provence (ou de thym libanais)
 - 8 feuilles de laurier
-**
 
 ## Préparation
 

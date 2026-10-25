@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Toutes les photos
+title: Toutes les photos du PJP code
 permalink: /pjpcode/photos.htm
 ---
 
-Cliquez sur une photo pour ouvrir la recette correspondante.
+Les plats, étapes de préparation et la famille en action dans le PJP code (167 photographies). Cliquez sur une photo pour ouvrir la recette correspondante.
 
 <ul class="photo-grid">
 {%- for p in photos %}
   <li>
-    <a href="{{ p.href }}" title="{{ p.number | pad(3) }} — {{ p.title }}">
+    <a href="{{ p.href }}" title="{% if p.number %}{{ p.number | pad(3) }} — {% endif %}{{ p.title }}">
       <img src="{{ p.src }}" alt="{{ p.title }}" loading="lazy">
     </a>
   </li>

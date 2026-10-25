@@ -4,7 +4,7 @@ number: 104
 title: Chti far corse
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 

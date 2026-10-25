@@ -4,7 +4,7 @@ number: 111
 title: Veau rennais aux olives (avec photo des ingrédients)
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 Le 2 décembre 2006 se tenait à Rennes une session des rencontres culinaires lavalloises regroupant 13 convives (Denise et Jean-Claude venus spécialement de Belleuse, Annie et Daniel venus de Laval, Andrée et Michel venus de Laval aussi, Claire et Maurise ainsi que Julie venus de Villiers-Charlemagne, Pierre et Anne venus de Vitré, Mamy et moi ; nous avons fait à cette occsion une variante de l'excellente recette de Marie-Hélène qui est donnée plus avant (recette n°102).
 

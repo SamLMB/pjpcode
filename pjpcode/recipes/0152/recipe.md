@@ -4,7 +4,7 @@ number: 152
 title: Biscuits des amis des kangourous, dits gâteaux ANZAC, de Pierre et Jieming Lefort de Melbourne
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 1-la recette originale telle qu'envoyée par Pierre et Jieming et que je n'ai pas pu faire faute de trouver tous les ingrédients au Costa Rica :
 

@@ -4,7 +4,7 @@ number: 235
 title: Chouquettes de Yohan William Gabriel
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 40 chouquettes, dessert pour 5 personnes)
 
@@ -34,4 +34,4 @@ Recette faite à Quiberon le 15 juillet 2011 par Yohan William Gabriel Béclin ;
 
 Une photo :
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)

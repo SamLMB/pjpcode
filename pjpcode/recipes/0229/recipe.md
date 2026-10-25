@@ -3,8 +3,9 @@ layout: recipe
 number: 229
 title: Glace au café façon ch'timi très simple
 ---
+## Ingrédients
 
-Ingrédients :  pour 6 personnes
+*pour 6 personnes*
 - 250 g de crème fraîche épaisse
 - 150 g de lait (écrèmé, demi-écrèmé ou entier, peu importe) aussi froid que possible (sorti du frigo au dernier moment)
 - 150 g de sucre

@@ -6,9 +6,10 @@ title: Saucisse de l'île de Molène aux choux des Lices (tout ce qu'il y a de b
 
 Les gens qui vivent tout près de Molène, au Conquet par exemple, ont un sourire extraordinaire, n'est-ce pas ?
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
+## Ingrédients
 
-Ingrédients pour 5 ou 6 personnes
+*pour 5 ou 6 personnes*
 - 1 beau chou vert pommé acheté au marché des Lices le samedi matin à Rennes
 - une belle saucisse (500 g environ) de l'île de Molène, offerte par une filleule à son parrain bien-aimé
 - 1 rutabaga ou 1 navet épluché et débité en brunoise
@@ -19,7 +20,7 @@ Ingrédients pour 5 ou 6 personnes
 - sel et poivre selon goût
 - 2,5 litres d'eau
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 

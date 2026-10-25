@@ -5,8 +5,9 @@ title: Gigot d'agneau rôti
 ---
 
 **Recette n°219 :** gigot d'agneau rôti
+## Ingrédients
 
-Ingrédients :  pour 4 personnes
+*pour 4 personnes*
 un gigot d'agneau de 1,5 kg
 100 g de beurre au sel de Noirmoutier
 3 gousses d'ail d'Arleux

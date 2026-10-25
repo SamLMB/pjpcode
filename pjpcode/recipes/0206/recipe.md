@@ -5,8 +5,9 @@ title: Carbonade flamande
 ---
 
 Recette n° 206 : Carbonade flamande
+## Ingrédients
 
-Ingrédients : pour 6 personnes
+*pour 6 personnes*
 - 1,5 kg de boeuf (le même que pour le boeuf bourguignon) découpé en petits morceaux
 - 3 gros oignons
 - 75 cl de bière blonde

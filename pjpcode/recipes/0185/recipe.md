@@ -3,8 +3,9 @@ layout: recipe
 number: 185
 title: Soupe aux artichauts et pommes de terre du Nord
 ---
+## Ingrédients
 
-Ingrédients : pour 6 personnes
+*pour 6 personnes*
 2 litres d’eau
 4 cubes de bouillon de pot au feu
 4 pommes de terre moyennes (des Agata de Saint-Tricat, par exemple)

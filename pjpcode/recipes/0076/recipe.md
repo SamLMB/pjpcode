@@ -4,7 +4,7 @@ number: 76
 title: Confiture de figues du jardin de Mamy à Quiberon (avec photo)
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 2 pots moyens)
 

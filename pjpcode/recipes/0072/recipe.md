@@ -8,7 +8,7 @@ Recette n° 72 :
 
 Oeufs en meurette comme chez Mamy d'Armes
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 4 personnes)
 

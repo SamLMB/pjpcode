@@ -5,8 +5,9 @@ title: Omelette aux coques
 ---
 
 Recette n° 205 : Omelette aux coques
+## Ingrédients
 
-Ingrédients : pour 4 personnes
+*pour 4 personnes*
 - 1 kg de coques (ou 1 litre) dessablées (cf. observation 2)
 - 6 oeufs
 - le jus d'un citron

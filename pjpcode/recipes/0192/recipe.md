@@ -5,8 +5,9 @@ title: Mousse au chocolat noir
 ---
 
 Recette n°192 : mousse au chocolat noir
+## Ingrédients
 
-Ingrédients : pour 8 personnes (pas trop gourmandes)
+*pour 8 personnes (pas trop gourmandes)*
 - 300 g de chocolat noir type "Nestlé dessert"
 - 12 oeufs extra-frais
 

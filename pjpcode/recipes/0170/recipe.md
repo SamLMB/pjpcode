@@ -14,9 +14,10 @@ der Titel des Buchs ist "Sächsische Küche, ein kulinarischer Streifzug von Lei
 mein erstes Rezept aus diesem Buch ist  die Leipziger Allerlei, eine leckere Speise !
 Kurt, Marianne und Siege seien dank !
 
-**![](image-01.jpg)
+**[![](image-01.jpg)](image-01.jpg)
+## Ingrédients
 
-Ingrédients pour 2 personnes
+*pour 2 personnes*
 -    200 g de carottes en rondelles fines
 -    125 g de chou-fleur en fleurettes
 -    100 g d’asperges en bocal découpées en tronçons
@@ -33,7 +34,7 @@ Ingrédients pour 2 personnes
 -    100 g de crevette surgelés ou de chair de crabe en boîte
 -    1 petit bouquet de persil lavé, égoutté et haché
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 

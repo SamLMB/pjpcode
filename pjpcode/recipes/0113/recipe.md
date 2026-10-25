@@ -4,11 +4,11 @@ number: 113
 title: Échine de porc fambée au whisky et ses Soissons à la tomate (avec photos)
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 Les quantités sont pour 6 personnes
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Ingrédients
 

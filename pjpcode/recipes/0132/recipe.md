@@ -9,15 +9,15 @@ title: Glache d'cafeu
 Glache d'cafeu
 
 Comme le nom l'indique, il s'agit d'une recette chtimi de glace au café préparée comme une glace à la chicorée (cf. recette n° 63)
+## Ingrédients
 
-**Ingrédients :** pour 6 personnes
+*pour 6 personnes*
 - 25 cl de crème fraîche non liquide
 - 15 cl de lait
 - 150 g de sucre
 - 1 sachet de sucre vanillé (7g environ) ou  une cuiller à soupe d'essence de vanille
 - 1 oeuf frais
 - 3 cuillers à soupe de café en poudre type Nescafé
-**
 
 ## Préparation
 

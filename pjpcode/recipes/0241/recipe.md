@@ -12,7 +12,7 @@ title: Confiture rouge de pommes, poires et cassis
 - 2kg de sucre cristallisé
 - 2 verres d'eau
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Préparation
 

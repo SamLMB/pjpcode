@@ -4,7 +4,7 @@ number: 236
 title: Cookies aux flocons d'avoine de Samuel Luke
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 18 cookies de taille moyenne environ)
 
@@ -31,5 +31,5 @@ title: Cookies aux flocons d'avoine de Samuel Luke
 Recette préparée le 15 juillet 2011 à Quiberon par Samuel. Très bon.
 Refaite avec Yohan William Gabriel Béclin en août 2011 ; toujours très bon.
 
-| ![](image-02.jpg) | ![](image-03.jpg) |
+| [![](image-02.jpg)](image-02.jpg) | [![](image-03.jpg)](image-03.jpg) |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------|

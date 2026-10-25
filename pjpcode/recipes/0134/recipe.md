@@ -4,10 +4,11 @@ number: 134
 title: Râpé de pommes de terre au four tout simple
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-**
-Ingrédients :** pour 6 personnes
+## Ingrédients
+
+*pour 6 personnes*
 - 1 kg de pommes de terre
 - 3 oeufs
 - 2 gros oignons jaunes

@@ -6,14 +6,14 @@ title: Huevos a la nieve (oeufs à la neige)
 
 **Recette n°183 : huevos a la nieve (œufs à la neige)**
 
-## Ingredientes (para 6 porciones)
+## Ingrédients / Ingredientes (para 6 porciones)
 
 6 huevos
 1 litro de leche fresca
 1 cuchara pequeña de esencia de vainilla
 125 g de azúcar
 
-## Preparación
+## Préparation / Preparación
 
 1 - onemos a hervir las leches con el azúcar hasta que se disuelva el azúcar.
 

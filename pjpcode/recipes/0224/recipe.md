@@ -4,9 +4,11 @@ number: 224
 title: Betteraves rouges et quinoa façon gâteau
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-Ingrédients :  pour 8 personnes
+## Ingrédients
+
+  pour 8 personnes
 - 100 g de quinoa cuit auparavant
 - 250 g de fromage blanc frais.
 - 2 betteraves rouges cuites et débitées en rondelles
@@ -25,7 +27,7 @@ Ingrédients :  pour 8 personnes
 6 - Replier le fim et mettre au réfriférateur à reposer trois quarts d'heure.
 7 - Au moment de servir, déplier le film et retourner sur un plateau.
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Observations
 

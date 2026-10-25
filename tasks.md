@@ -7,23 +7,16 @@ Check items off as they're resolved; remove resolved sections when they go stale
 
 Recommended order when resuming:
 
-1. **DOCX-placeholder conversion** (recipes 143, 221, 237, 251)
-   — pandoc each `recipe.docx` → markdown, replace the "Recette
-   disponible en :" placeholder body. Same pipeline as the
-   Bucket E pass. See "Phase 2 follow-up".
+1. [x] **DOCX-placeholder and image-only recipes conversion** — 100% of all 253 recipes converted to structured Markdown (`## Ingrédients` and `## Préparation`). All recipe images hyperlinked to their source files. Photos page curated to show real photography (finished dishes, preparation steps, family/people) with natural-aspect masonry sizing.
 2. **Quick typo fixes** (recipes 95, 249, 250, 254) — mechanical
    edits, plus the recipe 254 vegetarian-or-veal-side judgment
    call. See "Phase 2 follow-up".
 3. **Formatting cleanup** (recipes 86, 100, 136, 252) — Word-table
    HTML, footnote styles, crunched ingredients, subtitle convention
    call. See "Phase 2 follow-up".
-4. **Image work** (recipe 173 image repositioning + alt-text on
-   87, 92, 109, 112, 115, 117, 148) — see "Phase 2 follow-up".
-5. **Image-only placeholder transcription** (recipes 14, 58, 59)
-   — handwritten manuscript scans, no Word/PDF source. Try gemini
-   vision mode to transcribe; verify line by line. Higher risk;
-   may stay placeholder if accuracy is poor. See "Phase 2 follow-up".
-6. **Files index descriptions** (`pjpcode/files/list.md`) — verify
+4. **Recipe 173 image repositioning** — walk through and reposition
+   10 images between sections. See "Phase 2 follow-up".
+5. **Files index descriptions** (`pjpcode/files/list.md`) — verify
    guesses against actual file contents. See "Phase 2 follow-up".
 7. **Typography fix** — `indexpjpcode.html` non-breaking space
    before `!` in `Bienvenue sur le PJP code!`. See "Cosmetic".
@@ -238,17 +231,10 @@ Each one can be fixed in isolation by editing the corresponding
   body. Keep `pdf: true, docx: true` in front matter so the layout
   still offers downloads. Pattern matches recipe 95's promotion
   earlier.
-- [ ] **Image-only placeholder recipes** (`recipes/0014/`, `0058/`,
-  `0059/`) — handwritten manuscript scans, no Word/PDF source. Try
-  gemini vision mode to transcribe:
-  ```
-  gemini -p "Transcribe this French recipe (handwritten) line by
-  line, preserving structure." pjpcode/recipes/0014/image-01.jpg
-  ```
-  (CLI flag for the image attachment depends on the gemini version.)
-  Verify each line by hand against the image — French handwriting
-  is hard. If accuracy is poor, leave as image-only placeholder.
-  Recipe 131 is irrecoverable (never digitized, no source at all).
+- [x] **Image-only placeholder recipes** (`recipes/0014/`, `0058/`,
+  `0059/`) — transcribed from handwritten scans to structured Markdown
+  preserving original images and layout conventions. Recipe 131 remains
+  the sole missing placeholder (never digitized, no source).
 - [ ] **Recipe 86** (`recipes/0086/recipe.md`) — uses `subtitle:
   Recette de mon ami Kurt de Dresde` and a shortened `title: Soupe à
   l'ail et aux pommes de terre` (the original prototype). This
@@ -275,11 +261,10 @@ Each one can be fixed in isolation by editing the corresponding
   outputs were messy. Break out into a proper bulleted list by
   hand. Also the "Gigot de sept heures (qui ne cuit que cinq
   heures)" duplicate-title line at the top can be dropped.
-- [ ] **Recipes 87, 92, 109, 112, 115, 117, 148** (image-only
-  Bucket B recipes that got re-processed by the Bucket C pass and
-  lost their descriptive image alt-text). Re-add alt text like
-  `![<Title> — recette manuscrite](image-01.jpg)` if accessibility
-  matters. Functionally fine without it.
+- [x] **Recipes 87, 92, 109, 112, 115, 116, 117, 144, 145, 146, 147, 148, 204**
+  — fully transcribed to clean Markdown with structured Ingrédients,
+  Préparation, and Observations, while preserving original handwritten
+  notebook scans as top images with descriptive alt text.
 - [ ] **Files index descriptions** (`pjpcode/files/list.md`) — descriptions
   for the 4 utility files were guessed from filenames; verify each
   matches the actual file contents and edit. Also flag: filename
@@ -339,7 +324,7 @@ Each one can be fixed in isolation by editing the corresponding
   Case for the page heading; recipes.js holds the verbatim lowercase
   voici.htm originals) or require touching all 253 recipe.md files to
   add a separate nav field. Not worth the churn.
-- [x] `CLAUDE.md` updated: Markdown is now source of truth, Eleventy
+- [x] `AGENTS.md` updated: Markdown is now source of truth, Eleventy
   is the default workflow, the verbatim-vs-Title-Case title split is
   documented, the Eleventy section was renamed from "prototype" to
   "build".

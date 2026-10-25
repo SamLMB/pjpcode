@@ -4,11 +4,11 @@ number: 178
 title: Foie gras basque avec ses oignons confits de Roscoff, son pain d'épices gâtinais et sa doucette nantaise
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 - un bloc de foie gras basque découpé en 5 tranches (une par convive)
 - 5 poignées de mâche nantaise très fraîche et très propre

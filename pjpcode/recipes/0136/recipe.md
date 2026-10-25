@@ -3,8 +3,9 @@ layout: recipe
 number: 136
 title: Glace aux noix et aux pignons
 ---
+## Ingrédients
 
-**Ingrédients** :
+*:*
 
 pour 4 personnes :
 

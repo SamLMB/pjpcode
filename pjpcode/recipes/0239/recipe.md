@@ -6,7 +6,7 @@ title: Pâtes fraîches "maison" des deux cousins Hannah Michelle et Julien Yann
 
 Recette n°239 : pâtes fraîches "maison" des deux cousins (Hannah Michelle Mathews et Julien Yann Raphaël Béclin)
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 8 personnes, soit environ 850 g se pâtes après séchage)
 
@@ -32,16 +32,16 @@ Recette n°239 : pâtes fraîches "maison" des deux cousins (Hannah Michelle Mat
 2 - Excellent, mais un peu désespérant (beaucoup plus de temps pour la préparation que pour l'ingestion) !
 3 - quelques photos
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
-![](image-04.jpg)
+[![](image-04.jpg)](image-04.jpg)
 
-![](image-05.jpg)
+[![](image-05.jpg)](image-05.jpg)
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-![](image-06.jpg)
+[![](image-06.jpg)](image-06.jpg)
 
 <a href="../0232/recipe.html" style="color: blue; text-decoration: underline;"></a>

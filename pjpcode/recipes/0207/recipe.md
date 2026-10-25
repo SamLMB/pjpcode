@@ -5,8 +5,9 @@ title: Stoemp à la bretonne
 ---
 
 Recette n° 207 : Stoemp à la bretonne
+## Ingrédients
 
-Ingrédients : pour 4 personnes
+*pour 4 personnes*
 300 g de chicons
 200 g de carottes
 300 g de pommes de terre type bintje

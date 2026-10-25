@@ -6,9 +6,11 @@ title: Pompe auvergnate aux pommes
 
 **Recette n°227 :** pompe aux pommes auvergnate
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-Ingrédients :  pour 8 personnes
+## Ingrédients
+
+  pour 8 personnes
 - deux pâtes euilletées pur beurre du commerce
 - 2kg de pommes pour tarte
 - un oeuf

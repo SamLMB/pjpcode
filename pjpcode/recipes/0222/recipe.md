@@ -6,9 +6,11 @@ title: Tarte aux abricots
 
 **Recette n°222 :** tarte aux abricots
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-Ingrédients :  pour 6 personnes
+## Ingrédients
+
+  pour 6 personnes
 - une pâte sablée ou feuilletée toute faite (pur beurre si possible)
 - pour la crème d'amandes :
     - 100 gr de beurre

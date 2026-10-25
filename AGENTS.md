@@ -1,6 +1,6 @@
-# CLAUDE.md
+# AGENTS.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to AI coding assistants (such as Antigravity) when working with code in this repository.
 
 ## What this repo is
 
@@ -101,6 +101,6 @@ and publishes `_site/` via GitHub Pages.
 
 ## Encoding gotchas
 
-- Most older HTML declares `charset=ISO-8859-1` or `windows-1252` and stores French accents as 8-bit bytes (e.g. `derni�re mise � jour`). These display correctly in browsers but may look like mojibake in editors that auto-detect UTF-8. **Don't blanket-convert files to UTF-8** — you'd also need to update the `<meta charset>` and re-test rendering across every page.
+- Most older HTML declares `charset=ISO-8859-1` or `windows-1252` and stores French accents as 8-bit bytes (e.g. `dernire mise  jour`). These display correctly in browsers but may look like mojibake in editors that auto-detect UTF-8. **Don't blanket-convert files to UTF-8** — you'd also need to update the `<meta charset>` and re-test rendering across every page.
 - All filenames in the repo are lowercase. Inside `pjpcode/recipes/XXXX/` folders names are normalized (`recipe.md`, `recipe.{pdf,docx}`, `image-NN.<ext>`, `RM_recipe_OLD.html`), so the old NFC/NFD accent-duplicate problem is mostly gone within recipes — any remaining `RM_`-prefixed files are pending deletion.
 - `.gitattributes` enables `* text=auto` LF normalization, which can churn the Word-exported HTML on commit. If you see large whitespace-only diffs, that's why.

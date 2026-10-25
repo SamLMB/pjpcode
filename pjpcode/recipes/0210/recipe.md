@@ -5,8 +5,9 @@ title: Encornets en salade
 ---
 
 Recette n° 210 : Encornets en salade
+## Ingrédients
 
-Ingrédients : pour 4 personnes
+*pour 4 personnes*
 - 800 g d'encornets tout prêts à cuire (en lanières par exemple)
 - 400 g de pommes de terre
 - 4 échalottes

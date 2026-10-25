@@ -4,11 +4,13 @@ number: 167
 title: Galette des rois
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
-Ingrédients : pour 6 personnes (les quantités ne sont pas vraiment critiques, sauf en ce qui concerne l'arôme d'amande amère dont il ne faut pas trop mettre)
+## Ingrédients
+
+ pour 6 personnes (les quantités ne sont pas vraiment critiques, sauf en ce qui concerne l'arôme d'amande amère dont il ne faut pas trop mettre)
 - 2 pâtes feuilletées pur beurre du commerce
 - 125 g d'amandes émondées
 - 150 g de sucre semoule

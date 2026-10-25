@@ -8,9 +8,11 @@ title: Lasagnes à la marçoise
 
 Lasagnes à la marçoise
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-Ingrédients : pour 8 personnes
+## Ingrédients
+
+ pour 8 personnes
 - 500 g de viande hachée
 - 250 g de chair à saucisse
 - 2 petites boîtes de tomates pelées

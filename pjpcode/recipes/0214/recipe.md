@@ -5,8 +5,9 @@ title: Pâte brisée facile et excellente
 ---
 
 Recette n°214 : Pâte à tarte brisée facile et excellente
+## Ingrédients
 
-Ingrédients : pour une tarte de 6 personnes
+*pour une tarte de 6 personnes*
 250 g de farine
 10 g se sel
 15 g de sucre

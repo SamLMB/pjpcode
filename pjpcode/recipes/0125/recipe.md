@@ -8,9 +8,11 @@ title: Œufs au lait à la chicorée et au caramel de beurre salé
 
 Oeufs au lait à la chicorée et au caramel de beurre salé.
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-Ingrédients : pour 4 personnes
+## Ingrédients
+
+ pour 4 personnes
 
 - 4 gros oeufs
 

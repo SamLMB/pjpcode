@@ -4,7 +4,7 @@ number: 103
 title: Petits feuilletés au chèvre et au basilic comme chez Marie-Hélène (avec photo des mains des cuisinières)
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 

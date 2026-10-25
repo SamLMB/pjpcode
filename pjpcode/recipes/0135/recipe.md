@@ -7,8 +7,9 @@ title: Soufflé de pommes de terre au jambon de pays
 Recette n°135 :
 
 # Soufflé de pommes de terre au jambon de pays
+## Ingrédients
 
-**Ingrédients** :
+*:*
 
 pour 6 personnes :
 

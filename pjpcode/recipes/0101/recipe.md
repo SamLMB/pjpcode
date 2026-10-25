@@ -4,7 +4,7 @@ number: 101
 title: Salade composée du chemin du fort à Porticcio
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 4 personnes)
 

@@ -19,21 +19,21 @@ Pour 6 personnes :
 
 - éplucher le pommes de terre et les réserver dans l'eau pour ne pas qu'elles noircissent à l'air
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 - les couper en morceaux (par exemple en 12 si la pomme de terre fait 100 g environ)
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 - les mettre dans un torchon propre et les essorer légèrement pour en retirer l'excès d'eau
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 - dans une cocotte, déposer beurre et huile et mettre à feu très vif
 - dès que beurre et huille font de la mousse, mettre les pommes de terre d'un coup
 - secouer pour que les corps gras enduisent les pommes de terre
 
-![](image-04.jpg)
+[![](image-04.jpg)](image-04.jpg)
 
 - laisser cuire 10 minutes en remuant très délicatement 2 à 3 mois maximum à la cuiller de bois
 - au bout de 10 minutes, on doit constater que cela rissole

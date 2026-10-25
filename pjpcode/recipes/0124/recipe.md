@@ -7,8 +7,9 @@ title: Aubergines à la mozarella et à la sauce tomate comme les prépare Céci
 **Recette n°124** :
 
 Aubergines à la mozarella et à la sauce tomate comme les prépare Cécile.
+## Ingrédients
 
-Ingrédients : pour 4 personnes
+*pour 4 personnes*
 
 - 2 aubergines de taille moyenne
 

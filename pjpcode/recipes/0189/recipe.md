@@ -4,9 +4,11 @@ number: 189
 title: Garbure de Papiroger et Mamija à la mode des Ch’tis
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-Ingrédients : pour 4 personnes affamées
+## Ingrédients
+
+ pour 4 personnes affamées
 beaucoup d'eau (on verra ça ci-dessous, dans la préparation)
 1 talon de jambon
 2 échalotes

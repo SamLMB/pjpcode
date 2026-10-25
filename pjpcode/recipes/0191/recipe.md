@@ -3,8 +3,9 @@ layout: recipe
 number: 191
 title: Salade de champignons au citron, au persil et à l'ail
 ---
+## Ingrédients
 
-Ingrédients : pour 4 personnes
+*pour 4 personnes*
 - 500 g de champignons de couche, de préférence assez gros
 - 1 citron jaune moyen
 - 2 gousses d'ail d'Arleux

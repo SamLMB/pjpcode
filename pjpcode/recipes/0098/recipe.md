@@ -6,15 +6,15 @@ title: Tarte fine aux pommes et à la gelée d'arbouses du lac de Tolla (avec ph
 
 **Recette n°98** : tarte fine aux pommes et à la gelée d’arbouse
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
+## Ingrédients
 
-  **Ingrédients :** (pour 4 personnes)
+*(pour 4 personnes)*
 - 4 grosses pommes plutôt tendres
 - 4 cuillers de gelée d’arbouses
 - 4 cuillers de sucre en poudre
 - un verre d'eau
 - une pâte à tarte brisée type Marie
-**
 
 ## Préparation
 

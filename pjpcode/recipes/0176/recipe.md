@@ -4,7 +4,7 @@ number: 176
 title: Chicons aux oeufs de truite et ciboulette sur lit de fromage blanc
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 

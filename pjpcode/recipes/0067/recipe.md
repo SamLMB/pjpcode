@@ -6,7 +6,7 @@ title: Huîtres farcies grillées à la mode bretonne (avec photos)
 
 pour 4 personnes
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 
@@ -18,7 +18,7 @@ pour 4 personnes
 - une pincée de poivre
 - de l'aluminium en feuilles
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 
