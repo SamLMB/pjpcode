@@ -2,21 +2,21 @@
 layout: recipe
 number: 237
 title: "Glace à la vanille, la recette ultime (recette en espagnol)"
-pdf: recipe.pdf
-docx: recipe.docx
+pdf: true
+docx: true
 ---
 
 > *Todos los helados se pueden hacer a partir de la misma base (helado de vainilla): se necesita solamente añadir el ingrediente suplementario (café, mango, caramelo, etc.).*
 
-*Para 5 personas muy golosas (pour 5 personnes très gourmandes)*
-
 ## Ingrédients / Ingredientes
 
-- 40 cl (0,4 litre) de lait entier (*leche entera*)
-- 25 cl (0,25 litre) de crème fraîche épaisse ou fleurette (*crema natilla*)
-- 200 g de sucre en poudre (*azúcar*)
-- 4 œufs très frais entiers (*huevos enteros*)
-- 2 c. à soupe d'essence de vanille de qualité (*cucharas grandes de esencia de vainilla*)
+*Para 5 personas muy golosas (pour 5 personnes très gourmandes)*
+
+- 40 cl (0,4 litre) de lait entier / *leche entera*
+- 25 cl (0,25 litre) de crème fraîche épaisse ou fleurette / *crema natilla*
+- 200 g de sucre en poudre / *azúcar*
+- 4 œufs très frais entiers / *huevos enteros*
+- 2 cuillères à soupe d'essence de vanille de qualité / *cucharas grandes de esencia de vainilla*
 
 ## Préparation / Preparación
 
@@ -27,4 +27,6 @@ docx: recipe.docx
 5. **Turbinage / En la sorbetera :** Verser l'appareil dans la sorbetière. Si c'est une sorbetière manuelle, tourner 15 tours toutes les 15 minutes pendant une heure (*si es una sorbetera de mano, gire la mezcla 15 vueltas cada 15 minutos durante una hora*).
 6. **Variante sans sorbetière / Sin sorbetera :** Verser la préparation dans un bac au congélateur et remuer énergiquement à la fourchette toutes les 15 à 30 minutes jusqu'à ce que la texture soit parfaitement glacée et onctueuse.
 
-> **Observations :** Helado hecho muchísimas veces en Francia, Costa Rica y en Iowa entre 2000 y 2018 : ¡ siempre un éxito !
+## Observations
+
+- **Contexte :** Helado hecho muchísimas veces en Francia, Costa Rica y en Iowa entre 2000 y 2018 : ¡ siempre un gran éxito !

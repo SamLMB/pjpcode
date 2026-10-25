@@ -4,9 +4,9 @@ number: 49
 title: "Glace à la fraise"
 ---
 
-[![Glace à la fraise — recette manuscrite](image-01.jpg)](image-01.jpg)
-
 *Pour 4 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -25,4 +25,6 @@ title: "Glace à la fraise"
 4. **Turbinage :** Verser la préparation dans la sorbetière et faire turbiner pendant environ 30 minutes jusqu'à consistance onctueuse.
 5. **Service :** Déguster immédiatement ou conserver au congélateur.
 
-> **Observations :** Réalisé le 18/06/2006 à Quiberon pour nous deux : saveur intense de fruit frais et texture particulièrement fondante !
+## Observations
+
+- **Contexte :** Réalisé le 18 juin 2006 à Quiberon pour nous deux : saveur intense de fruit frais et texture particulièrement fondante !

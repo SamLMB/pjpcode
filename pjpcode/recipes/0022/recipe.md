@@ -4,9 +4,9 @@ number: 22
 title: "Gratin d'oranges et de bananes aux noix de Pécan"
 ---
 
-[![Gratin d'oranges et de bananes aux noix de Pécan — recette et notes](image-01.jpg)](image-01.jpg)
+*Pour 6 personnes*
 
-*Pour 6 personnes — Préparation : 30 minutes*
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -35,4 +35,8 @@ title: "Gratin d'oranges et de bananes aux noix de Pécan"
 5. **Gratinage :** Napper les fruits de sabayon, poudrer de sucre glace et passer sous le gril du four bien chaud pendant 3 à 4 minutes en surveillant attentivement.
 6. **Finition :** Parsemer aussitôt des éclats de noix de pécan caramélisées et servir sans attendre.
 
-> **Observations :** Recette préparée à Rennes en décembre 2005. Très appréciée, bien que faite avec des noix ordinaires et non des pécans. Nous étions deux (P. Lefort et JPB) pour la préparation et ce fut malgré cela long et délicat. Le sabayon est tout particulièrement difficile (battre constamment au bain-marie). Attention sous le grill : cela brûle très vite ! À servir immédiatement comme un soufflé.
+## Observations
+
+- **Contexte :** Recette préparée à Rennes en décembre 2005. Très appréciée, bien que faite avec des noix ordinaires et non des pécans.
+- **Difficulté :** Nous étions deux (P. Lefort et JPB) pour la préparation et ce fut malgré cela long et délicat. Le sabayon est tout particulièrement difficile (battre constamment au bain-marie).
+- **Cuisson :** Attention sous le gril : cela brûle très vite ! À servir immédiatement comme un soufflé.

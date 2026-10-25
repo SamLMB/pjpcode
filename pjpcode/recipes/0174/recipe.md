@@ -4,7 +4,7 @@ number: 174
 title: "Potage pékino-breton mystérieux aux douze légumes"
 ---
 
-[![Potage mystérieux pékino-breton](image-01.jpg)](image-01.jpg)
+![Potage mystérieux pékino-breton](image-01.jpg)
 
 > S'agissant d'un potage mystérieux, il faut deviner quels sont les douze légumes qui composent ce potage. En fait de légumes, il s'agit plus généralement de plantes comestibles très connues, et en fait de potage il s'agit plutôt de soupe. Les quantités ne sont pas critiques. La préparation se fait comme celle de n'importe quelle soupe aux légumes, qu'elle soit chinoise ou bretonne (cf. les recettes correspondantes du PJP code).
 >
@@ -29,10 +29,10 @@ Les douze légumes secrets à deviner dans l'énigme rimée :
 
 ## Préparation
 
-1. **Le poème des douze légumes :**
+1. **Le poème des douze légumes :** Résoudre l'énigme rimée pour identifier la composition du potage.
 
 > Pour connaître ces douze plantes,  
-> Dont nous sommes sûrs les noms sûrs vous hantent,  
+> Dont nous sommes sûrs les noms vous hantent,  
 > Bien compléter il vous faudra  
 > Du poème en alexandras  
 > Rimes qu'un poète inconnu  
@@ -67,5 +67,5 @@ Les douze légumes secrets à deviner dans l'énigme rimée :
 > Que ce poème est long, vite arrivons au bout,  
 > Pour couronner le tout, des pousses de **bambou**.  
 
-2. **Cuisson :** Nettoyer et découper tous les légumes en julienne ou dés réguliers. Les plonger dans un grand bouillon frémissant assaisonné pendant 30 minutes jusqu'à tendreté.
+2. **Cuisson :** Nettoyer et découper tous les légumes en julienne ou en dés réguliers. Les plonger dans un grand bouillon frémissant assaisonné pendant 30 minutes jusqu'à tendreté.
 3. **Service :** Servir fumant avec un filet d'huile de sésame et les nouilles ou pousses de bambou croquantes.

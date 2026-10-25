@@ -3,32 +3,34 @@ layout: recipe
 number: 190
 title: Poulet au citron du chemin du fort de Porticcio, oint d'huile d'olive des Mées, de romarin thym et sauge de la falaise de Kermorvan, d'ail d'Arleux
 ---
+
 ## Ingrédients
 
-*il faut s'y prendre le matin pour le repas du soir*
-- un beau poulet de Loué (1200 à 1500 g environ) prêt à cuire
-- 4 ou 5 cuillers à soupe d'huile d'olive des Mées, rapportée par Michel et Andrée
+*Il est conseillé de s'y prendre le matin pour le repas du soir*
+
+- 1 beau poulet fermier (1,2 à 1,5 kg environ) prêt à cuire
+- 1 gros citron mûr (non traité)
+- 4 à 5 cuillères à soupe d'huile d'olive des Mées
 - 6 gousses d'ail d'Arleux
-- un gros citron cueilli dans le jardin de Renée sur le chemin du fort de Porticcio
-- une poignée de feuilles de sauge du jardin de Mamy Françoise à Kermorvan
-- deux ou trois branches de thym du jardin de Mamy Françoise à Kermorvan
-- cinq ou six branches de romarin cuielliies sur la falaise de Kermorvan
-- une petite poignée de gros sel de Guérande
-- dix grains de poivre noir non moulu
+- 1 poignée de feuilles de sauge fraîche
+- 2 à 3 branches de thym frais
+- 5 à 6 branches de romarin frais
+- 1 petite poignée de gros sel de Guérande
+- 10 grains de poivre noir entiers
 
 ## Préparation
 
-1 - hacher grossièrement thym, romarin, sauge et peler les gousses d'ail
-2 - au hachoir électrique à persil, hachere finement ail, thym, romarin, sauge, grains de poivre avec la moitié de l'huile
-3 - mélanger le hachis obrenu avec le reste de l'huile et le sel, de façon à obtenir une sorte de pommade onctueuse
-4 - oindre à la main (c'est un peu cochonou comme manip) longuement le poulet avec cette pommade, tant à l'extérieur qu'à l'intérieur
-5 - mettre le citron entier (et lavé) dans le poulet de façon qu'il dépasse légèrement ; s'il este des feuilles au citron, les laisser apparentes car c'est très décoratif (je l'ai fait mais ai oublié de prendre une photo ; quel dommage !)
-6 - déposer délicatement le poulet ainsi extrèmement oint (on dit que c'est de cette recette que vient l'expression "donner l'extrème onction à un poulet") dans le plat destiné à aller au four, couvrir et laisser reposer plusieurs heures
-7 - une heure et demie avant de dîner, mettre le four à préchauffer à 250C ; quand il est chaud, enfourner le plat couvert
-8 - au bout de 45 minutes de cuisson, découvrir le poulet et le laisser cuire encore 15 à 30 minutes découvert afin qu'il devienne croustillant et bien cuit dedans.
-9 - servir aussitôt avec salade verte et pommes de terre rôties (nous l'avions accompagné de copeaux de céleri-rave sautés dans la graisse de canard de Piegut, Dordogne, que Michel avait cuits à point)
+1. Hacher grossièrement le thym, le romarin et la sauge. Peler les gousses d'ail.
+2. Au hachoir électrique ou au mortier, hacher très finement l'ail, le thym, le romarin, la sauge et les grains de poivre avec la moitié de l'huile d'olive.
+3. Incorporer le reste de l'huile d'olive et le gros sel de manière à obtenir une pommade aromatique bien onctueuse.
+4. Oindre longuement et généreusement le poulet à la main avec cette pommade, tant sur toute sa peau extérieure qu'à l'intérieur de la cavité.
+5. Laver le citron entier, l'inciser légèrement et l'insérer à l'intérieur du poulet en laissant dépasser l'extrémité (laisser apparentes les feuilles de tige du citron si présentes pour la touche décorative).
+6. Déposer délicatement le poulet ainsi oint dans un grand plat allant au four, couvrir d'un film ou couvercle et laisser mariner plusieurs heures au frais.
+7. Une heure et demie avant le service, préchauffer le four à 250°C (480°F). Enfourner le plat couvert dès que le four est bien chaud.
+8. Au bout de 45 minutes de cuisson, découvrir le poulet et poursuivre la cuisson 15 à 30 minutes à découvert afin que la peau devienne bien dorée et croustillante et la chair parfaitement cuite à cœur.
+9. Servir aussitôt découpé, accompagné d'une salade verte, de pommes de terre rôties ou de grosses pâtes (lumaconi) nappées du jus parfumé.
 
 ## Observations
 
-1 - recette préparée le samedi 31 mai à Quiberon pour Michel Pioger et Madame, qui nous faisaient l'honneur de dîner chez nous
-2 - bien que le céleri fût une idée de moi, je n'en ai pas mangé (j'ai horreur de ça) et ai préféré des grosses pâtes (des lumaconi de chez Panzani); cuites 15 minutes à l'eau salée et légèrement huilée, de façon à être juste al dente ; saucées ensuite à la graisse de canard chaude, elles sont délicieuses.
+- **Contexte :** Recette préparée le samedi 31 mai 2008 à Quiberon pour Michel Pioger et son épouse, qui nous faisaient l'honneur de dîner à la maison.
+- **Accompagnement :** Accompagné de copeaux de céleri-rave sautés à la graisse de canard ou de grosses pâtes al dente imprégnées du délicieux jus aux herbes et au citron.

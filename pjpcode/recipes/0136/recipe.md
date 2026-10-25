@@ -1,53 +1,32 @@
 ---
 layout: recipe
 number: 136
-title: Glace aux noix et aux pignons
+title: "Glace aux noix et aux pignons"
 ---
+
+*Pour 4 personnes*
+
 ## Ingrédients
 
-*:*
-
-pour 4 personnes :
-
-- 100 à 150 gr de cerneaux de noix et de pignons
-
-- 1 boîte de 400 g de lait concentré non sucré (Régilait, Gloria, etc.)
-
-- 4 cuillers à soupe de crème fraîche épaisse
-
-- 3 cuillères à soupe de miel
-
-- 1 oeuf entier
-
-** **
+- 100 à 150 g de cerneaux de noix et de pignons de pin
+- 400 g de lait concentré non sucré (1 boîte)
+- 4 c. à soupe de crème fraîche épaisse
+- 3 c. à soupe de miel toutes fleurs
+- 1 gros œuf frais
 
 ## Préparation
 
-- mettre dans une petite casserole les 3/4 des noix et des pignons ; couvrir d'eau froide
-
-- cuire à feu doux jusqu’à évaporation presque complète de l’eau (ne pas laisser brûler)
-
-- égoutter les noix et les pignons, passer au mixer, réserver
-
-- battre la crème, réserver
-
-- battre l’œuf, réserver
-
-- dans un mixer, mélanger lait, crème battue, oeuf battu, noix et pignons broyés, ainsi que le miel ; mixer au moins une minute pour que l'appareil<a href="#_ftn1" id="_ftnref1" style="mso-footnote-id:ftn1">[1]</a> soit le plus homogène possible
-
-- mettre la sorbetière et sangler<a href="#_ftn2" id="_ftnref2" style="mso-footnote-id:
-ftn2">[2]</a>
-
-- pendant le sanglage, ciseler le quart des cerneaux et des pignons restants ; saupoudrer dans la sorbetière en marche
-
--         surveiller la prise car elle est assez rapide (30 minutes environ)
+1. Dans une petite casserole, déposer les trois quarts des cerneaux de noix et des pignons, puis couvrir d'eau froide.
+2. Faire cuire à feu doux jusqu'à évaporation presque complète de l'eau en surveillant attentivement pour ne pas faire brûler les fruits secs.
+3. Égoutter les noix et pignons réhydratés, les passer au mixeur pour les réduire en pâte fine, puis réserver.
+4. Dans un bol, fouetter légèrement la crème fraîche épaisse.
+5. Dans un autre bol, battre l'œuf entier à la fourchette.
+6. Dans le bol du mixeur, réunir le lait concentré non sucré, la crème fouettée, l'œuf battu, la pâte de noix et pignons ainsi que le miel. Mixer au moins 1 minute jusqu'à ce que l'appareil soit parfaitement lisse et homogène.
+7. Verser la préparation dans la sorbetière et faire turbiner.
+8. Pendant la prise en glace, concasser finement au couteau le quart restant de cerneaux de noix et de pignons, puis les jeter en pluie dans la sorbetière en marche pour parsemer la glace d'éclats croquants.
+9. Surveiller la prise qui s'effectue en une trentaine de minutes, puis transférer dans un bac au congélateur.
 
 ## Observations
 
-Recette préparée le 12 août 2007 pour Andrée, Michel et nous deux ; excellente mais trop dure car j’avais oublié de la sortir du congélateur avant le repas (je l’avais faite la veille).
-
-------------------------------------------------------------------------
-
-<a href="#_ftnref1" id="_ftn1" style="mso-footnote-id:ftn1">[1]</a> Mélange de différents ingrédients constituant la base d'une recette
-
-<a href="#_ftnref2" id="_ftn2" style="mso-footnote-id:ftn2">[2]</a> Faire prendre un appareil à crème glacée dans une sorbetière (on dit aussi turbiner)
+- **Contexte :** Recette préparée le 12 août 2007 pour Andrée, Michel et nous deux ; excellente saveur mais texture un peu ferme car préparée la veille sans avoir été sortie quelques minutes avant le dessert.
+- **Conseil de service :** Penser à sortir la glace du congélateur 10 à 15 minutes avant dégustation afin qu'elle retrouve toute son onctuosité.

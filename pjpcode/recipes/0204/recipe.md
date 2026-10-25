@@ -6,24 +6,26 @@ pdf: true
 docx: true
 ---
 
-[![Confiture de raisin de Kermorvan](image-01.jpg)](image-01.jpg)
+![Confiture de raisin de Kermorvan](image-01.jpg)
 
-## Ingrédients (pour 7 pots)
+## Ingrédients
 
-- 2,7 kg de grappes bien mûres (qui donneront 2 kg de jus de raisin)
-- 1 kg de sucre
-- 1 dl de jus de citron
+*Pour 7 pots*
+
+- 2,7 kg de grappes de raisin bien mûres (qui donneront environ 2 kg de jus de raisin filtré)
+- 1 kg de sucre en poudre
+- 10 cl (1 dl) de jus de citron
 
 ## Préparation
 
-- on lave les grappes (elles sont pleines de bestioles), et on les égraine
-- on presse pour extraire le jus sans la peau, sans les pépins
-- on mélange jus de raisin, sucre et jus de citron
-- on fait cuire jusqu'à obtenir la bonne viscosité (une goutte sur une assiette ne doit pas couler)
-- on met en pots suivant le processus habituel
+1. Laver soigneusement les grappes de raisin à grande eau et les égrener.
+2. Presser les grains de raisin pour extraire tout le jus pur, sans la peau ni les pépins.
+3. Dans une bassine à confiture, mélanger le jus de raisin, le sucre en poudre et le jus de citron.
+4. Porter à ébullition et faire cuire à feu moyen jusqu'à obtention de la consistance souhaitée (une goutte déposée sur une assiette froide doit se figer sans couler).
+5. Verser la confiture bouillante dans des pots préalablement ébouillantés, visser les couvercles et laisser refroidir.
 
 ## Observations
 
-- recette préparée en août 2006 à Quiberon pour la première fois, puis recommencée chaque année, mais en quantités de moins en moins importantes, car les confitures des autres fruits (figues, mûres, abricots, prunes, poires, agrumes) sont préférées des enfants.
-- la préparation est en effet longue (égrainage, pressage) et il ne faut pas traîner car le jus de raisin fermente très vite et prend un goût de vin pas très agréable.
-- on s'est servi de cette confiture surtout pour parfumer les yaourts et aciduler les tartes aux pommes (glaçage en fin de cuisson).
+- **Contexte :** Recette préparée pour la première fois en août 2006 à Quiberon, puis renouvelée chaque été en plus petites quantités en raison de la préférence des enfants pour d'autres fruits.
+- **Conseil :** L'égrenage et le pressage étant longs, il convient de ne pas tarder à la cuisson car le jus de raisin frais fermente rapidement.
+- **Utilisation :** Cette confiture acidulée est particulièrement savoureuse pour napper les yaourts maison ou lustrer les tartes aux pommes en sortie de four.

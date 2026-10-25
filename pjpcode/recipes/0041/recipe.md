@@ -4,10 +4,11 @@ number: 41
 title: "Brochettes de bœuf, agneau et veau façon chiche kebab"
 ---
 
-[![Brochettes chiche kebab au barbecue](image-01.jpg)](image-01.jpg)
-[![Brochettes chiche kebab — recette manuscrite](image-02.jpg)](image-02.jpg)
+![Brochettes chiche kebab au barbecue](image-01.jpg)
 
 *Pour 4 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-02.jpg)*
 
 ## Ingrédients
 
@@ -33,4 +34,7 @@ title: "Brochettes de bœuf, agneau et veau façon chiche kebab"
 4. **Temps de cuisson :** Faire griller 8 à 12 minutes au total, en les retournant toutes les 4 à 5 minutes et en les badigeonnant régulièrement pour conserver une viande bien juteuse et parfumée.
 5. **Service :** Servir aussitôt avec du riz basmati ou une belle salade fraîche.
 
-> **Observations :** Réalisé à Quiberon le 02/06/2006 dans le jardin avec Andrée, Claire et nous : un délice ! Attention aux portions : 1 grosse brochette par personne est amplement suffisante.
+## Observations
+
+- **Contexte :** Réalisé à Quiberon le 2 juin 2006 dans le jardin avec Andrée, Claire et nous : un délice !
+- **Portions :** Une grosse brochette par personne est amplement suffisante.

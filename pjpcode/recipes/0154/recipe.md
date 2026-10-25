@@ -1,35 +1,36 @@
 ---
 layout: recipe
 number: 154
-title: Onion pie, la tarte à l'oignon qui a valu à Hannah et Samuel Mathews "the 2nd place in the 2007 International Pie Contest" d'Escazu
+title: "Onion pie, la tarte à l'oignon qui a valu à Hannah et Samuel Mathews \"the 2nd place in the 2007 International Pie Contest\" d'Escazú"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+*For 12 servings / Pour 12 personnes*
 
-## Ingrédients / Ingredients (for 12 servings)
+📄 *[Consulter le diplôme original](image-01.jpg)*
 
--         dough (500g)
--         large yellow onions (10)
--         flour (100g)
--         butter (100g)
--         milk (1liter)
--         egg yolks (6)
--         oil (2 tablespoons)
--         salt and pepper (according to taste)
+## Ingrédients
 
-## Préparation / Preparation
+- 500 g de pâte brisée (*dough*)
+- 10 gros oignons jaunes (*large yellow onions*)
+- 1 litre de lait entier (*milk*)
+- 100 g de beurre (*butter*)
+- 100 g de farine (*flour*)
+- 6 jaunes d'œufs (*egg yolks*)
+- 2 c. à soupe d'huile végétale (*oil*)
+- Sel fin et poivre du moulin (*salt and pepper*)
 
--         spray the oil on the piepan
--         spread the dough on the piepan
--         pre-heat the oven (200C, 400F)
--         put the piepan in the oven for 20 mn, then take it out and let it cool down
--         peel and slice the onions
--         sauté them in a frying pan with oil ( they must become darker but not burn)
--         spread the onions on the dough after removing the oil in excess on paper
--         make a white sauce with butter, flour, milk and yolks, salt and pepper
--         spread the white sauce on the onions
--         cook in the oven for 20 mn
+## Préparation
 
-## Observation
+1. Préchauffer le four à 200°C (400°F).
+2. Huiler légèrement un grand moule à tarte.
+3. Étaler la pâte brisée dans le moule, piquer le fond à la fourchette et précuire à blanc pendant 20 minutes au four, puis laisser tiédir.
+4. Éplucher les 10 gros oignons jaunes et les émincer en fines lamelles.
+5. Faire revenir les oignons dans une poêle avec l'huile à feu moyen jusqu'à ce qu'ils soient bien fondants et dorés, sans les laisser brûler.
+6. Égoutter l'excédent d'huile des oignons sur du papier absorbant, puis les répartir uniformément sur le fond de pâte précuit.
+7. Préparer une sauce blanche liée : faire fondre le beurre dans une casserole, ajouter la farine et remuer 1 minute pour former un roux, puis délayer progressivement avec le litre de lait chaud. Hors du feu, incorporer les 6 jaunes d'œufs battus, saler et poivrer.
+8. Verser la sauce blanche sur la garniture d'oignons.
+9. Enfourner et faire cuire pendant 20 minutes jusqu'à ce que la tarte soit bien prise et dorée en surface. Servir chaud ou tiède.
 
-Cette tarte à l'oignon a valu à Hannah et Samuel Mathews la seconde place au concours international de tartes d'Escazu le 29 septembre 2007 .
+## Observations
+
+- **Distinction :** Cette succulente tarte à l'oignon a valu à Hannah et Samuel Mathews la prestigieuse 2e place au Concours International de Tartes d'Escazú (*2007 International Pie Contest*) le 29 septembre 2007 !

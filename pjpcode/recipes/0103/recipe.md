@@ -1,32 +1,30 @@
 ---
 layout: recipe
 number: 103
-title: Petits feuilletés au chèvre et au basilic comme chez Marie-Hélène (avec photo des mains des cuisinières)
+title: "Petits feuilletés au chèvre et au basilic comme chez Marie-Hélène (avec photo des mains des cuisinières)"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+[![Petits feuilletés au chèvre et au basilic comme chez Marie-Hélène](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 
-- deux rouleaux de pâte feuilletée toute faite
-- un fromage de chèvre en forme de buche
-- une vingtaine de feuilles de basilic
-- un jaune d'oeuf
+- 2 rouleaux de pâte feuilletée pur beurre
+- 1 bûche de fromage de chèvre
+- 20 belles feuilles de basilic frais
+- 1 jaune d'œuf pour la dorure
 
 ## Préparation
 
-- étaler la pâte et y découper une vingtaine de disques à l'aide d'un verre à boire
-- préchauffer le four à 220C, en retirer la plaque
-- éplucher le fromage au cas où les convives n'aiemraient pas en manger la peau
-- débiter le fromage en dix rondelles
-- sur la plaque du four disposer une des feuilles de papier des rouleaux de pâte
-- sur ce papier disposer dix disques de pâte
-- sur chacun de ces disques, disposer une rondelle de fromage et une feuille de basilic
-- recouvrir chacune des dix "tartines" ainsi constituées d'un disque de pâte et border en pinçant
-- badigeonner de jaune d'oeuf et enfourner
-- surveiller la cuisson car c'est très rapide (15 à 20 mn)
-- servir chaud avec une salde verte
+1. Dérouler la première pâte feuilletée et y découper une dizaine de disques à l'aide d'un emporte-pièce ou d'un verre. Faire de même avec le second rouleau (20 disques au total).
+2. Préchauffer le four à 220°C (425°F).
+3. Découper la bûche de chèvre en 10 rondelles épaisses (retirer la croûte au préalable si souhaité).
+4. Déposer une feuille de papier cuisson sur la plaque du four et y disposer 10 premiers disques de pâte.
+5. Déposer au centre de chaque disque une rondelle de chèvre et recouvrir de deux feuilles de basilic frais.
+6. Humecter légèrement le pourtour à l'eau, puis recouvrir chaque bouchée d'un second disque de pâte en pinçant fermement les bords pour bien souder.
+7. Badigeonner la surface au pinceau avec le jaune d'œuf délayé d'une goutte d'eau.
+8. Enfourner et surveiller attentivement la cuisson pendant 15 à 20 minutes jusqu'à ce que les feuilletés soient gonflés et bien dorés.
+9. Servir aussitôt à la sortie du four, accompagnés d'une salade verte bien assaisonnée.
 
-## Observation
+## Observations
 
-Recette xécutée à Porticcio le 6 nocvembre 2006 ; excellente !
+- **Contexte :** Recette exécutée à Porticcio le 6 novembre 2006 ; de petits feuilletés croustillants et parfumés, absolument délicieux !

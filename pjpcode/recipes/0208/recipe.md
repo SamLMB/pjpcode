@@ -4,28 +4,29 @@ number: 208
 title: Tarte aux prunes pas très mûres
 ---
 
-Recette n°208 : tarte aux prunes pas très mûres
+Quand on achète des prunes au marché, il arrive souvent qu'elles soient belles d'aspect mais pas tout à fait assez mûres. Cette recette permet de réaliser néanmoins une tarte particulièrement savoureuse.
 
-Quand on achète des prunes, il arrive souvent qu'elles soient belles mais pas assez mûres ; cette recette permet de faire néanmoins une excellente tarte dans un tel cas.
+## Ingrédients
 
-## Ingrédients (pour 8 personnes)
+*Pour 8 personnes*
 
-- 1 pâte brisée
-- 1 kg de prunes pas très mûres, dénoyautées et coupées en demi-prunes
-- 100 g de sucre
-- 2 cuillères à soupe de maïzena
-- 3 oeufs
-- 20 g de crème fraîche
+- 1 rouleau de pâte brisée
+- 1 kg de prunes (pas tout à fait mûres), dénoyautées et coupées en deux
+- 100 g de sucre en poudre
+- 2 cuillères à soupe de fécule de maïs (Maïzena)
+- 3 œufs entiers
+- 20 g de crème fraîche épaisse
 
 ## Préparation
 
-1 - Préchauffer le four à 200C.
-2 - Etaler la pâte sur son papier dans le moule, couper au ciseau la papier qui dépasse.
-3 - Piquer le fond de la tarte avec une fourchette.
-4 - Mettre les demi-prunes sur le fond de la tarte.
-5 - Battre les oeufs avec le sucre, la maïzena et la crème.
-6 - Verser sur les prunes, et cuire de 30 mn à une heure suivant four.
+1. Préchauffer le four à 200°C (400°F).
+2. Dérouler la pâte brisée avec son papier de cuisson dans un moule à tarte, puis couper au ciseau le papier excédentaire.
+3. Piquer le fond de tarte à la fourchette.
+4. Disposer les demi-prunes face bombée vers le dessous sur le fond de pâte.
+5. Dans une terrine, battre vigoureusement les œufs avec le sucre, la Maïzena et la crème fraîche jusqu'à mélange homogène.
+6. Verser cette crème sur les prunes en nappant bien l'ensemble.
+7. Enfourner et faire cuire 30 à 45 minutes selon le four, jusqu'à ce que la crème soit bien prise et le dessus doré.
 
 ## Observations
 
-Recette exécutée le 13 septembre à Quiberon pour Andrée et Michel Pioger et nous deux. Excellente façon de faire une tarte avec des prunes achetées le matin au marché et pas encore assez mûres.
+- **Contexte :** Recette exécutée le 13 septembre 2008 à Quiberon pour Andrée et Michel Pioger et nous deux. Excellente astuce pour valoriser des prunes encore fermes achetées le matin même.

@@ -1,26 +1,32 @@
 ---
 layout: recipe
 number: 168
-title: Saucisses de Morteau et de Montbéliard aux lentilles
+title: "Saucisses de Morteau et de Montbéliard aux lentilles"
 ---
+
+*Pour 4 personnes*
 
 ## Ingrédients
 
-- 500 g de lentilles
-- 2 saucisses de Morteau et 2 de Montbéliard, coupées chacune en deux (pour que chacun des 4 convives goûte les deux types de saucisse)
-- 2 oignons jaunes débités en rondelles, 2 carottes débitées en fines rondelles
-- thym, laurier, huile d'olive (une cuiller à café), sel et poivre selon goût
+- 500 g de lentilles vertes du Puy (ou lentilles blondes)
+- 2 saucisses de Morteau coupées en deux
+- 2 saucisses de Montbéliard coupées en deux
+- 2 gros oignons jaunes émincés en rondelles
+- 2 carottes coupées en fines rondelles
+- 1 bouquet garni (thym, laurier)
+- 1 c. à café d'huile d'olive
+- Sel et poivre du moulin (saler avec parcimonie)
 
 ## Préparation
 
-1 - faire revenir, sans brûler, carottes et oignons à la poêle dans l'huile d'olive
-2 - dans une cocotte (cf. observation n°1 ci-dessous), mettre dans l'ordre : lentilles, oignons et carottes, thym et laurier, saucisses
-3 - couvrir d'eau sans excès et mettre à cuire :
-       - 20 mn si on est en cocotte minute (temps compté à partir de la mise en rotation de la soupape)
-       - 2 heures si on est en cocotte normale (dans ce cas, surveiller le niveau d'eau et compléter si nécessaire), mais à feu le plus doux possible
-4 - saler et poivrer selon goût au moment de servir (goûter auparavant car les saucisses salent beaucoup)
+1. Dans une poêle, faire suer doucement les rondelles d'oignons et de carottes dans l'huile d'olive à feu moyen sans les faire brûler.
+2. Dans une grande cocotte en fonte (ou une cocotte-minute), déposer les lentilles rincées au fond, ajouter les oignons et les carottes fondus, le bouquet garni, puis disposer les demi-saucisses par-dessus.
+3. Couvrir d'eau froide à hauteur sans excès.
+4. Couvrir et faire cuire soit à feu très doux en cocotte traditionnelle pendant 1h30 à 2 heures en surveillant le niveau d'eau (méthode recommandée), soit en cocotte-minute pendant 20 minutes à partir de la rotation de la soupape.
+5. Goûter le bouillon avant de rectifier l'assaisonnement en poivre et sel (les saucisses fumées libérant beaucoup de sel à la cuisson).
+6. Servir fumant avec de la moutarde de Dijon et du bon pain de campagne.
 
 ## Observations
 
-1 - le goût est bien meilleur si on fait cuire en cocotte normale, et il n'est pas sûr que cela coûte beaucoup plus cher en gaz car la cuisson se fait alors à feu réduit au maximum (on commence par monter en température jusqu'à ébullition, puis on réduit de façon à ce qu'on ne voie plus de bulles) ; en revanche la cocotte minute fait gagner beaucoup de temps (au risque que les lentilles brûlent au fond de la cocotte).
-2 - recette exécutée le 5 janvier 2008 à Quiberon pour nos invités Dame Andrée du Bourny et son prince charmant, Messire Michel ; ils en reprirent, tant le mets fut bon !
+- **Mode de cuisson :** La cuisson lente en cocotte traditionnelle à feu très doux préserve la tenue des lentilles sans les faire éclater et concentre magnifiquement les parfums fumés des charcuteries franc-comtoises.
+- **Contexte :** Recette exécutée le 5 janvier 2008 à Quiberon pour Dame Andrée du Bourny et son prince charmant, Messire Michel ; un régal d'hiver réconfortant qui a valu un franc succès au cuisinier !

@@ -1,36 +1,39 @@
 ---
 layout: recipe
 number: 81
-title: Risotto tout simple aux champignons de Paris
+title: "Risotto tout simple aux champignons de Paris"
 ---
 
-## Ingrédients (pour 4 personnes)
+*Pour 4 personnes*
 
-- 1,5 litre de bouillon de poule
+## Ingrédients
+
+- 400 g de riz à risotto (Arborio ou Carnaroli)
 - 500 g de champignons de Paris frais
-- 2 cuillers à café d'huile d'olive
-- 2 gousses d'aïl
+- 1,5 litre de bouillon de volaille chaud
 - 1 gros oignon jaune
-- 400 g de riz à risotto
+- 2 gousses d'ail
 - 100 g de crème fraîche allégée
-- une poignée de ciboulette ou d'estragon
+- 2 c. à café d'huile d'olive
+- 1 poignée de ciboulette fraîche ciselée (ou estragon)
+- Sel et poivre du moulin
 
 ## Préparation
 
-- préchauffer le four à 100C
-- préparer le bouillon et le garder au chaud
-- laver et ciseler la ciboulette
-- couper les champignons en lamelles et faire revenir dans une cuiller d'huile, et les réserver au four sous papier d'alu
-- hacher l'ail et l'oignon, et faire fondre sans brûler dans une cuiller d'huile
-- ajouter le riz à l'aïl et à l'oignon et bien mélanger en continuant à chauffer jusqu'à ce que le riz devienne translucide
-- verser alors 1/4 de litre de bouillon chaud et remuer jusqu'à ce que le bouillon soit tout absorbé
-- recommencer l'opération en 3 fois (encore 1/4 de litre puis 2 fois 1/2 litre) jusqu'à ce que le riz soit tendre et crémeux
-- mettre les assiettes à chauffer en les immergeant dans de l'eau très chaude
-- ajouter les champignons et la ciboulette
-- mélanger la crème fraîche et servir immédiatement sur assiettes chaudes
+1. Préchauffer le four à 100°C (212°F) pour garder les assiettes au chaud.
+2. Préparer le bouillon de volaille et le maintenir frémissant à couvert sur feu doux.
+3. Laver et ciseler la ciboulette fraîche.
+4. Nettoyer et couper les champignons en lamelles régulières. Les faire sauter dans une poêle avec 1 cuillère à café d'huile d'olive jusqu'à ce qu'ils soient dorés, puis les réserver au four sous une feuille d'aluminium.
+5. Hacher finement l'ail et l'oignon. Dans une sauteuse, les faire fondre doucement dans la seconde cuillère d'huile d'olive sans coloration.
+6. Ajouter le riz dans la sauteuse et remuer constamment à feu moyen pendant 2 minutes jusqu'à ce que les grains soient translucides et nacrés.
+7. Verser 25 cl de bouillon chaud et remuer sans cesse jusqu'à absorption complète par le riz.
+8. Répéter l'opération en incorporant le bouillon chaud au fur et à mesure (en trois ou quatre fois) tout en remuant régulièrement, jusqu'à ce que le riz devienne tendre et onctueux (environ 20 minutes).
+9. Mettre les assiettes creuses à chauffer au four ou avec de l'eau bouillante.
+10. Incorporer les champignons dorés et la ciboulette ciselée dans le risotto.
+11. Lier hors du feu avec la crème fraîche, donner un tour de moulin à poivre et servir immédiatement dans les assiettes chaudes.
 
 ## Observations
 
-1 - recette exécutée le 26 septembre 2006 à Rennes pour Mamy et moi
-2 - par personne, les quantités (100 g de riz et 125 g de champignons) sont un peu élevées : il est préférable d'en faire un plat unique et d'avoir très faim
-3- excellent avec une bonne doucette
+- **Contexte :** Recette exécutée le 26 septembre 2006 à Rennes pour Mamy et moi.
+- **Portions :** Les proportions (100 g de riz et 125 g de champignons par convive) sont copieuses : ce risotto constitue un excellent plat unique pour un dîner d'automne.
+- **Accompagnement :** Délicieux avec une bonne salade de doucette (mâche nantaise).

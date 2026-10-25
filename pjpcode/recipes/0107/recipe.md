@@ -1,32 +1,32 @@
 ---
 layout: recipe
 number: 107
-title: Frites de Maître Michel du Bourny
+title: "Frites de Maître Michel du Bourny"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+[![Frites de Maître Michel du Bourny](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 
-[![](image-02.jpg)](image-02.jpg)
+[![Frites — découpe](image-02.jpg)](image-02.jpg)
 
-- 3 belles pommes de terre à frites par personne
-- 2 litres d'huile à friture
-- sel selon goût
+- 3 belles pommes de terre à frites par personne (type bintje ou agria)
+- 2 litres d'huile de friture (ou blanc de bœuf)
+- Sel fin selon le goût
 
 ## Préparation
 
-[![](image-03.jpg)](image-03.jpg)
+[![Frites — cuisson](image-03.jpg)](image-03.jpg)
 
-- éplucher les pommes de terre
-- mettre l'huile à chauffer dans la friteuse
-- découper les pommes de terre en bâtonnets de 1cm x1cm
-- jeter les pommes de terre dans l'huile bouillante et laisser cuire pour les ramollir
-- sortir les pommes de terre de l'huile et égoutter
-- remettre dans l'huile pour dorer les frites
-- sortir, saler et servir aussitôt
+1. Éplucher les pommes de terre et les laver soigneusement.
+2. Découper les pommes de terre en bâtonnets réguliers d'environ 1 cm de section, puis bien les sécher dans un torchon propre.
+3. Faire chauffer l'huile de la friteuse à 150°C–160°C (300°F–325°F).
+4. Plonger les frites dans le premier bain d'huile pour le pochage (environ 6 à 8 minutes) afin de cuire l'intérieur sans le dorer.
+5. Sortir le panier et laisser égoutter et tiédir les frites pendant quelques minutes.
+6. Monter l'huile à 180°C–190°C (350°F–375°F), puis replonger les frites pour le second bain pendant 2 à 3 minutes pour les rendre bien dorées et croustillantes.
+7. Égoutter, verser dans un plat tapissé de papier absorbant, saler généreusement et servir aussitôt bien chaud.
 
 ## Observations
 
-1 - recette exécutée à Quiberon le 18 novembre 2006 par Maître Michel du Bourny avec un brio dont il a le secret ; ces frites étaient absolument divines ; les convives (outre Maître Michel lui-même, son épouse Madame Andrée du Bourny, et nous deux).
-2 - frites servies avec des moules marinières faites par Mamy de Rennes (cf. recette n°106) avec une petite salade d'endives au vinaigre balsamique et un Margaux rapporté par William et Isabelle de leurs vacances à Lacanau. Repas rare !
+- **Contexte :** Recette exécutée à Quiberon le 18 novembre 2006 par Maître Michel du Bourny avec un brio dont il a le secret ; ces frites étaient absolument divines ! Étaient réunis autour de la table : Maître Michel lui-même, son épouse Madame Andrée du Bourny, et nous deux.
+- **Accompagnement :** Servies avec les moules marinières de Mamy de Rennes (cf. recette n°106), une salade d'endives au vinaigre balsamique et un Margaux rapporté par William et Isabelle de leurs vacances à Lacanau. Un repas d'anthologie !

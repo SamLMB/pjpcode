@@ -1,45 +1,47 @@
 ---
 layout: recipe
 number: 64
-title: Risotto au haddock
+title: "Risotto au haddock"
 ---
 
-## Ingrédients (pour 6 personnes)
+*Pour 6 personnes*
 
-- 1,5 litre de bouillon de poule, de préférence fait maison (cf. observation 1 ci-dessous)
-- 350 g de riz arborio (ou d'un autre riz pour risotto)
-- un filet de 400 g environ de haddock
-- un filet de 400 g environ d'un poisson blanc, de julienne par exemple
-- une demi-livre de moules
-- une demi-livre de crevettes roses
-- une demi-livre d'anneaux de calamar
-- 150 cl de vin blanc sec
-- un poivron rouge
-- 150 g de petits pois frais ou surgelés
+## Ingrédients
+
+- 1,5 litre de bouillon de poule (maison ou cubes)
+- 350 g de riz à risotto (Arborio ou Carnaroli)
+- 400 g de filet de haddock
+- 400 g de filet de poisson blanc (julienne ou cabillaud)
+- 250 g de moules
+- 250 g de crevettes roses
+- 250 g d'anneaux de calamar
+- 15 cl de vin blanc sec
+- 1 poivron rouge
+- 150 g de petits pois (frais ou surgelés)
 - 3 tomates moyennes
-- 2 cuillers à soupe d'huile d'olive
-- un gros oignon jaune
-- deux gousses d'ail, d'Arleux de préférence
-- une grosse pincée de safran
+- 2 c. à soupe d'huile d'olive
+- 1 gros oignon jaune
+- 2 gousses d'ail d'Arleux
+- 1 belle pincée de safran
 
 ## Préparation
 
-- hacher l'oignon et réserver, hacher l'ail et réserver, couper le poivron en dés et réserver, couper les tomates en dés et réserver
-- nettoyer les moules, les faire ouvrir à la cocotte, les sortir de leurs coquilles et réserver
-- décortiquer les crevettes en n'en conservant que les queues et réserver, faire blanchir les calamars et réserver
-- mettre une cuiller d'huile d'olive dans une poêle, faire cuire à point le haddock et l'autre poisson, mettre à refroidir
-- dans une casserole, mettre à bouillir le bouillon de poule avec le safran ; couvrir et laisser mijoter et réduire à feu moyen
-- émietter les poissons une fois froids en prenant bien garde à en retirer toutes les arètes, réserver
-- dans une grande sauteuse mettre la seconde cuiller d'huile d'olive et y faire revenir oignon, ail et poivron en remuant sans cesse à la spatule jusqu'à ce que l'oignon  soit devenu transparent, en faisant très attention à ce qu'il ne brûle pas, puis réduire à feu moyen
-- sans attendre, verser le riz en pluie dans la sauteuse, verser 1/8 de litre de bouillon, remuer sans cesse jusqu'à ce que tout le liquide soit absorbé par le riz
-- remettre 1/8 de litre de bouillon et remuer encore jusqu'à absorption, recommencer plusieurs fois jusqu'à ce que le riz soit tendre (cela prend 30 à 40 mn au total)
-- ajouter les crevettes, les moules et les calamars, laisser cuire en remuant pendant 3 à 4 minutes (jusqu'à cuisson des crevettes)
-- ajouter alors les tomates en dés, les petits pois et les poissons émiettés, bien remuer toujours à feu moyen
-- servir sans attendre car ce plat doit être mangé très chaud
+1. Hacher finement l'oignon et l'ail. Découper le poivron et les tomates en petits dés réguliers.
+2. Nettoyer les moules, les faire ouvrir dans une casserole couverte sur feu vif, puis les décoquiller et les réserver dans leur jus filtré.
+3. Décortiquer les crevettes en ne conservant que les queues. Blanchir brièvement les anneaux de calamar à l'eau bouillante et réserver.
+4. Dans une poêle avec 1 cuillère à soupe d'huile d'olive, cuire à point les filets de haddock et de poisson blanc, puis laisser tiédir. Retirer minutieusement les arêtes et émietter la chair.
+5. Dans une casserole, porter à ébullition le bouillon de poule avec le safran, puis laisser frémir à couvert sur feu doux.
+6. Dans une grande sauteuse, chauffer la seconde cuillère d'huile d'olive et faire suer l'oignon, l'ail et les dés de poivron jusqu'à ce que l'oignon devienne translucide sans colorer.
+7. Verser le riz en pluie dans la sauteuse et remuer 1 à 2 minutes pour bien nacrer les grains.
+8. Verser le vin blanc, laisser évaporer, puis ajouter une première louche de bouillon safrané chaud. Remuer sans cesse jusqu'à absorption complète.
+9. Ajouter progressivement le bouillon chaud louche après louche en remuant constamment pendant environ 20 minutes, jusqu'à ce que le riz soit crémeux mais encore légèrement al dente.
+10. Ajouter les crevettes, les moules et les calamars, et laisser réchauffer 3 à 4 minutes à feu doux.
+11. Incorporer enfin les dés de tomates, les petits pois et les morceaux de poisson émietté. Remuer délicatement pendant 2 minutes pour lier l'ensemble.
+12. Servir sans attendre dans des assiettes bien chaudes.
 
 ## Observations
 
-1 - on peut bien sûr faire le bouillon à partir de tablettes, mais c'est bien meilleur quand il provient par exemple d'une carcasse de poulet rôti qu'on a mise à mijoter quelques heures dans l'eau et dont on a filtré ensuite le jus
-2 - ce risotto est appelé "risotto au haddock" car le haddock domine en goût tous les autres ingrédients marins, qui sont néanmoins utiles à éviter la violence du seul haddock (on peut bien sûr, suivant les goûts, varier ces autres ingrédients)
-3 - recette exécutée le 30 août 2006 à Quiberon pour 4 convives (Annie Bouvet, Andrée, Mamy et moi)
-4- bien appréciée, certains convives ayant souhaité ajouter du parmesan râpé.
+- **Bouillon :** Le bouillon est bien plus savoureux lorsqu'il est préparé à partir d'une carcasse de poulet rôti mijotée quelques heures avec des aromates puis filtrée.
+- **Harmonie des saveurs :** Le haddock apporte une note fumée caractéristique qui domine délicatement le plat, tandis que les autres fruits de mer et poissons adoucissent l'ensemble.
+- **Contexte :** Recette exécutée le 30 août 2006 à Quiberon pour 4 convives (Annie Bouvet, Andrée, Mamy et moi).
+- **Service :** Plat très apprécié ; certains convives ont complété d'un voile de parmesan râpé au moment du service.

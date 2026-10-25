@@ -4,10 +4,11 @@ number: 39
 title: "Salade de lentilles vertes du Puy aux agrumes et à la saucisse de Morteau"
 ---
 
-[![Salade de lentilles et saucisse de Morteau](image-01.jpg)](image-01.jpg)
-[![Salade de lentilles — recette manuscrite](image-02.jpg)](image-02.jpg)
+![Salade de lentilles et saucisse de Morteau](image-01.jpg)
 
 *Pour 6 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-02.jpg)*
 
 ## Ingrédients
 
@@ -31,4 +32,6 @@ title: "Salade de lentilles vertes du Puy aux agrumes et à la saucisse de Morte
 4. **Assemblage tiède :** Égoutter les lentilles encore tièdes, les mélanger aussitôt avec les échalotes hachées, le zeste de citron, les suprêmes d'agrumes et la vinaigrette pour qu'elles s'imprègnent des saveurs.
 5. **Dressage et service :** Découper les saucisses de Morteau chaudes en rondelles d'un demi-centimètre. Disposer la salade de lentilles aux agrumes, parsemer de pignons grillés et de coriandre fraîche ciselée, et entourer des rondelles de saucisse.
 
-> **Observations :** Recette préparée à Quiberon pour 4 (Andrée, Claire et nous deux) le 03/06/2006 : un régal complet et plein de fraîcheur pour le soir !
+## Observations
+
+- **Contexte :** Recette préparée à Quiberon pour 4 (Andrée, Claire et nous deux) le 3 juin 2006 : un régal complet et plein de fraîcheur pour le soir !

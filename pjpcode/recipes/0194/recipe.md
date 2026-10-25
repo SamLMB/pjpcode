@@ -3,39 +3,41 @@ layout: recipe
 number: 194
 title: Tajine d'agneau aux citrons confits comme le prépare Madame Collet de Haute-Savoie
 ---
+
 ## Ingrédients
 
-*pour 8 personnes :*
-- 1,6 kg d'épaule d'agneau non désossée et coupée en cubes de 4 cm d'arète
-- 200 g d'olives vertes (les violettes vont mieux, mais elles sont rares)
-- la peau de 3 citrons confits découpée en lanières de 1 cm de large (on jette le reste du citron
-- une gousse d'ail (d'Arleux de préférence) finement hachée .
-- un oignon épluché et finement ciselé .
-- quelques branches de persil plat (la coriandre est mieux, mais tout le monde n'aime pas ça)
-- une cuiller à café de curcuma ou de safran
-- une cuiller à café de d'épices à couscous (rase el hanout)
-- une cuiller à café de cumin en poudre
-- une cuiller à café de paprika doux
-- un morceau de gingembre de la taille d'une gousse d'ail
-- huile d'olive.
-- sel et poivre selon goût.
+*Pour 8 personnes*
+
+- 1,6 kg d'épaule d'agneau non désossée, découpée en cubes de 4 cm
+- 200 g d'olives vertes dénoyautées (ou violettes)
+- Écorce de 3 citrons confits (découpée en lanières de 1 cm)
+- 1 gousse d'ail d'Arleux finement hachée
+- 1 gros oignon épluché et finement ciselé
+- Quelques branches de persil plat ou de coriandre fraîche
+- 1 cuillère à café de curcuma (ou filaments de safran)
+- 1 cuillère à café de ras el-hanout (épices à couscous)
+- 1 cuillère à café de cumin en poudre
+- 1 cuillère à café de paprika doux
+- 1 morceau de gingembre frais râpé (taille d'une gousse d'ail)
+- 3 cuillères à soupe d'huile d'olive
+- Sel et poivre au moulin
 
 ## Préparation
 
-- préchauffer le four à 120C
-- bien rincer et essorer la peau des citrons et les olives (faute de quoi la saumure salera excessivement le plat)
-- faire revenir l'épaule d'agneau à la sauteuse
-- ajouter l'oignon émincé et faire revenir à feu plus doux encore 5 minutes
-- ajouter un tiers de litre d'eau ; ajouter l'ail, le curcuma, le cumin, le ras el hanout, le paprika, le gingembre
-- saler et poivrer très légèrement
-- ajouter une dizaine d'olives et la peau d'un citron confit
-- verser le tout dans une cocotte en fonte (c'est mieux que le plat à tajine) ; couvrir et mettre au four pendant 2 heures
-- 2 heures plus tard, retirer et retirer les olives ayant cuit dans le tajine (on peut les manger seules mais elles n'ont plus beaucoup de goût) ; mettre la peau des 2 citrons confits restants et le reste d'olives
-- couvrir et laisser cuire encore 30 minutespour 30 mn
-- en fin de cuisson, goûter et ajuster sel et poivre selon goût
-- mettre le tout dans un plat plat de service (idéalement un plat à tajine) et décorer avec les branches de persil ou de coriandre
+1. Préchauffer le four à 120°C (250°F).
+2. Rincer abondamment à l'eau claire et essorer l'écorce des citrons confits et les olives pour éliminer l'excès de saumure salée.
+3. Dans une sauteuse, faire dorer les morceaux d'agneau à l'huile d'olive sur toutes leurs faces.
+4. Ajouter l'oignon ciselé et faire suer à feu doux pendant 5 minutes.
+5. Mouiller avec 33 cl d'eau tiède, puis ajouter l'ail, le curcuma, le cumin, le ras el-hanout, le paprika et le gingembre râpé.
+6. Saler et poivrer très légèrement.
+7. Ajouter une dizaine d'olives et l'écorce d'un citron confit.
+8. Transvaser le tout dans une cocotte en fonte ou un plat à tajine, couvrir hermétiquement et enfourner pour 2 heures de cuisson douce.
+9. Au bout de 2 heures, retirer la cocotte du four et ôter les olives cuites. Incorporer l'écorce des 2 citrons confits restants et le reste des olives.
+10. Couvrir et poursuivre la cuisson au four pendant 30 minutes supplémentaires.
+11. En fin de cuisson, rectifier l'assaisonnement en sel et poivre.
+12. Disposer dans un plat de service chaud (idéalement un plat à tajine traditionnel) et parsemer de pluches de coriandre ou persil frais.
 
 ## Observations
 
-1 - recette donnée par Isabelle, qui la tenait d'une copine d'origine algérienne, Madame Collet de Haute-Savoie.
-2 - recette exécutée en mai 2008 à Quiberon pour la famille Pioger et nous, accompagné de semoule à couscous (des petits artichauts italiens mange-tout auraient bien fait l'affaire aussi, mais nous n'en avons pas trouvé à Quiberon).
+- **Origine :** Recette transmise par Isabelle, qui la tenait d'une amie d'origine algérienne, Madame Collet de Haute-Savoie.
+- **Accompagnement :** Réalisée en mai 2008 à Quiberon pour la famille Pioger et nous, servie avec de la semoule fine cuite à la vapeur.

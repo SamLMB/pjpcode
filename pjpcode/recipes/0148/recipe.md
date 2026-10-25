@@ -1,32 +1,37 @@
 ---
 layout: recipe
 number: 148
-title: Bisque de maïs aux poivrons rouges et au romarin
+title: "Bisque de maïs aux poivrons rouges et au romarin"
 ---
 
-[![Bisque de maïs aux poivrons rouges et au romarin — recette manuscrite](image-01.jpg)](image-01.jpg)
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
-- 4 cuillers à soupe (60 g) de beurre
-- 1/2 l d'oignons en rondelles, 1/4 l de carottes en rondelles
-- 1/8 l de céleri branche en rondelles
-- 2 litres de grains de maïs égouttés (1,2 kg)
-- 1 cuiller à café de romarin
+- 1,2 kg de grains de maïs doux égouttés (environ 2 litres de grains)
+- 1 poivron rouge coupé en fine brunoise
+- 50 cl d'oignons émincés en fines rondelles (environ 2 gros oignons)
+- 25 cl de carottes coupées en rondelles (environ 2 carottes)
+- 12,5 cl de céleri-branche émincé
+- 1,5 litre de bouillon de volaille chaud
+- 25 cl de lait entier (1/4 litre)
+- 60 g de beurre demi-sel (4 c. à soupe)
+- 1 c. à café de romarin séché émietté
 - 1 pincée de poivre de Cayenne
-- 1,5 litre de bouillon de poule chaud
-- 1/4 litre de lait
-- un poivron rouge découpé en brunoise
+- Sel fin et poivre du moulin
 
 ## Préparation
 
-- faire revenir 3 mn en remuant oignons, carottes, céleri dans les 3/4 du beurre
-- ajouter les 3/4 du maïs, le romarin, le poivre et faire revenir en remuant 2 mn de plus
-- ajouter le bouillon de poule et passer au mixer
-- mélanger avec le lait et le reste du maïs
-- avec le reste du beurre, faire revenir le poivron pendant 5 mn et ajouter à la soupe
-- faire réchauffer la soupe sans bouillir et servir
+1. Dans une grande cocotte, faire fondre les trois quarts du beurre (environ 45 g) à feu moyen.
+2. Ajouter les oignons, les carottes et le céleri émincés, puis faire revenir pendant 3 minutes en remuant régulièrement.
+3. Ajouter les trois quarts des grains de maïs, le romarin et le poivre de Cayenne, puis poursuivre la cuisson pendant 2 minutes supplémentaires en remuant.
+4. Verser le bouillon de volaille chaud et porter à frémissement.
+5. Passer le potage au mixeur plongeant jusqu'à l'obtention d'un velouté onctueux.
+6. Incorporer le lait et le quart restant de grains de maïs entiers pour donner de la texture.
+7. Dans une petite poêle avec le reste de beurre (15 g), faire revenir les dés de poivron rouge pendant 5 minutes jusqu'à ce qu'ils soient tendres et légèrement dorés.
+8. Verser les dés de poivron doré dans la soupe de maïs.
+9. Réchauffer doucement l'ensemble à feu doux sans faire bouillir et servir fumant dans des bols chauds.
 
 ## Observations
 
-- Recette faite à Ciudad Colón le 8/9/2007. Magnifique soupe due aux talents de Cécile et de Nancy !
+- **Contexte :** Recette créée à Ciudad Colón le 8 septembre 2007 ; une magnifique bisque veloutée et ensoleillée due aux talents culinaires conjugués de Cécile et de Nancy !

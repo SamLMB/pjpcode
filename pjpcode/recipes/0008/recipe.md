@@ -4,11 +4,11 @@ number: 8
 title: Soupe aux moules
 ---
 
-[![Soupe aux moules — recette manuscrite](image-01.jpg)](image-01.jpg)
+*Pour 4 personnes*
 
-[![Soupe aux moules — suite](image-02.jpg)](image-02.jpg)
+📄 *Manuscrit original : [Page 1](image-01.jpg) · [Page 2](image-02.jpg)*
 
-## Ingrédients (pour 4 personnes)
+## Ingrédients
 
 - 1 litre (ou 1 kg) de moules fraîches
 - 3 échalotes grises
@@ -19,24 +19,22 @@ title: Soupe aux moules
 - 36 cl de lait
 - 13 cl de crème fraîche
 - 1 bouquet de cerfeuil (ou de persil)
-- sel et poivre
+- Sel et poivre
 
 ## Préparation
 
-- laver les moules et ôter le byssus
-- émincer finement les oignons et les échalotes
-- couper les pommes de terre en dés
-- faire revenir les échalotes dans une noisette de beurre jusqu'à ce qu'elles deviennent translucides
-- verser le vin blanc, remuer, porter à ébullition, ajouter les moules et remuer à feu vif à couvert pendant 3 à 4 mn ; jeter toute moule restée fermée
-- décortiquer les moules, les déposer dans leur jus de cuisson filtré et réserver
-- dans une cocotte, faire fondre le reste du beurre et y faire suer les oignons sans coloration
-- verser le lait et ajouter les dés de pommes de terre ; laisser cuire doucement 15 mn, puis incorporer la crème fraîche ; saler et poivrer
-- poursuivre la cuisson 3 à 4 mn en remuant, puis ajouter les moules et leur jus de cuisson
-- mélanger pour bien réchauffer, puis verser le tout dans une soupière très chaude
-- parsemer de pluches de cerfeuil frais et couvrir la soupière quelques instants (sans faire recuire le cerfeuil)
-- servir aussitôt
+1. Laver les moules et retirer le byssus.
+2. Émincer finement les oignons et les échalotes. Couper les pommes de terre en petits dés.
+3. Faire suer les échalotes dans une noisette de beurre jusqu'à ce qu'elles deviennent translucides.
+4. Verser le vin blanc, porter à ébullition, ajouter les moules et couvrir à feu vif pendant 3 à 4 minutes en remuant la cocotte. Jeter toute moule restée fermée.
+5. Décortiquer les moules, les réserver dans leur jus de cuisson filtré.
+6. Dans une cocotte, faire fondre le reste de beurre et y faire suer les oignons sans coloration.
+7. Verser le lait, ajouter les dés de pommes de terre et laisser cuire doucement 15 minutes. Incorporer ensuite la crème fraîche, saler et poivrer.
+8. Poursuivre la cuisson 3 à 4 minutes en remuant, puis ajouter les moules et leur jus de cuisson filtré.
+9. Bien réchauffer l'ensemble sans faire bouillir, puis verser dans une soupière très chaude.
+10. Parsemer de pluches de cerfeuil frais, couvrir la soupière un instant et servir aussitôt.
 
 ## Observations
 
-- recette faite à Quiberon le 16/3/2006.
-- excellent : nous avons mangé à 2 les quantités prévues pour 4 !
+- **Contexte :** Recette réalisée à Quiberon le 16 mars 2006.
+- **Appréciation :** Excellent plat, dégusté à deux sur les quantités prévues pour quatre personnes !

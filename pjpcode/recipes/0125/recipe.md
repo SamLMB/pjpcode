@@ -1,47 +1,37 @@
 ---
 layout: recipe
 number: 125
-title: Œufs au lait à la chicorée et au caramel de beurre salé
+title: "Œufs au lait à la chicorée et au caramel de beurre salé"
 ---
 
-**Recette n°125** :
+[![Œufs au lait à la chicorée et au caramel de beurre salé](image-01.jpg)](image-01.jpg)
 
-Oeufs au lait à la chicorée et au caramel de beurre salé.
-
-[![](image-01.jpg)](image-01.jpg)
+*Pour 4 personnes*
 
 ## Ingrédients
 
- pour 4 personnes
-
-- 4 gros oeufs
-
-- 2/3 de litre de lait
-
-- 1 cuiller à café d'essence de vanille
-
-- 1 cuiller à soupe d'extrait de chicorée
-
-- 2 cuillers à soupe de beurre salé
-- 70 grammes de sucre en morceaux (pour le caramel)
-- 100 grammes de sucre en poudre (pour le lait)
+- 4 gros œufs frais
+- 70 cl de lait entier
+- 100 g de sucre en poudre (pour l'appareil à œufs)
+- 70 g de sucre en morceaux (pour le caramel)
+- 2 c. à soupe de beurre demi-sel
+- 1 c. à soupe d'extrait de chicorée liquide (ou soluble)
+- 1 c. à café d'extrait naturel de vanille
 
 ## Préparation
 
-Préchauffer le four à 150°C thermostat 5).
-
-Mélanger le sucre pour le lait au lait et mettre à chauffer à feu doux.
-
-Battre les oeufs comme pour une omelette, les mélanger au lait chaud sucré.
-
-Faire caraméliser le sucre en morceaux dans une casserole avec 2 cuillers à soupe d'eau, en remuant sans cesse à la spatule de bois ; quand le caramel est blond, y mettre le beurre salé et rémuer jusqu'à dilution complète du beurre ; hors du feu, ajouter la chicorée et remuer pour bien homogénéiser ; verser le caramel dans le plat de cuisson pour le four et en napper le fond et les bords.
-
-Mettre ce plat dans un bain-marie et enfourner le tout ; laisser cuire 45 minutes.
-
-Servir assez longtemps avant consommation (se mange froid ou tiède, jamais chaud)..
+1. Préchauffer le four à 150°C (300°F / th. 5).
+2. Dans une casserole, mélanger le lait entier avec les 100 g de sucre en poudre et l'extrait de vanille, puis faire chauffer à feu doux sans faire bouillir.
+3. Dans un saladier, battre les œufs entiers en omelette sans trop faire mousser, puis y verser le lait chaud sucré tout en remuant au fouet.
+4. Dans une petite casserole à fond épais, confectionner le caramel avec le sucre en morceaux et 2 cuillères à soupe d'eau à feu moyen sans remuer à la cuillère.
+5. Dès que le caramel prend une belle couleur blonde ambrée, retirer du feu et incorporer vivement le beurre demi-sel coupé en dés, puis la cuillère de chicorée pour obtenir un caramel au beurre salé onctueux.
+6. Verser immédiatement le caramel encore chaud au fond d'un plat à gratin ou de ramequins et napper le fond et les parois.
+7. Verser délicatement l'appareil aux œufs sur le caramel.
+8. Placer le plat dans un grand bain-marie chaud et enfourner pour 45 minutes de cuisson douce.
+9. Laisser refroidir complètement à température ambiante puis placer au réfrigérateur : ce dessert traditionnel se déguste frais ou tiède, jamais brûlant.
 
 ## Observations
 
-1 - Recette exécutée le 10 juin 2007 à Rennes pour nous deux. Excellent !
-2 - Peut se faire sans chicorée et sans beurre salé, mais c'est moins bon.
-3 - Peut se faire sans bain-marie, mais la cuisson risque dêtre moins uniforme.
+- **Contexte :** Recette exécutée le 10 juin 2007 à Rennes pour nous deux ; un classique revisité à la saveur bretonne et ch'ti incomparable !
+- **Cuisson au bain-marie :** La cuisson au bain-marie est essentielle pour préserver la texture soyeuse de la crème prise sans faire cailler les œufs.
+- **Variante :** Cette recette peut se préparer nature sans chicorée ni beurre salé, mais elle perd alors toute sa singularité gourmande.

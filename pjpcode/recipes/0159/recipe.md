@@ -1,25 +1,29 @@
 ---
 layout: recipe
 number: 159
-title: Salade de tomates et oignon au citron de Doña Lourdes
+title: "Salade de tomates et oignon au citron de Doña Lourdes"
 ---
+
+*Pour 4 personnes*
 
 ## Ingrédients
 
-Pour 4 personnes
-- 2 belles tomates, bien mûres de préférence
-- 1 gros oignon jaune
-- 2 gros citrons jaunes
-- 1 bouquet de coriandre fraîche (si on aime ça)
-- une grosse pincée de gros sel
+- 2 belles tomates bien mûres et parfumées
+- 1 gros oignon jaune (ou blanc doux)
+- 2 citrons jaunes juteux
+- 1 bouquet de coriandre fraîche
+- 1 belle pincée de gros sel de mer
 
 ## Préparation
 
-- couper tomates et oignons en brunoise
-- hacher la coriandre
-- presser les citrons
-- mélanger le tout
+1. Laver les tomates, les épépiner et les couper en très petite brunoise régulière.
+2. Éplucher l'oignon et le tailler également en fine brunoise.
+3. Effeuiller et ciseler finement le bouquet de coriandre fraîche.
+4. Presser les citrons pour recueillir leur jus.
+5. Dans un saladier, réunir les dés de tomates, l'oignon émincé et la coriandre ciselée.
+6. Arroser avec le jus de citron frais et parsemer de gros sel.
+7. Bien mélanger et laisser mariner au frais pendant 15 à 30 minutes avant de servir pour que les saveurs se marient et que l'acidité attendrisse l'oignon.
 
 ## Observations
 
-- recette exécutée le 28 novembre 2007 à Rennes pour nous deux, sauf la coriandre (snif !) ; excellente entrée ; merci Lourdes !
+- **Contexte :** Recette costaricienne exécutée le 28 novembre 2007 à Rennes pour nous deux ; une entrée d'une fraîcheur éclatante, merci à Doña Lourdes pour cette belle idée !

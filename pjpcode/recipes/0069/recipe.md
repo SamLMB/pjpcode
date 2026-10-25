@@ -1,42 +1,42 @@
 ---
 layout: recipe
 number: 69
-title: Boeuf bourguignon de Mamy de Quiberon (avec photo)
+title: "Bœuf bourguignon de Mamy de Quiberon"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+![Bœuf bourguignon en cocotte](image-01.jpg)
 
-## Ingrédients (pour 4 personnes)
+*Pour 4 personnes*
 
-- 800 g de paleron de boeuf (cf. observation n°1)
-- 100 g de lardons non fumés (cf. observation n°2)
-- 3 cuillers à soupe d'huile ou de margarine
-- une bouteille (au moins) de vin rouge très tanique (cf. observation n°3)
+## Ingrédients
+
+- 800 g de paleron de bœuf
+- 100 g de lardons non fumés (ou poitrine fraîche taillée en dés)
+- 3 c. à soupe d'huile ou de margarine
+- 1 bouteille de vin rouge tannique et charpenté (Madiran, Côtes-du-Marmandais ou Cahors)
 - 2 gros oignons jaunes
-- une gousse d'ail, d'Arleux de préférence
-- une cuiller à soupe de farine
-- un bouquet garni
-- sel, poivre, selon goût
-- une petite boîte de champignons de Paris, en tranches
-- un petit bouquet de persil
-- deux belles carottes
+- 2 belles carottes
+- 1 gousse d'ail d'Arleux
+- 1 c. à soupe de farine
+- 1 bouquet garni (thym, laurier)
+- 1 petite boîte de champignons de Paris émincés
+- 1 petit bouquet de persil plat
+- Sel fin et poivre du moulin
 
 ## Préparation
 
-- dans une cocotte-minute non fermée, faire revenir la viande coupée en gros dés avec les lardons, dans l'huile ou la margarine
-- ajouter les oignons débités en rondelles de 1 à 3 mm d'épaisseur
-- saupoudrer de farine, remuer, laisser dorer deux ou trois minutes
-- verser le vin rouge de sorte que la viande soit totalement couverte
-- mettre les carottes débités en rondelles de 1 mm d'épaisseur
-- mettre le bouquet garni, et l'ail coupé en quatre
-- fermer la cocotte-minutes et laisser mijoter une heure à partir du moment où la soupape tourne
-- en fin de cuisson, dresser dans un plat avec les champignons égouttés et le persil saupoudré
-- mettre les champignons égouttés
+1. Découper le paleron de bœuf en gros cubes réguliers.
+2. Dans un autocuiseur (cocotte-minute) ouvert, faire revenir la viande avec les lardons dans l'huile chaude jusqu'à ce que les morceaux soient bien dorés sur toutes leurs faces.
+3. Ajouter les oignons coupés en rondelles de 2 mm et faire suer quelques minutes.
+4. Saupoudrer d'une cuillère à soupe de farine, remuer soigneusement et laisser torréfier 2 minutes en remuant.
+5. Verser le vin rouge de façon à recouvrir entièrement tous les morceaux de viande.
+6. Ajouter les carottes taillées en rondelles, la gousse d'ail coupée en quatre et le bouquet garni. Saler et poivrer au goût.
+7. Fermer hermétiquement la cocotte-minute et laisser mijoter à feu doux pendant 1 heure à partir du chuchotement de la soupape.
+8. En fin de cuisson, ouvrir la cocotte, incorporer les champignons de Paris égouttés, dresser dans un grand plat creux bien chaud et parsemer de persil plat ciselé.
 
 ## Observations
 
-1 - la viande pour boeuf bourguignon est classiquement de la veine grasse ou du premier talon, mais il s'agit alors d'une viande très grasse, ce qui a des avantages (c'est plus goûteux, cela fond et nécessite donc moins de vin) mais aussi des inconvénients (c'est beaucoup plus calorique et d'une texture moins agréable à manger, à cause du gras).
-2 - à défaut de lardons, on peut utiliser du lard de poitrine non fumé, qu'on coupe en dés (on fait des lardons !)
-3 -contrairement à ce qu'on pourrait penser, ce n'est pas avec du vin de Bourgogne qu'on fait aujourd'hui le meilleur boeuf bourguignon... La raison de ce paradoxe est que le vin de Bourgogne a évolué est est devenu beaucoup moins tanique qu'il pouvait l'être il y a 50 ou 100 ans ; on prendra donc un vin du Sud, comme un Sidi Brahim, un Madiran, un Côtes du Marmandais ou un Cahors
-4 - recette exécutée le 30 août 2006 à Quiberon pour 2 convives (F et JP) et deux repas ; mais faite de très nombreuses fois auparavant
-5- bien appréciée, avec des pommes de terre sautées (peut de faire aussi avec des pâtes)
+- **Choix de la viande :** Le bourguignon se cuisine traditionnellement avec de la veine grasse ou du gîte, mais le paleron offre une chair moelleuse, fondante et nettement moins grasse.
+- **Choix du vin :** Privilégier un vin rouge corsé du Sud-Ouest ou du Midi (Madiran, Cahors, Sidi Brahim) dont les tanins robustes soutiennent parfaitement la longue réduction.
+- **Contexte :** Recette exécutée le 30 août 2006 à Quiberon pour 2 convives sur deux repas, mais réalisée de très nombreuses fois auparavant.
+- **Accompagnement :** Délicieux avec des pommes de terre sautées ou de bonnes pâtes fraîches.

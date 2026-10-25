@@ -4,44 +4,30 @@ number: 184
 title: Asparagus soup
 ---
 
-**Recette n° 184 : asparagus soup**
+## Ingrédients / Ingredients
 
-## Ingrédients / Ingredients (4 servings)
+*Pour 4 personnes / 4 servings*
 
--         400 g asparagus (already cooked in water or steam)
-
--         20 cl sour cream
-
--         20 cl milk
-
--         2 cubes chicken bouillon
-
--         1 liter water
-
--         10 stems fresh parsley, chopped
-
--         salt, pepper according to taste
+- 400 g d'asperges cuites à l'eau ou à la vapeur / 400 g cooked asparagus
+- 20 cl de crème fraîche / 20 cl sour cream
+- 20 cl de lait / 20 cl milk
+- 2 cubes de bouillon de volaille / 2 chicken bouillon cubes
+- 1 litre d'eau / 1 liter water
+- 10 brins de persil frais haché / 10 stems fresh parsley, chopped
+- Sel et poivre selon le goût / Salt, pepper according to taste
 
 ## Préparation / Preparation
 
-01    dissolve the bouillon cubes of bouillon in 1 liter of water and bring it to a boil
+1. Dissoudre les cubes de bouillon de volaille dans 1 litre d'eau et porter à ébullition.
+2. Couper le feu et réserver le bouillon chaud.
+3. Couper les pointes d'asperges et les réserver pour le dressage.
+4. Dans le bol du mixeur, mixer le reste des asperges avec le lait et la crème fraîche jusqu'à consistance lisse.
+5. Mélanger le velouté d'asperges obtenu avec le bouillon chaud.
+6. Saler et poivrer selon le goût.
+7. Ajouter les pointes d'asperges réservées dans la soupe.
+8. Réchauffer doucement à feu doux sans faire bouillir.
+9. Saupoudrer de persil frais haché au moment de servir.
 
-02    turn off the heat
+## Observations
 
-03    cut the asparagus tips and reserve for decoration
-
-04    in the blender, mix the rest of the asparagus with the milk and the cream
-
-05    mix together asparagus mixture and bouillon
-
-06    put salt and pepper, according to taste
-
-07    add the asparagus tips to the soup
-
-08    if necessary, warm up without boiling
-
-09    sprinkle with the parsley when serving.
-
-**Remarks :**
-
-Prepared in Ciudad Colón (February 2008) ; Ben and Cécile enjoyed it very much ; this receipe was sent to Nancy in San Diego at her request.
+- **Contexte :** Préparé à Ciudad Colón en février 2008 ; Ben et Cécile ont beaucoup apprécié. Cette recette a ensuite été transmise à Nancy à San Diego à sa demande.

@@ -1,70 +1,68 @@
 ---
 layout: recipe
 number: 156
-title: Blumenkohl- und Kartoffel-Cremesuppe mit Speckstückchen und Zwiebel
+title: "Blumenkohl- und Kartoffel-Cremesuppe mit Speckstückchen und Zwiebel"
 ---
 
-Note préliminaire :
-Cette recette est donnée en allemand car elle a été composée initialement à l'attention d'amis radio-amateurs allemands et croate (Kurt, Lothar, Ivan) ; pour les non-germanophones, une traduction en français est donnée un peu plus loin.
+> *Note préliminaire :*  
+> Cette recette a été initialement rédigée en allemand pour nos amis radioamateurs Kurt, Lothar et Ivan. La version française est présentée à la suite.
 
-[![](image-01.jpg)](image-01.jpg)
+[![Blumenkohl- und Kartoffel-Cremesuppe](image-01.jpg)](image-01.jpg)
 
-Zutaten
-(für 6 Portionen)
+### Deutsche Version
+
+#### Zutaten
+*(für 6 Portionen)*
 - 1 Blumenkohl, geschnitten
 - 4 Kartoffeln, geschält und geschnitten
 - 1 Zwiebel, gehackt
-- Speckstückchen, geräuchert, 100 Gramm
-- Hühner Kraftbouillon, 6 Würfel (60 Gramm)
+- 100 g Speckstückchen, geräuchert
+- 6 Würfel Hühner-Kraftbouillon (60 g)
 - 2 Liter Wasser
-- Salz und Pfeffer, Sahne, eventuell
+- Salz, Pfeffer und Sahne nach Geschmack
 
-[![](image-02.jpg)](image-02.jpg)
+[![Blumenkohl- und Kartoffel-Cremesuppe — Zubereitung](image-02.jpg)](image-02.jpg)
 
-Zubereitung
-- Blumenkohl, Kartoffeln und Hühner Kraftbouillon in kaltes Wasser werfen ; dieises Wasser zum Sieden bringen ; kochen lassen.
-- die Speckstückchen anbraten, und die Zwiebel im Speckfett andünsten
-- angebratene Speckstückchen und angedünstete Swiebel mit den kochenden Gemüsen vermischen
-- alles mindestens 15 Minuten köcheln lassen
-- den Herd ausschalten
-- ein Viertel der Gemüse\* sieben und aufsparen, den Rest verquirlen, dann alles zusammen vermischen
-- je nach Geschmack salzen und pfeffern (Achtung ! Das Hühner Kraftbouillon bringt schon viel Salz)
-- auf den Teller sofort\*\* geben (mit Sahne für die Schlemmer, die kein Problem mit Cholesterin haben...)
+#### Zubereitung
+1. Blumenkohl, Kartoffeln und Hühner-Kraftbouillon in kaltes Wasser geben, zum Kochen bringen und weich kochen lassen.
+2. Die Speckstückchen in einer Pfanne anbraten und die gehackte Zwiebel im Speckfett glasig dünsten.
+3. Angebratene Speckstückchen und Zwiebel zum kochenden Gemüse geben.
+4. Alles mindestens 15 Minuten sanft köcheln lassen.
+5. Ein Viertel des Gemüses mit einem Schaumlöffel herausnehmen und beiseitestellen. Den Rest mit dem Stabmixer fein pürieren.
+6. Das zurückbehaltene Gemüse wieder unterrühren, um der Suppe eine schöne rustikale Textur zu geben.
+7. Nach Geschmack mit Salz und Pfeffer abschmecken (vorsichtig mit Salz, die Bouillon ist schon würzig).
+8. Heiß servieren, nach Belieben mit einem Löffel frischer Sahne verfeinern.
 
-Bemerkungen
-\* um der Suppe eine bessere Textur geben, alles kann verquilt werden, wenn man die Stückchen in Suppe nicht gern isst.
-\*\* diese Cremesuppe kann auch eingefroren und dann wiedererwärmt werden.
-Dieses Rezept wurde in Quiberon am 1. November 2007 zubereitet.
+---
 
------------------------------------------------------------------------------------------------------------------------
-Traduction en français
+### Version française
 
-Blumenkohl- und Kartoffel-Cremesuppe mit Speckstückchen und Zwiebel
-Velouté de chou-fleur et de pommes de terre aux petits lardons et aux oignons
+*Pour 6 personnes*
 
 ## Ingrédients
 
-(pour 6 portions)
-- 1 chou-fleur, débité
-- 4 pommes de terre, épluchées et débitées
-- 1 oignon, haché
+- 1 chou-fleur coupé en bouquets
+- 4 pommes de terre épluchées et coupées en morceaux
+- 1 gros oignon jaune haché
 - 100 g de petits lardons fumés
-- 6 cubes de bouillon de poule
+- 6 cubes de bouillon de volaille
 - 2 litres d'eau
-- sel et poivre, crème fraîche, éventuellement
+- Sel, poivre du moulin et crème fraîche selon le goût
 
 ## Préparation
 
-- mettre le chou-fleur, les pommes de terre et les cubes de bouillon dans l'eau froide ; porter cette eau à ébullition, laisser cuire
-- faire revenir les lardons, puis les oignons dans la graisse des lardons
-- les lardons et les oignons une fois revenus, les mélanger aux légumes en cours de cuisson
-- laisser cuire le tout au moins 15 mn
-- arrêter la cuisinière
-- égoutter un quart des légumes\* et réserver ; mixer le reste, ensuite mélanger le tout
-- saler et poivrer selon goût (attention, le bouillon de poule a déjà apporté beaucoup de sel !)
-- servir aussitôt en assiettes\*\* geben (avec de la crème pour les gourmands qui n'ont pas de problème de cholestérol...)
+1. Déposer les bouquets de chou-fleur, les morceaux de pommes de terre et les cubes de bouillon de volaille dans 2 litres d'eau froide. Porter à ébullition et laisser cuire jusqu'à ce que les légumes soient bien tendres.
+2. Dans une poêle, faire dorer les lardons fumés à sec, puis faire suer l'oignon haché dans la graisse des lardons.
+3. Ajouter les lardons dorés et l'oignon fondu dans la marmite de légumes frémissante.
+4. Laisser mijoter l'ensemble à feu doux pendant au moins 15 minutes.
+5. Prélever à l'écumoire un quart des légumes entiers et les réserver à part.
+6. Mixer le reste de la soupe au mixeur plongeant jusqu'à consistance d'un velouté onctueux.
+7. Réincorporer les légumes réservés pour apporter de la texture et de la mâche.
+8. Goûter et rectifier l'assaisonnement en poivre et sel (le bouillon apportant déjà une bonne salinité).
+9. Servir fumant dans des assiettes creuses avec une cuillère de crème fraîche épaisse pour les gourmands.
 
-Bemerkungen
-\* pour donner à la soupe une meilleure texture, tout peut être passé au mixer, si on ne mange pas volontiers des "petits morceaux" dans la soupe.
-\*\* ce velouté peut aussi être congelé puis réchauffé plus tard
-Cette recette a té préparée le 1er novembre 2007 à Quiberon
+## Observations
+
+- **Contexte :** Recette réconfortante préparée le 1er novembre 2007 à Quiberon pour fêter la Toussaint au coin du feu.
+- **Texture :** Réserver une partie des légumes avant de mixer donne un velouté rustique très agréable. Ceux qui préfèrent une texture parfaitement lisse peuvent tout mixer.
+- **Conservation :** Cette crème de chou-fleur se congèle et se réchauffe remarquablement bien.

@@ -1,36 +1,33 @@
 ---
 layout: recipe
 number: 128
-title: Quenelles comme chez Mamy de Kermorvan
+title: "Quenelles comme chez Mamy de Kermorvan"
 ---
 
-**Recette n°128** :
+*Pour 4 personnes*
 
-Quenelles comme chez Mamy de Kermorvan
 ## Ingrédients
 
-*pour 4 personnes*
-
-- 12 quenelles au brochet
-- 2 boîtes de pulpe de tomate
-- 1 gros oignon
-- 2 grosses cuillers à soupe de crème fraîche
-- 1 cuiller à soupe de beurre salé
-- une pincée de gruyère ou de parmesan râpé
+- 12 belles quenelles de brochet
+- 2 boîtes de pulpe ou concassé de tomates (2 x 400 g)
+- 1 gros oignon jaune
+- 2 généreuses c. à soupe de crème fraîche épaisse
+- 1 c. à soupe de beurre demi-sel
+- 1 poignée d'emmental ou de parmesan râpé
+- Sel et poivre du moulin
 
 ## Préparation
 
-- mettre le four à préchauffer à 200C
-
-- débiter l'oignon en rondelles et le faire revenir dans le beurre sans le brûler
-- mélanger l'oignon revenu avec la tomate et faire cuire le tout une dizaine de minutes à la sauteuse en remuant
-- hors du feu, mélanger à la crème fraîche
-- disposer les quenelles dans un plat allant au four de façon espacée car elles vont gonfler
-- recouvrir avec l'appareil de tomates cuites
-- saupoudrer de gruyère râpé
-- enfourner et laisser cuire 30 minutes
+1. Préchauffer le four à 200°C (400°F / th. 6-7).
+2. Éplucher l'oignon, l'émincer finement et le faire fondre doucement dans une sauteuse avec le beurre sans coloration.
+3. Verser la pulpe de tomates, assaisonner de sel et de poivre, puis faire mijoter la sauce pendant une dizaine de minutes en remuant régulièrement.
+4. Retirer du feu et incorporer la crème fraîche pour adoucir la sauce.
+5. Disposer les quenelles de brochet dans un plat à gratin en les espaçant suffisamment car elles vont gonfler à la cuisson.
+6. Napper généreusement les quenelles avec la sauce tomate crémée.
+7. Saupoudrer toute la surface de fromage râpé.
+8. Enfourner et laisser gratiner pendant environ 30 minutes jusqu'à ce que les quenelles soient bien gonflées et dorées. Servir sans attendre.
 
 ## Observations
 
-Recette exécutée le 5 juillet 2007 à Quiberon pour Cécile, ses quatre enfants et nous deux, donc pour 7 personnes.
-Excellente, mais un peu juste en quantité car certains garçons de la famille Mathews ont un solide appétit..
+- **Contexte :** Recette exécutée le 5 juillet 2007 à Quiberon pour Cécile, ses quatre enfants et nous deux (7 convives).
+- **Gourmandise :** Un plat délicieux mais un peu juste en quantité ce jour-là, tant certains garçons de la famille Mathews ont un solide appétit de montagnards !

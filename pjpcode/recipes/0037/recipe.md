@@ -4,10 +4,9 @@ number: 37
 title: "Crème de chou-fleur breton"
 ---
 
-[![Crème de chou-fleur breton — page 1](image-01.jpg)](image-01.jpg)
-[![Crème de chou-fleur breton — page 2](image-02.jpg)](image-02.jpg)
-
 *Pour 4 à 6 personnes*
+
+📄 *Manuscrit original : [Page 1](image-01.jpg) · [Page 2](image-02.jpg)*
 
 ## Ingrédients
 
@@ -36,6 +35,7 @@ title: "Crème de chou-fleur breton"
 3. **Mixage et assemblage :** Mixer finement les légumes cuits dans leur bouillon à l'aide d'un mixeur plongeant. Verser la sauce blanche dans le velouté, mixer à nouveau pour obtenir une texture crémeuse et veloutée. Laisser frémir 2 à 3 minutes supplémentaires.
 4. **Service :** Servir bien chaud parsemé de pluches de cerfeuil ou de coriandre.
 
-> **Observations :** Réalisée à Rennes le 31/05/2006 : un velouté très doux et réconfortant.
->
-> *Variante plus légère sans farine :* Testée le 10/01/2007 pour Annie (de l'allée de Chevré) : porter les pommes de terre à 4 pièces, faire suer les carottes et oignons à la graisse de canard, cuire les légumes dans le bouillon et lier simplement au lait et au mixeur (sans sauce blanche à la farine).
+## Observations
+
+- **Contexte :** Réalisée à Rennes le 31 mai 2006 : un velouté très doux et réconfortant.
+- **Variante plus légère sans farine :** Testée le 10 janvier 2007 pour Annie (de l'allée de Chevré) : porter les pommes de terre à 4 pièces, faire suer les carottes et oignons à la graisse de canard, cuire les légumes dans le bouillon et lier simplement au lait et au mixeur (sans sauce blanche à la farine).

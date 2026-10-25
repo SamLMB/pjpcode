@@ -1,54 +1,44 @@
 ---
 layout: recipe
 number: 127
-title: Lasagnes à la marçoise
+title: "Lasagnes à la marçoise"
 ---
 
-**Recette n°127** :
+[![Lasagnes à la marçoise](image-01.jpg)](image-01.jpg)
 
-Lasagnes à la marçoise
-
-[![](image-01.jpg)](image-01.jpg)
+*Pour 8 personnes*
 
 ## Ingrédients
 
- pour 8 personnes
-- 500 g de viande hachée
+### Pour la sauce à la viande
+- 500 g de bœuf haché
 - 250 g de chair à saucisse
-- 2 petites boîtes de tomates pelées
-- 12 lasagnes
--  20 cl de vin rouge
+- 2 petites boîtes de tomates pelées au jus (2 x 400 g)
+- 12 plaques de pâte à lasagnes
+- 20 cl de vin rouge
 - 3 carottes
-- 1 gros oignon
-- sel, poivre selon goût
-- une poignée de gruyère râpé
-- pour la béchamel :
-    - 80 g de farine
-    - 80 g de beurre
-    - 1 litre de lait
+- 1 gros oignon jaune
+- 1 poignée de gruyère ou parmesan râpé
+- Sel et poivre du moulin
+
+### Pour la béchamel
+- 80 g de beurre
+- 80 g de farine
+- 1 litre de lait entier
 
 ## Préparation
 
-1 - préchauffer le four à 200C
-2 - débiter les carottes en rondelles
-
-3 - débiter les oignons en rondelles
-4 - faire revenir carottes et oignons sans les faire brûler
-5 - mélanger avec chair à saucisse, viande hachée, tomates (à ne pas oublier), vin rouge et faire cuire à la sauteuse 30 à 45 minutes en remuant de temps en temps
-6 - préparer une béchamel (cf. [recette n°126](../0126/recipe.html))
-7 - dans un grand plat allant au four, disposer dans l'ordre :
-    - une couche de sauce
-    - une couche de lasagnes
-    - une couche de sauce
-    - une couche de béchamel
-    - une couche de lasagnes
-    - une couche de sauce
-    - une couche de béchamel
-    - le gruyère râpé
-8 - mettre une louche d'eau sur le pourtour afin que les lasagnes ne brûlent pas en périphérie
-9 - enfourner et cuire de 30 à 40 minutes
+1. Préchauffer le four à 200°C (400°F / th. 6-7).
+2. Éplucher les carottes et l'oignon, puis les couper en fines rondelles.
+3. Faire suer carottes et oignons dans une sauteuse avec un filet d'huile sans les brûler.
+4. Ajouter la chair à saucisse et la viande hachée, puis faire dorer en égrenant à la spatule.
+5. Incorporer les tomates pelées concassées (à ne surtout pas oublier !) et le vin rouge. Saler, poivrer et laisser mijoter à feu doux pendant 30 à 45 minutes en remuant de temps en temps.
+6. Préparer la sauce béchamel dans une casserole avec le beurre, la farine et le lait (cf. [recette n°126](../0126/recipe.html)).
+7. Dans un grand plat à gratin rectangulaire, monter les lasagnes en superposant successivement sauce à la viande, plaques de lasagnes et béchamel onctueuse, puis terminer par une généreuse couche de béchamel et parsemer de gruyère râpé.
+8. Verser délicatement une petite louche d'eau ou de bouillon chaud le long des parois intérieures du plat pour éviter que les bords des lasagnes ne sèchent à la cuisson.
+9. Enfourner et faire gratiner pendant 30 à 40 minutes jusqu'à ce que le dessus soit bien doré et bouillonnant. Servir bien chaud.
 
 ## Observations
 
-1 - Recette exécutée le 5 juillet 2007 à Quiberon pour Cécile, ses 4 enfants et nous deux. Excellente.
-2 - A la suite d'une remarque de Cécile le 24/09/2009, il a été ajouté (au point 5 de la préparation) qu'il ne faut pas oublier les tomates !
+- **Contexte :** Recette conviviale exécutée le 5 juillet 2007 à Quiberon pour Cécile, ses quatre enfants et nous deux ; un franc succès à table !
+- **Conseil familial :** Suite à une remarque judicieuse de Cécile le 24/09/2009, il a été bien précisé à l'étape 5 de ne surtout pas oublier les tomates dans la sauce !

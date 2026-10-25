@@ -1,45 +1,45 @@
 ---
 layout: recipe
 number: 167
-title: Galette des rois
+title: "Galette des rois"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+[![Galette des rois dorée](image-01.jpg)](image-01.jpg)
 
-[![](image-02.jpg)](image-02.jpg)
+*Pour 6 personnes*
+
+[![Galette des rois — découpe](image-02.jpg)](image-02.jpg)
 
 ## Ingrédients
 
- pour 6 personnes (les quantités ne sont pas vraiment critiques, sauf en ce qui concerne l'arôme d'amande amère dont il ne faut pas trop mettre)
-- 2 pâtes feuilletées pur beurre du commerce
-- 125 g d'amandes émondées
+- 2 rouleaux de pâte feuilletée pur beurre prête à dérouler
+- 125 g d'amandes émondées en poudre
 - 150 g de sucre semoule
-- 3 oeufs
-- 150 g de beurre
-- 1/2 cuiller à café d'arôme d'amande amère
-- une fève (à défaut, un bouton de culotte passé à l'eau bouillante)
+- 150 g de beurre doux ramolli
+- 3 gros œufs entiers
+- 1/2 c. à café d'arôme d'amande amère (doser avec parcimonie)
+- 1 fève en porcelaine (ou un bouton propre)
 
 ## Préparation
 
-01 - mélanger intimement amandes et sucre
-02 - préchauffer le four à 190C (th 6)
-03 - faire fondre le beurre, le mélanger à la cuiller de bois (surtout ne pas passer au mixer car cela compacifie) avec le mélange amandes-sucre
-04 - battre deux oeufs entiers, les mélanger à la cuiller de bois (surtout ne pas passer au mixer car cela compacifie) au mélange précédent
-05 - casser le troisième oeuf, séparer blanc et jaune, réserver le jaune (le blanc ne sera pas utilisé dans la recette)
-06 - incorporer la demi-cuiller à café d'arôme d'amande amère (surtout ne pas passer au mixer car cela compacifie) ; la frangipane est prête
-07 - étaler une des deux pâtes feuilletée, et la découper au diamètre du moule (utiliser le moule à l'envers comme pochoir), la réserver comme future couverture
-08 - étaler la seconde pâte feuilletée sur son papier sulfurisé, la soulever délicatement par parties et saupoudrer le papier de sucre en poudre\*, la remettre à plat
-      \*ce sucre en poudre entre le papier sulfurisé et le fond de la tarte donne un aspect et un goût caramélié à la tarte
-09 - dans le moule, mettre cette seconde pâte feuilletée sur son papier sulfurisé et en relever les bords le long du moule
-10 - découper aux ciseaux le papier qui dépasse
-11 -  recouvrir la pâte dans le moule avec la frangipane la frangipane
-12 - y enfoncer la fève (le bouton de culotte)
-13 - étaler la seconde pâte feuilletée sur la première en enlevant son papier sulfurisé
-14 - tracer une rosace à la pointe du couteau
-15 - dorer le dessus avec le jaune d'oeuf qu'on a réservé
-16 - enfourner, cuire 30 mn (pas davantage, pas moins non plus).
+1. Dans un saladier, mélanger intimement la poudre d'amandes et le sucre en poudre.
+2. Préchauffer le four à 190°C (375°F / th. 6-7).
+3. Faire fondre doucement le beurre, le laisser tiédir puis l'incorporer au mélange amandes-sucre à la cuillère en bois (ne pas utiliser de batteur pour ne pas densifier la pâte).
+4. Battre deux œufs entiers en omelette et les ajouter à la préparation en remuant délicatement à la cuillère en bois.
+5. Casser le troisième œuf, séparer le blanc du jaune et réserver le jaune dans une tasse avec une goutte d'eau pour la dorure (le blanc n'est pas utilisé).
+6. Incorporer la demi-cuillère à café d'extrait d'amande amère : la crème frangipane est prête.
+7. Dérouler la première pâte feuilletée et découper un disque régulier au diamètre du moule à tarte (utiliser le moule retourné comme emporte-pièce). Réserver ce disque pour recouvrir la galette.
+8. Dérouler la seconde pâte feuilletée sur sa feuille de papier cuisson. Soulever délicatement la pâte par sections et saupoudrer un voile de sucre en poudre sur le papier sulfurisé avant de reposer la pâte (cette astuce caramélisera délicieusement le dessous de la galette).
+9. Garnir le moule avec cette pâte sur son papier et découper l'excédent de papier aux ciseaux.
+10. Étaler uniformément la crème frangipane sur le fond de tarte jusqu'à 2 cm du bord.
+11. Glisser la fève dans la frangipane, de préférence vers l'extérieur pour éviter de tomber dessus lors de la découpe des parts.
+12. Humecter légèrement le pourtour de la pâte à l'eau avec le doigt.
+13. Poser le premier disque de pâte réservé par-dessus et presser délicatement les bords pour bien souder les deux pâtes.
+14. Chiqueter les bords au couteau et dessiner de jolies arabesques ou rosaces sur le dessus avec la pointe d'un couteau sans percer la pâte. Ménager une petite cheminée au centre.
+15. Badigeonner uniformément toute la surface au pinceau avec le jaune d'œuf réservé.
+16. Enfourner et faire cuire pendant exactement 30 minutes jusqu'à ce que la galette soit bien gonflée et brillante. Servir tiède.
 
 ## Observations
 
-- recette exécutée le 5 janvier 2008 à Quiberon pour Michel et Andrée du Bourny et nous deux ; excellent
-- recette exécutée aussi le 13 janvier 2008 à Rennes pour Annie de l'Allée de Chevré et nous deux ; excellent encore
+- **Contexte :** Recette exécutée le 5 janvier 2008 à Quiberon pour Michel et Andrée du Bourny et nous deux ; puis réitérée le 13 janvier à Rennes pour Annie ; une galette croustillante et parfumée qui rivalise avec les meilleures pâtisseries !
+- **Astuce du sucre sous la pâte :** Le saupoudrage de sucre sous le fond de pâte apporte un croustillant caramélisé remarquable à la dégustation.

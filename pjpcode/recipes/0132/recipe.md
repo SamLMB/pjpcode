@@ -1,33 +1,32 @@
 ---
 layout: recipe
 number: 132
-title: Glache d'cafeu
+title: "Glache d'cafeu"
 ---
 
-**Recette n°132** :
+Comme son nom l'indique, il s'agit d'une recette ch'timi de glace au café préparée selon le même principe que la glace à la chicorée (cf. recette n°63).
 
-Glache d'cafeu
+*Pour 6 personnes*
 
-Comme le nom l'indique, il s'agit d'une recette chtimi de glace au café préparée comme une glace à la chicorée (cf. recette n° 63)
 ## Ingrédients
 
-*pour 6 personnes*
-- 25 cl de crème fraîche non liquide
-- 15 cl de lait
-- 150 g de sucre
-- 1 sachet de sucre vanillé (7g environ) ou  une cuiller à soupe d'essence de vanille
-- 1 oeuf frais
-- 3 cuillers à soupe de café en poudre type Nescafé
+- 25 cl de crème fraîche épaisse très froide
+- 15 cl de lait entier
+- 150 g de sucre en poudre
+- 3 c. à soupe de café soluble (type Nescafé)
+- 1 œuf extra-frais
+- 1 sachet de sucre vanillé (ou 1 c. à soupe d'extrait naturel de vanille)
 
 ## Préparation
 
-**- dissoudre le café dans une cuiller à soupe d'eau chaude (cela prend du temps car il faut beaucoup remuer) et réserver**
-** - battre la crème et réserver
-- battre l'oeuf et réserver
-- mélanger le lait, le sucre et la vanille
-- mélanger le tout (café dissous, crème battue, oeuf battu, lait sucré), passer au mixer et mettre à refroidir au réfrigérateur
-- passer le tout à la sorbetière
+1. Dans une petite tasse, dissoudre le café soluble dans 1 cuillère à soupe d'eau très chaude en remuant longuement pour obtenir un concentré bien lisse, puis réserver.
+2. Dans un bol, fouetter la crème fraîche bien froide jusqu'à ce qu'elle devienne légère et mousseuse.
+3. Battre l'œuf entier en omelette dans un petit récipient.
+4. Dans un saladier, mélanger le lait, le sucre et la vanille jusqu'à dissolution complète des grains de sucre.
+5. Réunir le café dissous, la crème battue, l'œuf battu et le lait sucré vanillé. Passer un coup de mixeur plongeant pour homogénéiser et placer au réfrigérateur pour bien refroidir l'appareil.
+6. Verser la préparation froide dans la sorbetière et faire turbiner pendant 25 à 30 minutes jusqu'à ce que la glace prenne une consistance onctueuse.
+7. Transférer au congélateur ou servir immédiatement.
 
 ## Observations
 
-**- recette faite plusieurs fois en juillet 2007 à Quiberon et très appréciée des Béclin de Marcq-en-Baroeul, des Mathews de Ciudád Colón et des Bourdier de Porticcio
+- **Contexte :** Recette réalisée à plusieurs reprises en juillet 2007 à Quiberon et plébiscitée par les Béclin de Marcq-en-Barœul, les Mathews de Ciudad Colón et les Bourdier de Porticcio !

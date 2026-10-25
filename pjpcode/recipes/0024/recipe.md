@@ -4,10 +4,9 @@ number: 24
 title: "Coquilles Saint-Jacques à la bretonne"
 ---
 
-[![Coquilles Saint-Jacques à la bretonne — page 1](image-01.jpg)](image-01.jpg)
-[![Coquilles Saint-Jacques à la bretonne — page 2](image-02.jpg)](image-02.jpg)
-
 *Pour 4 personnes*
+
+📄 *Manuscrit original : [Page 1](image-01.jpg) · [Page 2](image-02.jpg)*
 
 ## Ingrédients
 
@@ -28,4 +27,7 @@ title: "Coquilles Saint-Jacques à la bretonne"
 4. **Montage :** Disposer les coquilles creuses sur la plaque du four. Dans le fond de chaque coquille, déposer une pincée de chapelure, une cuillère à café de bouillon filtré, les morceaux de noix et corail, puis saupoudrer de persil fraîchement ciselé.
 5. **Gratinage :** Couvrir d'une nouvelle couche de chapelure blonde et arroser généreusement avec les 50 g de beurre restant préalablement fondu. Enfourner sous le gril bien chaud quelques minutes jusqu'à ce que la chapelure soit dorée et croustillante. Servir très chaud.
 
-> **Observations :** Recette exécutée à Quiberon pour le réveillon de Noël 2005 avec Mémé, Marie-Hélène, Fred, Max et nous : excellent, mais demande un peu de préparation ! Surtout, ne pas pocher les Saint-Jacques plus de quelques minutes sous peine de les rendre caoutchouteuses.
+## Observations
+
+- **Contexte :** Recette exécutée à Quiberon pour le réveillon de Noël 2005 avec Mémé, Marie-Hélène, Fred, Max et nous : excellent, mais demande un peu de préparation !
+- **Cuisson :** Surtout, ne pas pocher les Saint-Jacques plus de quelques minutes sous peine de les rendre caoutchouteuses.

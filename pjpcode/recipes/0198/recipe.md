@@ -3,29 +3,30 @@ layout: recipe
 number: 198
 title: Glace aux palets sablés de Bretagne et au chocolat
 ---
+
 ## Ingrédients
 
-*pour 8 personnes peu gourmandes*
-- 2 oeufs entiers battus
+*Pour 8 personnes*
+
+- 100 g de palets sablés bretons pur beurre
 - 200 g de poudre de cacao non sucré
 - 200 g de sucre en poudre
 - 250 g de lait entier ou demi-écrémé
-- 300 g de crème fraîche
-- 100g de palets sablés bretons
+- 300 g de crème fraîche entière
+- 2 œufs entiers battus
 
 ## Préparation
 
-- bien mélanger cacao et sucre
-- ajouter le lait progressivement et bien mélanger
-- incorporer les oeufs battus et bien mélanger
-- cuire à feu moyen en remuant jusqu'à ébullition
-- laisser bouillir 5 mn en remuant
-- laisser refroidir
-- passer à la sorbetière
-- pendant que la sorbetière tourne, écraser les sablés
-- quand la glace est faite, mélanger à la fourchette avec les palets sablés écrasés
-- remettre au congélateur
+1. Dans une casserole, mélanger intimement le cacao non sucré et le sucre.
+2. Délayer progressivement avec le lait en fouettant pour obtenir une pâte lisse.
+3. Incorporer les œufs battus et la crème fraîche.
+4. Porter à feu moyen en remuant continuellement jusqu'à l'ébullition.
+5. Laisser bouillonner doucement 5 minutes sans cesser de remuer.
+6. Retirer du feu et laisser refroidir entièrement au réfrigérateur.
+7. Écraser grossièrement les palets sablés bretons en pépites croquantes.
+8. Turbiner la crème au chocolat bien refroidie à la sorbetière.
+9. En fin de turbinage, mélanger les éclats de sablés bretons à la fourchette et réserver au congélateur jusqu'à dégustation.
 
 ## Observations
 
-1 - recette exécutée à Quiberon le 11  juillet 2008 pour les eptits-enfants qui ont bien aimé.
+- **Contexte :** Recette préparée à Quiberon le 11 juillet 2008 pour régaler la jeunesse réunie en vacances bretonnes.

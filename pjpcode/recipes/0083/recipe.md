@@ -1,34 +1,35 @@
 ---
 layout: recipe
 number: 83
-title: Velouté léger de choux-fleur, pommes de terre et carottes
+title: "Velouté léger de choux-fleur, pommes de terre et carottes"
 ---
 
-## Ingrédients (pour 4 personnes)
+*Pour 4 personnes*
 
-- 500 g de chou-fleur frais (environ un demi-chou-fleur)
-- 2 litres d'eau
+## Ingrédients
+
+- 500 g de chou-fleur frais (environ 1/2 chou-fleur)
 - 2 belles carottes
-\_ 2 belles pommes de terre
+- 2 belles pommes de terre
 - 1 gros oignon jaune
 - 2 gousses d'ail
-- 4 cubes de bouillon de poule
-- un demi-litre de lait écrémé, ou de fromage blanc 0%, ou de faisselle 0%
-- sel et poivre selon goût
+- 4 cubes de bouillon de volaille
+- 50 cl de lait écrémé (ou faisselle à 0%)
+- 2 litres d'eau
+- Sel et poivre du moulin
 
 ## Préparation
 
-- peler et broyer ail et oignon
-- nettoyer les carottes et les débiter en tronçons
-- peler les pommes de terre et les débiter en morceaux
-- dans l'eau, mettre les lmégumes ainsi que les cubes de bouillon, l'ail et l'oignon ; mettre le tout à chauffer couvert
-- si la cuisson se fait en cocotte-minute, cuire 20 mn
-- si la cuisson se fait en casserole, cuire 60 mn
-- en fin de cuisson, ajouter le lait et passer au mixer
-- saler et poivrer selon goût.
+1. Peler et hacher l'ail et l'oignon.
+2. Éplucher les carottes et les tailler en rondelles. Peler les pommes de terre et les couper en dés. Détailler le chou-fleur en petits bouquets.
+3. Dans une marmite ou un autocuiseur avec les 2 litres d'eau, réunir tous les légumes, les cubes de bouillon, l'ail et l'oignon.
+4. Couvrir et porter à ébullition.
+5. Laisser cuire à petits bouillons pendant 60 minutes en casserole classique (ou 20 minutes en cocotte-minute après sifflement de la soupape).
+6. En fin de cuisson, verser le lait écrémé et mixer longuement au mixeur plongeant jusqu'à obtenir un velouté très fin et mousseux.
+7. Rectifier l'assaisonnement en sel et poivre, puis servir très chaud dans des soupières individuelles.
 
 ## Observations
 
-1 - recette faite les 5 et 6 octobre 2006 à Rennes pour Mamy et moi ; excellent.
-2 - la recette d'origine prévoyait de la sauce blanche à la place du lait ; c'est certainement très bon aussi, quoiqu'un peu plus épais.
-3 - si on est vraiment très gourmand, on peut ajouter de la crème fraîche, voire la substituer au lait, mais gare aux calories... et il faudrait alors enlever le qualificatif "léger" de ce velouté.
+- **Contexte :** Recette réalisée les 5 et 6 octobre 2006 à Rennes pour Mamy et moi ; un velouté tout doux et très apprécié.
+- **Variante :** La recette d'origine prévoyait une sauce blanche à la place du lait, très bonne également mais plus épaisse.
+- **Gourmandise :** On peut substituer de la crème fraîche au lait pour une texture encore plus soyeuse, en lui faisant perdre son profil ultra-léger.

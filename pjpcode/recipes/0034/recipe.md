@@ -4,9 +4,9 @@ number: 34
 title: "Saumon mariné du commissaire Fred"
 ---
 
-[![Saumon mariné du commissaire Fred — recette manuscrite](image-01.jpg)](image-01.jpg)
-
 *Pour 6 personnes — Préparation : 15 minutes — Marinade : 3 à 4 jours*
+
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -27,4 +27,6 @@ title: "Saumon mariné du commissaire Fred"
 5. **Maturation :** Déposer le paquet dans un plat creux au réfrigérateur (en plaçant éventuellement un petit poids dessus). Laisser mariner au frais pendant 3 à 4 jours en retournant le paquet matin et soir (toutes les 12 heures).
 6. **Service :** Au moment de servir, déballer les filets, essuyer délicatement l'excédent de sel et trancher très finement en biais sans entamer la peau, à la façon d'un gravlax.
 
-> **Observations :** Réalisé de nombreuses fois depuis 2004 : toujours un immense succès auprès des convives !
+## Observations
+
+- **Historique :** Réalisé de nombreuses fois depuis 2004 : toujours un immense succès auprès des convives !

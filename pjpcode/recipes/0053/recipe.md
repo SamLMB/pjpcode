@@ -4,9 +4,9 @@ number: 53
 title: "Poisson cru mariné à l'huile d'olive et au citron"
 ---
 
-[![Poisson cru mariné — recette manuscrite](image-01.jpg)](image-01.jpg)
-
 *Pour 4 personnes (en entrée)*
+
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -27,4 +27,6 @@ title: "Poisson cru mariné à l'huile d'olive et au citron"
 5. **Macération :** Couvrir d'un film alimentaire et réserver au réfrigérateur pendant 24 heures au frais, en retournant délicatement les morceaux 2 à 3 fois au cours de la marinade.
 6. **Service :** Servir frais, accompagné de pommes de terre chaudes cuites à l'eau ou à la vapeur.
 
-> **Observations :** Testé le 20/06/2006 à Quiberon pour nous deux : très rafraîchissant. Ne surtout pas lésiner sur le sel dès le départ, indispensable pour éviter la fadeur.
+## Observations
+
+- **Contexte :** Testé le 20 juin 2006 à Quiberon pour nous deux : très rafraîchissant. Ne surtout pas lésiner sur le sel dès le départ, indispensable pour éviter la fadeur.

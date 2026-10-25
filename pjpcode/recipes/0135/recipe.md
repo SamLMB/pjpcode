@@ -1,72 +1,44 @@
 ---
 layout: recipe
 number: 135
-title: Soufflé de pommes de terre au jambon de pays
+title: "Soufflé de pommes de terre au jambon de pays"
 ---
 
-Recette n°135 :
+*Pour 6 personnes*
 
-# Soufflé de pommes de terre au jambon de pays
 ## Ingrédients
 
-*:*
-
-pour 6 personnes :
-
-- 1 kg de pommes de terre
-
-- 2 oeufs
-
+- 1 kg de pommes de terre à purée
+- 4 tranches épaisses de jambon de pays (ou équivalent en gros dés de jambon)
+- 100 g de champignons de Paris frais
+- 100 g d'emmental râpé
+- 100 g de parmesan râpé
 - 100 g de beurre
-
-- 100 g d’Emmenthal
-
-- 100 g de parmesan
-
-- 100 g de champignons
-
-- 4 tranches de jambon de pays, plutôt épaisses ou équivalent en dés de jambon
-
-- muscade râpée (une pincée)
-
-- 30 g de chapelure
-
-- sel, poivre
-
-** **
+- 2 gros œufs (blancs et jaunes séparés)
+- 30 g de chapelure fine
+- 1 pincée de noix de muscade râpée
+- Sel et poivre du moulin
 
 ## Préparation
 
-- mettre le four à préchauffer à 210C
-
-- cuire les pommes de terre dans l’eau (20 mn environ après début de l’ébullition)
-
-- faire revenir les champignons dans un peu de beurre à feu doux (10 mn environ), réserver
-
-- couper en dés Emmenthal et jambon, réserver
-
-- séparer blancs et jaunes des œufs
-
-- battre les blancs en neige
-
-- mélanger les jaunes d’oeuf, le parmesan et la pincée de muscade râpée
-
-- peler les pommes de terre, les écraser à la fourchette dans un saladier, les mélanger au beurre
-
-- ajouter les jaunes battus, bien mélanger, saler et poivrer
-
-- mélanger le tout aux blancs en neige (attention à ne pas casser la texture des blancs en neige)
-
-- beurrer généreusement un moule à soufflé, enduire ses bords de chapelure
-
-- verser la préparation, ajouter dés de jambon et Emmenthal, touiller
-
-- parsemer de petites noisettes de beurre et de chapelure
-
-- enfourner et laisser cuire 15 mn
-
-- servir aussitôt (un soufflé n’attend pas)
+1. Préchauffer le four à 210°C (410°F / th. 7).
+2. Éplucher les pommes de terre et les faire cuire dans une casserole d'eau bouillante salée pendant environ 20 minutes jusqu'à ce qu'elles soient tendres.
+3. Laver et émincer les champignons, puis les faire revenir 10 minutes à la poêle dans une noix de beurre à feu doux, puis réserver.
+4. Couper l'emmental et le jambon de pays en petits dés réguliers.
+5. Casser les œufs et séparer soigneusement les blancs des jaunes.
+6. Dans un bol, battre les jaunes d'œufs avec le parmesan râpé et la pincée de muscade.
+7. Dans un autre récipient propre avec une pincée de sel, monter les blancs d'œufs en neige bien ferme.
+8. Écraser les pommes de terre chaudes au presse-purée dans un grand saladier en incorporant le beurre coupé en dés.
+9. Ajouter le mélange jaunes-parmesan à la purée tiédie, bien amalgamer, puis saler et poivrer.
+10. Incorporer délicatement les blancs en neige à la spatule en soulevant la masse de bas en haut pour préserver l'émulsion aérée.
+11. Beurrer généreusement un moule à soufflé à bords hauts et en chemiser les parois de chapelure fine.
+12. Verser la moitié de la préparation dans le moule, parsemer des dés de jambon, d'emmental et des champignons, puis recouvrir du reste de purée soufflée.
+13. Parsemer le dessus de petites noisettes de beurre et d'un voile de chapelure.
+14. Enfourner sans attendre et laisser cuire pendant environ 15 à 20 minutes sans ouvrir la porte du four. Servir dès la sortie du four.
 
 ## Observations
 
-recette préparée le 11 août 2007 à Quiberon pour nous deux ; bon mais j’avais commis trois erreurs : (1) j’avais oublié de battre les blancs en neige, ce qui a empêché le soufflé de monter vraiment, (2) j’avais mis du bon Comté à la place de l’Emmenthal, ce qui est dommage car c’est gâcher la bonne marchandise, (3) j’avais fait des quantités pour 3 personnes et nous l’avons mangé (sans peine) à deux, ce qui est de la gourmandise (et qui nous a pesé sur l’estomac pendant la nuit) ; néanmoins, excellent.
+- **Contexte :** Recette préparée le 11 août 2007 à Quiberon pour nous deux. Bon mais avec trois leçons à retenir :
+  - il est crucial de bien monter les blancs en neige pour obtenir une belle levée aérienne,
+  - utiliser un emmental classique suffit amplement sans sacrifier un grand comté d'alpage,
+  - les quantités pour trois personnes ont été dévorées sans peine à deux, ce qui témoigne d'une grande gourmandise !

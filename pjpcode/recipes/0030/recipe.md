@@ -4,8 +4,9 @@ number: 30
 title: "Gallo pinto de Doña Cecilia"
 ---
 
-[![Gallo pinto — page 1](image-01.jpg)](image-01.jpg)
-[![Gallo pinto — page 2](image-02.jpg)](image-02.jpg)
+*Pour 4 à 6 personnes*
+
+📄 *Manuscrit original : [Page 1](image-01.jpg) · [Page 2](image-02.jpg)*
 
 ## Ingrédients
 
@@ -30,4 +31,7 @@ title: "Gallo pinto de Doña Cecilia"
 6. **Mélange final :** Dans une grande poêle, faire revenir le reste du hachis d'oignon/poivron/coriandre dans un filet d'huile, ajouter les haricots égouttés avec quelques cuillères de leur jus noir, puis incorporer le riz cuit. Faire revenir ensemble 3 à 5 minutes pour bien teinter le riz.
 7. **Service :** Servir très chaud accompagné de Salsa Lizano et d'un peu de Tabasco pour les amateurs de piquant.
 
-> **Observations :** Dégusté avec Annie et François Lefort le 10/04/2006 à Rennes : grand succès ! La principale difficulté consiste à préserver la fermeté des grains de riz et des haricots sans les écraser en purée.
+## Observations
+
+- **Contexte :** Dégusté avec Annie et François Lefort le 10 avril 2006 à Rennes : grand succès !
+- **Texture :** La principale difficulté consiste à préserver la fermeté des grains de riz et des haricots sans les écraser en purée.

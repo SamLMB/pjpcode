@@ -4,9 +4,9 @@ number: 52
 title: "Glace rhum-raisins"
 ---
 
-[![Glace rhum-raisins — recette manuscrite](image-01.jpg)](image-01.jpg)
-
 *Pour 6 à 8 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -26,4 +26,6 @@ title: "Glace rhum-raisins"
 5. **Ajout des raisins :** Lorsque la glace commence à bien prendre et à épaissir (vers 20 minutes de turbinage), incorporer les raisins soigneusement égouttés (ne pas verser tout le rhum pur afin de ne pas bloquer la prise en glace).
 6. **Finition :** Laisser turbiner encore quelques minutes pour bien répartir les raisins, puis placer au congélateur.
 
-> **Observations :** Réalisé à Quiberon le 19/06/2007 pour la visite des enfants : une glace onctueuse et gourmande (attention à bien égoutter les raisins pour ne pas saturer en alcool !).
+## Observations
+
+- **Contexte :** Réalisé à Quiberon le 19 juin 2007 pour la visite des enfants : une glace onctueuse et gourmande (attention à bien égoutter les raisins pour ne pas saturer en alcool !).

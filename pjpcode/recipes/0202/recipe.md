@@ -4,30 +4,30 @@ number: 202
 title: Tarte aux poireaux et aux lardons
 ---
 
-Recette n° 202 : Tarte aux poireaux et aux lardons
 ## Ingrédients
 
-*pour 6 personnes*
-- une pâte à tarte pur beurre
-- 3oeufs
-- 3 beaux poireaux de la ferme de Kernavest
-- 400 g de lardons
-- 25 cl de crème fraîche
+*Pour 6 personnes*
+
+- 1 rouleau de pâte brisée pur beurre
+- 3 beaux poireaux (de la ferme de Kernavest)
+- 400 g de lardons fumés
 - 100 g de gruyère râpé
-- une cuiller de margarine
-- sel et poivre selon goût
+- 25 cl de crème fraîche épaisse
+- 3 œufs entiers
+- 1 cuillère à soupe de margarine ou beurre
+- Sel et poivre au moulin
 
 ## Préparation
 
-- préchauffer le four à 220C
-- préparer les poireaux en brunoise et les faire fondre les poireaux dans la margarine.
-- faire revenir les lardons dans leur gras.
-- préparer l'appareil en battant ensemble oeufs, crème, sel et poivre.
-- mettre la pâte dans un plat à tarte, y étaler les poireaux, verser l'appareil, couvrir de gruyère râpé.
-- étaler les poireaux sur la pâte, puis les lardons (après les avoir fait revenir).
-- parsemer de gruyère râpé, couvrir avec l'appareil et mettre au four 25 mn.
-- enfourner à four chaud et laisser cuire 30 mn environ.
+1. Préchauffer le four à 220°C (425°F).
+2. Nettoyer soigneusement les poireaux, les tailler en fine brunoise et les faire suer doucement à la poêle avec la matière grasse sans coloration.
+3. Dans une seconde poêle, faire dorer les lardons dans leur propre graisse, puis les égoutter sur du papier absorbant.
+4. Dans un saladier, préparer l'appareil en battant les œufs avec la crème fraîche, du sel et du poivre.
+5. Dérouler la pâte brisée dans un moule à tarte avec son papier de cuisson et piquer le fond à la fourchette.
+6. Répartir uniformément la fondue de poireaux sur le fond de pâte, puis parsemer les lardons dorés.
+7. Saupoudrer de gruyère râpé et napper le tout avec l'appareil aux œufs et à la crème.
+8. Enfourner et faire cuire 25 à 30 minutes jusqu'à ce que la tarte soit bien prise et dorée en surface.
 
 ## Observations
 
-- recette faite à Quiberon pour nous deux ; excellent avec une batavia.
+- **Contexte :** Recette préparée à Quiberon pour nous deux ; délicieux repas du soir accompagné d'une salade batavia bien assaisonnée.

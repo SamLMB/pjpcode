@@ -2,51 +2,46 @@
 layout: recipe
 number: 252
 title: Gigot de 7 heures
+pdf: true
+docx: true
 ---
 
-**Gigot de sept heures (qui ne cuit que cinq heures)**
 ## Ingrédients
 
-*(pour 8 personnes)1 gigot de 3 kg ficelé3 oignons3 carottes1 branche de thym2 feuilles de laurier*
+*Pour 8 personnes*
 
-1 branche de céleri
-
-4 tomates
-
-1 bouquet de persil
-
-2 têtes d’ail
-
-3 verres de vin blanc sec
-
-2 litres de consommé de bœuf ou de volaille
-
-1 cuillère à soupe de beurre
-
-3 cuillères à soupe d’huile d’arachide
+- 1 gigot d'agneau de 3 kg ficelé (avec ses os et parures)
+- 3 gros oignons
+- 3 carottes
+- 1 branche de céleri
+- 4 belles tomates mûres
+- 2 têtes d'ail entières
+- 1 bouquet de persil plat
+- 1 branche de thym frais
+- 2 feuilles de laurier
+- 3 verres de vin blanc sec
+- 2 litres de consommé de bœuf ou de volaille
+- 1 cuillère à soupe de beurre
+- 3 cuillères à soupe d'huile d'arachide
+- Farine et eau (pour le lut de la terrine)
+- Sel et poivre au moulin
 
 ## Préparation
 
-Épluchez les oignons et les carottes, puis coupez-les en rondelles épaisses de 1 centimètre environ.
-
-Dans une large poêle, mettez l’huile. Ajoutez le beurre. Lorsqu’ils grésillent, faites revenir sur toutes ses faces le gigot. Il doit être doré et croustillant. Emballez-le et ficelez-le dans un torchon et mettez-le en attente. Simultanément, déposez les os et les parures dans une cocotte et faites suer à feu moyen.
-
-Ajoutez les oignons et les carottes avec la matière grasse de cuisson du gigot. Faites prendre de la couleur.
-
-Ajoutez le vin blanc. Remuez et grattez le fond de la cocotte pour récupérer tous les sucs. Ajoutez le bouillon, le thym, le laurier, la branche de céleri, le bouquet de persil, les 4 tomates coupées en 4 et les 2 têtes d’ail écrasées au pilon. Portez à ébullition.
-
-Dans une terrine, posez le gigot et versez le contenu de la cocotte.
-
-Posez le couvercle et lutez avec une pâte constituée de farine et d’eau. Les interstices entre le couvercle et le récipient doivent être intégralement bouchés.
-
-Mettez à four doux pendant cinq heures. Retirez du four. Cassez le lut. Retirez délicatement le gigot de la terrine et maintenez-le à température à l’entrée du four couvert d’un papier d’aluminium.
-
-Passez la sauce au chinois en pressant bien tous les ingrédients de cuisson. Versez le jus ainsi obtenu dans une casserole et faites réduire.
-
-Sur un plat de service bien chaud, faites glisser le gigot hors du torchon.
-
-Servez avec une cuillère, accompagné de la sauce et d’un gratin dauphinois, d’épinards, de macaronis ou de blettes, si l’on a deux fours ou de purée de haricots blancs, de céleris, de pommes de terre, d’épinards ou de chou-fleur
+1. Éplucher les oignons et les carottes, puis les tailler en rondelles épaisses d'environ 1 centimètre.
+2. Dans une grande poêle, faire chauffer l'huile d'arachide et le beurre ; dès qu'ils grésillent, faire dorer le gigot sur toutes ses faces jusqu'à ce qu'il soit bien croustillant.
+3. Retirer le gigot de la poêle, l'envelopper et le ficeler solidement dans un torchon propre. Simultanément, déposer les os et les parures dans une grande cocotte et faire suer à feu moyen.
+4. Dans la même poêle avec les sucs de cuisson, faire dorer les rondelles d'oignons et de carottes pour leur donner une belle couleur caramélisée.
+5. Déglacer avec le vin blanc sec en grattant énergiquement le fond de la poêle pour récupérer tous les sucs, puis verser le tout dans la cocotte.
+6. Ajouter le consommé de bœuf ou volaille, le thym, le laurier, la branche de céleri, le persil plat, les 4 tomates coupées en quatre et les 2 têtes d'ail écrasées au pilon. Porter l'ensemble à ébullition.
+7. Déposer le gigot emballé dans son torchon au fond d'une grande terrine en terre ou en fonte allant au four, puis verser par-dessus tout le contenu bouillant de la cocotte.
+8. Poser le couvercle et luter hermétiquement avec un boudin de pâte fait de farine et d'eau (tous les interstices entre le couvercle et la terrine doivent être parfaitement scellés).
+9. Enfourner à four très doux (120°C / 250°F) pendant 5 heures sans jamais ouvrir.
+10. Sortir la terrine du four, casser le lut de pâte et retirer délicatement le gigot. Le maintenir au chaud à l'entrée du four couvert d'une feuille d'aluminium.
+11. Passer le bouillon de cuisson au chinois en pressant fortement tous les légumes aromatiques pour en exprimer la pulpe et les sucs. Faire réduire ce jus dans une casserole jusqu'à consistance sirupeuse et brillante.
+12. Sur un grand plat de service chaud, faire glisser le gigot hors de son torchon : la viande est si fondante qu'elle se sert à la cuillère.
+13. Servir aussitôt nappé de sauce réduite, accompagné d'un gratin dauphinois, d'épinards frais ou d'une mousseline de céleri.
 
 ## Observations
 
-Recette préparée pour le réveillon de Noël 2011 à Rennes avec la famille Béclin, qui s'est régalée
+- **Contexte :** Recette préparée pour le réveillon de Noël 2011 à Rennes avec la famille Béclin, qui s'est régalée de cette viande confite à la cuillère.

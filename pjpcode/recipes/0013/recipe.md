@@ -4,7 +4,7 @@ number: 13
 title: "Crème de lentilles du monastère"
 ---
 
-[![Crème de lentilles du monastère](image-01.jpg)](image-01.jpg)
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 

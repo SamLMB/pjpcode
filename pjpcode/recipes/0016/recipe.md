@@ -4,10 +4,9 @@ number: 16
 title: "Couscous"
 ---
 
-[![Couscous — recette manuscrite](image-01.jpg)](image-01.jpg)
-[![Couscous — recette manuscrite (suite)](image-02.jpg)](image-02.jpg)
-
 *Pour 6 à 8 personnes*
+
+📄 *Manuscrit original : [Page 1](image-01.jpg) · [Page 2](image-02.jpg)*
 
 ## Ingrédients
 
@@ -37,4 +36,6 @@ title: "Couscous"
 5. **Semoule :** Un quart d'heure avant de servir, préparer la graine de couscous selon la méthode rapide (mouiller à l'eau bouillante salée, laisser gonfler, égrainer avec du beurre en chauffant doucement).
 6. **Service :** Servir dans plusieurs plats distincts : les viandes, les légumes, le bouillon, les pois chiches et la semoule. Proposer la harissa délayée dans un bol de bouillon à part.
 
-> **Observations :** Recette faite des dizaines de fois en quarante ans, toujours appréciée.
+## Observations
+
+- **Historique :** Recette faite des dizaines de fois en quarante ans, toujours appréciée.

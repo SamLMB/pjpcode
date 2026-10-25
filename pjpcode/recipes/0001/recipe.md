@@ -4,24 +4,26 @@ number: 1
 title: Financiers
 ---
 
-[![Financiers — recette manuscrite](image-01.jpg)](image-01.jpg)
+*Pour 4 personnes*
 
-## Ingrédients (pour 4 personnes)
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
+
+## Ingrédients
 
 - 100 g de farine
 - 100 g de beurre
 - 125 g de sucre
-- 4 blancs d'oeufs
+- 4 blancs d'œufs
 
 ## Préparation
 
-- bien battre les blancs et le sucre au mixer
-- ajouter la farine, battre
-- ajouter le beurre fondu, battre
-- beurrer des moules plats, et y déposer 1 cm maximum de pâte
-- cuire 20 mn à four chaud (th 5 / 185°C)
+1. Bien battre les blancs d'œufs et le sucre au batteur ou au mixeur.
+2. Ajouter la farine et battre à nouveau.
+3. Incorporer le beurre fondu et battre jusqu'à obtention d'une pâte homogène.
+4. Beurrer des moules plats et y déposer 1 cm maximum de pâte.
+5. Cuire 20 minutes à four chaud (185°C / 365°F / thermostat 5).
 
 ## Observations
 
-- recette exécutée notamment le 7/3/06 à Rennes (repas avec Annie et François, Pierre et Anne).
-- bien veiller à ne pas dépasser 1 cm d'épaisseur dans les moules.
+- **Contexte :** Recette exécutée notamment le 7 mars 2006 à Rennes lors d'un repas avec Annie, François, Pierre et Anne.
+- Bien veiller à ne pas dépasser 1 cm d'épaisseur dans les moules.

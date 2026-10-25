@@ -4,44 +4,39 @@ number: 239
 title: Pâtes fraîches "maison" des deux cousins Hannah Michelle et Julien Yann Raphaël
 ---
 
-Recette n°239 : pâtes fraîches "maison" des deux cousins (Hannah Michelle Mathews et Julien Yann Raphaël Béclin)
+![Pâtes fraîches des deux cousins](image-01.jpg)
 
-[![](image-01.jpg)](image-01.jpg)
+## Ingrédients
 
-## Ingrédients (pour 8 personnes, soit environ 850 g se pâtes après séchage)
+*Pour 8 personnes (environ 850 g de pâtes après séchage)*
 
-- 700 g de farine de blé
-- 6 oeufs
-- un quart de verre d'eau
-- une grosse pincée de sel
+- 700 g de farine de blé type 55
+- 6 œufs extra-frais
+- 5 cl (1/4 de verre) d'eau tiède
+- 1 grosse pincée de sel fin
 
 ## Préparation
 
-1 - mélanger oeufs et farine en mettant l'eau progressivement
-2 - rouler et retourner plusieurs fois jusqu'à abtenir une boule de pâte bien homogène
-3 - mettre à reposer 15 minutes au réfrigérateur
-4 - abaisser en plaque qu'on lamine avec la machine à pâte jusqu'à obtention d'une couche fine
-5 - passer à la machine à pâtes pour faire les pâtes désirées (tagliattelle, vermicelles, caneloni)
-6 - mettre à sécher au séchoir à linge pendant 3 heures environ
-7 - cuire comme des pâtes fraîches, c'est-à-dire 2 minutes environ
-8 - servir avec la sauce souhaitée
+1. Dans un grand saladier ou sur le plan de travail, disposer la farine en fontaine.
+2. Déposer les œufs et le sel au centre, puis commencer à mélanger à la fourchette en incorporant progressivement l'eau tiède.
+3. Pétrir énergiquement à la main pendant une dizaine de minutes jusqu'à obtenir une boule de pâte bien souple, lisse et élastique.
+4. Envelopper la pâte dans un film alimentaire et laisser reposer 15 minutes au réfrigérateur.
+5. Découper la pâte en pâtons et les abaisser au laminoir à pâte en passant successivement des crans les plus larges aux crans les plus fins.
+6. Passer les bandes laminées dans le module de coupe de la machine à pâtes selon la forme souhaitée (tagliatelles, spaghettis, fettuccine).
+7. Disposer les pâtes sur un séchoir à linge propre ou des dossiers de chaises recouverts d'un torchon, et laisser sécher à l'air libre pendant environ 3 heures.
+8. Plonger les pâtes dans un grand volume d'eau bouillante salée et cuire 2 minutes chrono après la reprise de l'ébullition.
+9. Égoutter délicatement et servir aussitôt avec la sauce de votre choix (bolognaise, pesto ou beurre frais).
 
 ## Observations
 
-1 - Recette effectuée par les deux cousins le 14 juillet 2011 à Quiberon (voir photos)
-2 - Excellent, mais un peu désespérant (beaucoup plus de temps pour la préparation que pour l'ingestion) !
-3 - quelques photos
+- **Contexte :** Recette exécutée par les deux cousins le 14 juillet 2011 à Quiberon ; un atelier culinaire mémorable même si la dégustation va infiniment plus vite que la confection !
 
-[![](image-02.jpg)](image-02.jpg)
+![Hannah et Julien en plein laminage](image-02.jpg)
 
-[![](image-03.jpg)](image-03.jpg)
+![Découpe des tagliatelles à la manivelle](image-03.jpg)
 
-[![](image-04.jpg)](image-04.jpg)
+![Séchage des pâtes au grand air](image-04.jpg)
 
-[![](image-05.jpg)](image-05.jpg)
+![Les cousins fiers de leur récolte](image-05.jpg)
 
-[![](image-01.jpg)](image-01.jpg)
-
-[![](image-06.jpg)](image-06.jpg)
-
-<a href="../0232/recipe.html" style="color: blue; text-decoration: underline;"></a>
+![Plat de pâtes fraîches servi à table](image-06.jpg)

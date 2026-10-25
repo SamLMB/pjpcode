@@ -1,28 +1,29 @@
 ---
 layout: recipe
 number: 110
-title: Fiadone tel que Mamy Françoise le faisait à Voisins-le-Bretonneux
+title: "Fiadone tel que Mamy Françoise le faisait à Voisins-le-Bretonneux"
 ---
-
-Fiadone tel que le faisait Mamy à Voisins-le-Bretonneux
 
 ## Ingrédients
 
-4 oeufs
-4 cuillers à soupe de sucre
-500 g de brocciu (o, à défaut, de ricotta)
-le jus et le zeste d'un gros citron, voire de 2 si on aime beaucoup le goût du citron
+- 500 g de brocciu frais corse (ou à défaut de la brousse ou ricotta)
+- 4 œufs entiers
+- 4 c. à soupe de sucre en poudre
+- Le zeste râpé et le jus d'un gros citron non traité (voire deux citrons pour les amateurs d'acidité)
+- 1 noix de beurre pour le moule
 
 ## Préparation
 
-- préchauffer le four à 200°C
-- casser les oeufs et séparer les blancs des jaunes
-- battre les jaunes avec le sucre jusqu'à obtention d'un mélange blanc et mousseux
-- écraser le fromage à la fourchette et bien mélanger au mélange jaunes-sucre
-- battre les blancs en neige et les incorporer délicatement au mélange
-- verser dans un moule beurré et cuire 40 à 50 mn jusqu'à obtention d'un fiadone gonflé et doré
+1. Préchauffer le four à 200°C (400°F / th. 6-7).
+2. Casser les œufs et séparer les blancs des jaunes.
+3. Battre les jaunes d'œufs avec le sucre jusqu'à obtention d'un mélange blanc et mousseux.
+4. Écraser soigneusement le brocciu à la fourchette dans une terrine et l'incorporer au mélange jaunes-sucre.
+5. Ajouter le zeste finement râpé et le jus de citron pressé.
+6. Monter les blancs en neige bien ferme avec une pincée de sel, puis les incorporer très délicatement à la spatule dans la préparation.
+7. Verser l'appareil dans un moule à manqué préalablement beurré et enfourner pendant 40 à 50 minutes jusqu'à ce que le fiadone soit bien gonflé et joliment doré.
+8. Laisser refroidir complètement avant de démouler et servir frais.
 
 ## Observations
 
-1 - Recette préparée à Rennes le 29 novembre 2006 pour Mamy et moi avec de la brousse. Fâmeux avec un Bourgogne aligoté 2005 de chez Pillot !
-2 - Recette refait à Porticcio le 30 avril 2008 chez Frédéric et Marie-Hélène. Excellent avec des citrons du jardin de Renée.
+- **Contexte :** Recette préparée à Rennes le 29 novembre 2006 pour Mamy et moi avec de la brousse. Fameux avec un Bourgogne aligoté 2005 de chez Pillot !
+- **À Porticcio :** Recette refaite le 30 avril 2008 chez Frédéric et Marie-Hélène à Porticcio. Absolument exquis avec les citrons fraîchement cueillis dans le jardin de Renée.

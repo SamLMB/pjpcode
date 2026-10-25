@@ -1,37 +1,38 @@
 ---
 layout: recipe
 number: 85
-title: Soufflé au fromage et à la tomate
+title: "Soufflé au fromage et à la tomate"
 ---
 
-## Ingrédients (pour 4 personnes)
+*Pour 4 personnes*
 
-- 4 oeufs
-- 3 cuillers à soupe de farine
+## Ingrédients
+
+- 4 œufs frais
 - 50 g de gruyère râpé
-- 150 g de lait
-- 1 cuiller à soupe de crème fraîche
-- une tomate
-- 1 pincée de muscade
-- 30 g de beurre ou de margarine
-- sel et poivre selon goût
+- 150 g de lait entier
+- 30 g de beurre (ou margarine)
+- 3 c. à soupe de farine
+- 1 c. à soupe de crème fraîche
+- 1 belle tomate mûre
+- 1 pincée de noix de muscade râpée
+- Sel fin et poivre du moulin
 
 ## Préparation
 
-- hacher la tomate et réservez
-- casser les oeufs en séparant blancs et jaunes, réserver
-- faire fondre le beurre dans une casserole sans le laisser se colorer, saupoudrer le de farine, mélanger et faire cuire à feu doux pendant 2 à 3 minutes sans bruler ; verser progressivement le lait dessus en remuant vivement au fouet ; saler et poivrer ; ajouter la muscade ; amener à ébullition ; ajouter le gruyère râpé en remuant
-- retirer du feu et ajouter les jaunes d'oeufs ; bien mélanger
-- faire préchauffer le four à 200C
-- beurrer un moule à soufflé
-- ajouter à la préparation tomate et crème fraîche et bien remuer
-- battre les blancs en neige ferme ; les incorporer délicatement à la pâte avec une spatule en bois
-- verser la préparation dans le moule à soufflé et enfourner le tout dans le four chaud
-- faire cuire d'abord pendant 20 mn, puis laisser encore 5 mn au four en montant celui-ci à 230C
-- servir dès sortie du four.
+1. Peler, épépiner et hacher finement la tomate, puis réserver.
+2. Casser les œufs en séparant les blancs des jaunes d'œufs.
+3. Dans une casserole, faire fondre le beurre à feu doux sans le colorer. Saupoudrer de farine, mélanger au fouet et cuire 2 minutes à feu doux pour torréfier le roux.
+4. Verser progressivement le lait froid en fouettant vivement pour éviter les grumeaux. Saler, poivrer et ajouter la pincée de muscade râpée.
+5. Porter à ébullition jusqu'à épaississement de la béchamel, puis incorporer le gruyère râpé en remuant jusqu'à ce qu'il fonde.
+6. Hors du feu, incorporer les jaunes d'œufs un à un en fouettant vigoureusement.
+7. Ajouter la chair de tomate hachée et la cuillère de crème fraîche à la préparation tiède et bien mélanger.
+8. Préchauffer le four à 200°C (400°F / thermostat 6-7). Beurrer généreusement un moule à soufflé.
+9. Monter les 4 blancs d'œufs en neige très ferme avec une pincée de sel. Les incorporer très délicatement à l'appareil à la spatule en bois, en soulevant la masse sans la briser.
+10. Verser dans le moule à soufflé et enfourner immédiatement à 200°C (400°F) pendant 20 minutes, puis monter la température à 230°C (450°F) pendant 5 minutes supplémentaires pour bien faire dorer le dôme. Servir aussitôt à la sortie du four.
 
 ## Observations
 
-1 - recette exécutée le 7 octobre à Rennes pour F et moi ; excellente quoique peu le soufflé fût moins monté que nous ne l'aurions espéré ; peut-être est-ce dû au fait qu''un soufflé pour 2 personnes conduit à de toutes petites quantités, et que les proportions deviennent alors difficiles à respecter.
-2 - attention à ne pas dépasser la dose de muscade car c'est d'un goût très fort, et on peut être tenté de râper un gros morceau de noix, auquel cas cela deviendrait inmangeable (un trait de râpe suffit)
-3 - surtout ne pas ouvrir le four pendant les 25 minutes de cuisson car le soufflé a horreur de ca (il retombe).
+- **Contexte :** Recette exécutée le 7 octobre 2006 à Rennes pour F. et moi : excellente saveur provençale.
+- **Dosage de la muscade :** Attention à doser la muscade avec modération (un simple trait de râpe suffit) pour ne pas masquer la douceur de la tomate et du fromage.
+- **Règle d'or :** Ne surtout pas ouvrir la porte du four pendant les 25 minutes de cuisson afin d'éviter que le soufflé ne retombe.

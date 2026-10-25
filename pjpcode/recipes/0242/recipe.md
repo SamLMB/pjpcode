@@ -4,26 +4,22 @@ number: 242
 title: Gelée de mûres du Manémeur
 ---
 
-Recette n°242 : gelée de mûres du Manémeur[](../0240/recipe.html)
-
 ## Ingrédients
 
-- 4kg de mûres
-- 2kg de sucre cristallisé
+- 4 kg de mûres sauvages (cueillies sur les chemins du Manémeur)
+- 2 kg de sucre cristallisé
 - 2 verres d'eau
 
 ## Préparation
 
-1 - mélanger mûres et eau, mettre à chauffer à feu doux sans laisser bouillir
-2 - quand c'est chaud, extraire le jus par pressage dans une passoire avec une louche, une cuiller ou un presse-fruits (on doit en obtenir environ 2kg)
-3 - mélanger sucre et jus
-4 - ébouillanter pots et couvercles (compter 4 pots moyens par kg de mélange)
-5 - porter à ébullition et, à partir de 15 mn, contrôler toutes les 5 mn la viscosité du mélange (1)
-6 - quand la viscosité souhaitée est atteinte, remplir les pots (progressivement pour qu'ils n'éclatent pas), les boucher, les retourner
-7 - quand les pots sont refroidis, les remettre à l'endroit, les étiquetter et les stocker.
+1. Dans une grande marmite, réunir les mûres fraîches et l'eau, puis faire chauffer à feu doux sans faire bouillir afin de faire éclater les baies.
+2. Dès que les fruits sont bien chauds et ramollis, extraire tout le jus en les pressant à travers une passoire fine ou un tamis à l'aide d'une louche ou d'un presse-fruits (on obtient environ 2 kg de jus filtré).
+3. Dans la bassine à confiture, mélanger intimement le jus de mûres et le sucre cristallisé.
+4. Ébouillanter soigneusement les pots et leurs couvercles.
+5. Porter à ébullition et, à partir de 15 minutes de cuisson, tester régulièrement la prise sur une soucoupe froide (la gelée doit figer immédiatement).
+6. Dès que la consistance idéale est atteinte, verser la gelée bouillante dans les pots, visser les couvercles et retourner les pots quelques minutes.
+7. Laisser refroidir complètement avant de remettre les pots à l'endroit et de les étiqueter.
 
 ## Observations
 
-Recette préparée en août 2011 à Quiberon par Julien et Isabelle. Très bon.
-
-(1) une cuiller de jus déposée sur une soucoupe froide ne doit plus couler quand on incline la soucoupe.
+- **Contexte :** Recette préparée en août 2011 à Quiberon par Julien et Isabelle ; une gelée sauvage au parfum intense et d'une clarté magnifique.

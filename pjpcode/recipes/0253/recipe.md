@@ -2,42 +2,43 @@
 layout: recipe
 number: 253
 title: Ficelles bretonnes
+pdf: true
+docx: true
 ---
 
-Avouons qu'avant d'être bretonnes, ces ficelles ont été picardes...
-Elles sont bretonnes parce que faites à partir de 8 crêpes (crêpes de froment ou galettes de sarrasin) bretonnes achetées fraîches le jour même.
-Il faut compter une heure tout compris, mais cela se sert sans attendre au sortir du four.
+Avouons qu'avant d'être bretonnes, ces ficelles ont été picardes... Elles sont bretonnes parce que confectionnées à partir de 8 galettes de sarrasin ou crêpes de froment artisanales achetées fraîches le jour même. Compter une heure tout compris, à servir immédiatement à la sortie du four.
+
 ## Ingrédients
 
-*(pour 8 personnes, comme plat de résistance avec une salade verte) :*
-- 30 g de farine
-- 8 tranches de jambon blanc ou 500 g de dés de jambon
-- 500 g de champignons de Paris
+*Pour 8 personnes (en plat complet avec salade verte)*
+
+- 8 crêpes de froment ou galettes de sarrasin bretonnes fraîches
+- 8 tranches de jambon blanc de qualité (ou 500 g de dés de jambon)
+- 500 g de champignons de Paris frais
 - 3 échalotes
-- 80 g de beurre
-- 35 cl de lait
-- 10 cl de crème fraîche
-- 200 g d’emmenthal râpé
+- 200 g d'emmenthal râpé
+- 80 g de beurre demi-sel (50 g pour les champignons, 30 g pour la béchamel)
+- 30 g de farine
+- 35 cl de lait entier ou demi-écrémé
+- 10 cl de crème fraîche épaisse
 - 1 pincée de noix de muscade râpée
--  sel fin, poivre
+- Sel fin et poivre au moulin
 
 ## Préparation
 
-1 - Nettoyer et les champignons. Les débiter en fines lamelles.
-2 - Peler et hacher les échalotes, les faire fondre dans 50 g de beurre.
-3 - Ajouter les champignons.
-4 - Ajoutez la noix de muscade.
-5 - Saler, poivrer, couvrir et laisser cuire à feu doux 20 minutes en remuant de temps en temps.
-6 - Mettre le lait à chauffer jusqu'à ébullition en le surveillant pour qu'il ne se sauve pas.
-6 - Faire une sauce Béchamel  avec 30 g de beurre et 30 g de farine
-(fondre le beurre, incorporer la farine d'un coup, remuer sur feux doux à la cuiller de bois pour obtenir une pâte homogène, verser le lait d'un coup et remuer)
-7 - Si la Béchamel ne prend pas ou est grumeleuse, passer au mixer et remettre à chauffer à feu doux en remuant jusqu'à épaississement.
-8 - hors du feu, incorporer la crème fraîche et remuer encore pour lisser, puis mélanger les champignons et les échalotes.
-9 - huiler un plat à gratin capable de contenir les 8 ficelles.
-10 - garnir les crêpes une par une de jambon et béchamel aux champignons, les rouler, les disposer dans le plat, saupoudrer avec l'emmenthal.
-11 - enfourner et laisser griller 8 minutes.
-12 - servir aussitôt avec un vin blanc sec (un muscadet sur lie est adapté).
+1. Nettoyer les champignons de Paris et les émincer en fines lamelles régulières.
+2. Peler et hacher finement les échalotes, puis les faire fondre doucement dans une poêle avec 50 g de beurre.
+3. Ajouter les champignons émincés, la noix de muscade, sel et poivre ; couvrir et laisser suer à feu doux pendant 20 minutes en remuant de temps en temps.
+4. Dans une petite casserole, faire chauffer le lait jusqu'à frémissement en surveillant.
+5. Dans une autre casserole, préparer un roux blanc : faire fondre 30 g de beurre, ajouter 30 g de farine d'un coup et remuer à feu doux à la cuillère en bois pendant 1 minute.
+6. Verser le lait chaud d'un coup sur le roux et fouetter vivement sans discontinuer sur feu doux jusqu'à ce que la sauce béchamel épaississe et devienne parfaitement onctueuse.
+7. Hors du feu, incorporer la crème fraîche pour lisser la sauce, puis y ajouter la poêlée de champignons et d'échalotes fondantes.
+8. Huiler légèrement un grand plat à gratin pouvant accueillir les 8 ficelles côte à côte. Préchauffer le four à 200°C (400°F).
+9. Déplier chaque crêpe, déposer une tranche de jambon blanc au centre, napper d'une généreuse louchée de béchamel aux champignons, puis rouler serré en cylindre.
+10. Aligner les ficelles roulées dans le plat à gratin et saupoudrer abondamment d'emmenthal râpé sur toute la surface.
+11. Enfourner et faire gratiner pendant 8 à 10 minutes sous le gril jusqu'à ce que le fromage soit bien doré et croustillant.
+12. Servir aussitôt sans attendre, accompagné d'une salade verte bien assaisonnée et d'un vin blanc sec (un Muscadet sur lie s'y accorde idéalement).
 
 ## Observations
 
-Recette exécutée le 3 août 2012 à Quiberon pour la famille Béclin et nous. Excellent repas du soir. Yohan n'étant pas friand de Béchamel, deux ficelles n'en comportaient pas.
+- **Contexte :** Recette exécutée le 3 août 2012 à Quiberon pour la famille Béclin et nous ; excellent repas du soir convivial. Yohan n'étant pas friand de béchamel, deux ficelles avaient été préparées spécialement sans sauce pour lui.

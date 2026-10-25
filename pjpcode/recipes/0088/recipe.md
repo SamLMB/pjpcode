@@ -5,9 +5,10 @@ title: "Crème de chicons d'Isabelle de Marcy"
 ---
 
 [![Carottes et oignons en sueur](image-01.jpg)](image-01.jpg)
-[![Crème de chicons — recette manuscrite](image-02.jpg)](image-02.jpg)
 
 *Pour 6 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-02.jpg)*
 
 ## Ingrédients
 
@@ -30,4 +31,6 @@ title: "Crème de chicons d'Isabelle de Marcy"
 6. **Cuisson rapide :** Fouetter et laisser frémir à feu doux pendant environ 5 à 10 minutes pour attendrir les chicons sans perdre leur fraîcheur.
 7. **Finition :** Retirer du feu, incorporer la crème fraîche, rectifier l'assaisonnement en sel et poivre, et servir bien chaud.
 
-> **Observations :** Recette exécutée le 17 octobre 2006 à Rennes pour F. et moi : velouté doux, onctueux et remarquable !
+## Observations
+
+- **Contexte :** Recette exécutée le 17 octobre 2006 à Rennes pour F. et moi : velouté doux, onctueux et remarquable !

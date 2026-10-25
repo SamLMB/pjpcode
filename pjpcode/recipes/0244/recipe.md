@@ -4,31 +4,31 @@ number: 244
 title: Potage aux asperges et aux oignons
 ---
 
-Recette n° 244 : potage aux asperges et aux oignons
+## Ingrédients
 
-## Ingrédients (pour 4 à 6 personnes)
+*Pour 4 à 6 personnes*
 
-- 400 g d'asperges blanches cuites (en bocal)
-- un demi-litre de lait
-- un litre de bouillon (fait avec de l'eau et deux cubes de bouillon de poule ou de boeuf)
-- un petit bouquet de persil plat haché grossièrement
+- 400 g d'asperges blanches cuites (en bocal ou conserve)
 - 2 gros oignons jaunes
-- une cuiller de beurre
-- une cuiller d'huile d'olive
-- sel et poivre selon goût
+- 50 cl de lait
+- 1 litre de bouillon de volaille ou de bœuf (fait avec 2 tablettes)
+- 1 bouquet de persil plat frais
+- 1 cuillère à soupe de beurre
+- 1 cuillère à soupe d'huile d'olive
+- Sel et poivre au moulin
 
 ## Préparation
 
-1- préparer le bouillon
-2 - couper les pointes des asperges et les réserver
-3 - mixer le reste des asperges dans le jus du bocal et le lait mélangés
-4 - mélanger le tout au bouillon et réserver
-5 - découper les oignons en rondelles et faites les revenir dans le beurre et l'huile
-6 - mélanger oignons et bouillon puis passer au mixer
-7 - chauffer sans faire bouillir, saler et poivrer selon goût
-8 - servir en petites soupières et parsemant des pointes d'endives et de persil.
+1. Préparer 1 litre de bouillon chaud avec les 2 tablettes.
+2. Égoutter les asperges en conservant leur jus ; couper les pointes délicates et les réserver pour le dressage.
+3. Dans le bol du mixeur, mixer la tige des asperges avec leur jus de bocal et le lait.
+4. Réunir cette purée d'asperges et le bouillon de volaille chaud, puis réserver.
+5. Éplucher les oignons, les découper en fines rondelles et les faire suer doucement dans une sauteuse avec le beurre et l'huile jusqu'à ce qu'ils soient translucides.
+6. Verser les oignons et le bouillon aux asperges dans le mixeur et mixer finement l'ensemble jusqu'à velouté homogène.
+7. Reverser dans la casserole et réchauffer à feu doux sans faire bouillir ; rectifier l'assaisonnement en sel et poivre.
+8. Répartir le potage bien chaud dans des soupières individuelles, garnir avec les pointes d'asperges réservées et parsemer de persil plat haché.
 
 ## Observations
 
-Recette faite à Quiberon pour Claire et nous début septembre 2011 ;
-En ajoutant une cuiller de crème dans chaque soupière c'est meilleur, sans être nécessaire.
+- **Contexte :** Recette réalisée à Quiberon pour Claire et nous deux début septembre 2011.
+- **Variante gourmande :** Une cuillère de crème fraîche épaisse déposée dans chaque soupière au moment du service apporte une onctuosité supplémentaire très agréable.

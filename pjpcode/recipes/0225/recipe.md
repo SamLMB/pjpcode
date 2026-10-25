@@ -2,40 +2,42 @@
 layout: recipe
 number: 225
 title: Tajine au poulet, aux citrons confits et aux légumes
+pdf: true
+docx: true
 ---
 
-**tajine de poulet aux légumes et aux citrons confits**
+![Tajine au poulet, aux citrons confits et aux légumes](image-01.jpg)
 
-[![](image-01.jpg)](image-01.jpg)
 ## Ingrédients
 
-*pour 8 personnes :*
-- 8 cuisses et heuts de cuisses de poulet de Loué
-- 200 g d'olives vertes dénoyautées
+*Pour 8 personnes*
+
+- 8 cuisses et hauts de cuisses de poulet fermier (de Loué)
 - 3 citrons confits
+- 200 g d'olives vertes dénoyautées
 - 8 carottes moyennes
-- 2 oignons épluchés et ciselés
-- une grosse courgette
-- 10 g de raisins secs
+- 1 grosse courgette
+- 2 gros oignons épluchés et ciselés
 - 100 g de pruneaux dénoyautés
-- 2 cuillers à café d'épices à tajine, par exemple de chez Ducros
-- huile d'olive.
-- sel et poivre selon goût.
+- 50 g de raisins secs
+- 2 cuillères à café d'épices à tajine (ras el-hanout)
+- 3 cuillères à soupe d'huile d'olive
+- Sel et poivre selon le goût
 
 ## Préparation
 
-- préchauffer le four à 120C
-- couper carottes et courgette
-- faire revenir le poulet sous ses deux faces à la sauteuse avec de l'huile d'olive
-- ajouter l'oignon émincé et faire revenir à feu plus doux encore 5 minutes
-- ajouter un dmi-litre d'eau ; ajouter l'ail, le curcuma, le cumin, le ras el hanout, le paprika, le gingembre
-- saler et poivrer très légèrement
-- ajouter olives, courgette en tronçons, carottes, épices et citrons confits
-- verser le tout dans une cocotte en fonte (c'est mieux que le plat à tajine), ajouter pruneaux et raisins secs ; couvrir et mettre au four pendant 2 heures
-- en fin de cuisson, goûter et ajuster sel et poivre selon goût
-- servir de préférence dans la cocotte de cuisson
+1. Préchauffer le four à 120°C (250°F).
+2. Peler les carottes et les tailler en biseaux ; laver la courgette et la couper en gros tronçons. Couper les citrons confits en quartiers.
+3. Dans une grande sauteuse, faire dorer les morceaux de poulet sur toutes leurs faces avec l'huile d'olive.
+4. Ajouter les oignons ciselés et faire suer doucement pendant 5 minutes.
+5. Mouiller avec 50 cl d'eau tiède, puis incorporer les épices à tajine, sel et poivre modérément.
+6. Ajouter les carottes, les tronçons de courgette, les olives et les quartiers de citrons confits.
+7. Transvaser le tout dans une grande cocotte en fonte, puis incorporer les pruneaux et les raisins secs sans mélanger brusquement.
+8. Couvrir hermétiquement la cocotte et enfourner pour 2 heures de cuisson très douce à 120°C (250°F) — ne surtout pas touiller pendant la cuisson.
+9. En fin de cuisson, vérifier l'assaisonnement et rectifier si nécessaire.
+10. Servir bien chaud directement dans la cocotte de cuisson ou dans un plat à tajine avec de la semoule de couscous et du quinoa.
 
 ## Observations
 
-1 - recette préparée en août 2009 pour la famille Mathews à Quiberon ; très apprécié avec du quinoa et de la graîne de couscous comme légumes.
-2 - surout ne pas touiller pendant la cuisson (ni ensuite d'ailleurs)
+- **Contexte :** Recette préparée en août 2009 pour la famille Mathews à Quiberon ; un festival de parfums sucrés-salés savouré avec du couscous et du quinoa.
+- **Règle d'or :** Ne surtout pas remuer le tajine pendant la cuisson afin de préserver l'intégrité et la texture fondante des légumes et des fruits.

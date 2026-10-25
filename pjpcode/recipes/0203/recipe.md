@@ -4,35 +4,32 @@ number: 203
 title: Soupe au potimarron (avec photo)
 ---
 
-Recette n° 203 : Soupe de potimarron
-
-[![](image-01.jpg)](image-01.jpg)
+![Soupe au potimarron](image-01.jpg)
 
 ## Ingrédients
 
- pour 4 personnes
-- un potimarron de 1,2 kg environ
-- 1,5 litre de bouillon de poule
-- 3 carottes de la ferme de Kernavest
+*Pour 4 personnes*
+
+- 1 potimarron de 1,2 kg environ
+- 3 carottes (de la ferme de Kernavest)
+- 1 gros oignon jaune (de la ferme de Kernavest)
 - 2 gousses d'ail d'Arleux
-- 1 gros oignon jaune de la ferme de Kernavest
-- 1/2 litre de lait
-- une cuiller de margarine
-- poivre selon goût (et sel éventuellement, si le bouillon n'est pas assez salé)
+- 1,5 litre de bouillon de volaille
+- 50 cl de lait
+- 1 cuillère à soupe de margarine ou beurre
+- Sel et poivre selon le goût
 
 ## Préparation
 
-- préparer le bouillon de poule
-- faire revenir l'oignon découpé en rondelles et l'ail dans la margarine ; ne pas laisser brûler.
-- avec un gros couteau, découper le potimarron en 8 tranches.
-- le vider de ses graines et de ses fibres centrales, puis l'éplucher.
-- le débiter en lamelles ou en dés.
-- nettoyer les carottes et les débiter en rondelles.
-- mettre à cuire potimarron, ail, oignon, carottes dans le bouillon jusqu'à ce que le potimarron s'écrase à la fourchette.
-- attention, remuer de temps en tant à la cuiller de bois car cela a tendance à accrocher au fond de la casserole.
-- quand c'est cuit, ajouter le demi-litre de lait, remuer et passer au mixer.
-- poivrer selon goût (saler aussi, si nécessaire, mais le sel apporté par le bouillon de poule devrait suffire).
+1. Préparer 1,5 litre de bouillon de volaille chaud.
+2. Émincer l'oignon et hacher l'ail, puis les faire revenir doucement dans une marmite avec la matière grasse sans les laisser brûler.
+3. À l'aide d'un grand couteau, découper le potimarron en huit tranches, retirer les graines et fibres centrales avec une cuillère, puis l'éplucher.
+4. Débiter la chair du potimarron en dés ou lamelles. Nettoyer les carottes et les couper en rondelles.
+5. Verser les dés de potimarron, les rondelles de carottes, l'oignon et l'ail dans le bouillon chaud.
+6. Faire cuire à feu moyen jusqu'à ce que le potimarron soit parfaitement fondant et s'écrase facilement à la fourchette (remuer de temps en temps car le potimarron a tendance à attacher au fond).
+7. Hors du feu, verser le demi-litre de lait, mélanger et mixer finement l'ensemble au mixeur plongeant jusqu'à obtenir un velouté onctueux.
+8. Rectifier l'assaisonnement en poivre et sel selon le goût, puis réchauffer quelques minutes à feu doux avant de servir.
 
 ## Observations
 
-- recette faite à Quiberon pour Michel Pioger et nous deux le 24 août 2008 ; nous avons mangé la part de quatre à nous trois ; excellent !
+- **Contexte :** Recette faite à Quiberon pour Michel Pioger et nous deux le 24 août 2008 ; nous avons mangé la part de quatre à nous trois, tant c'était excellent !

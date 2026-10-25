@@ -4,16 +4,16 @@ number: 51
 title: "Soupe à la tomate et à l'ail"
 ---
 
-[![Soupe à la tomate et à l'ail — recette manuscrite](image-01.jpg)](image-01.jpg)
-
 *Pour 4 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
-- 1 kg à 1,5 kg de tomates mûres coupées en rondelles
-- 10 gousses d'ail entières épluchées
-- 2 gros oignons coupés en rondelles
-- 50 cl (1/2 l) de bouillon de poule
+- 1 kg de tomates mûres (coupées en rondelles)
+- 10 gousses d'ail d'Arleux
+- 2 gros oignons
+- 1 litre de bouillon de poule
 - 2 c. à soupe d'huile d'olive
 - 2 c. à café de vinaigre balsamique
 - 2 c. à café de sauce Salsa Lizano (ou sauce Worcestershire / sauce soja)
@@ -29,6 +29,7 @@ title: "Soupe à la tomate et à l'ail"
 4. **Mixage :** Mixer longuement au mixeur plongeant jusqu'à consistance fine et veloutée. Ajuster la texture avec un petit filet d'eau si le potage est trop épais.
 5. **Service :** Verser dans des bols ou assiettes creuses chaudes, garnir de feuilles de basilic frais déchirées et servir sans attendre.
 
-> **Observations :** Réalisé à Quiberon le 19/06/2006 pour nous deux : excellent et très parfumé !
->
-> *Remarque :* La recette d'origine préconisait de la crème fraîche, mais la soupe est bien plus digeste, vive et savoureuse sans ajout de crème.
+## Observations
+
+- **Contexte :** Réalisé à Quiberon le 19 juin 2006 pour nous deux : excellent et très parfumé !
+- **Remarque :** La recette d'origine préconisait de la crème fraîche, mais la soupe est bien plus digeste, vive et savoureuse sans ajout de crème.

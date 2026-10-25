@@ -4,31 +4,33 @@ number: 215
 title: Saumon au pastis de Mamy de Kermorvan
 ---
 
-Recette n°215 : saumon au pastis de Mamy de Kermorvan
-
 ## Ingrédients
 
-- un gros filet de saumon pour 4 personnes
-- 125 ml de crème fraîche légère supportant la cuisson
-- pour la marinade :
-    \*une grosse pincée d'herbes de Provence (Thym, romarin, etc.)
-    \*une pincée moyenne de sel
-    \*une petite pincée de sucre
-    \*60 ml de pastis
-    \*125 ml de vin blanc sec, type muscadet
-    \*une cuiller à café de poivre
-    \*le jus d'un petit citron
+*Pour 4 personnes*
+
+- 1 gros filet de saumon frais (environ 700 à 800 g)
+- 125 ml de crème fraîche supportant la cuisson
+
+### Pour la marinade
+- 60 ml de pastis
+- 125 ml de vin blanc sec (type Muscadet)
+- Jus d'un petit citron jaune
+- 1 grosse pincée d'herbes de Provence (thym, romarin)
+- 1 cuillère à café de poivre au moulin
+- 1 pincée de sel
+- 1 petite pincée de sucre
 
 ## Préparation
 
-1/ Préparer la marinade et la mettre avec le saumon dans un sac à congélation à reposer au moins une heure
-2/ au bout d'une heure, séparer saumon et marinade, qu'on réserve
-3/ Sortir le saumon du sac, le placer dans un plat allant au four et le cuire au grill pas trop fort pendant environ 15 minutes
-4/ Faire chauffer la marinade dans une casserole en la flambant pour éliminer l'alcool ; la réduire en remuant.
-5/ Ajouter la crème et continuer à remuer sans bouillir, pour épaissir jusqu'à la consistance voulue
-6/ Napper la portion de saumon de sauce et servir aussitôt
+1. Dans un bol, préparer la marinade en émulsionnant le pastis, le vin blanc, le jus de citron, les herbes de Provence, le sel, le poivre et le sucre.
+2. Placer le filet de saumon avec la marinade dans un sac de congélation hermétique et laisser mariner au moins 1 heure au réfrigérateur.
+3. Au bout d'une heure, sortir le saumon du sac et réserver soigneusement la marinade.
+4. Déposer le saumon dans un plat allant au four et le faire cuire sous le gril modéré pendant environ 15 minutes.
+5. Verser la marinade réservée dans une casserole et la porter à ébullition en la flambant prudemment pour faire évaporer l'alcool ; faire réduire de moitié à feu vif.
+6. Baisser le feu, incorporer la crème fraîche et remuer sans laisser bouillir jusqu'à ce que la sauce épaississe et prenne une belle consistance onctueuse.
+7. Détailler le saumon en portions, napper généreusement de sauce anisée bien chaude et servir aussitôt.
 
 ## Observations
 
-1 - Recette exécutée plusieurs fois à Quiberon, Rennes et Armes, toujours avec beaucoup de succès chez les amateurs de saumon.
-2 - Se marie très bien avec pommes de terre à l'eau, riz, pâtes ou même haricots verts
+- **Contexte :** Recette exécutée à de multiples reprises à Quiberon, Rennes et Armes, recueillant toujours un franc succès auprès des amateurs de poisson.
+- **Accompagnement :** Se marie à merveille avec des pommes de terre vapeur, du riz basmati, des tagliatelles fraîches ou des haricots verts.

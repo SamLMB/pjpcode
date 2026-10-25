@@ -4,10 +4,9 @@ number: 17
 title: "Velouté d'asperges"
 ---
 
-[![Velouté d'asperges — recette manuscrite](image-01.jpg)](image-01.jpg)
-[![Velouté d'asperges — note](image-02.jpg)](image-02.jpg)
-
 *Pour 4 personnes*
+
+📄 *Manuscrit original : [Page 1](image-01.jpg) · [Page 2](image-02.jpg)*
 
 ## Ingrédients
 
@@ -27,6 +26,7 @@ title: "Velouté d'asperges"
 4. **Finition :** Réchauffer doucement sans faire bouillir. Saler et poivrer au goût.
 5. **Service :** Servir bien chaud parsemé de persil frais haché.
 
-> **Observations :** Recette exécutée à Rennes le 28/03/2006 pour F. et moi : excellent et simple. Les quantités de tous les ingrédients ne sont pas critiques.
->
-> *Note :* Ce velouté a été testé sur la famille Lapanzé le 23 mai 2006 à Marcy. Bien que difficiles en matière d'asperges, les Picards se sont régalés.
+## Observations
+
+- **Contexte :** Recette exécutée à Rennes le 28 mars 2006 pour F. et moi : excellent et simple. Les quantités de tous les ingrédients ne sont pas critiques.
+- **Appréciation :** Ce velouté a été testé sur la famille Lapanzé le 23 mai 2006 à Marcy. Bien que difficiles en matière d'asperges, les Picards se sont régalés.
