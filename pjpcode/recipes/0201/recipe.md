@@ -4,38 +4,36 @@ number: 201
 title: Tarte "Gode save the Quetsche" (avec photos du Chef Julien Béclin et ses marmitons Michel Pioger et Jean-Pierre Bourdier)
 ---
 
-Recette n°201 : Tarte "God save the Quetsche"
-
 Comme aime à dire Julien Béclin quand il exécute une des recettes qui ont fait sa renommée :
-"Je suis jeune, il est vrai; mais aux âmes bien nées,
-La valeur n'attend pas le nombre des années."
+> *« Je suis jeune, il est vrai ; mais aux âmes bien nées,  
+> La valeur n'attend pas le nombre des années. »*
 
-[![](image-01.jpg)](image-01.jpg)
+![Chef Julien Béclin et ses marmitons](image-01.jpg)
 
-## Ingrédients (pour 8 personnes)
+## Ingrédients
 
+*Pour 8 personnes*
+
+- 2 rouleaux de pâte brisée pur beurre (type Marie)
+- 1 kg de quetsches fraîches
 - 6 grosses pommes plutôt tendres
-- 1 kg de quetsches
-- 8 cuillers à soupe bombées de sucre en poudre
-- 2 pâtes à tarte brisée type Marie, pur beurre
-**
+- 8 cuillères à soupe bombées de sucre en poudre
 
 ## Préparation
 
-- mettre le four à préchauffer à 220C
-- dénoyauter les quetsches
-- éplucher les pommes,  les couper en lamelles, les mettre dans une bassine d'eau froide pour ne point qu'elles s'oxydent
-- sur la plaque du four, disposer du papier à cuisson en couvrant bien tout le fond
-- dérouler les pâtes à tarte et les mettre sur la plaque du four
-- au rouleau ou avec les pouces, souder les deux pâtes en les étirant pour qu'elles couvrent tout le fond
-- piquer la pâte à la fourchette pour éviter qu’elle ne gonfle
-- disposer pommes et prunes de façon à reconstituer le drapeau de la Grande Bretagne
-- saupoudrer du sucre
-- enfourner à four chaud et cuire 45 à 60 mn
+1. Préchauffer le four à 220°C (425°F).
+2. Laver et dénoyauter les quetsches en les fendant en deux.
+3. Éplucher les pommes, les émincer en lamelles régulières et les plonger dans un saladier d'eau froide pour éviter l'oxydation.
+4. Garnir la plaque du four d'une grande feuille de papier sulfurisé recouvrant bien tout le fond.
+5. Dérouler les deux pâtes à tarte et les disposer côte à côte sur la plaque.
+6. Au rouleau à pâtisserie ou avec les pouces, souder intimement les deux pâtes en les étirant pour chemiser l'ensemble de la plaque.
+7. Piquer généreusement le fond de pâte à la fourchette pour éviter qu'il ne gonfle à la cuisson.
+8. Disposer harmonieusement les lamelles de pommes et les demi-quetsches de façon à reproduire le motif du drapeau britannique (*Union Jack*).
+9. Saupoudrer généreusement toute la surface de sucre en poudre.
+10. Enfourner à four bien chaud et cuire pendant 45 à 60 minutes jusqu'à ce que la pâte soit bien dorée et les fruits compotés.
 
 ## Observations
 
-Recette exécutée à Quiberon le 2 août 2008 par Julien Béclin, avec l'aide de deux jeunes marmitons (Michel Pioger et Jean-Pierre Bourdier) pour les familles Béclin, Pioger et Bourdier.
-Tout a été mangé !
+- **Contexte :** Recette exécutée à Quiberon le 2 août 2008 par Julien Béclin, secondé de deux jeunes marmitons (Michel Pioger et Jean-Pierre Bourdier) pour régaler les familles Béclin, Pioger et Bourdier réunies. Tout a été dévoré jusqu'à la dernière miette !
 
-[![](image-02.jpg)](image-02.jpg)
+![Tarte dressée comme l'Union Jack](image-02.jpg)

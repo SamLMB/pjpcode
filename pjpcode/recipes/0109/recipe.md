@@ -1,47 +1,44 @@
 ---
 layout: recipe
 number: 109
-title: Chou-fleur et julienne de petits légumes au curry
+title: "Chou-fleur et julienne de petits légumes au curry"
 ---
 
-[![Chou-fleur et julienne de petits légumes au curry — recette manuscrite](image-01.jpg)](image-01.jpg)
+*Pour 4 personnes (cuisine au wok)*
 
-[![Chou-fleur et julienne de petits légumes au curry — suite](image-02.jpg)](image-02.jpg)
+📄 *Manuscrit original : [Page 1](image-01.jpg) · [Page 2](image-02.jpg)*
 
-## Ingrédients (pour 4 personnes — cuisine au wok)
+## Ingrédients
 
-- 3 cuillers à soupe d'huile d'arachide
-- 600 g de chou-fleur (surgelé)
+- 600 g de chou-fleur (frais ou surgelé)
+- 300 g de petits légumes taillés en julienne
 - 2 échalotes hachées
 - 1 gousse d'ail hachée
-- 1 cuiller à café de moutarde au piment d'espelette
-- 1 cuiller à soupe de curry
-- 1/2 cuiller à café de gingembre moulu
+- 2 yaourts nature (2 x 125 g)
 - 250 g de sauce tomate
-- 2 yaourts nature (15 cl x 2)
-- 2 cuillers à soupe de sauce soja
-- 1 cuiller à café de farine
-- 50 g d'amandes moulues
-- 300 g de petits légumes débités en julienne (surgelés)
-- sel et poivre selon goût
+- 50 g d'amandes en poudre
+- 3 c. à soupe d'huile d'arachide
+- 1 c. à soupe de curry en poudre
+- 1 c. à café de moutarde forte ou au piment d'Espelette
+- 2 c. à soupe de sauce soja
+- 1/2 c. à café de gingembre moulu
+- 1 c. à café de farine
+- Sel et poivre selon le goût
 
 ## Préparation
 
-- séparer le chou-fleur en petits bouquets
-- faire chauffer l'huile dans le wok
-- faire sauter la moutarde 1 mn dans l'huile
-- ajouter ail et échalote hachés et faire revenir 1 mn
-- ajouter les bouquets de chou-fleur et faire sauter 4 mn
-- incorporer le curry, la sauce tomate, 20 cl d'eau, la sauce soja, le gingembre, faire mijoter 20 mn
-- saler et poivrer si nécessaire
-- mélanger farine, yaourt et amandes
-- retirer du feu et mélanger le tout
-- servir aussitôt
+1. Détailler le chou-fleur en petits bouquets réguliers.
+2. Faire chauffer l'huile d'arachide dans un grand wok.
+3. Faire revenir la moutarde 1 minute dans l'huile chaude.
+4. Ajouter l'ail et les échalotes hachés et faire suer 1 minute.
+5. Ajouter les bouquets de chou-fleur et les faire sauter à feu vif pendant 4 minutes.
+6. Incorporer le curry, le gingembre, la sauce tomate, la sauce soja et 20 cl d'eau, puis laisser mijoter à feu doux pendant 20 minutes.
+7. Ajouter la julienne de légumes et poursuivre la cuisson quelques minutes. Saler et poivrer selon votre goût.
+8. Dans un bol, délayer la farine avec les yaourts et la poudre d'amandes.
+9. Retirer le wok du feu, incorporer le mélange yaourt-amandes pour lier la sauce sans la faire bouillir.
+10. Dresser sans attendre et servir bien chaud.
 
 ## Observations
 
-1. recette préparée le 28/11/2006 pour Mamy et moi, un très bon repas léger pour le soir.
-2. cette recette s'inspire d'une recette trouvée sur internet par rapport à laquelle j'ai apporté deux modifications :
-   - je n'ai pas mis de curcuma avec le curry, car je n'en avais pas
-   - j'ai ajouté la julienne, qui n'était pas prévue
-   - je n'ai pas mis de rondelles de tomates au moment de servir.
+- **Contexte :** Recette préparée le 28/11/2006 pour Mamy et moi ; un excellent repas léger et très parfumé pour le soir.
+- **Variantes :** Recette librement adaptée d'une formule trouvée sur Internet : sans curcuma par manque de stock, mais enrichie d'une julienne de petits légumes pour varier les textures.

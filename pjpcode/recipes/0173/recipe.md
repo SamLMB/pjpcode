@@ -4,88 +4,87 @@ number: 173
 title: Sushis à la mode de Vitré, comme les prépare gente Dame Alix
 ---
 
-Bonjour ! Je m'appelle Alix et je vais vous expliquer comment on prépare les sushis à la mode de Vitré
+Bonjour ! Je m'appelle Alix et je vais vous expliquer comment on prépare les sushis à la mode de Vitré.
 
-[![](image-01.jpg)](image-01.jpg)
+![Alix présentant la recette](image-01.jpg)
 
 En ce 19 janvier 2008, nous étions invités chez Anne et Pierre à Vitré, ce qui nous donna l'occasion de goûter les sushis que prépara gente Dame Alix. Cette recette donne l'occasion de voir quelques photos de ce week-end.
 
 D'abord, voici le plat tel que servi à table, pour vous mettre l'eau à la bouche :
 
-[![](image-02.jpg)](image-02.jpg)
+![Plat de sushis dressé à la mode de Vitré](image-02.jpg)
 
 ## Ingrédients
 
-- 300 g de riz japonais ou de riz à rizotto
+- 300 g de riz japonais ou de riz à risotto
 - 5 feuilles de nori (algue noire pour sushis)
 - 1 avocat bien mûr coupé en bâtonnets
-- 1 tiers de concombre coupé coupé en bâtonnets
+- 1 tiers de concombre coupé en bâtonnets
 - 1 carotte coupée en bâtonnets
-- quelques filets de sardines marinées dans le vinaigre
-- une demi-tranche de saumon fumé coupé en fines lanières
-- quelques bâtonnets de très bon surimi (en choisir du très bon !)
-- des oeufs de truite saumonée
-- deux cuillers à soupe de vinaigre de riz ou de saké
-- une cuiller à café de sucre
-- une pincée de gros sel
-- quelques brache de menthe et de coriandre (toutes deux très fraîches)
-- les sauces qui vont bien avec les sushis (soja, nuoc mam, sauce chinoise pimentée à l'ail, etc)
-- les ustensiles nécessaires à la fabrication des sushis (tapis de bambou, couteau très aiguisé ou cutter, film alimentaire transparent)
-- du temps et de la patience (se prépare la veille)
+- Quelques filets de sardines marinées dans le vinaigre
+- 1 demi-tranche de saumon fumé coupée en fines lanières
+- Quelques bâtonnets de très bon surimi
+- Œufs de truite saumonée
+- 2 cuillères à soupe de vinaigre de riz ou de saké
+- 1 cuillère à café de sucre
+- 1 pincée de gros sel
+- Quelques branches de menthe et de coriandre fraîche
+- Sauces d'accompagnement (soja, nuoc-mâm, sauce piquante à l'ail)
+- Matériel nécessaire : natte de bambou, film alimentaire transparent, couteau très aiguisé ou cutter
+- Du temps et de la patience (à préparer la veille de préférence)
 
-La préparation nécessite un peu de manipulation, et l'aide d'un vieux marmiton comme PJP peut être utile
+La préparation nécessite un peu de manipulation, et l'aide d'un vieux marmiton comme PJP peut être utile !
 
-[![](image-03.jpg)](image-03.jpg)
+![Préparation des sushis avec PJP](image-03.jpg)
 
 Il faut bien les faire travailler un peu, les vieux, n'est-ce pas ?
 
-[![](image-04.jpg)](image-04.jpg)
+![PJP en plein façonnage](image-04.jpg)
 
 ## Préparation
 
-1 - porter à ébullition la cuiller à café dissoute dans les deux cuillers à soupe de vinaigre de riz, réserver
-2 - rincer abondamment les 300 g de riz jusqu'à ce que l'eau de rinçage soit claire
-3 - mesurer le volume du riz, mettre une fois et demi ce volume d'eau dans une casserole, y mettre le riz, remuer et porter à ébullition
-4 - quand ça bout, réduire le feu, couvrir et laisser mijoter 15 mn en remuant de temps en temps pour ne pas que cela colleau fond
-5 - arrêter le feu, remuer, et laisser couvert 10 mn en remuant de temps en temps : l'eau doit être totalement absorbée par le riz
-6 - découvrir, verser le vinaigre de riz sucré et remuer pour bien mélanger, laisser refroidir complètement
-7 - préparer tous les ingrédients à portée de main (légumes et poissons découpés) ainsi qu'un beau d'eau froide pour se tremper les mains de temps en temps
-8 - sur un tapis de bambou (les tiges étant parallèles au bord de la table), étaler une feuille de nori, "sunny side up" (face brillante dessus)
-9 - mouiller légèrement la feuille de nori à la main sans trop traîner car elle commence à rétrécir...
-10 - se mouiller les mains (on le refera souvent car le riz colle) et étaler une mince couche de riz (1/2 à 1 cm) sur la feuille de nori jusqu'à 1 cm du bord
-11 - composer le coeur du sushis avec poissons et légumes sous forme d'une bande de 3 à 4 cm de large, vers l'extrémité du tapis proche du bord de table
-12 - rouler avec l'aide du tapis comme on roule une cigarette : on doit obtenir un gros boudin noir de 5 à 6 cm de diamètre
-13 - enlever délicatement le tapis de bambous et rouler immédiatement le sushi dans un film plastique
-14 - laisser reposer au frigo jusqu'au lendemain
-15 - juste avant le repas, sortir du film plastique et découper en rondelles de 3 à 5 cm d'épaisseur
-16 - servir sur un plat avec des oeufs de poisson, des branches de coriandre fraîche, et des feuilles de menthe
-17 - servir avec toutes les sauces à disposition dans des coupelles
-18 - quand on a oublié (comme nous) d'apporter des baguettes, aller (comme nous) en couper dans un jardin public
+1. **Assaisonnement :** Porter à ébullition la cuillère à café de sucre dissoute dans les deux cuillères à soupe de vinaigre de riz. Réserver.
+2. **Rinçage du riz :** Rincer abondamment les 300 g de riz sous l'eau froide jusqu'à ce que l'eau de rinçage soit parfaitement claire.
+3. **Cuisson du riz :** Mesurer le volume du riz, verser une fois et demie ce volume d'eau dans une casserole, y plonger le riz, remuer et porter à ébullition.
+4. Dès l'ébullition, réduire le feu, couvrir et laisser mijoter 15 minutes en remuant de temps en temps pour éviter que le riz n'attache au fond.
+5. Couper le feu, remuer et laisser reposer 10 minutes à couvert : toute l'eau doit être complètement absorbée.
+6. Découvrir, verser le vinaigre de riz sucré, mélanger délicatement et laisser refroidir complètement.
+7. **Mise en place :** Disposer à portée de main les garnitures (légumes et poissons découpés) ainsi qu'un bol d'eau froide pour s'humidifier régulièrement les doigts.
+8. **Façonnage :** Étaler une feuille de nori sur la natte de bambou (tiges parallèles au bord de la table), face brillante dessous.
+9. Humidifier légèrement la feuille de nori à la main sans tarder pour éviter qu'elle ne se rétracte.
+10. S'humidifier les mains et étaler une fine couche de riz (5 mm à 1 cm) sur la feuille en laissant une bordure libre de 1 cm sur le bord supérieur.
+11. Disposer la garniture (poissons et légumes) en une bande régulière de 3 à 4 cm de large, vers l'extrémité de la feuille proche de soi.
+12. Rouler fermement à l'aide de la natte comme on roule une cigarette, afin d'obtenir un boudin bien compact de 5 à 6 cm de diamètre.
+13. Retirer délicatement la natte de bambou et envelopper immédiatement le rouleau dans du film étirable transparent.
+14. **Repos :** Laisser reposer au réfrigérateur plusieurs heures (idéalement jusqu'au lendemain).
+15. **Découpe :** Juste avant le repas, ôter le film plastique et découper en rondelles de 3 à 5 cm d'épaisseur à l'aide d'un couteau très affûté.
+16. **Dressage :** Disposer harmonieusement sur un plat avec les œufs de poisson, des brins de coriandre fraîche et des feuilles de menthe.
+17. Servir avec les différentes coupelles de sauces à disposition des convives.
+18. À défaut de baguettes traditionnelles, tailler de fines baguettes improvisées dans des branches de noisetier ou de bambou.
 
-il faut penser au papier pour s'essuyer les mains car ça colle vraiment beaucoup
+Il faut bien penser au papier absorbant pour s'essuyer les doigts, le riz étant très collant !
 
-[![](image-05.jpg)](image-05.jpg)
+![Façonnage des rouleaux](image-05.jpg)
 
 ## Observations
 
-Excellent même si nous avions prévu une sauce de trop (la sauce aux huîtres, qui ne va pas du tout avec les sushis ; elle est est par contre excellente avec le veau ou le poulet, mais c'est une autre histoire... cf. recette n°153 du PJP code).
+- **Dégustation :** Excellent repas ! Prévoir des sauces adaptées : la sauce aux huîtres, en revanche, ne convenait pas du tout aux sushis (elle est par contre parfaite avec le veau ou le poulet).
+- **Ambiance :** C'est un peu la patouille, mais très convivial en cuisine.
 
-C'est un peu la patouille, cette recette !
+![En pleine séance de roulage](image-06.jpg)
 
-[![](image-06.jpg)](image-06.jpg)
+Les hôtes avant de commencer à goûter les sushis (remarquer leur regard chargé d'appréhension) :
 
-Les hôtes avant de commencer à goûter les sushis (remarquer leur regard chargé d'appréhension)
+![Les convives avant la dégustation](image-07.jpg)
 
-[![](image-07.jpg)](image-07.jpg)
+Les mêmes hôtes, repus, après avoir dégusté les sushis :
 
-Les mêmes hôtes, repus, après avoir mangé les sushis (non, ils ne sont pas étendus parce qu'ils sont malades)
+![Les convives après le festin](image-08.jpg)
 
-[![](image-08.jpg)](image-08.jpg)
+Mon marmiton PJP et sa chef, qui a supervisé les opérations avec rigueur :
 
-deux dernières photos : d'abord mon marmiton PJP et sa chef, qui a supervisé le travail
+![PJP et Françoise en cuisine](image-09.jpg)
 
-[![](image-09.jpg)](image-09.jpg)
+Et la chef de mon marmiton, en pleine digestion :
 
-et la chef de mon marmiton, seule en train de digérer
-
-[![](image-10.jpg)](image-10.jpg)
+![Françoise au repos](image-10.jpg)

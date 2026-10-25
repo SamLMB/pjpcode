@@ -1,29 +1,35 @@
 ---
 layout: recipe
 number: 145
-title: Taquitos de carne mechada
+title: "Taquitos de carne mechada"
 ---
 
-[![Taquitos de carne mechada — recette manuscrite](image-01.jpg)](image-01.jpg)
+*Pour 4 personnes (10 portions)*
 
-## Ingrédients (4 personnes / 10 portions)
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
-- 10 tortillas de farine
-- 500 g de viande de boeuf cuite et effilochée (*carne de res cocida y mechada*)
-- 10 tranches très fines de jambon
-- 1 grosse carotte, finement râpée
-- 10 cure-dents (*palillos de dientes*)
-- quelques cuillères d'huile pour frire
+## Ingrédients
+
+- 10 tortillas de maïs ou de blé souples
+- 500 g de viande de bœuf cuite et effilochée (*carne de res mechada*)
+- 10 tranches très fines de jambon blanc
+- 1 grosse carotte râpée finement
+- Huile végétale pour friture
+- 10 cure-dents en bois (*palillos*)
+- Sauce Salsa Lizano (ou sauce piquante au choix)
+- Coriandre fraîche selon le goût
 
 ## Préparation
 
-- réchauffer les tortillas dans une poêle pour qu'elles ne se brisent pas en les roulant
-- garnir avec la viande, le jambon et la carotte
-- rouler et fixer avec les cure-dents pour qu'ils ne s'ouvrent pas pendant la cuisson
-- dans une poêle avec suffisamment d'huile chaude, faire frire les taquitos jusqu'à ce qu'ils soient bien dorés
-- retirer de la poêle et égoutter l'excès de gras sur du papier absorbant
-- servir avec une sauce (salsa Lizano par exemple) et de la coriandre fraîche selon goût
+1. Réchauffer quelques instants les tortillas à sec dans une poêle chaude pour les assouplir afin qu'elles ne se fendent pas au roulage.
+2. Déposer sur chaque tortilla une tranche fine de jambon, une portion généreuse de bœuf effiloché et une pincée de carotte râpée.
+3. Rouler très serré la tortilla sur elle-même pour former un petit cigare et fixer la fermeture avec un cure-dent.
+4. Faire chauffer un fond d'huile dans une poêle à feu moyen-vif.
+5. Déposer les taquitos dans l'huile chaude et les faire frire en les retournant régulièrement jusqu'à ce qu'ils soient bien dorés et croustillants sur toutes les faces.
+6. Retirer de la poêle et égoutter soigneusement sur une assiette tapissée de papier absorbant.
+7. Retirer les cure-dents avant de servir.
+8. Présenter bien chaud avec un ramequin de Salsa Lizano et parsemer de coriandre fraîche.
 
 ## Observations
 
-- Recette faite au Costa Rica le 18 septembre. Délicieux ! (*¡Que rico !*)
+- **Contexte :** Recette traditionnelle costaricienne réalisée le 18 septembre 2007 à Ciudad Colón ; un en-cas croustillant et savoureux (*¡Qué rico !*).

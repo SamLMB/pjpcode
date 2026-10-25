@@ -4,34 +4,25 @@ number: 234
 title: Préfou
 ---
 
-Recette n°234 : Préfou
+## Ingrédients
 
-## Ingrédients (pour un apéro à 6 personnes)
+*Pour 6 personnes (apéritif)*
 
-- une baguette de pain la moins cuite possible (du pain mi-cuit est parfait pour ça)
-
-- une gousse d'ail d'Arleux
-
-- une grosse cuiller de beurre salé ramolli mais pas fondu
-
-- sel et poivre selon goût
+- 1 baguette de pain mi-cuite (ou baguette bien blanche très peu cuite)
+- 1 grosse gousse d'ail d'Arleux
+- 80 g de beurre demi-sel (ramolli à température ambiante)
+- Sel et poivre au moulin
 
 ## Préparation
 
-1 - mettre le four à préchauffer à 120C
-
-2 - presser l'ail épluché, le mélanger au beurre ramolli en pommade
-
-2 - couper la baguette en deux dans le sens de la longueur
-
-3 - badigeonner les deux demi-baguettes avec la pommade
-
-4 - refermer la baguette et enfourner
-
-5 - passer au four une quinzaine de minutes (le temps de cuire le pain, ou de le réchauffer s'il est déjà cuit)
-
-6 - servir à l'apéritif, coupé en tranches d'un cm environ.
+1. Préchauffer le four à 180°C (350°F).
+2. Peler et presser la gousse d'ail au presse-ail, puis la malaxer intimement avec le beurre ramolli en pommade onctueuse. Poivrer légèrement.
+3. Fendre la baguette en deux dans le sens de la longueur sans séparer complètement les deux moitiés si possible.
+4. Tartiner généreusement et uniformément la mie des deux côtés intérieurs avec la pommade de beurre à l'ail.
+5. Refermer la baguette et l'envelopper éventuellement dans une feuille d'aluminium.
+6. Enfourner pendant 10 à 15 minutes, jusqu'à ce que le beurre soit fondu à cœur et la croûte croustillante et bien chaude.
+7. Découper en tranches épaisses d'environ 1 à 2 cm et servir immédiatement à l'apéritif.
 
 ## Observations
 
-Recette faite en avril 2011 à Quiberon pour la famille Béclin. Excellente et très consistante !
+- **Contexte :** Recette vendéenne réalisée en avril 2011 à Quiberon pour la famille Béclin ; un apéritif chaud très convivial et consistant !

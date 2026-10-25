@@ -4,8 +4,9 @@ number: 29
 title: "Mousse glacée à l'ananas"
 ---
 
-[![Mousse glacée à l'ananas — recette](image-01.jpg)](image-01.jpg)
-[![Mousse glacée à l'ananas — note](image-02.jpg)](image-02.jpg)
+*Pour 4 à 6 personnes*
+
+📄 *Manuscrit original : [Page 1](image-01.jpg) · [Page 2](image-02.jpg)*
 
 ## Ingrédients
 
@@ -23,6 +24,7 @@ title: "Mousse glacée à l'ananas"
 5. **Blancs en neige :** Monter les 4 blancs d'œufs en neige très ferme avec une pincée de sel. Les incorporer très délicatement à la spatule dans la préparation à l'ananas refroidie.
 6. **Réfrigération :** Réserver au réfrigérateur au moins 2 heures avant de servir bien frais (ou au congélateur en sortant 30 minutes avant dégustation).
 
-> **Observations :** Servie à Rennes le 03/04/2006 : une version testée sans sucre à la sorbetière s'est révélée trop acide et glaciale. Le sucre glace apporte l'équilibre parfait.
->
-> *Conseil :* Inutile d'utiliser une sorbetière ! Une simple prise au réfrigérateur donne une texture de mousse légère, aérienne et fruitée.
+## Observations
+
+- **Contexte :** Servie à Rennes le 3 avril 2006 : une version testée sans sucre à la sorbetière s'est révélée trop acide et glaciale. Le sucre glace apporte l'équilibre parfait.
+- **Conseil :** Inutile d'utiliser une sorbetière ! Une simple prise au réfrigérateur donne une texture de mousse légère, aérienne et fruitée.

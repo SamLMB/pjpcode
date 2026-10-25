@@ -4,32 +4,32 @@ number: 199
 title: Rillettes de saumon et maquereau
 ---
 
-Recette n°199 : rillettes de saumon et de maquereau
-
 ## Ingrédients
 
-(pour 8 personnes)
-1 - 200 g de saumon fumé
-2 - 200 g de maquereau fumé
-3 - 75g de beurre
-4 - 150g de crème fraîche
-5 - le jus et le zeste d'un gros citron jaune
-6 - sel, poivre
-7 - une cuiller à café de 5 baies (ou de 4 épices)
-8 -30g d'oeufs de poisson  (truite, saumon, lumpe, etc.).
-9 - une poignée de ciboulette fraîche ciselée
-10 - une cuiller à soupe d'eau de vie (gognac, whisky, etc.)
+*Pour 8 personnes*
+
+- 200 g de saumon fumé
+- 200 g de maquereau fumé au poivre
+- 75 g de beurre pommade (ramolli à température ambiante)
+- 150 g de crème fraîche épaisse
+- Jus et zeste d'un gros citron jaune non traité
+- 30 g d'œufs de poisson (truite, saumon ou lompe)
+- 1 belle poignée de ciboulette fraîche ciselée
+- 1 cuillère à café de mélange 5 baies (ou 4 épices)
+- 1 cuillère à soupe d'eau-de-vie (cognac ou whisky)
+- Sel et poivre au moulin
 
 ## Préparation
 
-1 - mettre le beurre à ramollir hors du frigo au moins une heure avant empoli (sinon, le faire fondre sans le cuire).
-2 - fouetter la crème fraîche jusqu'à consistance de crème fouettée. Mettre au réfrigérateur.
-3 - peler le maquereau et l'écraser à la fourchette.
-4 - découper le saumon fumé en dés.
-5 - passer au mixer beurre, crème fraîche, maquereau, saumon, cinq baies, eau de vie, sel, poivre, eau de vie.
-6 - mettre en terrine en décorant avec les oeufs de poisson et la ciboulette.
-7 - couvrir d'un film transparent et mettre à reposer quelques heures au frigo.
+1. Sortir le beurre du réfrigérateur au moins 1 heure à l'avance pour qu'il soit bien ramolli.
+2. Fouetter la crème fraîche en chantilly ferme et la réserver au réfrigérateur.
+3. Retirer la peau et les arêtes du maquereau fumé, puis écraser soigneusement la chair à la fourchette.
+4. Découper le saumon fumé en petits dés réguliers.
+5. Au mixeur, mixer le beurre ramolli avec la chair de maquereau, les trois quarts du saumon, les 5 baies, l'eau-de-vie, le zeste et le jus de citron, sel et poivre.
+6. Incorporer délicatement la crème fouettée et les dés de saumon restants à la spatule.
+7. Dresser en terrine ou ramequins, décorer avec les œufs de poisson et la ciboulette ciselée.
+8. Couvrir de film étirable et laisser raffermir plusieurs heures au réfrigérateur avant de servir avec des toasts chauds.
 
 ## Observations
 
-Recette préparée en juillet 2008 à Quiberon pour les Pioger, les Mathews, les Béclin et les Bourdier, et très appréciée.
+- **Contexte :** Préparé en juillet 2008 à Quiberon pour les familles Pioger, Mathews, Béclin et Bourdier réunies ; un apéritif d'été très apprécié !

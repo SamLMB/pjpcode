@@ -4,45 +4,35 @@ number: 36
 title: "Salade de fruits à la Marçoise"
 ---
 
-[![Salade de fruits à la Marçoise — recette manuscrite](image-01.jpg)](image-01.jpg)
+*Pour 6 personnes*
 
-*Pour 8 personnes*
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
-### Fruits frais
-- 4 bananes
-- 6 oranges à jus (4 pour les tranches, 2 pour le jus)
-- 1 gros citron non traité (type citron de Nice)
-- 4 pêches bien mûres (pelées et tranchées)
-- 16 belles fraises fraîches
+### Les fruits frais
+- 500 g de belles fraises parfumées (Mara des bois ou Gariguette)
+- 3 belles oranges à jus ou de table
+- 2 bananes mûres à point
 
-### Fruits secs et moelleux
-- 16 figues séchées
-- 16 dattes moelleuses dénoyautées
-- 100 g de pruneaux dénoyautés
-- 100 g de raisins secs
-- 100 g de cerneaux de noix (ou amandes)
-
-### Sirop au Grand Marnier
-- 25 cl d'eau
-- 16 morceaux de sucre (ou 80 g de sucre en poudre)
-- 1 sachet de sucre vanillé
-- 4 c. à soupe de Grand Marnier
+### Le sirop parfumé
+- 1/4 de litre de vin rouge (ou rosé)
+- 100 g de sucre en poudre
+- 1 gousse de vanille fendue
+- 1 clou de girofle
+- 1 pincée de cannelle moulue
+- 1 zeste d'orange non traitée
+- 1 filet de jus de citron
+- 2 c. à soupe de Grand Marnier ou Cointreau (facultatif)
 
 ## Préparation
 
-1. **Sirop parfumé :** Prélever le zeste du citron et d'une orange. Dans une casserole, porter à ébullition l'eau, le sucre, le sucre vanillé et les zestes pendant 2 minutes. Hors du feu, incorporer le jus pressé du citron, le jus de 2 oranges et le Grand Marnier. Couvrir et laisser infuser.
-2. **Montage par strates :** Dans un grand saladier transparent, superposer délicatement les fruits dans l'ordre de bas en haut :
-   - Les cerneaux de noix et les raisins secs
-   - Les figues et les dattes
-   - Les lamelles de pêches épluchées
-   - Les pruneaux et les fraises entières ou coupées en deux
-   - Les rondelles de bananes
-   - Les rondelles d'oranges pelées à vif
-3. **Imbibition :** Verser doucement le sirop tiède ou refroidi sur toute la surface de manière bien uniforme. *Surtout ne pas mélanger pour ne pas écraser les fruits fragiles.*
+1. **Sirop au vin rouge :** Dans une casserole, mélanger le vin, le sucre, le clou de girofle, le zeste d'orange, le jus de citron, la cannelle et la gousse de vanille fendue et grattée. Porter à ébullition, puis laisser frémir à feu doux pendant 5 minutes. Hors du feu, ajouter l'alcool et laisser refroidir.
+2. **Préparation des fruits :** Dans un grand saladier ou une coupe transparente, superposer les fruits sans les mélanger : d'abord les fraises entières ou coupées en deux, puis les rondelles de bananes, et enfin les rondelles d'oranges pelées à vif.
+3. **Imbibition :** Verser doucement le sirop tiède ou refroidi sur toute la surface de manière bien uniforme sans mélanger, afin de préserver l'intégrité des fruits fragiles.
 4. **Repos :** Couvrir et laisser macérer au réfrigérateur pendant plusieurs heures avant de servir très frais.
 
-> **Observations :** Recette improvisée les 23 et 24 mai 2006 à Marcy : la famille Lapanzé s'est régalée !
->
-> *Variantes :* On peut enrichir la salade d'amandes, d'ananas séché ou de bananes séchées selon les saisons (testé avec succès le 25 novembre 2006 à Rennes lors de la visite de Michel et Christine).
+## Observations
+
+- **Contexte :** Recette improvisée les 23 et 24 mai 2006 à Marcy : la famille Lapanzé s'est régalée !
+- **Variantes :** On peut enrichir la salade d'amandes, d'ananas séché ou de bananes séchées selon les saisons (testé avec succès le 25 novembre 2006 à Rennes lors de la visite de Michel et Christine).

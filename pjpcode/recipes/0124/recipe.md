@@ -1,40 +1,30 @@
 ---
 layout: recipe
 number: 124
-title: Aubergines à la mozarella et à la sauce tomate comme les prépare Cécile
+title: "Aubergines à la mozzarella et à la sauce tomate comme les prépare Cécile"
 ---
 
-**Recette n°124** :
+*Pour 4 personnes*
 
-Aubergines à la mozarella et à la sauce tomate comme les prépare Cécile.
 ## Ingrédients
 
-*pour 4 personnes*
-
-- 2 aubergines de taille moyenne
-
-- 4 boules de mozarella
-
-- une boîte moyenne de sauce tomate
-
-- une cuiller d’huile ou de beurre
-
-- quelques pincées de gros sel
+- 2 belles aubergines de taille moyenne
+- 4 boules de mozzarella (environ 500 g)
+- 1 boîte moyenne de coulis ou concassé de tomates (environ 400 g)
+- 2 c. à soupe d'huile d'olive (ou beurre)
+- Gros sel et poivre du moulin
+- Quelques feuilles de basilic ou origan
 
 ## Préparation
 
-Préchauffer le four à 200°C.
-
-Eplucher les aubergines et les couper en rondelles d’un cm d’épaisseur environ (12 à 14 tranches par aubergine). Les déposer sur une plaque (moule à tarte par exemple) frottée d’huile ou de beurre. Les saler et les faire cuire environ 20 minutes au four. Les aubergines devraient alors être tendres.
-
-Débiter les boules de mozarella en tranches (au total 12 à 14 tranches).
-
-Beurrer ou huiler un plat à lasagnes, y déposer la moitié des rondelles d’aubergine (12 à 14 rondelles). Mettre sur chacune une tranche de mozarella. Recouvrir d’une autre rondelle d’aubergine (cela fait comme des sandwichs).
-
-Recouvrir le tout d’une bonne sauce tomate et faire cuire au four 30 minutes environ.
-
-Servir aussitôt.
+1. Préchauffer le four à 200°C (400°F / th. 6-7).
+2. Laver les aubergines, les éplucher (ou laisser une bande de peau sur deux) et les couper en rondelles régulières d'environ 1 cm d'épaisseur (environ 12 à 14 tranches par aubergine).
+3. Disposer les rondelles sur une plaque de cuisson huilée, les parsemer d'un voile de sel et enfourner pendant 20 minutes jusqu'à ce qu'elles soient bien tendres et légèrement dorées.
+4. Égoutter les boules de mozzarella et les tailler en tranches régulières.
+5. Huiler un plat à gratin ou à lasagnes. Déposer au fond la moitié des rondelles d'aubergines cuites. Poser sur chaque rondelle une tranche de mozzarella, puis recouvrir d'une seconde rondelle d'aubergine pour former des petits sandwiches fondants.
+6. Napper généreusement l'ensemble avec la sauce tomate parfumée d'origan ou de basilic.
+7. Enfourner et faire gratiner pendant environ 30 minutes jusqu'à ce que la sauce bouillonne et que le fromage soit bien filant. Servir très chaud.
 
 ## Observations
 
-Recette exécutée le 7 juin 2007 à Quiberon pour nous deux. Excellent !
+- **Contexte :** Recette familiale préparée le 7 juin 2007 à Quiberon pour nous deux ; un plat estival doux, fondant et réconfortant.

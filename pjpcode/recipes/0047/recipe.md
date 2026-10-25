@@ -4,10 +4,11 @@ number: 47
 title: "Gazpacho andaluz"
 ---
 
-[![Gazpacho andaluz en coupelle](image-01.jpg)](image-01.jpg)
-[![Gazpacho andaluz — recette manuscrite](image-02.jpg)](image-02.jpg)
+![Gazpacho andaluz en coupelle](image-01.jpg)
 
 *Pour 4 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-02.jpg)*
 
 ## Ingrédients
 
@@ -28,4 +29,6 @@ title: "Gazpacho andaluz"
 4. **Réfrigération :** Réserver au frais pendant au moins 30 minutes à 1 heure avant dégustation.
 5. **Service :** Servir glacé dans des bols ou coupelles, accompagné des petits dés de légumes croquants à saupoudrer selon l'envie de chaque convive.
 
-> **Observations :** Réalisé à Quiberon le 16/06/2006 pour nous deux : un délice estival d'une fraîcheur incomparable !
+## Observations
+
+- **Contexte :** Réalisé à Quiberon le 16 juin 2006 pour nous deux : un délice estival d'une fraîcheur incomparable !

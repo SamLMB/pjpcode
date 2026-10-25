@@ -1,38 +1,39 @@
 ---
 layout: recipe
 number: 157
-title: Poêlons de moules au beurre, à l'ail et au persil
+title: "Poêlons de moules au beurre, à l'ail et au persil"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+[![Poêlons de moules au beurre, à l'ail et au persil](image-01.jpg)](image-01.jpg)
+
+*Pour 4 personnes*
 
 ## Ingrédients
 
-pour 4 personnes
-- 1 litre de moules de bouchot, de préférence
-- 120 g de beurre au sel salé de Guérande
-- 1 bouquet de persil
+- 1 litre de moules de bouchot bien fraîches
+- 120 g de beurre demi-sel au sel de Guérande ramolli
 - 2 grosses gousses d'ail d'Arleux
+- 1 gros bouquet de persil plat frais
+- Sel fin et poivre noir du moulin
 
-[![](image-02.jpg)](image-02.jpg)
+[![Poêlons de moules — préparation](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 
-- mettre le beurre à ramollir près du fourneau (mais ne pas le mettre à fondre)
-- passer les moules à l'eau froide rapidement, les ébarber une par une (c'est long mais indispensable) en jetant les cassées ou non-vivantes
-- les mettre sans eau dans une grande casserole à feu vif, couvrir et faire sauter en tenant le couvercle pour qu'elles chauffent bien toutes
-- au bout de quelques minutes (pas plus de 3 à 5, car sinon elles vont durcir), elles doivent pour la plupart être ouvertes
-- les égoutter (en gardant et filtrant le jus de cuisson qui peut être congelé et servir à donner du goût à une soupe de fruits de mer plus tard)
-- mettre le four à chauffer à thermostat 7
-- les écailler une par une, les réserver
-- préparer la farce en hachant le persil, en pressant l'ail, en salant et poivrant selon goût, et en mélangeant bien le tout à la fourchette avec le beure ramolli
-- dans les alvéoles des poêlons, mettre les moules (de une à 3 par alvéole suivant taille) ; compter 6 alvéoles par convive pour une entrée, 12 pour un plat principal
-- compléter par la farce à la spatule (petite cuiller)
-- enfourner et laisser la farce bien cuire sans la bruler (une dizaine de minutes devraient suffire)
-- servir aussitôt avec des mouillettes pour  aller chercher le beurre fondu dans les alvéoles
+1. Sortir le beurre demi-sel à température ambiante pour qu'il soit bien pommade (sans le faire fondre).
+2. Laver rapidement les moules à l'eau froide, les ébarber soigneusement et éliminer les coquilles cassées ou béantes.
+3. Déposer les moules sans eau dans une grande cocotte à feu vif, couvrir et faire sauter pendant 3 à 5 minutes jusqu'à ce qu'elles soient tout juste ouvertes (ne pas surcuire pour qu'elles restent moelleuses).
+4. Égoutter les moules et filtrer soigneusement le jus de cuisson (qui peut être congelé pour parfumer une soupe de poisson ultérieure).
+5. Décoquiller les moules une par une et réserver les chairs au chaud.
+6. Préchauffer le four à 210°C (410°F / th. 7).
+7. Hacher très finement le persil plat et presser les gousses d'ail. Dans un bol, amalgamer le beurre pommade avec l'ail, le persil, une pincée de sel et quelques tours de moulin à poivre.
+8. Dans les alvéoles de poêlons à escargots en céramique, disposer 1 à 3 moules par cavité (compter 6 alvéoles par personne pour une entrée, 12 pour un plat).
+9. Garnir généreusement chaque alvéole d'une noix de beurre persillé à la petite cuillère.
+10. Enfourner et faire gratiner pendant environ 10 minutes jusqu'à ce que le beurre bouillonne et mousse sans noircir.
+11. Servir immédiatement avec des mouillettes de baguette fraîche pour saucer le beurre d'ail brûlant.
 
-[![](image-03.jpg)](image-03.jpg)
+[![Poêlons de moules dorés](image-03.jpg)](image-03.jpg)
 
 ## Observations
 
-- recette préparée en octobre 2007 à Rennes pour nous deux dans des poêlons aimablement offerts par Vanvan quand nous sommes passés la voir à Montigny
+- **Contexte :** Recette préparée en octobre 2007 à Rennes pour nous deux, réalisée dans les poêlons d'escargot aimablement offerts par Vanvan lors de notre passage à Montigny.

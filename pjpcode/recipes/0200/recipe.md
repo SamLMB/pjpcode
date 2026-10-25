@@ -4,31 +4,34 @@ number: 200
 title: Spaghetti aux coques et aux lardons
 ---
 
-Recette n°200 : spaghettis aux coques et aux lardons
+## Ingrédients
 
-## Ingrédients (pour 4 personnes)
+*Pour 4 personnes*
 
-- 500 g de spaghettis
-- 2 kg de coques sans sable
-- 150 g de lardons
+- 500 g de spaghetti
+- 2 kg de coques fraîches bien dessablées
+- 150 g de lardons fumés
 - 2 gousses d'ail d'Arleux
-- 3 tomates
+- 3 belles tomates mûres
 - 1 carotte
-- 10 cl de vin blanc
-- huile d'olive
-- une pointe de piment
+- 10 cl de vin blanc sec
+- 3 cuillères à soupe d'huile d'olive
+- 1 pointe de piment d'Espelette
 - 2 pincées de sucre
-- poivre (pas de sel, car les coques en apportent assez)
+- Poivre au moulin (sans sel ajouté, les coques apportant suffisamment de salinité)
 
 ## Préparation
 
-1 - Faire tremper les coques au moins une heure dans de l'eau salée. Bien les rincer. Les mettre dans une grande casserole, verser le vin blanc, poivrer et les faire s'ouvrir sur feu vif.
-2 - Décoquillez les coques (on peut laisser quelques coquilles pour la décoration. Filtrer le jus dans un filtre très fin et réserver au chaud.
-3 - Ebouillanter 2 mn les lardons, et réserver le liquide. Découper la carotte en brunoise. Hacher grossièrement les tomates.
-3 - Porter à ébullition une grande casserole d'eau à laquelle on a ajouter le jus filtré des coques et le liquide des lardons ébouillantés. Faire cuire les spaghettis jusqu'à ce qu'ils soient "al dente" ou plus, suivant goût.
-4 - Dans une sauteuse, faire revenir les lardons, la brunoise de carotte et l'ail pelé et haché pendant 5 mn dans un peu d'huile d'olive d'huile. Ajouter la tomate, une pointe de piment, le sucre et  laisser mijoter 5 mn. Ceci constitue la sauce.
-5 - Egoutter rapidement les pâtes (trop les égoutter les fait coller). Ajouter la sauce avec les coques. Servir dans un plat chaud.
+1. Faire tremper les coques au moins une heure dans de l'eau fraîche salée pour purger le sable résiduel, puis les rincer abondamment.
+2. Déposer les coques dans un grand faitout avec le vin blanc et un tour de moulin à poivre ; couvrir et faire ouvrir à feu vif en remuant.
+3. Décoquiller la majorité des coques (en garder quelques-unes entières pour la présentation). Filtrer soigneusement le jus de cuisson à travers une passoire fine tapissée de papier absorbant et réserver au chaud.
+4. Ébouillanter les lardons 2 minutes dans une petite casserole d'eau frémissante et réserver ce bouillon de blanchiment.
+5. Tailler la carotte en fine brunoise et hacher grossièrement les tomates pelées.
+6. Dans une grande marmite, porter à ébullition un grand volume d'eau additionné du jus filtré des coques et du bouillon des lardons. Y plonger les spaghetti et cuire al dente.
+7. Pendant ce temps, faire suer les lardons, les dés de carotte et l'ail haché dans une sauteuse avec un filet d'huile d'olive pendant 5 minutes.
+8. Ajouter les tomates concassées, la pointe de piment et le sucre, puis laisser mijoter 5 minutes à feu doux pour obtenir une sauce onctueuse.
+9. Égoutter rapidement les pâtes sans trop les sécher, les verser dans un plat chaud, napper de sauce et incorporer les coques. Servir sans attendre.
 
 ## Observations
 
-Recette exécutée à Quiberon le samedi 9 août 2008 pour nous deux avec des coques achetées au marché. Délicieux !
+- **Contexte :** Recette exécutée à Quiberon le samedi 9 août 2008 pour nous deux avec des coques fraîches du marché. Délicieux accord terre-mer.

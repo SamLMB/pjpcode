@@ -1,38 +1,39 @@
 ---
 layout: recipe
 number: 108
-title: Fried rice de Madame Jieming de Melbourne
+title: "Fried rice de Madame Jieming de Melbourne"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+[![Fried rice de Madame Jieming de Melbourne](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 
-- 350 à 400 g de riz
-- 2 oeufs
+- 350 à 400 g de riz thaï ou basmati cuit et froid
 - 400 g de crevettes décortiquées
-- un gros oignon débité en lamelles fines
-- 4 cuillers à soupe de suce de soja
-- un verre de vin blanc ou de sherry
-- 200 g de petits pois frais ou surgelés
-- 200 g de petits épis de maïs cuits
-- 4 cuillers à soupe d'huile d'olive
-- sel et poivre selon goût
+- 2 œufs
+- 1 gros oignon émincé en fines lamelles
+- 200 g de petits pois (frais ou surgelés)
+- 200 g de mini-épis de maïs doux égouttés
+- 4 c. à soupe de sauce soja
+- 1 petit verre de vin blanc sec ou de xérès (sherry)
+- 4 c. à soupe d'huile neutre ou d'olive
+- Sel et poivre selon le goût
 
-[![](image-02.jpg)](image-02.jpg)
+[![Fried rice — préparation au wok](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 
-- faire cuire le riz si possible au cuit-riz, sinon à la casserole dans beaucoup d'eau salée puis égoutter et réserver
-- dans le wok, mettre 2 cuillers d'huile et faire frire l'oignon à feu doux sans le brûler
-- ajouter les crevettes et les faires cuire à feu doux en ruant trois à quatre minutes
-- ajouter le vin et la sauce de soja, laisser cuire une minute puis réserver le tout hors du wok
-- remettre le reste d'huile dans le wok, faire chauffer, y casser les oeufs et les brouiller à la spatule
-- remettre le riz avec les crevettes dans le wok, ajouter les petits pois et le maïs, remuer en laissant chauffer encore une minute
-- remettre de la sauce de soja si nécessaire au goût, saler et poivrer selon goût
-- servir aussitôt avec une salade verte.
+1. Cuire le riz de préférence à l'avance (ou au cuiseur de riz) et le laisser refroidir pour que les grains se détachent bien.
+2. Faire chauffer 2 cuillères à soupe d'huile dans un wok et y faire blondir l'oignon émincé à feu doux sans le brûler.
+3. Ajouter les crevettes décortiquées et les saisir 3 à 4 minutes en remuant régulièrement.
+4. Verser le vin blanc (ou sherry) et la sauce soja, laisser mijoter 1 minute puis réserver l'ensemble hors du wok.
+5. Remettre 2 cuillères d'huile dans le wok bien chaud, y casser les œufs et les brouiller vivement à la spatule.
+6. Verser le riz froid dans le wok avec les œufs brouillés, réincorporer les crevettes, puis ajouter les petits pois et les petits épis de maïs.
+7. Faire sauter le tout à feu vif pendant 2 à 3 minutes en remuant constamment.
+8. Rectifier l'assaisonnement avec un trait supplémentaire de sauce soja, poivrer et saler si nécessaire.
+9. Servir brûlant avec une salade verte fraîche.
 
 ## Observations
 
-1 - recette exécutée le 19 novembre 2006 à Rennes pour Mamy et moi d'après les sympathiques conseils de Madame Jieming de Melbourne
-2 - Absolument délicieux avec une petite salde de roquette à l'huile d'olive
+- **Contexte :** Recette exécutée le 19 novembre 2006 à Rennes pour Mamy et moi d'après les précieux conseils culinaires de Madame Jieming de Melbourne.
+- **Accompagnement :** Absolument délicieux accompagné d'une petite salade de roquette à l'huile d'olive.

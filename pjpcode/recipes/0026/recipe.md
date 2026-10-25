@@ -4,9 +4,9 @@ number: 26
 title: "Potage aux artichauts"
 ---
 
-[![Potage aux artichauts — recette manuscrite](image-01.jpg)](image-01.jpg)
-
 *Pour 4 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -29,4 +29,7 @@ title: "Potage aux artichauts"
 6. **Liaison et finition :** Hors du feu, incorporer la crème fraîche épaisse. Rectifier l'assaisonnement en sel et poivre.
 7. **Service :** Servir bien chaud en assiettes préchauffées, garni de pluches de cerfeuil (ou coriandre) et accompagné de quartiers de citron.
 
-> **Observations :** Recette réalisée le 30 décembre 2005 à Quiberon (excellente !) puis refaite le 2 novembre 2006 à Porticcio, toujours très appréciée. Le cerfeuil peut être remplacé par de la coriandre fraîche selon les goûts.
+## Observations
+
+- **Contexte :** Recette réalisée le 30 décembre 2005 à Quiberon (excellente !) puis refaite le 2 novembre 2006 à Porticcio, toujours très appréciée.
+- **Variante :** Le cerfeuil peut être remplacé par de la coriandre fraîche selon les goûts.

@@ -4,35 +4,35 @@ number: 228
 title: Bourride bretonne très simple
 ---
 
-**Recette n°228 :** bourride bretonne
 ## Ingrédients
 
-*pour 4 personnes*
-- 2 litres d'une soupe de poissons bretonne toute faite de bonne qualité
-- 2 grosses pommes de terre ne se délitant pas à la cuisson (bintje par exemple)
+*Pour 4 personnes*
+
+- 2 litres de soupe de poissons bretonne artisanale toute prête
+- 200 g de filets de poisson blanc frais (lieu, cabillaud, merlu)
+- 2 grosses pommes de terre à chair ferme (Bintje)
 - 2 carottes moyennes
-- un bol de croûtons (tranches fines de baguette passées au four par exemple)
-- une gousse d'ail (d'Arleux si possible)
-- 100 à 200 g d'emmenthal râpé
-- 200 g de filets de poisson frais (lieue, cabillaud, etc.)
-- 3 cuillers à soupe de fond de poisson en poudre (Maggi par exemple)
-- un petit bol de rouille (par exemple, cf. [recette n° 220](../0220/recipe.html))
+- 3 cuillères à soupe de fond de poisson en poudre
+- 1 bol de croûtons de baguette grillés
+- 1 gousse d'ail d'Arleux
+- 150 g d'emmenthal râpé
+- 1 bol de rouille maison
 
 ## Préparation
 
-1 - Dissoudre le fond de poisson dans un litre d'eau froide (procéder par dillution fractionnée, car cela se dissout mal)
-2 - Peler pommes de terre et carottes, puis les débiter en rondelles assez fines (3 mm environ)
-3 - Couper le filet de poisson de façon à en faire un ou deux morceaux par convive, et réserver
-4 - Mettre carottes, pommes de terre à cuire dans l'eau aves le fond de poisson (dès le début de l'ébullition, réduire le feu pour que la cuisson soit lente de façon à ne pas transformer les légumes en purée
-5 - En fin de cuisson, mettre le poisson à cuire avec les légumes pendant 5 à 10 mn
-6 - Préchauffer le four à 100 C et y mettre les petites soupières (ou les assiettes creuses)
-7 - Quand légumes et poisson sont cuits, réserver sans jeter le bouillon
-8 - Réchauffer la soupe de poisson toute faite sans la faire bouillir
-9 - Mélanger tout sans touiller (soupe, poisson, légumes et jus de cuisson
-10 - Servir dans de petites soupières individuelles chaudes (on peut les avoir laissées une dizaine de minutes au four à 100 C), avec croûtons, rouille et râpé à disposition
+1. Délayer le fond de poisson dans 1 litre d'eau froide en procédant par petites quantités pour éviter les grumeaux.
+2. Peler les pommes de terre et les carottes, puis les détailler en rondelles fines d'environ 3 mm.
+3. Découper les filets de poisson en morceaux réguliers (1 à 2 morceaux par convive) et réserver.
+4. Mettre les carottes et pommes de terre à cuire dans le bouillon de poisson ; dès l'ébullition, baisser le feu pour cuire à petits frémissements sans écraser les légumes.
+5. En fin de cuisson des légumes, plonger les morceaux de poisson frais dans le bouillon et laisser pocher délicatement pendant 5 à 10 minutes.
+6. Préchauffer le four à 100°C (212°F) et y déposer les soupières individuelles ou assiettes creuses pour les chauffer.
+7. Dès que légumes et poisson sont cuits, couper le feu sans jeter le bouillon de cuisson.
+8. Dans une seconde casserole, réchauffer la soupe de poisson sans la faire bouillir.
+9. Réunir la soupe, le poisson, les légumes et un peu de jus de cuisson sans mélanger violemment pour ne pas briser la chair du poisson.
+10. Servir bien chaud dans les soupières chaudes, accompagné des croûtons aillés, de la rouille et du fromage râpé.
 
 ## Observations
 
-1 - Recette préparée à Quiberon en septembre 2009 pour Andrée et Michel Pioger et nous. Un régal !
-2 - Surtout ne pas saler (la soupe l'est déjà et le fond de poisson aussi)
-3 - Cette préparation doit être servie très chaude (d'où le passage des soupières ou des assiettes au four) : attention aux brûlures !
+- **Contexte :** Recette préparée à Quiberon en septembre 2009 pour Andrée et Michel Pioger et nous deux. Un régal réconfortant.
+- **Attention au sel :** Ne surtout pas ajouter de sel, la soupe de poisson et le fond de poisson en apportant déjà largement.
+- **Service :** Ce plat doit impérativement être servi très chaud pour que le fromage fonde dans le bouillon.

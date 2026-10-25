@@ -4,37 +4,36 @@ number: 206
 title: Carbonade flamande
 ---
 
-Recette n° 206 : Carbonade flamande
 ## Ingrédients
 
-*pour 6 personnes*
-- 1,5 kg de boeuf (le même que pour le boeuf bourguignon) découpé en petits morceaux
+*Pour 6 personnes*
+
+- 1,5 kg de bœuf à braiser (paleron ou gîte, comme pour un bourguignon) coupé en cubes
 - 3 gros oignons
 - 75 cl de bière blonde
-- 2 cuillères à soupe de farine
-- 1 cuillère à soupe de vinaigre
-- 50 g de sucre roux en poudre
-- 50 cl d'eau
 - 4 tranches de pain d'épices
-- 4 cuillers à soupe de moutarde forte de Dijon
-- sel et poivre, selon goût
-- 30 g de beurre ou de margarine
+- 4 cuillères à soupe de moutarde forte de Dijon
+- 2 cuillères à soupe de farine
+- 1 cuillère à soupe de vinaigre de vin
+- 50 g de cassonade (sucre roux en poudre)
+- 50 cl d'eau
+- 30 g de beurre ou margarine
+- Sel et poivre selon le goût
 
 ## Préparation
 
-1 - Mettre le four à préchauffer à 200C.
-2 - Faire revenir avec le beurre les oignons et le boeuf en remuant bien (les oignons ne doivent pas brûler).
-3 - Quand tout est bien saisi, mettre la farine et mélanger avec une cuillère en bois jusqu'à ce que tout le jus soit absorbé.
-4 - Saler et poivrer selon goût.
-5 - Verser bière et vinaigre. Mélanger et laisser mijoter à feu doux.
-6 - Dissoudre le sucre dans l'eau, le verser sur la préparation et bien mélanger.
-7 - Etaler la moutarde sur le pain d'épices.
-8 - Verser la préparation dans une cocotte allant au four.
-9 - Déposer le pain d'épice sur le dessus. Couvrir.
-10 - Mettre au four environ 2 heures.
-11 - Remuer toutes les 20 minutes environ, afin que toutes les faces de la viande soient cuites de la même façon.
-12 - servir avec un stoemp ([cf. recette n°207](../0207/recipe.html)).
+1. Préchauffer le four à 200°C (400°F).
+2. Dans une grande cocotte, faire dorer les cubes de bœuf et les oignons émincés avec le beurre en remuant régulièrement pour ne pas brûler les oignons.
+3. Dès que les viandes sont bien saisies, saupoudrer la farine et mélanger à la cuillère en bois jusqu'à absorption complète des sucs.
+4. Saler et poivrer au moulin.
+5. Mouiller avec la bière blonde et le vinaigre, mélanger et laisser frémir à feu doux.
+6. Dissoudre le sucre roux dans les 50 cl d'eau, verser dans la cocotte et bien remuer.
+7. Tartiner généreusement les tranches de pain d'épices avec la moutarde forte.
+8. Déposer les tranches de pain d'épices moutardées sur le dessus du ragoût, face moutardée contre la sauce.
+9. Couvrir hermétiquement la cocotte et enfourner pour environ 2 heures de cuisson douce.
+10. Remuer toutes les 20 minutes afin que le pain d'épices fonde dans la sauce et que la viande cuise de manière parfaitement homogène.
+11. Servir fumant avec un stoemp traditionnel à la bretonne.
 
 ## Observations
 
-Recette exécutée le 6 septembre 2008 à Quiberon pour Michel et Andrée Pioger et nous, avec un stoemp ([cf. recette n°207](../0207/recipe.html)). Excellente, encore que nous l'ayons fait cuire un peu trop longtemps (plus de 3 heures...).
+- **Contexte :** Recette exécutée le 6 septembre 2008 à Quiberon pour Michel et Andrée Pioger et nous deux, en accompagnement d'un stoemp maison. Un délice fondant.

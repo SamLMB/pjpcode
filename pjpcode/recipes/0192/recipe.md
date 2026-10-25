@@ -4,26 +4,26 @@ number: 192
 title: Mousse au chocolat noir
 ---
 
-Recette n°192 : mousse au chocolat noir
 ## Ingrédients
 
-*pour 8 personnes (pas trop gourmandes)*
-- 300 g de chocolat noir type "Nestlé dessert"
-- 12 oeufs extra-frais
+*Pour 8 personnes*
+
+- 300 g de chocolat noir à pâtisser (type Nestlé Dessert)
+- 12 œufs extra-frais
 
 ## Préparation
 
-1 - casser le chocolat en carrés et réserver 4 carrés pour les copeaux de décoration
-2 - faire fondre doucement le chocolat et le laisser refroidir
-3 - casser les oeufs en séparant jaunes et blancs
-4 - battre les blancs en neige ferme et réserver
-5 - battre les jaunes plusieurs minutes
-6 - bien mélanger à la spatule le chocolat fondu et les jaunes batus
-7 - incorporer délicatement les blancs en neige au reste
-8 - gratter les quatre carrés de chocolat mis de côté pour en faire des copeaux qu'on saupoudre sur la préparation
-9 - mettre la préparation au réfrigérateur quelques heures avant de servir
+1. Casser le chocolat en morceaux et réserver 4 carrés pour la confection des copeaux de décoration.
+2. Faire fondre doucement le reste du chocolat au bain-marie ou à feu très doux, puis le laisser tiédir.
+3. Casser les œufs en séparant soigneusement les blancs des jaunes (casser chaque œuf individuellement dans un bol séparé).
+4. Battre les blancs en neige bien ferme à l'aide d'un fouet ou batteur électrique.
+5. Dans un saladier, fouetter énergiquement les jaunes d'œufs pendant plusieurs minutes.
+6. Incorporer le chocolat fondu tiédi aux jaunes d'œufs battus à la spatule souple.
+7. Ajouter un tiers des blancs en neige pour détendre la préparation, puis incorporer délicatement le restant des blancs à la maryse en soulevant de bas en haut.
+8. Râper les 4 carrés de chocolat réservés pour former des copeaux et les saupoudrer sur le dessus.
+9. Placer la mousse au réfrigérateur pendant au moins 4 heures (idéalement une nuit) avant de déguster.
 
 ## Observations
 
-1 - recette exécutée à Quiberon le 2 juillet 2008 avec les Mathews (sauf Samuel qui était à Marcq) et Andrée ; absolument délicieux pour les amateurs de chocolat.
-2 - en cassant les oeufs, bien penser à les casser un par un dans un bol séparé avant de les mélanger car un seul de mauvais peut obliger à tout jeter (le 2 juillet 2008, avec des oeufs achetés une heure auparavant, le onzième oeuf était mauvais...).
+- **Contexte :** Recette exécutée à Quiberon le 2 juillet 2008 avec les Mathews et Andrée ; un régal absolu pour les amateurs de chocolat noir pur.
+- **Astuce :** Prendre impérativement la précaution de casser chaque œuf un à un dans un bol à part : un seul œuf gâté ruinerait toute la préparation !

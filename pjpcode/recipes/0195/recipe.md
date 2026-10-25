@@ -2,35 +2,39 @@
 layout: recipe
 number: 195
 title: Soupe aux huit légumes pour 16 convives affamés
+pdf: true
+docx: true
 ---
+
 ## Ingrédients
 
-*pour 16 personnes*
-- 4 litres d'eau
+*Pour 16 personnes*
+
 - 32 pommes de terre moyennes
 - 8 carottes moyennes
-- les fanes d'une botte de radis
 - 8 petits poireaux
-- une courgette moyenne
-- une poignée de feuilles de basilic
-- un petit bouquet de persil
-- une boîte de haricots verts
-- 8 plaquettes de bouillon de poule
-- 4 cuillers à soupe d'huille pour faire revenir les poireaux
-- sel, poivre selon goût
+- 1 courgette moyenne
+- Fanes d'une botte de radis bien fraîches
+- 1 boîte de haricots verts
+- 1 poignée de feuilles de basilic frais
+- 1 petit bouquet de persil plat
+- 8 tablettes de bouillon de volaille
+- 4 litres d'eau
+- 4 cuillères à soupe d'huile pour suer les poireaux
+- Sel et poivre au moulin
 
 ## Préparation
 
-1 - éplucher pommes de terre et carottes et les mettre dans l'eau froide puis porter à ébullition
-2 - hacher fanes de radis, basilic, persil et joindre aux pommes de terre
-3 - mettre les haricots verts ainsi que le bouillon de poule avec les pommes de terre
-4 - séparer le blanc du vert des poireaux, faire revenir séparément
-5 - joindre les blancs de poireau revenus avec les pommes de terre
-6 - passer au mixer, avec une louche d'eau de cuisson des pommes de terre, les verts de poireau revenus
-7 - quand les pommes de terre sont cuites (elles s'écrasent facilement à la fourchette), les passer au moulin à légumes à main avec tout ce qui a cuit avec elles, puis joindre les verts de poireau revenus
-8 - saler et poivrer selon goût
-9 - servir immédiatement, ou plus tard après avoir réchauffé
+1. Éplucher les pommes de terre et les carottes, les déposer dans un grand faitout avec 4 litres d'eau froide et porter à ébullition.
+2. Hacher grossièrement les fanes de radis, le basilic et le persil, puis les verser dans le faitout.
+3. Ajouter les haricots verts ainsi que les 8 tablettes de bouillon de volaille.
+4. Nettoyer les poireaux en séparant le blanc du vert ; faire revenir séparément les blancs et les verts à la poêle avec l'huile.
+5. Ajouter les blancs de poireaux revenus directement dans le faitout de légumes.
+6. Mixer finement les verts de poireaux revenus au robot avec une louche de bouillon de cuisson prélevée dans le faitout.
+7. Dès que les pommes de terre sont bien tendres (s'écrasant facilement à la fourchette), passer l'ensemble du faitout au moulin à légumes manuel, puis y réincorporer la purée de vert de poireau.
+8. Saler et poivrer selon le goût et bien mélanger.
+9. Servir immédiatement fumant, ou réchauffer plus tard au moment du repas.
 
 ## Observations
 
-1 - recette exécutée à Quiberon le 11 juillet 2008 pour toute la famille au grand complet ; très appréciée, avec ou sans crème fraîche, avec ou sans pain dedans
+- **Contexte :** Recette exécutée à Quiberon le 11 juillet 2008 pour toute la famille au grand complet ; chaleureusement appréciée avec ou sans pointe de crème fraîche.

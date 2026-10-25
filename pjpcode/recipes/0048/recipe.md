@@ -4,10 +4,11 @@ number: 48
 title: "Milk-shake aux fraises"
 ---
 
-[![Milk-shake aux fraises](image-01.jpg)](image-01.jpg)
-[![Milk-shake à la fraise — recette manuscrite](image-02.jpg)](image-02.jpg)
+![Milk-shake aux fraises](image-01.jpg)
 
 *Pour 2 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-02.jpg)*
 
 ## Ingrédients
 
@@ -22,4 +23,6 @@ title: "Milk-shake aux fraises"
 3. **Émulsion :** Mixer à haute vitesse pendant 1 minute jusqu'à l'obtention d'une boisson mousseuse, onctueuse et homogène.
 4. **Service :** Verser dans de grands verres rafraîchis et déguster immédiatement avec une paille.
 
-> **Observations :** Réalisé le 16/06/2006 pour nous deux : désaltérant, crémeux et très fruité !
+## Observations
+
+- **Contexte :** Réalisé le 16 juin 2006 pour nous deux : désaltérant, crémeux et très fruité !

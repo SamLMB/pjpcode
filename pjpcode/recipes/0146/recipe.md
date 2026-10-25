@@ -1,29 +1,37 @@
 ---
 layout: recipe
 number: 146
-title: Sushi à la mode de Cécile (futomaki au thon, à l'avocat, à la carotte et au concombre)
+title: "Sushi à la mode de Cécile (futomaki au thon, à l'avocat, à la carotte et au concombre)"
 ---
 
-[![Sushi à la mode de Cécile — recette manuscrite](image-01.jpg)](image-01.jpg)
+*Pour 4 personnes*
 
-## Ingrédients (pour 4 personnes)
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
-- 125 g de riz (Japonica ou Risotto)
-- 2 feuilles de nori (algue traitée pour cela)
-- une tranche de thon extra-frais coupée en bâtonnets
-- un avocat découpé en lanières (idem pour carotte et concombre)
+## Ingrédients
+
+- 125 g de riz à sushi (riz rond japonica)
+- 2 grandes feuilles d'algues nori
+- 1 pavé de thon frais de première fraîcheur, taillé en bâtonnets
+- 1 avocat mûr à point, coupé en lanières
+- 1 carotte coupée en fins bâtonnets
+- 1 petit concombre coupé en bâtonnets (sans les graines)
+- 2 c. à soupe de vinaigre de riz (ou de cidre)
+- 1 c. à café de sucre en poudre
+- Sauce soja et pâte de wasabi pour le service
 
 ## Préparation
 
-- cuire le riz à la vapeur et laisser refroidir
-- faire bouillir 2 cuillers à soupe de vinaigre de riz ou de cidre avec une cuiller à café de sucre, mélanger au riz
-- déposer les feuilles de nori sur une natte en bambou (face brillante dessous), humecter très légèrement avec les doigts
-- disposer 1/2 cm de riz en laissant en haut et en bas 2 cm sans riz
-- mettre au centre les lanières et bâtonnets d'ingrédients suivant goût (thon, avocat, carotte, concombre)
-- rouler avec la natte de bambou comme une cigarette en serrant, et coller les bords de la feuille de nori en humectant des doigts
-- mettre au frais plusieurs heures sous film
-- découper en tranches de 3 à 4 cm avant de servir avec sauce soja, sauce chinoise à l'ail, etc.
+1. Cuire le riz à sushi à la vapeur ou à la casserole d'eau selon les indications, puis le laisser tiédir.
+2. Faire chauffer doucement le vinaigre de riz avec le sucre jusqu'à dissolution complète, puis verser sur le riz tiède et aérer délicatement à la spatule en bois. Laisser refroidir complètement.
+3. Poser une feuille de nori sur une natte en bambou (*makisu*), face brillante contre la natte, et humecter très légèrement ses doigts d'eau vinaigrée.
+4. Étaler une couche régulière de riz d'environ un demi-centimètre sur la feuille en réservant une bande libre de 2 cm en haut et en bas.
+5. Aligner au centre de la bande de riz les bâtonnets de thon, d'avocat, de carotte et de concombre.
+6. En maintenant la garniture avec les doigts, rouler fermement la natte de bambou vers l'avant pour former un cylindre bien compact.
+7. Humecter le bord supérieur de la feuille de nori pour souder le rouleau.
+8. Envelopper les rouleaux dans un film alimentaire et réserver au frais pendant au moins 1 heure pour consolider la tenue.
+9. À l'aide d'un couteau bien tranchant préalablement humidifié, découper chaque rouleau en tronçons réguliers de 3 à 4 cm. Servir avec de la sauce soja et du wasabi.
 
 ## Observations
 
-- Recette faite le 24 septembre à Ciudad Colón. Excellent ! Les ingrédients peuvent varier selon goût.
+- **Contexte :** Recette réalisée le 24 septembre 2007 à Ciudad Colón ; une réussite absolue ! Les garnitures peuvent varier selon l'inspiration du jour.

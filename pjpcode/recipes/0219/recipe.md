@@ -4,31 +4,31 @@ number: 219
 title: Gigot d'agneau rôti
 ---
 
-**Recette n°219 :** gigot d'agneau rôti
 ## Ingrédients
 
-*pour 4 personnes*
-un gigot d'agneau de 1,5 kg
-100 g de beurre au sel de Noirmoutier
-3 gousses d'ail d'Arleux
-une feuille de thym
-une grosse pincée d'herbes de Provence
-sel et poivre
+*Pour 4 personnes*
+
+- 1 beau gigot d'agneau raccourci (environ 1,5 kg)
+- 100 g de beurre au sel de Noirmoutier ramolli
+- 3 gousses d'ail d'Arleux
+- 2 branches de thym frais
+- 1 grosse pincée d'herbes de Provence
+- Sel et poivre au moulin
 
 ## Préparation
 
-1 - mettre le four à préchauffer à 200C
-2 - faire ramollir le beurre sans le fondre complètement et encore moins le brûler, lui ajouter les herbes et le poivre
-3 - oindre le gigot avec le beurre
-4 - insérer les morceaux d'ail dans des trous faits avec la pointe d'un couteau au niveau de la souris du gigot
-5 - mettre le gigot dans un plat à rôtir, l'enfourner et laisser cuire environ 40 minutes en l'arrosant souvent pour qu'il ne se dessèche pas
-6 - au sortir du four, enlever le gigot, verser un verre d'eau dans le plat, gratter le plat et le remettre au four quelques minutes
-7 - remettre le gigot dans le plat, couvrir d'un papier d'aluminium et remettre au four quelques minutes
-8 - sortir le gigot, et mettre les assiettes dans le four pendant le temps de la découpe
-9 - trancher le gigot et en installer les tranches dans le plat de cuisson avec le jus ; servir sur les assiettes bien chaudes
+1. Préchauffer le four à 200°C (400°F).
+2. Faire ramollir le beurre en pommade sans le fondre complètement, puis y incorporer les herbes de Provence et le poivre.
+3. Oindre généreusement toute la surface du gigot avec cette pommade de beurre aux herbes.
+4. Peler les gousses d'ail, les couper en éclats et les insérer dans de petites incisions pratiquées au couteau le long du manche et de la souris.
+5. Déposer le gigot dans un plat à rôtir et enfourner pour environ 40 minutes de cuisson en l'arrosant fréquemment avec son jus pour préserver le moelleux.
+6. Au sortir du four, retirer le gigot, verser un verre d'eau chaude dans le plat, gratter les sucs au fond et replacer le plat au four quelques minutes.
+7. Remettre le gigot dans le plat avec son jus, couvrir d'une feuille d'aluminium et laisser reposer 10 minutes au four éteint pour détendre les chairs.
+8. Sortir le gigot et déposer les assiettes de service au four pendant la découpe pour les chauffer.
+9. Découper le gigot en fines tranches, les napper du jus de cuisson brûlant et servir aussitôt sur les assiettes chaudes.
 
 ## Observations
 
-1 - Recette exécutée en avril 2009 pour Michel et Andrée et nous deux à Quiberon ; excellent avec des haricots verts et des flageolets
-2 - A défaut de haricots, on peut accompagner de pommes de terre rôties ou de giroles poêlées
-3 - La découpe selon Michel, le maître en la matière : tenir l'os de la main gauche au-dessus de la planche à découper, couper parallèlement à l'os avec un couteau très bien aiguisé d'un côté puis de l'autre de l'os, en poussant le couteau devant soi, jusqu'à ce qu'il ne reste plus de chair sur l'os.
+- **Contexte :** Recette exécutée en avril 2009 à Quiberon pour Michel, Andrée et nous deux ; remarquable avec des flageolets et des haricots verts fins.
+- **Accompagnement :** À défaut de haricots, servir avec des pommes de terre rôties à la graisse d'oie ou une poêlée de girolles fraîches.
+- **Découpe :** Selon les conseils de Michel, tenir l'os d'une main et trancher parallèlement à l'os avec un couteau parfaitement effilé pour détacher de larges tranches régulières.

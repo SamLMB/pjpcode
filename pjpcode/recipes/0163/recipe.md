@@ -1,28 +1,29 @@
 ---
 layout: recipe
 number: 163
-title: Copeaux de céleri sautés à la mode du Sud-Ouest
+title: "Copeaux de céleri sautés à la mode du Sud-Ouest"
 ---
 
-Lors de la confection du cassoulet (cf. recette n° 162, il est résté de la graisse de canard provenant du confit de canard ; or, on peut faire avec ce corps gras exactement touit ce qu'on fait avec du beurre ou de la margarine, et c'est précisément ce que font nos amis du Sud-Ouest. Pour changer un peu des pommes de terre, j'ai utilisé du céleri, légume que ma Chef aime presque autant que l'homme de sa vie.
+Lors de la confection du cassoulet (cf. [recette n°162](../0162/recipe.html)), il restait de la savoureuse graisse de canard issue des cuisses confites. Tout ce qui se fait avec du beurre ou de l'huile gagne en goût avec cette graisse, comme le savent bien les cuisiniers du Sud-Ouest. Pour changer des classiques pommes de terre rissolées, voici une préparation originale à base de céleri-rave.
 
-C'est une recette hyper-simple ; certes, comme tous les mets à base de corps gras animaux, elle ne peut être abondamment employée pour les personnes souffrant de problèmes circulatoires (encore que nos amis du Sud-Ouest sont persuadés du contraire), mais en période de fêtes, "au diable les varices !"
+*Pour 4 personnes*
 
 ## Ingrédients
 
-Pour 4 personnes, mais les parts seront plutôt petites :
-- une boule de céleri-rave d'un kilo environ
-- une cuiller à soupe de graisse de canard (ou d'oie)
-- sel, selon goût
+- 1 boule de céleri-rave d'environ 1 kg
+- 1 c. à soupe généreuse de graisse de canard (ou d'oie)
+- Sel fin et poivre du moulin
 
 ## Préparation
 
-- éplucher le céleri et le découper en copeaux
-- mettre ces copeaux à cuire dans l'eau bouillante une dizaine de minutes
-- draîner les copeaux sur un papier absorbant ou un torchon
-- les faire sauter dans la graisse de canard très chaude une dizaine de minutes
-- bien les égoutter avant de servir, saler selon goût.
+1. Éplucher soigneusement la boule de céleri-rave au couteau économe pour retirer toute la peau fibreuse.
+2. Découper le céleri en gros copeaux ou fins quartiers réguliers.
+3. Plonger les copeaux de céleri dans une grande casserole d'eau bouillante salée pendant une dizaine de minutes pour les précuire.
+4. Égoutter soigneusement les copeaux sur du papier absorbant ou un torchon propre pour éliminer toute l'humidité.
+5. Dans une grande poêle à fond épais, faire chauffer la graisse de canard à feu vif.
+6. Y jeter les copeaux de céleri et les faire sauter pendant une dizaine de minutes en remuant régulièrement jusqu'à ce qu'ils soient bien dorés et croustillants sur les bords.
+7. Égoutter sur du papier absorbant, assaisonner de sel et de poivre du moulin, et servir immédiatement bien chaud.
 
 ## Observations
 
-- recette exécutée le mardi 11 décembre à Rennes pour Mamy Françoise qui aime tellement ça qu'elle a mangé aussi la part de son mari (qui ne lui en veut pas car lui, n'aime pas du tout le céleri) ; le goût est plus fin que celui des pommes de terre sautées.
+- **Contexte :** Recette exécutée le mardi 11 décembre 2007 à Rennes pour Mamy Françoise qui en raffole au point d'avoir savouré la portion de son mari ; une garniture d'une saveur beaucoup plus fine et délicate que la pomme de terre !

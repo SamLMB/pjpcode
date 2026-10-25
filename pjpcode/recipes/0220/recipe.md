@@ -4,33 +4,32 @@ number: 220
 title: Rouille verte, rouille rouge
 ---
 
-**Recette n°220 :** rouille verte, rouille rouge
 ## Ingrédients
 
-*pour 4 personnes*
-- un poivron vert ou un poivron rouge (si on est accro du piment, on peut remplacer poivron par piment, mais ce sera très violent)
+*Pour 4 personnes*
+
+- 1 poivron doux (rouge pour une rouille rouge, ou vert pour une rouille verte)
 - 4 grosses gousses d'ail d'Arleux
-- 4 cuillers à soupe d'huile d'olive des Mées
-- une grosse pincée de safran
-- quelques gouttes de Tabasco ou une petite pincée de piment de Cayenne
-- une pomme de terre de taille moyenne de la ferme de Kernavest
-- une pincée de gros sel de Guérande
-- une pincée de poivre
+- 1 pomme de terre moyenne (de la ferme de Kernavest)
+- 4 cuillères à soupe d'huile d'olive des Mées
+- 1 grosse pincée de safran en filaments
+- Quelques gouttes de Tabasco (ou 1 pointe de piment de Cayenne)
+- 1 pincée de gros sel de Guérande
+- Poivre au moulin
 
 ## Préparation
 
-1 - peler et faire cuire la pomme de terre dans l'eau ou, mieux, dans la soupe de poisson si la rouille est destinée à accompagner cette soupe
-2 - peler le poivron (cf. observation n°1 ci-dessous), l’épépiner , puis coupez le en petits cubes
-3 - peler les gousses d'ail
-4 - broyer au mortier ail et poivron avec la pincée de gros sel
-5 - ajouter la pomme de terre encore tiède, le poivre, le piment de Cayenne ou le Tabasco, et piler encore
-6 - ajouter l'huile d'olive et  battre comme pour faire un aïoli
-7 - ajuster le goût en matière de sel et de poivre
-8 - mettre quelques instants au réfrigérateur
+1. Peler et faire cuire la pomme de terre dans une petite casserole d'eau salée (ou directement dans un peu de bouillon de soupe de poisson si la rouille lui est destinée).
+2. Peler le poivron à l'économe, l'épépiner soigneusement et le tailler en petits dés.
+3. Peler les gousses d'ail et les dégermer.
+4. Dans un mortier, piler l'ail et les dés de poivron avec le gros sel jusqu'à purée homogène.
+5. Ajouter la pomme de terre encore tiède écrasée, le poivre, le piment ou Tabasco, le safran, et piler de nouveau.
+6. Incorporer l'huile d'olive en filet continu tout en tournant énergiquement au pilon comme pour monter un aïoli.
+7. Goûter et ajuster l'assaisonnement en sel et piment.
+8. Réserver au frais une trentaine de minutes avant de servir avec des croûtons frottés d'ail.
 
 ## Observations
 
-1 - il existe plusieurs techniques de pelage des poivrons (en les ébouillantant par exemple) ; personnellement je fais ça au Willy-Waler-2006, comme pour les patates.
-2 - cette rouille est verte ou rouge suivant la couleur du poivron ; ceux qui la veulent vraiment rouge peuvent ajouter un peu de concentré de tomate, mais ça change le goût
-3 - cette rouille se sert sur du pain grillé et accompagne à merveille une soupe de poisson, une bourride, une bouillabaisse, etc.
-4 - recette exécutée le 16 juin 2009 à Quiberon pour Andrée et nous deux en accompagnement d'une soupe de poissons finistérienne de chez Larzul ; délicieux !
+- **Variantes :** La couleur dépend de celle du poivron choisi (vert ou rouge). Pour une rouille rouge vif plus prononcée, une pointe de concentré de tomate peut être ajoutée.
+- **Service :** Tartinée sur des rondelles de baguette grillées, cette rouille accompagne divinement soupe de poisson, bouillabaisse ou bourride.
+- **Contexte :** Recette réalisée le 16 juin 2009 à Quiberon pour Andrée et nous deux en accompagnement d'une soupe de poissons finistérienne.

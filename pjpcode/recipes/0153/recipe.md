@@ -1,39 +1,35 @@
 ---
 layout: recipe
 number: 153
-title: Veau sauce aux huîtres
+title: "Veau sauce aux huîtres"
 ---
 
 ## Ingrédients
 
-- 500 g de noix de veau
+- 500 g de noix de veau tendre (ou filets de poulet/dinde)
+- 500 g de petits pois fins
+- 3 oignons moyens
 - 2 carottes
-- 3 oignons
-- 6 cuillers à soupe de sauce soja
-- 2 cuillers à soupe de sauce aux huitres
-- un demi-litre de bouillon de poule
-- 2 cuillers à soupe de maïzena ou de farine
-- 500 g de petits pois
+- 50 cl de bouillon de volaille chaud (1/2 litre)
+- 6 c. à soupe de sauce soja
+- 2 c. à soupe de sauce d'huître (*oyster sauce*)
+- 2 c. à soupe de fécule de maïs (Maïzena) ou de farine
 
 ## Préparation
 
-- couper la viande en petites lamelles
-- préparer une marinade en mélangeant  maïzena et sauce soja
-- mettre la viande dans un saladier à mariner dans ce mélange
-- préparer le bouillon s'il ne l'est pas déjà
-- mettre les petts pois à cuire dans le bouillon, les réserver au chaud
-- couper oignons et carottes en brunoise
-- mélanger viande marinée, oignons et carottes, et cuire le tout au wok à feu vif en remuant sans cesse à la cuiller de bois
-- au bout de 4 mn, ajouter la sauce aux huitres
-- cuire encore 1 mn (donc 5 mn au total) mn en remuant sans cesse à la cuiller de bois
-- arrêter le feu et mélanger aux petits pois
-- servir aussitôt
+1. Découper la noix de veau en fines lamelles régulières.
+2. Préparer la marinade en délayant la fécule de maïs dans la sauce soja.
+3. Déposer les lamelles de veau dans un saladier, verser la marinade et mélanger pour bien imprégner la viande. Laisser mariner 15 minutes.
+4. Dans une casserole de bouillon de volaille chaud, faire cuire les petits pois puis les réserver au chaud avec un peu de bouillon.
+5. Tailler les oignons et les carottes en brunoise fine.
+6. Faire chauffer un grand wok à feu vif sans ajouter de matière grasse (la marinade apporte l'enrobage nécessaire).
+7. Y jeter la viande marinée, les oignons et les carottes, et faire sauter vivement sans arrêt avec une cuillère en bois pendant 4 minutes pour bien saisir l'ensemble.
+8. Ajouter la sauce d'huître et poursuivre la cuisson à feu vif pendant 1 minute supplémentaire tout en remuant continuellement (5 minutes de cuisson au total).
+9. Retirer du feu, incorporer les petits pois égouttés et mélanger soigneusement.
+10. Dresser aussitôt et servir bien chaud avec du riz blanc thaï ou basmati.
 
 ## Observations
 
-- recette exécutée le 27 septembre 2007, jour de l'anniversaire de Cécile, à Ciudad Colón, et appréciée de tous, y compris des enfants.
-- c'est un grand classique de la cuisine asiatique quand elle est préparée avec du chou chinois à la place des petits pois, et avec du sucre
-- cela peut aussi se faire avec toute autre viande blanche que le veau (blancs de poulet ou de dinde par exemple)
-- nous en avons fait une variante le 7 octobre 2007 à Rennes pour Annie et François Lefort, en remplaçant les petits pois par du chou vert et le veau par du poulet : c'était nettement moins bon que ce que nous avions fait le 27 septembre (en particulier le chou vert dominait trop en goût)
-- attention à ne pas dépasser les doses de de sauces (soja et huîtres)
-- attention à ne pas brûler dans le wok car cette ne rectte ne comporte aucun corps gras (il faut retourner sans cesse à la cuiller de bois).
+- **Contexte :** Recette exécutée le 27 septembre 2007 pour l'anniversaire de Cécile à Ciudad Colón, et plébiscitée par toute la tablée, petits et grands !
+- **Variantes :** Grand classique de la cuisine asiatique traditionnellement préparé avec du chou chinois émincé et une pincée de sucre. Se décline également très bien avec des aiguillettes de poulet ou de dinde.
+- **Cuisson au wok :** Bien surveiller la cuisson vive au wok en remuant continuellement à la cuillère en bois pour éviter que la viande n'attache.

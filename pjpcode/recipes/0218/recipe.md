@@ -4,26 +4,25 @@ number: 218
 title: Soupe de champagne
 ---
 
-Recette n°218 : soupe de champagne
-
-[![](image-01.jpg)](image-01.jpg)
+![Soupe de champagne](image-01.jpg)
 
 ## Ingrédients
 
- apéritif pour 4 personnes
-une bouteille de champagne ou d'un mousseux de bonne qualité
-150 g de sucre en poudre
-150 ml de Cointreau
-le jus de 3 citrons
-une dizaine de glaçons
+*Pour 4 à 6 personnes (apéritif)*
+
+- 1 bouteille de champagne (ou mousseux brut de bonne qualité) bien fraîche
+- 15 cl de Cointreau (ou Grand Marnier)
+- 150 g de sucre en poudre
+- Jus de 3 citrons jaunes pressés
+- 1 dizaine de glaçons
 
 ## Préparation
 
-1 - mettre le champagne au réfrigérateur plusieurs heures à l'avance
-2 - dans un saladier, mélanger sucre,Cointreau et jus de citron, mettre le tout au réfrigérateur plusieurs heures aussi
-3 - au moment de servir, verser la bouteille de champagne dans le saladier, et y joindre les glaçons
-4 - remuer à la cuiller légèrement et servir à la louche
+1. Placer la bouteille de champagne au réfrigérateur plusieurs heures à l'avance pour qu'elle soit parfaitement glacée.
+2. Dans un grand saladier ou une soupière, mélanger le sucre en poudre, le Cointreau et le jus de citron jusqu'à dissolution complète du sucre. Réserver au réfrigérateur au moins 2 heures.
+3. Au moment de passer à l'apéritif, verser la bouteille de champagne bien fraîche dans le saladier et ajouter les glaçons.
+4. Remuer délicatement à la louche et servir immédiatement dans des flûtes.
 
 ## Observations
 
-Recette exécutée en le2 mai 2009 à Quiberon pour Jean-Claude, Alain, Annie Lefoort, Michel et Andrée, nous deux ; très apprécié avec des toasts de rillettes de sardines (cf. recette n° 218).
+- **Contexte :** Recette réalisée le 2 mai 2009 à Quiberon pour Jean-Claude, Alain, Annie Lefort, Michel et Andrée, et nous deux ; particulièrement festive accompagnée de toasts de rillettes de sardines.

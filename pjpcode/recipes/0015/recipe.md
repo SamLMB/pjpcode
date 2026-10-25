@@ -4,7 +4,7 @@ number: 15
 title: "Chou farci"
 ---
 
-[![Chou farci](image-01.jpg)](image-01.jpg)
+📄 *Manuscrit original : [Page 1](image-01.jpg) · [Page 2](image-02.jpg)*
 
 ## Ingrédients
 

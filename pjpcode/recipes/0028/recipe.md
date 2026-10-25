@@ -4,10 +4,9 @@ number: 28
 title: "Sopa azteca de Doña Cecilia"
 ---
 
-[![Sopa azteca — page 1](image-01.jpg)](image-01.jpg)
-[![Sopa azteca — page 2](image-02.jpg)](image-02.jpg)
-
 *Pour 6 personnes*
+
+📄 *Manuscrit original : [Page 1](image-01.jpg) · [Page 2](image-02.jpg)*
 
 ## Ingrédients
 
@@ -37,11 +36,14 @@ title: "Sopa azteca de Doña Cecilia"
 ## Préparation
 
 1. **Purée aromatique :** Mixer finement les tomates, les oignons jaunes et l'ail. Faire revenir cette purée dans un filet d'huile d'olive pendant quelques minutes jusqu'à ce qu'elle épaississe et réduise.
-2. **Bouillon :** Chauffer le bouillon de volaille. Y incorporer la purée de tomates et oignons revenue. Ajouter les carottes en rondelles, le céleri émincé, le thym, le laurier, les blancs de poulet, les haricots verts et les pois chiches.
+2. **Bouillon :** Chauffer le bouillon de volaille. Y incorporer la purée de tomates et d'oignons revenue. Ajouter les carottes en rondelles (*« ne pas oublier les carottes... »*, note PJP en marge), le céleri émincé, le thym, le laurier, les blancs de poulet, les haricots verts et les pois chiches.
 3. **Mijotage :** Laisser frémir à tout petit feu sans gros bouillon pendant 1 heure environ. Compléter d'un peu d'eau si nécessaire. Saler et poivrer.
 4. **Croustillants :** Découper les galettes en lanières et les dorer à la poêle dans un fond d'huile d'olive pour obtenir des croutons très croustillants.
 5. **Finition du bouillon :** Sortir les blancs de poulet du bouillon, les effilocher à la main ou à la fourchette, puis les replonger dans la soupe fumante.
 6. **Dressage à table :** Disposer le riz chaud dans un plat de service. Présenter dans de petites coupelles : les dés de feta, les lanières d'avocat, les piments doux, les cébettes, la coriandre ciselée, les lanières de galettes croustillantes, les quartiers de citron et la sauce Lizano.
 7. **Dégustation :** Servir le bouillon brûlant. Chaque convive compose son bol en y ajoutant du riz, du poulet effiloché, du bouillon et les garnitures de son choix.
 
-> **Observations :** Repas partagé le 03/04/2006 avec Annie et François. Délicieux et très complet, à la fois soupe réconfortante et plat unique !
+## Observations
+
+- **Contexte :** Repas partagé le 3 avril 2006 avec Annie et François. Délicieux et très complet, à la fois soupe réconfortante et plat unique.
+- **Clin d'œil du cuisinier :** Une note manuscrite ajoutée dans la marge rappelle : *« ne pas oublier les carottes... »*.

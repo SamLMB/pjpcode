@@ -4,7 +4,7 @@ number: 12
 title: "Gâteau mollet des Ardennes"
 ---
 
-[![Gâteau mollet des Ardennes](image-01.jpg)](image-01.jpg)
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -22,4 +22,4 @@ title: "Gâteau mollet des Ardennes"
 2. **Pâte :** Dans une terrine ou au robot, mélanger la farine, le sucre fin, la pincée de sel et les œufs entiers. Bien battre la pâte jusqu'à ce qu'elle devienne élastique.
 3. **Beurre :** Incorporer ensuite la levure délayée, puis le beurre mou coupé en morceaux. Pétrir soigneusement pour obtenir une pâte lisse et souple.
 4. **Repos :** Beurrer un moule à brioche ou à savarin cannelé. Y verser la pâte et laisser lever dans un endroit tiède à l'abri des courants d'air pendant environ 2 heures (la pâte doit doubler de volume).
-5. **Cuisson :** Cuire à four chaud (thermostat 6 / 180°C) pendant environ 35 minutes. Démouler tiède sur une grille.
+5. **Cuisson :** Cuire à four chaud (180°C / 350°F / thermostat 6) pendant environ 35 minutes. Démouler tiède sur une grille.

@@ -4,11 +4,13 @@ number: 3
 title: Glace au café
 ---
 
-[![Glace au café — recette manuscrite](image-01.jpg)](image-01.jpg)
+*Pour 4 personnes*
 
-## Ingrédients (pour 4 personnes)
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
-- 3 jaunes d'oeufs
+## Ingrédients
+
+- 3 jaunes d'œufs
 - 100 g de sucre glace
 - 25 cl de lait
 - 20 cl de crème fraîche
@@ -17,12 +19,12 @@ title: Glace au café
 
 ## Préparation
 
-- dissoudre le café dans une cuiller à café d'eau chaude, laisser refroidir
-- battre au mixer ensemble les jaunes, le sucre glace, le sucre vanillé, le café et le lait ; le faire assez longtemps pour que la consistance soit ferme
-- fouetter la crème fraîche, puis la mélanger délicatement au mélange précédent
-- laisser refroidir le tout quelques heures au réfrigérateur, puis mettre en sorbetière (mise en marche préalablement)
+1. Dissoudre le café soluble dans une cuillère à café d'eau chaude et laisser refroidir.
+2. Battre au mixeur les jaunes d'œufs, le sucre glace, le sucre vanillé, le café et le lait assez longtemps pour obtenir une consistance ferme.
+3. Fouetter la crème fraîche, puis la mélanger délicatement à la préparation précédente.
+4. Laisser refroidir le tout quelques heures au réfrigérateur, puis faire prendre en sorbetière préalablement mise en marche.
 
 ## Observations
 
-- recette exécutée notamment le 7/3/2006 (repas avant Annie et François, Pierre et Anne).
-- ne pas lésiner sur le café pour que le goût soit bien prononcé.
+- **Contexte :** Recette exécutée notamment le 7 mars 2006 lors d'un repas avec Annie, François, Pierre et Anne.
+- Ne pas lésiner sur le café pour que le goût soit bien prononcé.

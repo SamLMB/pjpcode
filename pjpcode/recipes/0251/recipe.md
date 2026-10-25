@@ -2,52 +2,38 @@
 layout: recipe
 number: 251
 title: Thon tartare
+pdf: true
+docx: true
 ---
 
 ## Ingrédients
 
-400 gr thon très frais
+*Pour 4 personnes*
 
-4 c. à soupe huile d’olive
-
-Zeste d’un citron vert (ou citron normal)
-
-3 c. à soupe jus du citron/citron vert
-
-½ c. à café wasabi en poudre (optionnel, je n’en avais pas utilisé à Quiberon)
-
-1 ½ c. à café sauce de soja
-
-6 gouttes tabasco (à ajuster selon la tolérance des mangeurs)
-
-1 c. à café sel
-
-½ à 1 c. à café poivre fraichement moulu
-
-¼ cup (1 cup=250ml) ciboulette
-
-2 c. à café piment plus ou moins piquant, selon les goûts
-
-1 avocat mur à point
-
-1 c. à café graines de sésame grillées
+- 400 g de thon rouge très frais (qualité sashimi)
+- 1 avocat mûr à point
+- 4 cuillères à soupe d'huile d'olive
+- Zeste et jus d'un citron vert (ou citron jaune)
+- 1 cuillère à soupe et demie de sauce soja
+- 2 cuillères à café de ciboulette fraîche finement ciselée
+- 1 cuillère à café de graines de sésame grillées
+- 1 cuillère à café de sel fin
+- 1/2 à 1 cuillère à café de poivre fraîchement moulu
+- 1/2 cuillère à café de wasabi en poudre (facultatif)
+- 6 gouttes de Tabasco (à doser selon la tolérance)
+- 1 pointe de piment doux ou fort selon le goût
 
 ## Préparation
 
-1)Couper le thon en petits cubes et mettre dans un petit saladier.
+1. Découper le filet de thon frais en petits cubes réguliers de 5 mm et les déposer dans un saladier.
+2. Dans un second bol, préparer la marinade en émulsionnant l'huile d'olive, le zeste râpé et le jus de citron vert, la sauce soja, le Tabasco, le wasabi, la ciboulette, le piment, le sel et le poivre moulu.
+3. Verser la sauce sur les dés de thon et mélanger délicatement.
+4. Couper l'avocat en petits cubes de même taille que le thon.
+5. Incorporer très délicatement les cubes d'avocat au thon sans les écraser.
+6. Parsemer avec les graines de sésame grillées.
+7. Couvrir le saladier d'un film alimentaire transparent et placer au réfrigérateur pendant 1 à 3 heures pour faire mariner et servir bien glacé.
+8. Servir accompagné de crackers croustillants ou sur un lit de salade verte et de fines rondelles d'oignons rouges.
 
-2)Dans un autre bol mélanger tous les autres ingrédients sauf l’avocat.
+## Observations
 
-3)Verser la sauce sur le thon.
-
-4)Couper l’avocat en petits cubes.
-
-5)Mélanger délicatement l’avocat avec le thon.
-
-6)Couvrir de film plastique et mettre au frigo entre 1 et 3 heures.
-
-7)Servir avec des crackers ou sur un mélange salade verte/oignons rouges.
-
-## Observation
-
-Recette exécutée à Quiberon en juillet 2012 avec les Mathews, qui l'avaient apportée. Délicieuse !
+- **Contexte :** Recette exécutée à Quiberon en juillet 2012 avec les Mathews, qui l'avaient apportée dans leurs bagages culinaires : un délice absolu de fraîcheur !

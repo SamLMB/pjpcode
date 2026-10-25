@@ -1,44 +1,45 @@
 ---
 layout: recipe
 number: 68
-title: Tarte au chocolat fondant et aux poires (avec photo)
+title: "Tarte au chocolat fondant et aux poires"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+![Tarte au chocolat et aux poires](image-01.jpg)
+
+*Pour 8 personnes*
 
 ## Ingrédients
 
-pour 8 personnes
-La tarte se compose, de bas en haut, de la pâte à tarte, d'une nappe de chocolat, des poires, d'une nappe de crème.
-Les ingrédients sont les suivants :
-- pour la pâte à tarte et les poires :
-    - une pâte feuilletée, ou brisée, du commerce avec son papier sulfurisé
-    - une boîte de poires au sirop contenant 6 à 8 demi-poires
-- pour faire la nappe de chocolat :
-    - une tablette de chocolat noir type Nestlé pour dessert (200G)
-    - 100g de beurre ramolli
-    - 1/2 verre de lait
-- pour faire la nappe de crème :
-    - 1 pot de 20 cl de crème fraîche
-    - 75 g de sucre en poudre
-    - 1 oeuf
-    - une poignée de cerneaux de noix ordinaires ou de noix de pécan
+### Pâte et fruits
+- 1 rouleau de pâte feuilletée ou brisée pur beurre (avec son papier cuisson)
+- 1 boîte de poires au sirop (6 à 8 demi-poires égouttées)
+
+### Nappe au chocolat fondant
+- 200 g de chocolat noir dessert (type Nestlé)
+- 100 g de beurre ramolli
+- 1/2 verre de lait
+
+### Nappe de crème et décor
+- 20 cl de crème fraîche
+- 75 g de sucre en poudre
+- 1 œuf entier
+- 1 poignée de cerneaux de noix ou de noix de pécan
 
 ## Préparation
 
-- Préchauffer le four à 200°C pendant 15 minutes
-- Découper le chocolat en carrés, les  mettre les carrés dans une casserole, ajouter le beurre ramolli et le lait
-- Mettre à fondre à deux doux en remuant sans cesse avec une cuiller de bois, en ajoutant du lait si nécessaire, jusqu'à obtenir une pâte lisse ; réserver
-- Dans un mixer, mettre le sucre, l'oeuf et la crème ; battre
-- Sortir les poires au sirop de la boîte, les étaler sur du papier absorbant pour les égoutter
-- Déballer la pâte feuilletée et laosez la pâte avec son paier dans un moule à tarte
-- La mettre à four maintenant chaud 3 à 4 minutes pur la durcir un peu (la piquer à la fourchette pour q'elle ne gonfle pas ; si elle gonfle, applatir les bosses)
-- Etaler le chocolat fondu dans le fond de la tarte
-- Disposez les 6 demi-poires dans le fond de la tarte comme des pétales de fleurs
-- Verser la crème entre les poires
-- Mettre au four 50 à 55 minutes à 190°C
+1. Préchauffer le four à 200°C (400°F / thermostat 6-7).
+2. Découper le chocolat noir en morceaux et les placer dans une casserole avec le beurre ramolli et le lait.
+3. Faire fondre à feu très doux en remuant constamment à la cuillère en bois jusqu'à obtention d'une pâte de chocolat lisse et brillante. Réserver hors du feu.
+4. Dans le bol du mixeur ou au fouet, battre la crème fraîche avec l'œuf et le sucre en poudre.
+5. Égoutter soigneusement les demi-poires sur du papier absorbant.
+6. Garnir un moule à tarte avec la pâte feuilletée en conservant son papier sulfurisé. Piquer généreusement le fond à la fourchette.
+7. Précuire le fond de tarte à blanc au four bien chaud pendant 3 à 4 minutes pour le saisir légèrement.
+8. Étaler uniformément le chocolat fondu sur le fond de tarte précuit.
+9. Disposer les demi-poires en rosace sur le lit de chocolat, pointe vers le centre, comme les pétales d'une fleur.
+10. Verser délicatement l'appareil à la crème entre les poires et parsemer de cerneaux de noix.
+11. Enfourner à 190°C (375°F) pendant 50 à 55 minutes, jusqu'à ce que la crème soit prise et dorée. Laisser tiédir avant de découper.
 
 ## Observations
 
-- recette exécutée le 2 septembre 2006 à Quiberon avec Andrée, Michel, F et moi
-- très agréable pour les amateurs de chocolat
+- **Contexte :** Recette exécutée le 2 septembre 2006 à Quiberon avec Andrée, Michel, F. et moi.
+- **Appréciation :** Un dessert particulièrement fondant et irrésistible pour les amateurs de chocolat noir et de poires juteuses.

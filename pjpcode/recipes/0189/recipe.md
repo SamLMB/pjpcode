@@ -1,63 +1,51 @@
 ---
 layout: recipe
 number: 189
-title: Garbure de Papiroger et Mamija à la mode des Ch’tis
+title: "Garbure de Papiroger et Mamija à la mode des Ch’tis"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+![Garbure de Papiroger et Mamija à la mode des Ch'tis](image-01.jpg)
 
 ## Ingrédients
 
- pour 4 personnes affamées
-beaucoup d'eau (on verra ça ci-dessous, dans la préparation)
-1 talon de jambon
-2 échalotes
+*Pour 4 personnes affamées*
 
-2 gousses d'ail d’Arleux
+- 1 talon de jambon de pays
+- 1 boîte de 4 cuisses de canard confites
+- 1 boîte de cassoulet traditionnel au confit et saucisses
+- 1 petite boîte de haricots blancs (de Soissons idéalement)
+- 1 tout petit chou vert pommé
+- 4 petits chicons du Nord (endives)
+- 4 petits poireaux
+- 4 carottes moyennes
+- 4 navets moyens
+- 4 pommes de terre moyennes
+- 2 échalotes
+- 2 gousses d'ail d'Arleux
+- 1 cuillère à soupe d'herbes du maquis corse
+- 2 tablettes de bouillon de volaille
+- 1 croûton de pain sec (pour absorber l'amertume du chou)
+- Eau en abondance
 
-une cuiller à soupe d’herbes du maquis (corse, car il n’y a pas de maquis chez les Ch’tis)
+## Préparation
 
-4 petits poireaux
-
-1 tout petit chou vert
-
-4 pommes de terre moyennes
-
-4 navets moyens
-
-4 carottes moyennes
-4 petits chicons du Nord
-
-une petite boîte de haricots blancs (s’ils sont de Soissons, c’est encore meilleur)
-
-2 tablettes de bouillon de poule
-un croûton de pain dur (pour enlever l'amertume du chou)
-
-une boîte de cassoulet de Castelnaudarry ( de chez Spangherro, le meilleur\* )
-
-une boîte de 4 cuisses de canard confites ( de chez Spangherro, le meilleur\*)
-
-## Préparation (c’est un peu long, mais c’est tellement bon !)
-
-1 - dans 2 grandes cocottes, mettre de l'eau à chauffer : la première servira à la cuisson des légumes autres que le chou, la seconde au blanchiment du chou
-2 - peler les pommes de terre, les couper en dés, les mettre dans la 1ère cocotte avec les plaquettes de bouillon de poule
-3 - peler les carottes et les navets, les débiter, les mettre dans la 1ère cocotte
-4 - peler les échalotes, les couper en quatre ; peler les gousses d'ail et les écraser avec le plat du couteau, mettre le tout dans la 1ère cocotte
-5 - nettoyer les poireaux, séparer blanc et vert, couper le blanc en dés, lier le vert en 4 petits fagots (pour qu'ils ne se délite pas) et mettre dans la 1ère cocotte
-6 - préparer les chicons, les attacher séparément (pour qu'ils ne se délitent pas), les mettre dans la 1ère cocotte avec les herbes du maquis
-7 - nettoyer le chou, le couper en 4, retirer le trognon dur, mettre dans la 2ème cocotte avec le trognon de pain dur
-8 - couper le talon de jambon en 2 ou 4 suivant sa taille et mettre dans la 1ère cocotte
-9 - quand l'eau bout dans la 1ère cocotte, compter 30 mn de cuisson environ ; puis réduire le feu au minimum pour garder chaud sans cuire davantage
-10 - quand l'eau bout dans la 2ème cocotte, compter environ 5 mn de cuisson à gros bouillon pour enlever l'amertume du chou, enlever du feu, vider l'eau dans l'évier, jeter le pain, rincer les quartiers de chou à l'eau tiède, débiter le chou en lanières, le mettre à cuire dans la 2ème cocotte avec au moins un litre d'eau
-11 - quand l'eau bout dans la 2ème cocotte, laisser cuire le chou à gros bouillon en le goûtant de temps en temps (il doit être tendre, sinon ce n'est pas bon)
-12 - pendant la cuisson du chou, ouvrir la boîte de cassoulet et celle de haricots blancs, couper les saucisses du cassoulet en tranches, et mettre le tout dans la 1ère cocotte, mélanger délicatement
-13 - pendant la cuisson du chou, ouvrir la boîte de cuisses de canard, reirer les cuisses de canard de la graisse, enlever la peau, désosser et mettre dans la 1ère cocotte en remuant délicatement
-14 - quand , dans la 2ème cocotte, le chou est tendre, le transvaser avec son eau dans la 1ère cocotte, remuer délicatement
-15 - réchauffer le tout si ce n'est pas assez chaud, mais cela ne devrait pas être nécessaire.
+1. Dans deux grandes cocottes, mettre de l'eau à chauffer : la première servira à cuire l'ensemble des légumes et viandes, la seconde au blanchiment préalable du chou.
+2. Peler les pommes de terre, les couper en dés et les déposer dans la première cocotte avec les tablettes de bouillon de volaille.
+3. Peler les carottes et les navets, les débiter en morceaux réguliers et les ajouter dans la première cocotte.
+4. Peler les échalotes et les couper en quatre ; peler les gousses d'ail et les écraser au plat du couteau, puis les ajouter à la première cocotte.
+5. Nettoyer les poireaux, séparer le blanc du vert ; couper le blanc en tronçons et ficeler les feuilles vertes en 4 petits bouquets pour éviter qu'ils ne se délitent, puis les placer dans la cocotte.
+6. Parer les chicons, les ficeler individuellement et les ajouter dans la première cocotte avec la cuillère d'herbes du maquis.
+7. Couper le talon de jambon en morceaux selon sa taille et l'ajouter dans la première cocotte.
+8. Nettoyer le chou, le fendre en quatre, ôter le trognon dur et le placer dans la seconde cocotte avec le croûton de pain dur.
+9. Dès l'ébullition dans la première cocotte, compter environ 30 minutes de cuisson douce, puis réduire au minimum pour maintenir au chaud.
+10. Dès l'ébullition dans la seconde cocotte, blanchir le chou à gros bouillons pendant 5 minutes pour ôter toute amertume. Égoutter, jeter le pain, rafraîchir les quartiers de chou à l'eau tiède, les débiter en lanières et les remettre à cuire dans au moins 1 litre d'eau propre.
+11. Poursuivre la cuisson du chou à gros bouillons en vérifiant qu'il devienne parfaitement tendre.
+12. Pendant la cuisson du chou, ouvrir la boîte de cassoulet et celle de haricots blancs ; découper les saucisses en rondelles épaisses et verser le tout dans la première cocotte en mélangeant avec précaution.
+13. Ouvrir la boîte de confit de canard, débarrasser les cuisses de leur excédent de graisse, ôter la peau et les os, puis effilocher la chair dans la première cocotte.
+14. Dès que le chou est bien tendre, le transvaser avec son eau de cuisson dans la première cocotte et remuer délicatement pour lier l'ensemble.
+15. Réchauffer quelques minutes à frémissement doux et servir fumant dans de grands bols ou assiettes creuses.
 
 ## Observations
 
-1 - recette d'origine transmise par Papiroger et Mamija qui nous avaient fait connaître ce délice. Merci encore à eux.
-2 - la variante ch'tie a été réalisée le 13 mai 2008 à Marcq-en-Baroeul et très appréciée pendant 2 jours.
-
-\* et sa réputation est arrivée jusque chez les Ch'tis.
+- **Origine :** Recette d'origine familiale transmise par Papiroger et Mamija qui nous avaient fait découvrir ce classique pyrénéen. Merci encore à eux !
+- **Contexte :** Cette variante revisitée à la mode ch'tie a été préparée le 13 mai 2008 à Marcq-en-Barœul et savourée avec bonheur pendant deux jours.

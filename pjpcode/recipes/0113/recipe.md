@@ -1,50 +1,44 @@
 ---
 layout: recipe
 number: 113
-title: Échine de porc fambée au whisky et ses Soissons à la tomate (avec photos)
+title: "Échine de porc fambée au whisky et ses Soissons à la tomate (avec photos)"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+[![Échine de porc flambée au whisky et ses Soissons](image-01.jpg)](image-01.jpg)
 
-Les quantités sont pour 6 personnes
+*Pour 6 personnes*
 
-[![](image-02.jpg)](image-02.jpg)
+[![Échine de porc flambée au whisky — cuisson](image-02.jpg)](image-02.jpg)
 
 ## Ingrédients
 
-1 - pour les Soissons :
-500g de haricots de Soissons (ils sont blancs et très gros)
-une petite boîte de concassé de tomates (400g environ)
-un gros oignon
-75g de bacon
-4 clous de girofle
-bouquet garni
-sel et poivre
-2 - pour l'échine de porc :
-6 côtes de porc dans l'échine (c'est moins gras)
-20cl de crème fraîche
-5cl de whisky
-une cuiller à soupe d'huile d'olive
-poivre du moulin
-sel
+### Pour les haricots de Soissons
+- 500 g de haricots de Soissons secs (gros haricots blancs de Picardie)
+- 400 g de concassé de tomates (1 boîte moyenne)
+- 1 gros oignon jaune
+- 75 g de bacon émincé
+- 4 clous de girofle
+- 1 bouquet garni (thym, laurier)
+- Sel et poivre du moulin
+
+### Pour l'échine de porc
+- 6 belles côtes de porc dans l'échine (plus moelleuses)
+- 20 cl de crème fraîche épaisse
+- 5 cl de whisky
+- 1 c. à soupe d'huile d'olive
+- Sel et poivre noir du moulin
 
 ## Préparation
 
-1 - pour les Soissons :
-- la veille mettre les Soissons à tremper la nuit entière, le matin les rincer et les égoutter
-- éplucher l'oignon et le piquer des clous de girofle
-- dans deux litres d'eau froide mettre tomates, oignon piqué, bouquet garni, sel et poivre
-- y faire cuire les Soissons soit à la cocotte-minute (45mn), soit à la casserole (1h30mn à 2h)
-- on peut ensuite laisser mijoter à feu très doux ou réchauffer le moment de servir venu
-2 - pour l'échine de porc :
-Enduire les échines de porc dans le poivre de manière à bien en recouvrir les deux faces.
-Chauffer l’huile d’olive dans une poêle puis y déposer la viande et bien la cuire en la retournant plusieurs fois
-Salez la viande puis la flamber avec la moitié du whisky. Réserver la viande au chaud.
-Déglacer la poêle avec le reste du whisky puis ajouter la crème ; laisser épaissir quelques instants cette sauce puis en napper la viande
-Serrvir aussitôt avec les Soissons
+1. **Trempage des haricots :** La veille au soir, faire tremper les haricots de Soissons dans un grand volume d'eau froide toute la nuit. Le lendemain matin, les rincer et les égoutter soigneusement.
+2. **Cuisson des haricots :** Éplucher l'oignon et le piquer des 4 clous de girofle. Dans un faitout (ou une cocotte-minute), réunir les Soissons égouttés, le concassé de tomates, l'oignon piqué, le bacon en lanières, le bouquet garni, du sel et du poivre dans 2 litres d'eau froide. Cuire 45 minutes à la cocotte-minute après rotation de la soupape, ou 1h30 à 2 heures à feu doux en casserole classique. Réserver au chaud à feu très doux.
+3. **Préparation de la viande :** Enduire généreusement les deux faces des côtes d'échine de porc de poivre noir du moulin.
+4. **Cuisson et flambage :** Faire chauffer l'huile d'olive dans une grande poêle à feu vif. Y saisir les côtes d'échine et les cuire à cœur en les retournant régulièrement.
+5. Saler la viande puis verser la moitié du whisky et flamber aussitôt hors de la hotte. Réserver les côtes de porc au chaud dans un plat de service.
+6. **Sauce onctueuse :** Déglacer les sucs de la poêle avec le reste de whisky, puis incorporer la crème fraîche. Laisser réduire et épaissir la sauce quelques instants à feu doux.
+7. **Dressage :** Napper l'échine de porc de sauce au whisky et servir fumant, accompagné des haricots de Soissons à la tomate.
 
 ## Observations
 
-Recette inspirée de deux recettes, l'une est de Picardie (les haricots de Soissons en purée avec des côtes de porc), l'autre américaine (steaks flambés au whisky) ; ici, le steak est devenu échine de porc et les Soissons ont été conservés entiers (ils sont tellement beaux ainsi !).
-Recette exécutée le 14 décembre 2006 pour nous deux à Rennes.
-C'est très bon et excellent comme plat d'hiver.
+- **Inspiration :** Mariage réussi de deux traditions : la picarde (les haricots de Soissons avec les côtes de porc) et l'américaine (les steaks flambés au whisky). L'échine apporte un moelleux incomparable et les Soissons restent entiers et majestueux.
+- **Contexte :** Recette exécutée le 14 décembre 2006 pour nous deux à Rennes ; un réconfortant et savoureux plat d'hiver !

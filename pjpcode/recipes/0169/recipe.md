@@ -1,29 +1,32 @@
 ---
 layout: recipe
 number: 169
-title: Marmelade aux trois agrumes (orange, citron, pamplemousse) à la mode de Babette
+title: "Marmelade aux trois agrumes (orange, citron, pamplemousse) à la mode de Babette"
 ---
+
+*Pour 7 à 8 pots moyens*
+
 ## Ingrédients
 
-*pour 7 à 8 pots moyens*
-- 4 oranges à jus
-- 2 pamplemousses à jus
-- 6 petits citrons jaunes
-- 1 kg de sucre en poudre, gélifiant ou non suivant qu'on aime les confitures "gelées" ou "coulantes"
+- 4 belles oranges à jus
+- 2 pamplemousses roses ou jaunes à jus
+- 6 petits citrons jaunes non traités
+- 1 kg de sucre en poudre (ou sucre gélifiant pour confiture selon la consistance désirée)
 
 ## Préparation
 
-1 - zester oranges, pamplemousses et citrons de façon à obtenir 20 grammes de zeste de chaque fruit environ
-2 - peler à vif tous les fruits (enlever en particulier le maximum de leur membrane blanche
-3 - passer fruits pelés et zestes au mixer de façon à obtenir une purée (c'est-à-dire qu'il faut mixer fort)
-4 - dans un saladier, bien mélanger au sucre à la cuiller de bois
-5 - couvrir le saladier et mettre au frogo à macérer pendant une nuit
-6 - le lendemain matin, mettre à cuire à feu vif , en remuant à la cuiller de bois, dès que ça bout (compter 8 à 10 minutes de cuisson à gros bouillons)
-7 - pendant que cela chauffe, ébouillanter les pots et les couvercles ; les retourner sur un papier absorbant
-8 - remplir les pots à ras bord, les fermer, les retourner et laisser refroidir
-9 - quand ils sont froids, les remettre à l'endroit et les étiqueter
+1. Prélever finement les zestes d'oranges, de pamplemousses et de citrons au couteau zesteur (environ 20 g de zeste de chaque agrume) et les réserver.
+2. Peler tous les agrumes à vif en retirant scrupuleusement la peau blanche (*ziste*) et les membranes coriaces.
+3. Passer la pulpe des fruits pelés et les zestes au mixeur ou au robot jusqu'à l'obtention d'une purée fine et homogène.
+4. Dans un grand saladier, mélanger intimement la purée d'agrumes avec le sucre en poudre à la cuillère en bois.
+5. Couvrir le saladier d'un film étirable et placer au réfrigérateur pendant une nuit entière pour laisser macérer et dissoudre les sucs.
+6. Le lendemain matin, verser la préparation macérée dans une bassine à confiture et porter à feu vif en remuant régulièrement.
+7. Dès l'ébullition, maintenir une cuisson à gros bouillons pendant 8 à 10 minutes sans cesser de tourner.
+8. Pendant ce temps, ébouillanter les pots et les couvercles dans une grande casserole d'eau bouillante, puis les égoutter sur un linge propre.
+9. Remplir les pots de marmelade bouillante à ras bord, visser hermétiquement les couvercles et retourner immédiatement les pots tête en bas.
+10. Laisser refroidir complètement avant de remettre à l'endroit et d'étiqueter.
 
 ## Observations
 
-1 - recette exécutée à Quiberon le 3 janvier 2008 ; excellent sur du pain ou des biscottes au petit-déjeuûner
-2 - avec le nombre de fruits indiqués, il y avait 1,7 kg de fruits ; la règle habituelle en matière de confiture aurait voulu qu'on mît 1,7 kg de sucre ; en réduisant à 1kg, on obtient des confitures moins sucrées (ce que par ailleurs nous préférons), mais qu'il faut alors conserver au frigo quand le pot est entamé (heureusement, un pot entamé a une espérance de vie courte...).
+- **Contexte :** Recette réalisée à Quiberon le 3 janvier 2008 ; un concentré de vitamines et d'arômes vivifiants, merveilleux sur du pain frais ou des biscottes au petit-déjeuner.
+- **Teneur en sucre :** Les 1,7 kg de fruits ont été cuits avec seulement 1 kg de sucre au lieu de la parité habituelle. La marmelade est ainsi bien plus acidulée et fruitée ; penser simplement à conserver les pots entamés au réfrigérateur.

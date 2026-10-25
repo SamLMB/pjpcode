@@ -3,32 +3,35 @@ layout: recipe
 number: 212
 title: Concassé de poivrons rouges, tomates, pois chiches, ail et persil
 ---
+
 ## Ingrédients
 
-*pour 3 pots à confiture (peut servir à faire des tapas pour 20 à 30 personnes...)*
-- un poivron rouge doux (environ 300 g)
-- une boîte de pulpe de tomates (environ 400 g)
-- une boîte de pois chiches cuits (environ 250 g égouttés)
-- de 5 à 10 gousses d'ail d'Arleux, suivant que l'on aime un peu ou beaucoup l'ail (de 20 à 50 g)
-- un bouquet de persil (environ 20 g)
-- une grosse pincée de gros sel de mer (environ 10 g)
-- une cuiller à soupe de farine de blé ou de maïs (environ 300 g)
-- une cuiller à soupe d'huile (environ 20 g)
-- une cuiller à soupe de vinaigre (environ 20 g)
+*Pour 3 pots de confiture (ou tapas pour 20 à 30 personnes)*
+
+- 1 poivron rouge doux (environ 300 g)
+- 1 boîte de pulpe de tomates (environ 400 g)
+- 1 boîte de pois chiches cuits (environ 250 g égouttés)
+- 5 à 10 gousses d'ail d'Arleux selon affinité
+- 1 bouquet de persil plat (environ 20 g)
+- 1 cuillère à soupe de farine de blé ou de maïs
+- 1 cuillère à soupe d'huile d'olive
+- 1 cuillère à soupe de vinaigre de vin
+- 1 grosse pincée de gros sel de mer
+- Poivre au moulin
 
 ## Préparation
 
-1 - égoutter et rincer les pois chiches
-2 - égoutter les tomates en conservant le jus à part
-3 - éplucher et nettoyer le poivron (ôter pépins, queue, parties blanches)
-4 - broyer au mixer tomates, poivron, pois chiches
-5 - délayer la farine dans un peu du jus des tomates, mélanger à la préparation mixée, mixer à nouveau
-6 - diluer le sel dans le vinaigre, ajouter l'huile, mettre le tout dans la préparation mixée, mixer à nouveau
-7 - éplucher l'ail, le hacher avec le persil, ajouter à la préparation mixée, mixer à nouveau
-8 - ajuster le sel en goûtant
-9 - mettre au frigo pour reposer quelques heures (c'est meilleur, mais cela peut de manger sur le champ)
+1. Égoutter et rincer abondamment les pois chiches à l'eau claire.
+2. Égoutter la pulpe de tomates en conservant précieusement le jus à part.
+3. Laver et parer le poivron rouge : ôter les graines, la queue et les cloisons blanches intérieures, puis le couper en morceaux.
+4. Dans le bol du mixeur, broyer ensemble les tomates égouttées, les morceaux de poivron et les pois chiches.
+5. Délayer la farine dans une petite quantité du jus de tomates réservé, l'incorporer à la préparation et mixer à nouveau.
+6. Diluer le gros sel dans le vinaigre, ajouter l'huile d'olive, verser dans le mixeur et mixer de nouveau.
+7. Éplucher les gousses d'ail, les hacher avec le persil plat, ajouter au mélange et mixer une dernière fois pour obtenir une pâte homogène.
+8. Goûter et ajuster l'assaisonnement en sel et poivre selon le goût.
+9. Placer au réfrigérateur pendant quelques heures pour laisser les arômes se diffuser avant de déguster.
 
 ## Observations
 
-1 - Recette préparée le 15 décembre à Rennes pour servir sur des toasts de pain aux figues comme tapas en accompagnement d'une [souris de l'abbé Jouvence (cf. recette n°21](../0021/recipe.html)) ; nos invités étaient Annie Lefort et ses deux potes Alain et Jean-Claude ; tous ont bien aimé.
-2 - Cette préparation peut se conserver au frigo quelques jours, ou au congélateur quelques mois ; elle peut être utilisée comme un aïoli ou une sauce au pistou, avec des plats chauds (pâtes, pommes de terre par exemple).
+- **Contexte :** Recette préparée le 15 décembre 2008 à Rennes pour servir sur des toasts de pain aux figues en apéritif d'une souris d'agneau ; très appréciée par nos invités Annie, Alain et Jean-Claude.
+- **Conservation et usage :** Se conserve plusieurs jours au frais ou quelques mois au congélateur. S'utilise comme une rouille ou un pistou pour agrémenter des pâtes fraîches ou des pommes de terre au four.

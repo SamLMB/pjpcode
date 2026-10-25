@@ -1,36 +1,35 @@
 ---
 layout: recipe
 number: 161
-title: Velouté de potiron aux oignons
+title: "Velouté de potiron aux oignons"
 ---
 
-Recette n°161 : Velouté de potiron aux oignons
+*Pour 4 personnes*
 
 ## Ingrédients
 
-Pour 4 personnes ;
-(les quantités qui suivent ne sont pas critiques)
-- une tranche de potiron de 600 à 700 g
+- 600 à 700 g de chair de potiron
 - 200 g de pommes de terre
-- 30 g de beurre et 2 cuillers d'huile (le mélange des deux évite au beurre de noircir)
 - 2 oignons jaunes moyens
-- une gousse d'ail d'Arleux
-- 8 cubes de bouillon de poule (pour 2 litres de bouillon)
-- pas de sel (le bouillon sale assez), poivre selon goût
+- 1 gousse d'ail d'Arleux
+- 8 cubes de bouillon de volaille (pour 2 litres d'eau)
+- 30 g de beurre demi-sel
+- 2 c. à soupe d'huile d'olive
+- Poivre noir du moulin (pas de sel, le bouillon suffisant amplement)
+- Crème fraîche et croûtons pour le service (facultatif)
 
 ## Préparation
 
-- mettre dans une cocotte ou une grande casserole 2 litres d'eau à chauffer avec les cubes de bouillon
-- débiter l'oignon en rondelles fines, écraser l'ail avec le plat d'un grand couteau
-- presser l'ail
-- préparer le potiron en lamelles fines ou en brunoise (il faut un très bon couteau !)
-- éplucher les pommes de terre, les débiter en rondelles fines
-- mettre tous les légumes précédents à revenir dans une sauteuse avec huile et beurre, ne pas cesser de remuer pour que cela ne brûle pas
-- quand les rondelles d'oignon sont devenues translucides, mélanger bouillon et légumes
-- couvrir et laisser mijoter à petit feu au moins une heure (le potiron doit alors s'écraser facilement à la fourchette)
-- passer au mixer, poivrer selon goût
-- se sert aussitôt ou réchauffé, avec ou sans croûtons, avec ou sans crème fraîche (selon la gourmandise et le régime des convives)
+1. Dans une grande cocotte ou faitout, porter 2 litres d'eau à ébullition avec les cubes de bouillon de volaille émiettés.
+2. Éplucher les oignons et les tailler en fines rondelles. Éplucher et écraser l'ail du plat du couteau.
+3. Retirer l'écorce du potiron et découper la chair en lamelles fines ou en brunoise.
+4. Éplucher les pommes de terre et les couper en rondelles fines.
+5. Dans une sauteuse, faire chauffer l'huile et le beurre ensemble à feu moyen. Y faire suer les oignons, l'ail, le potiron et les pommes de terre en remuant sans cesse pour éviter toute coloration.
+6. Dès que les oignons deviennent translucides, verser les légumes sautés dans le bouillon de volaille chaud.
+7. Couvrir et laisser mijoter à petit feu pendant au moins 1 heure jusqu'à ce que le potiron s'écrase facilement à la fourchette.
+8. Mixer l'ensemble au mixeur plongeant jusqu'à obtenir un velouté parfaitement lisse et crémeux. Poivrer selon votre goût.
+9. Servir fumant en soupières, agrémenté selon les envies de croûtons dorés et d'une touche de crème fraîche.
 
 ## Observations
 
-- recette exécutée le dimanche 2 décembre 2007 à Rennes pour nous deux, avec une tranche de potiron achetée le samedi au marché des Lices ; délicieux, même sans crème fraîche !
+- **Contexte :** Recette d'automne exécutée le dimanche 2 décembre 2007 à Rennes pour nous deux, avec un beau morceau de potiron acheté la veille au marché des Lices ; une douceur incomparable, délicieuse même nature sans crème fraîche !

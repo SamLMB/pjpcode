@@ -4,11 +4,9 @@ number: 32
 title: "Rillettes de maquereaux à la Poulelaouen"
 ---
 
-[![Rillettes de maquereaux — page 1](image-01.jpg)](image-01.jpg)
-[![Rillettes de maquereaux — page 2](image-02.jpg)](image-02.jpg)
-[![Rillettes de maquereaux — note](image-03.jpg)](image-03.jpg)
-
 *Pour environ 650 g de rillettes*
+
+📄 *Manuscrit original : [Page 1](image-01.jpg) · [Page 2](image-02.jpg) · [Page 3](image-03.jpg)*
 
 ## Ingrédients
 
@@ -40,6 +38,7 @@ title: "Rillettes de maquereaux à la Poulelaouen"
 6. **Touche finale :** Ajouter la ciboulette ciselée et mélanger délicatement à la spatule pour ne pas la broyer. Rectifier le sel et le poivre.
 7. **Repos :** Mettre en terrine ou pot et laisser reposer au frais au moins quelques heures (l'idéal étant 24 heures).
 
-> **Observations :** Dégusté en tapas le 07/05/2006 à Quiberon avec Annie Bonvet et la famille Morin, accompagné d'un Champagne rosé de Verzenay : excellent !
->
-> *Variante rapide au maquereau fumé :* Testée à Marcy en mai 2006 en remplaçant le maquereau frais poché par des filets de maquereaux fumés au poivre (sans la peau, inutile d'enlever la chair sombre). Réalisation express, texture parfaite et plébiscitée par toute la famille !
+## Observations
+
+- **Contexte :** Dégusté en tapas le 7 mai 2006 à Quiberon avec Annie Bonvet et la famille Morin, accompagné d'un Champagne rosé de Verzenay : excellent !
+- **Variante rapide au maquereau fumé :** Testée à Marcy en mai 2006 en remplaçant le maquereau frais poché par des filets de maquereaux fumés au poivre (sans la peau, inutile d'enlever la chair sombre). Réalisation express, texture parfaite et plébiscitée par toute la famille !

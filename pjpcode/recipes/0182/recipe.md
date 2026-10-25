@@ -4,60 +4,37 @@ number: 182
 title: Brandade de morue aux pommes de terre
 ---
 
-# Recette n°182 : brandade de morue aux pommes de terre
+## Ingrédients
 
-## Ingrédients (pour 4 personnes)
+*Pour 4 personnes*
 
-400g de morue salée :
-
-2 gousses d'ail
-
-1 petit bouquet de persil
-
-10 cl de crème fraîche
-
-1/2 verre d'huile d'olive
-
-1 citron
-
-600g  de pommes de terre
-
-2 feuilles de laurier
-
-50 g de beurre
+- 400 g de morue salée
+- 600 g de pommes de terre
+- 2 gousses d'ail
+- 1 petit bouquet de persil frais
+- 10 cl de crème fraîche
+- 1/2 verre d'huile d'olive
+- 1 citron
+- 2 feuilles de laurier
+- 50 g de beurre
+- Poivre au moulin (sel facultatif après dégustation)
 
 ## Préparation
 
-01 - mettre la morue à dessaler 24 heures à l'avance. Changer l'eau 3 ou 4 fois
-
-02 - hacher l'ail et le persil
-
-03 - presser le citron
-
-04 - cuire la morue dans une casserole d'eau (non salée) froide au départ, avec deux feuilles de laurier. Porter à ébullition et laisser cuire à petite ébullition pendant 10 mn
-
-05 - éplucher les pommes de terre puis les cuire dans une casserole d'eau pendant 20 mn
-
-06 - égoutter la morue, en retirer la peau et toutes les écailles
-
-07 - émietter la morue dans une casserole contenant l'ail et le persil ; mettre le jus du citron et mélanger le tout
-
-08 - préchauffer le four à 180C
-
-09 - passer au mixer en ajoutant progressivement l'huile d'olive et la crème
-
-10 - égoutter les pommes de terre (en gardant un peu de l'eau de cuisson), puis les écraser au presse-purée a main
-
-11 - mélanger pommes de terre et morue a la fourchette (si le mélange est trop sec, mettre un peu d'eau de cuisson des pommes de terre)
-
-12 - goûter et saler si la morue a été trop dessalée, poivrer légèrement
-
-13 - mettre dans un plat à gratin
-
-14 - disposer le beurre en lamelles sur le dessus
-
-15 - enfourner au four et laisser cuire de 15 à 30 mn suivant goût
+1. **Dessalage :** Mettre la morue à dessaler 24 heures à l'avance dans une grande quantité d'eau froide au réfrigérateur, en changeant l'eau 3 ou 4 fois.
+2. **Préparation des aromates :** Hacher finement l'ail et le persil. Presser le citron et réserver son jus.
+3. **Pochage de la morue :** Déposer la morue dans une casserole d'eau froide non salée avec les 2 feuilles de laurier. Porter à ébullition et laisser frémir à feu doux pendant 10 minutes.
+4. **Cuisson des pommes de terre :** Éplucher les pommes de terre et les faire cuire dans une casserole d'eau salée pendant 20 minutes jusqu'à tendreté.
+5. **Effeuillage :** Égoutter la morue, ôter soigneusement la peau et toutes les arêtes.
+6. Dans une sauteuse, émietter la morue avec l'ail haché, le persil et le jus de citron, puis mélanger.
+7. Passer au mixeur en incorporant progressivement l'huile d'olive et la crème fraîche.
+8. Préchauffer le four à 180°C (350°F).
+9. Égoutter les pommes de terre en réservant un fond d'eau de cuisson, puis les écraser au presse-purée manuel.
+10. Mélanger la purée de pommes de terre et la morue à la fourchette (ajouter un peu d'eau de cuisson réservée si le mélange semble trop dense).
+11. Goûter et rectifier l'assaisonnement : saler légèrement si la morue a été très dessalée, poivrer au moulin.
+12. **Gratinage :** Verser l'appareil dans un plat à gratin et répartir le beurre en fines lamelles sur le dessus.
+13. Enfourner et laisser gratiner 15 à 30 minutes jusqu'à coloration dorée.
 
 ## Observations
 
-Recette exécutée à Ciudad Colon en février 2008, spécialement pour Cécile qui adore ça ; Lourdes a demandé la recette.
+- **Contexte :** Recette exécutée à Ciudad Colón en février 2008, spécialement pour Cécile qui en raffole ; Lourdes en a immédiatement demandé la recette.

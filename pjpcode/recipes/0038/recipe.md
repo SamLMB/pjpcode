@@ -4,7 +4,9 @@ number: 38
 title: "Salade à l'ail d'Arleux, aux pommes de terre et aux lardons"
 ---
 
-[![Salade à l'ail d'Arleux, aux pommes de terre et aux lardons — recette manuscrite](image-01.jpg)](image-01.jpg)
+*Pour 2 à 4 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -26,4 +28,6 @@ title: "Salade à l'ail d'Arleux, aux pommes de terre et aux lardons"
 5. **Assemblage :** Verser les lardons brûlants, le beurre fondu et le vinaigre déglacé sur les rondelles de pommes de terre chaudes et la salade. Ajouter une pincée de muscade, du poivre et un peu de sel.
 6. **Service :** Mélanger très délicatement pour enrober la salade sans briser les rondelles de pommes de terre, et servir aussitôt pendant que le contraste chaud-froid opère.
 
-> **Observations :** Recette testée à Rennes le 31/05/2006 à deux : très savoureux ! (Peut-être doser l'ail à 2 ou 3 gousses si on craint son piquant cru).
+## Observations
+
+- **Contexte :** Recette testée à Rennes le 31 mai 2006 à deux : très savoureux ! (Doser l'ail à 2 ou 3 gousses si on craint son piquant cru).

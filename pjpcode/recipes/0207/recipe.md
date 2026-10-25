@@ -4,35 +4,36 @@ number: 207
 title: Stoemp à la bretonne
 ---
 
-Recette n° 207 : Stoemp à la bretonne
 ## Ingrédients
 
-*pour 4 personnes*
-300 g de chicons
-200 g de carottes
-300 g de pommes de terre type bintje
-25 cl de crème fraîche
-1 poireau nettoyé et débité en rondelles
-1 gros oignon émincé
-1 gousse d’ail d'Arleux écrasée
-1 l de bouillon de poule
-80 g de beurre ou de margarine
-200 g de lardons fumés
-10 brins de ciboulette
-2 branchettes de thym
-2 feuilles de laurier
+*Pour 4 personnes*
+
+- 300 g de chicons (endives)
+- 300 g de pommes de terre (variété Bintje)
+- 200 g de carottes
+- 200 g de lardons fumés
+- 1 poireau nettoyé et émincé en rondelles
+- 1 gros oignon émincé
+- 1 gousse d'ail d'Arleux écrasée
+- 25 cl de crème fraîche
+- 80 g de beurre ou margarine
+- 1 litre de bouillon de volaille
+- 10 brins de ciboulette ciselée
+- 2 branches de thym frais
+- 2 feuilles de laurier
+- Sel et poivre au moulin
 
 ## Préparation
 
-1 - Faire bouillir une minute les lardons dans l'eau, puis les égoutter..
-2 - Peler pommes de terre et carottes ; les couper en dés ; les faire revenir dans une cocotte avec 40 g de beurre, l’oignon, le poireau, et la gousse d’ail.
-3 - Laver les chicons rapidement et les ajouter avec le thym et le laurier ; mélanger et faire suer 10 mn à couvert sur feu moyen.
-4 - Versez le bouillon, porter à ébullition, puis laisser cuire à découvert 25 mn.
-5 - Faire dorer les lardons sans matière grasse ajoutée.
-6 - Egoutter les légumes, ôter le thym et le laurier, écraser grossièrement en purée avec 20 g de crème et 40 g de beurre, saler, poivrer.
-7 - Déposer le stoemp dans un plat, verser la crème restante, ajouter les lardons, parsemer de ciboulette ciselée.
-8 - Servir chaud ou réchauffé.
+1. Blanchir les lardons une minute dans une casserole d'eau bouillante, puis les égoutter.
+2. Peler les pommes de terre et les carottes, les tailler en dés ; les faire revenir dans une cocotte avec 40 g de beurre, l'oignon, le poireau et l'ail écrasé.
+3. Nettoyer rapidement les chicons, les couper en tronçons et les ajouter dans la cocotte avec le thym et le laurier ; mélanger et faire suer 10 minutes à couvert sur feu moyen.
+4. Verser le bouillon de volaille, porter à ébullition et laisser mijoter à découvert pendant 25 minutes.
+5. Dans une poêle à part, faire dorer les lardons égouttés sans matière grasse ajoutée.
+6. Égoutter les légumes cuits, retirer les branches de thym et feuilles de laurier, puis écraser grossièrement au presse-purée avec 20 g de crème et 40 g de beurre. Saler et poivrer.
+7. Dresser le stoemp dans un plat chaud, verser le reste de crème, parsemer de lardons dorés croustillants et de ciboulette ciselée.
+8. Servir bien chaud en garniture généreuse.
 
 ## Observations
 
-Recette exécutée le 6 septembre 2008 à Quiberon avec la [carbonade flamande (cf. rectte n°206](../0206/recipe.html)), pour Michel et Andrée Pioger et nous. Vraiment très bon !
+- **Contexte :** Recette exécutée le 6 septembre 2008 à Quiberon pour accompagner la carbonade flamande, pour Michel et Andrée Pioger et nous. Une alliance de saveurs remarquable !

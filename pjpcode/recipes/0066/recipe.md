@@ -1,52 +1,44 @@
 ---
 layout: recipe
 number: 66
-title: Brouillade aux truffes offertes par Jean-Marc et Joëlle des Mées (avec photos)
+title: "Brouillade aux truffes offertes par Jean-Marc et Joëlle des Mées"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+![Brouillade aux truffes des Mées](image-01.jpg)
 
-Pour 4 personnes
+*Pour 4 personnes*
 
 ## Ingrédients
 
-[![](image-02.jpg)](image-02.jpg) - 10 œufs,
+- 10 œufs extra-frais
 - 50 g de truffes conservées dans l'huile
-- 50 g de l'huile des truffes
-- une cuiller à soupe de madère
+- 50 g d'huile des truffes
+- 1 c. à soupe de madère
 - 10 cl de crème fraîche
-- poivre et sel, selon goût
+- Sel et poivre du moulin
+
+![Les truffes et les œufs](image-02.jpg)
 
 ## Préparation
 
-[![](image-03.jpg)](image-03.jpg)- Casser les œufs dans une terrine et les battre au fouet en omelette
-- Y ajouter l'huile, du sel, du poivre et battre encore un peu
-- Couper les truffes égouttées en lamelles
-- Mélanger les lamelles aux œufs ;  réserver au réfrigérateur pendant au moins 1 h
-- Placer la terrine dans une casserole d'eau chaude sur feu moyen, et battre au fouet sans arrêt
-- Quand les œufs commencent à épaissir, arrêter le feu et continuer à remuer
-- Retirer la terrine du bain-marie; verser la crème fraîche et une cuiller à soupe de madère, en remuant encore tant que la cuisson se poursuit hors du feu
-- Servir sans attendre.
+1. Casser les œufs dans une terrine ou un cul-de-poule et les battre légèrement au fouet comme pour une omelette.
+2. Ajouter l'huile des truffes, une pincée de sel et quelques tours de moulin à poivre, puis battre à nouveau.
+3. Égoutter les truffes et les émincer en fines lamelles régulières.
+4. Incorporer les lamelles de truffes aux œufs battus. Couvrir et réserver au réfrigérateur pendant au moins 1 heure pour que les arômes infusent intimement.
+5. Placer la terrine au bain-marie frémissant sur feu doux, et fouetter sans arrêt avec régularité.
+6. Dès que la masse commence à épaissir et prend une consistance crémeuse et onctueuse, couper le feu.
+7. Retirer immédiatement la terrine du bain-marie, incorporer la crème fraîche et la cuillère de madère en fouettant doucement hors du feu pour stopper la cuisson.
+8. Servir aussitôt dans des assiettes tièdes avec des mouillettes de pain grillé.
+
+![Cuisson douce au bain-marie](image-03.jpg)
+![Dressage de la brouillade aux truffes](image-04.jpg)
 
 ## Observations
 
-[![](image-04.jpg)](image-04.jpg)- recette exécutée par Michel et JP le 3 septembre 2006 à Quiberon, après contact téléphonique avec Jean-Marc et Joëlle qui nous avaient très gentiment offert les truffes, pour avoir leurs recommandations ; nous étions quatre à savourer ce mets (Andrée, Michel, F et moi) ; c'est vraiment l'une des plus grandes délices de la cuisine domestique !
-- nous avons tout mangé... entre des huîtres farcies grillées (recette n°67) et une tarte au chocolat et aux poires (recette n°68)... c'était un dîner où nous avions oublié de parler de régime... Sans parler d'un appéritif autour d'un superbe vin blanc hongrois, un Tokaji de 2003, Hàrslevelü, rapporté par Michel la veille de Kosice en Slovaquie, et de tapas faites de tronçons de concombre et de carottes trempés dans un fromage blanc aïllé, échaloté et cibouletté à souhait
-- le madère n'est pas indispensabe, mais il donne un parfum agréable
-- à la place de l'huile des truffes, on peut mettre du beurre, mais l'huile des truffes est plus parfumée
-- nous avons accompagné ce plat d'un excellent vin , un Côtes du Marmandais (Château de Beaulieu) 2002
+- **Contexte :** Recette exécutée par Michel et JP le 3 septembre 2006 à Quiberon, après contact téléphonique avec Jean-Marc et Joëlle qui nous avaient très gentiment offert les truffes. Nous étions quatre convives (Andrée, Michel, F. et moi) : l'une des plus grandes délices de la cuisine maison !
+- **Menu du festin :** Dégusté entre des huîtres farcies grillées ([recette n° 67](/pjpcode/recipes/0067/recipe.html)) et une tarte au chocolat et aux poires ([recette n° 68](/pjpcode/recipes/0068/recipe.html)). Sans oublier l'apéritif autour d'un Tokaji de 2003 (Hárslevelü) rapporté de Slovaquie par Michel la veille.
+- **Variantes :** Le madère n'est pas indispensable mais enrichit le bouquet aromatique. À la place de l'huile des truffes, on peut employer du beurre doux, mais l'huile de macération des truffes décuple le parfum.
+- **Accompagnement :** Servi avec un excellent vin rouge du Sud-Ouest, un Côtes-du-Marmandais (Château de Beaulieu) 2002.
 
-<table style="background-color: rgb(153, 255, 255); width: 100%; text-align: left;" data-border="1" data-cellpadding="2" data-cellspacing="2">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="vertical-align: top">[![](image-05.jpg)](image-05.jpg)<br />
-</td>
-<td style="vertical-align: top">[![](image-06.jpg)](image-06.jpg)<br />
-</td>
-</tr>
-</tbody>
-</table>
+![Autour de la table à Quiberon](image-05.jpg)
+![Les convives savourant la brouillade](image-06.jpg)

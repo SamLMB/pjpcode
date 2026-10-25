@@ -3,26 +3,28 @@ layout: recipe
 number: 229
 title: Glace au café façon ch'timi très simple
 ---
+
 ## Ingrédients
 
-*pour 6 personnes*
-- 250 g de crème fraîche épaisse
-- 150 g de lait (écrèmé, demi-écrèmé ou entier, peu importe) aussi froid que possible (sorti du frigo au dernier moment)
-- 150 g de sucre
-- une cuiller à soupe d'essence de vanille (ou un sachet de sucre vanillé)
-- 2 œufs frais et froids (sortis du frigo au dernier moment)
-- 3 cuillers à soupe bombées de café en granulés type Nescafé
+*Pour 6 personnes*
 
-- une cuiller à café de chicorée liquide type Leroux
+- 250 g de crème fraîche épaisse
+- 150 g de lait très froid (sorti du réfrigérateur au dernier moment)
+- 150 g de sucre en poudre
+- 3 cuillères à soupe bombées de café soluble en granulés (type Nescafé)
+- 1 cuillère à café de chicorée liquide (type Leroux)
+- 1 cuillère à soupe d'extrait de vanille (ou 1 sachet de sucre vanillé)
+- 2 œufs extra-frais bien froids
 
 ## Préparation
 
-**- mélanger le café à deux cuillers à soupe de lait et laisser dissoudre**
-** - dans un mixer, mettre lait, sucre, vanille, oeufs et crème et mixer
-- quand le café est dissout, le joindre au contenu du mixer ainsi que la chicorée et remixer le tout
-- passer le tout à la sorbetière
+1. Dans une tasse, délayer le café soluble dans 2 cuillères à soupe de lait froid jusqu'à dissolution complète.
+2. Dans le bol du mixeur, réunir le lait restant, le sucre, la vanille, les œufs entiers et la crème fraîche, puis mixer vivement.
+3. Ajouter le café dissous ainsi que la cuillère de chicorée liquide et mixer à nouveau pour bien lier l'ensemble.
+4. Verser la préparation bien froide dans la sorbetière et laisser turbiner jusqu'à prise crémeuse.
+5. Transvaser dans un bac et placer au congélateur jusqu'à la dégustation.
 
 ## Observations
 
-1 - Recette préparée à Quiberon en septembre 2009 pour Andrée et Michel Pioger et nous ; excellent dessert estival ! La meilleure de toutes les glaces au café que j'aie faites
-2 - On peut faire cette glace sans chicorée, mais c'est dommage car la chicorée est précisément ce qui donne ce goût ch'timi inoubliable (en fermant les yeux, on se croirait sur la Grand-Place de Lille...).
+- **Contexte :** Recette préparée à Quiberon en septembre 2009 pour Andrée et Michel Pioger et nous deux ; la meilleure de toutes les glaces au café réalisées.
+- **Touche ch'ti :** L'ajout de chicorée liquide est précisément ce qui donne cette signature aromatique typique du Nord, rappelant les terrasses de la Grand-Place de Lille.

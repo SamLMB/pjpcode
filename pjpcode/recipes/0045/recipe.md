@@ -4,10 +4,11 @@ number: 45
 title: "Petite salade frisée aux lardons, sauce à l'aïl d'Arleux avec son crottin chaud sur pain grillé"
 ---
 
-[![Salade frisée et crottin chaud sur toast](image-01.jpg)](image-01.jpg)
-[![Salade frisée au crottin chaud — recette manuscrite](image-02.jpg)](image-02.jpg)
+![Salade frisée et crottin chaud sur toast](image-01.jpg)
 
 *Pour 4 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-02.jpg)*
 
 ## Ingrédients
 
@@ -28,4 +29,7 @@ title: "Petite salade frisée aux lardons, sauce à l'aïl d'Arleux avec son cro
 4. **Gratinage :** Passer les toasts sous le gril bien chaud du four pendant 3 à 5 minutes, jusqu'à ce que le chèvre soit fondant et bien doré en surface.
 5. **Assemblage et dressage :** Laver et essorer la frisée. La verser dans le saladier et bien remuer avec la sauce à l'ail et les lardons encore tièdes. Répartir la salade sur 4 assiettes individuelles et disposer harmonieusement 4 toasts de crottin chaud par assiette. Servir sans attendre.
 
-> **Observations :** Réalisé le 10/06/2006 à Quiberon pour nous deux, accompagné d'un Menetou-Salon blanc bien frais : divin dîner ! À défaut de crottins entiers, une bonne bûche de chèvre découpée en rondelles épaisses convient parfaitement.
+## Observations
+
+- **Contexte :** Réalisé le 10 juin 2006 à Quiberon pour nous deux, accompagné d'un Menetou-Salon blanc bien frais : divin dîner !
+- **Variante :** À défaut de crottins entiers, une bonne bûche de chèvre découpée en rondelles épaisses convient parfaitement.

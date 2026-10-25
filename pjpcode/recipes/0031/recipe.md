@@ -4,7 +4,9 @@ number: 31
 title: "Chicons braisés aux oignons de Mamy de Quiberon"
 ---
 
-[![Chicons braisés aux oignons — recette manuscrite](image-01.jpg)](image-01.jpg)
+*Pour 4 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -24,4 +26,6 @@ title: "Chicons braisés aux oignons de Mamy de Quiberon"
 4. **Cuisson à l'autocuiseur :** Fermer la cocotte-minute. Dès que la soupape tourne ou chuchote, baisser le feu et laisser mijoter pendant 20 minutes.
 5. **Service :** Servir bien fondant et chaud avec son jus compoté d'oignons.
 
-> **Observations :** Testé à Quiberon le 04/05/2006 (F. et J.P.) : simple, savoureux et diététique. Vive les chicons !
+## Observations
+
+- **Contexte :** Testé à Quiberon le 4 mai 2006 (F. et J.P.) : simple, savoureux et diététique. Vive les chicons !

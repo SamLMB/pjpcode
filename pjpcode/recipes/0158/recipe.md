@@ -1,39 +1,37 @@
 ---
 layout: recipe
 number: 158
-title: Poireaux sauce poulette
+title: "Poireaux sauce poulette"
 ---
 
-Recette n°158 : Poireaux sauce poulette
+*Pour 4 personnes*
 
 ## Ingrédients
 
-Pour 4 personnes
-- 1,5 kg de poireaux (si c'est un plat principal, pour le dîner par exemple)
-- 1 gros oignon
-- 50 g de beurre
+- 1,5 kg de poireaux frais
+- 1 gros oignon jaune
+- 50 g de beurre demi-sel
 - 40 g de farine
-- 1/3 de litre d'eau
-- 1 dl de vin blanc sec
-- 1 oeuf
-- 1 petit citron (jaune de préférence)
-- 1 cuiller à soupe d'huile
-- sel, poivre, herbes de Provence ou du maquis corse
+- 35 cl d'eau (1/3 de litre)
+- 10 cl de vin blanc sec (1 dl)
+- 1 gros œuf frais
+- 1 petit citron jaune pressé
+- 1 c. à soupe d'huile d'olive
+- Sel, poivre du moulin et herbes de Provence
 
 ## Préparation
 
-- nettoyer les poireaux (enlever les feuilles abîmées et les racines, couper longitunalement en quatre et tranversalement en deux ou trois, bien laver les brins)
-- les mettre à cuire dans l'eau bouillante salée une demi-heure
-- les égoutter le plus possible (le temps de faire le reste), car moins il restera d'eau, meilleur ce sera
-- peler et hacher l'oignon, le faire blondir dans la cuiller d'huile et réserver
-- préchauffer le four à 180C
-- presser le citron et réserver le jus
-- faire une sauce blanche avec le tiers de litre d'eau, la farine et le beurre (faire fondre le beurre ; tout en continuant à chauffer, mélanger la farine 3 mn puis (peu à peu) l'eau sans cesser de remuer 10 autres minutes)
-- passer au mixer la sauce blanche avec le vin blanc, l'oignon réservé, le jus du citron et l'oeuf ; saler et poivrer selon goût
-- mélanger les poireaux cuits et la sauce, mettre dans un plat à grati, saupoudrer d'herbes et enfourner
-- laisser cuire 15 à 20 mn à 180C
-- servir aussitôt
+1. Parer les poireaux en éliminant les feuilles abîmées et les radicelles. Les fendre en quatre dans la longueur, les couper en tronçons et les laver soigneusement à grande eau.
+2. Faire cuire les poireaux dans une grande casserole d'eau bouillante salée pendant 30 minutes jusqu'à ce qu'ils soient tendres.
+3. Les égoutter longuement dans une passoire en pressant légèrement pour éliminer le maximum d'eau de cuisson.
+4. Éplucher et émincer l'oignon, puis le faire blondir dans une poêle avec la cuillère d'huile et réserver.
+5. Préchauffer le four à 180°C (350°F / th. 6).
+6. Préparer une sauce blanche liée : faire fondre le beurre dans une casserole, incorporer la farine en remuant au fouet pendant 3 minutes, puis verser l'eau progressivement sans cesser de fouetter pendant 10 minutes jusqu'à épaississement.
+7. Dans un bol mixeur, émulsionner la sauce blanche avec le vin blanc, l'oignon fondu, le jus de citron pressé et l'œuf entier. Saler et poivrer selon le goût.
+8. Mélanger délicatement les poireaux égouttés avec cette sauce poulette onctueuse et verser dans un plat à gratin.
+9. Saupoudrer la surface d'un voile d'herbes de Provence.
+10. Enfourner et faire gratiner pendant 15 à 20 minutes à 180°C (350°F). Servir bien chaud.
 
 ## Observations
 
-- recette exécutée le 19 novembre 2007 à Rennes pour nous deux ; excellent plat de régime (si on oublie le beurre, la farine, l'huile, l'oeuf et le vin blanc).
+- **Contexte :** Recette exécutée le 19 novembre 2007 à Rennes pour nous deux ; un plat de légumes fondant, crémeux et particulièrement savoureux !

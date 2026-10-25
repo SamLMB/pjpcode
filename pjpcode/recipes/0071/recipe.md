@@ -1,36 +1,37 @@
 ---
 layout: recipe
 number: 71
-title: Potage à la fondue d'endives du Briellec (avec photo)
+title: "Potage à la fondue d'endives du Briellec"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+![Potage à la fondue d'endives du Briellec](image-01.jpg)
 
-## Ingrédients (pour 4 personnes)
+*Pour 4 personnes*
 
-- 600 g d'endives
+## Ingrédients
+
+- 600 g d'endives bien fraîches
 - 400 g de pommes de terre
-- 1 cuiller à soupe d'huile, ou de margarine, ou de beurre
-- 2 cuillers à soupe de jus de citron
-- 75 cl de bouillon de poule
-- 100 g de fromage blanc à 0%
-- 4 brins de cerfeuil (ou de ciboulette, ou de persil)
-- sel, poivre, selon goût
+- 1 c. à soupe d'huile d'olive ou de beurre
+- 2 c. à soupe de jus de citron
+- 75 cl de bouillon de volaille chaud
+- 100 g de fromage blanc à 0% (à température ambiante)
+- 4 brins de cerfeuil, ciboulette ou persil plat
+- Sel fin et poivre du moulin
 
 ## Préparation
 
-- faire chauffer le bouillon
-- sortir le fromage blanc du frigo afin qu'il ne soit pas froid quand on l'utilisera
-- émincer les endives très finement (cf. photo ci-dessus), éplucher et couper en petits cubes les pommes de terre
-- mettre l'huile à chauffer dans une sauteuse, y mettre les endives, le bouillon chaud, les pommes de terre, le jus de citron
-- poivrer (normalement le bouillon évite de saler) et porter à ébullition
-- couvrir et laisser cuire à feu moyen 30 mn
-- quand c'est cuit, en passer la moitié au mixer, et remélanger le tout
-- lier avec le fromage blanc
-- refaire chauffer si nécessaire, mais surtout sans faire bouillir (à cause du fromage blanc)
-- servir dans des petites soupières avec les brins de cerfeuil en décoration
+1. Porter le bouillon de volaille à frémissement. Sortir le fromage blanc du réfrigérateur à l'avance pour qu'il soit à température ambiante.
+2. Parer les endives, ôter le cône amer de la base et les émincer très finement. Peler et tailler les pommes de terre en petits dés.
+3. Dans une sauteuse, chauffer l'huile d'olive et faire suer les endives émincées pendant 3 minutes avec le jus de citron.
+4. Verser le bouillon chaud et les dés de pommes de terre. Poivrer (le bouillon salant généralement suffisamment).
+5. Porter à ébullition, couvrir et laisser cuire à feu moyen pendant 30 minutes jusqu'à tendreté des légumes.
+6. Prélever la moitié du potage, la mixer très finement au mixeur plongeant, puis la reverser dans la sauteuse pour combiner une texture veloutée et des morceaux fondants.
+7. Incorporer le fromage blanc hors du feu en fouettant vivement pour lier le potage.
+8. Réchauffer quelques instants sur feu très doux sans faire bouillir (pour préserver le fromage blanc).
+9. Verser dans de petites soupières individuelles, parsemer de pluches de cerfeuil frais et servir aussitôt.
 
 ## Observations
 
-1 - recette exécutée le 6 septembre 2006 à Quiberon pour 2 convives (F et JP)
-2- bien appréciée ; son côté "régime" (25 kcal/personne) passe inaperçu
+- **Contexte :** Recette exécutée le 6 septembre 2006 à Quiberon pour 2 convives (F. et JP).
+- **Légèreté :** Très appréciée ; sa composition diététique et saine (à peine 25 kcal par personne) passe totalement inaperçue grâce à son onctuosité.

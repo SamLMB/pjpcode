@@ -1,85 +1,57 @@
 ---
 layout: recipe
 number: 137
-title: Waterzoi breton
+title: "Waterzooi breton"
 ---
 
-## Ingrédients (pour 4 personnes)
+*Pour 4 personnes*
 
-- 4 petits morceaux de poulet (par exemple 4 cuisses sans haut) d’Elven
-- 500 g de poissons (par exemple 1/3 lieue, 1/3 cabillaud, 1/3 flétan) de chez Poulelaouen
+## Ingrédients
+
+- 4 morceaux de poulet fermier (par exemple 4 cuisses ou pilons)
+- 500 g de filets de poissons variés (1/3 lieu, 1/3 cabillaud, 1/3 flétan)
 - 500 g de moules de bouchot du Pô (Plouharnel)
-- une cuiller à soupe de beurre salé
-- 1 gros oignon jaune de la ferme de Kernavest
-
-- 3 clous de girofle
-
-- 1 échalote de la ferme de Kernavest
-- 2 poireaux de la ferme de Kernavest
-- 2 carottes de la ferme de Kernavest
-- 1 branches de céleri de la ferme de Kernavest
-- 1 bouquet garni (thym et laurier de notre jardin de Kermorvan)
-
-- 1 petit bouquet de persil de notre jardin de Kermorvan
-
-- 2 petits œufs (ou un gros) de la ferme de Kernavest
+- 4 grosses pommes de terre à chair ferme
+- 2 carottes
+- 2 blancs de poireaux
+- 1 branche de céleri
+- 1 gros oignon jaune piqué de 3 clous de girofle
+- 1 échalote
+- 1,5 litre de bon bouillon de volaille ou de légumes
+- 20 cl de Muscadet de Sèvre-et-Maine sur lie
 - 15 cl de crème fraîche épaisse
-- 20 cl de Muscadet sur lie de Sèvres-et-Maine
-
-- 1,5 litre de bouillon de chou farci (à défaut, bouillon de viande ou de volaille)
-
-- 4 grosses pommes de terre de la ferme de Kernavest
-
-- sel de Guérande, poivre, une pincée de 4 épices
+- 2 petits œufs (ou 1 gros)
+- 1 c. à soupe de beurre demi-sel
+- 1 bouquet garni (thym et laurier du jardin)
+- 1 petit bouquet de persil plat
+- 1 pincée de quatre-épices
+- Sel de Guérande et poivre du moulin
 
 ## Préparation
 
-- mettre le four à préchauffer à 100C, y placer les assiettes
-
-- faire cuire les morceaux de poulet à la sauteuse et les réserver au chaud (four à 100C)
-
-- éplucher les pommes de terre, les couper en 4, les mettre à cuire dans le bouillon
-
-- nettoyer les carottes et les débiter en rondelles assez fines (moins de 5 mm)
-
-- nettoyer et ciseler le céleri en tronçons de 1 cm environ
-
-- nettoyer les poireaux, les fendant en 4 longitudinalement et les ciseler comme le céleri
-
-- éplucher l’échalote et la débiter en rondelles
-
-- éplucher l’oignon et le piquer de 3 clous de girofle
-
-- dans la sauteuse, mettre à revenir les légumes quelques minutes en les remuant sans cesse à la cuiller de bois, mouiller avec le vin blanc en remuant encore
-
-- les pommes de terre étant cuites, les réserver dans un peu du bouillon (four à 100C)
-
-- faire réduire le contenu de la sauteuse de moitié, puis mouiller avec le reste du bouillon
-
-- y plonger le bouquet garni ; couvrir, et laisser bouillonner un quart d’heure
-
-- brosser et ébarber les moules ; les mettre dans une grande casserole couverte à feu vif et secouer quelques minutes pour qu’elles s’ouvrent ; en filtrer et réserver le jus ; ôter les moules des coquilles et réserver les chairs
-
-- hors du feu, disposer les filets des poissons sur les légumes ; les arroser du jus des moules, saler, poivrer, saupoudrer des quatre épices
-
-- remettre sur le feu, couvrir, et laisser mijoter dix minutes
-
-- enlever les filets de poissons, filtrer le jus de cuisson, et le faire réduire d'un tiers
-
-- fouetter les œufs et fouetter la crème séparément ; mélanger des deux appareils dans une jatte assez grande et fouetter encore ; ajouter une louche de jus de cuisson et transvaser le tout dans la sauteuse après y avoir mis les pommes de terre ainsi que le poulet
-
-- ajouter les moules et réchauffer à feu doux en remuant
-
-- verser sur les poissons
-
-- mettre dans les assiettes chaudes et servir avec des tranches de pain et du beurre salé
+1. Préchauffer le four à 100°C (212°F) et y déposer les assiettes de service pour les tenir chaudes.
+2. Faire dorer les morceaux de poulet dans une sauteuse avec une noix de beurre, puis les réserver au chaud au four à 100°C (212°F).
+3. Éplucher les pommes de terre, les couper en quartiers et les faire cuire dans le bouillon chaud. Dès qu'elles sont tendres, les retirer et les réserver au chaud avec une louche de bouillon.
+4. Éplucher les carottes et les tailler en rondelles fines (moins de 5 mm).
+5. Nettoyer et émincer la branche de céleri et les poireaux en tronçons réguliers.
+6. Éplucher et émincer l'échalote en fines rondelles.
+7. Dans la sauteuse, faire revenir les légumes quelques minutes dans le beurre en remuant continuellement à la cuillère en bois.
+8. Mouiller avec le vin blanc sec et laisser réduire de moitié à feu vif.
+9. Verser le reste du bouillon chaud et plonger le bouquet garni ainsi que l'oignon piqué de clous de girofle. Couvrir et laisser bouillonner pendant 15 minutes.
+10. Pendant ce temps, ébarber et brosser les moules. Les faire ouvrir à feu vif dans une grande casserole couverte en secouant régulièrement.
+11. Filtrer soigneusement le jus des moules au chinois fin et réserver les chairs décoquillées.
+12. Hors du feu, déposer les filets de poisson sur le lit de légumes dans la sauteuse. Arroser du jus des moules filtré, saler, poivrer et ajouter la pincée de quatre-épices.
+13. Remettre sur feu doux, couvrir et laisser pocher délicatement pendant 10 minutes.
+14. Retirer délicatement les filets de poisson cuits et les réserver au chaud avec le poulet.
+15. Filtrer le bouillon de cuisson des légumes et le faire réduire d'un tiers à feu vif.
+16. Dans une grande jatte, fouetter les œufs entiers avec la crème fraîche épaisse. Y incorporer une louche de bouillon réduit chaud tout en fouettant pour tempérer la liaison.
+17. Reverser cette liaison crémée dans la sauteuse sur feu très doux avec les légumes, les pommes de terre réservées et les morceaux de poulet.
+18. Ajouter les moules décoquillées et réchauffer doucement l'ensemble sans faire bouillir en remuant à la spatule.
+19. Napper généreusement les filets de poisson avec ce velouté aux légumes, au poulet et aux moules.
+20. Dresser dans les assiettes creuses bien chaudes et servir immédiatement, accompagné de tranches de pain de campagne et de beurre salé.
 
 ## Observations
 
-Le waterzoi est à la cuisine belge ce qu’est le couscous à la cuisine méditerranéenne ou le kig ha farz à la cuisine finistérienne ; qualifier le waterzoi de « breton » n’est pas une usurpation, mais un hommage à nos amis flamands qui le font infiniment mieux que nous ; de breton, notre waterzoi a les ingrédients.
-
-A noter toutefois que je n’ai trouvé nulle part de recette de waterzoi comprenant à la fois du poulet et des fruits de mer
-
-Recette préparée le dimanche 12 août 2007 à Quiberon avec Michel Pioger pour Andrée, Michel et nous deux ; très appréciée et bien digérée.
-
-La préparation est relativement longue, mais cela vaut la peine
+- **Hommage culinaire :** Le waterzooi est à la cuisine belge ce que le kig ha farz est à la cuisine finistérienne. Ce waterzooi est qualifié de « breton » en hommage à nos amis flamands, en utilisant les remarquables produits de notre terroir quiberonnais.
+- **Alliance terre et mer :** Une recette originale et généreuse associant le poulet fermier, les poissons blancs nobles et les moules de bouchot.
+- **Contexte :** Recette préparée le dimanche 12 août 2007 à Quiberon avec Michel Pioger pour Andrée, Michel et nous deux ; une préparation longue mais qui en vaut pleinement la peine !

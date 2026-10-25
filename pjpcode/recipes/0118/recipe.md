@@ -4,35 +4,35 @@ number: 118
 title: "Lentil vegetable soup as prepared by Nancy Mathews in San Diego"
 ---
 
-[![Lentil vegetable soup — manuscrit de Nancy Mathews](image-01.jpg)](image-01.jpg)
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
-## Ingrédients / Ingredients
+## Ingrédients
 
-- 500 g (1 pound) de lentilles vertes du Puy (*French green lentils or regular*)
-- 3 gros oignons jaunes hachés (environ 4 tasses) (*yellow onions*)
-- 2 blancs de poireaux émincés (environ 4 tasses) (*leeks, white part only*)
-- 3 gousses d'ail émincées (1 c. à soupe) (*minced garlic*)
-- 6 cl (1/4 cup) d'huile d'olive de qualité
-- 4 à 6 carottes coupées en dés (environ 3 tasses) (*medium-diced carrots*)
-- 3 branches de céleri coupées en dés (environ 3 tasses) (*medium-diced celery*)
-- 3 litres (3 quarts) de bouillon de volaille (*chicken stock*)
-- 1/4 cup (environ 60 g) de concentré de tomates (*tomato paste*)
-- 2 c. à soupe de vin rouge ou vinaigre de vin rouge (*red wine or red wine vinegar*)
+- 500 g de lentilles vertes du Puy (ou lentilles blondes)
+- 3 gros oignons jaunes hachés (environ 4 tasses)
+- 2 blancs de poireaux émincés (environ 4 tasses)
+- 3 gousses d'ail émincées (1 c. à soupe)
+- 4 à 6 carottes coupées en dés réguliers (environ 3 tasses)
+- 3 branches de céleri coupées en dés (environ 3 tasses)
+- 3 litres de bouillon de volaille chaud
+- 6 cl d'huile d'olive de qualité (1/4 cup)
+- 60 g de concentré de tomates (1/4 cup)
+- 2 c. à soupe de vin rouge (ou vinaigre de vin rouge)
 - 1 c. à soupe de thym frais haché
 - 1 c. à café de cumin moulu
 - 1 c. à soupe de sel fin, 1 ½ c. à café de poivre noir moulu
 - Parmesan fraîchement râpé pour le service
 
-## Préparation / Preparation
+## Préparation
 
-1. **Trempage des lentilles :** Dans un grand saladier, couvrir les lentilles d'eau bouillante et laisser gonfler pendant 15 minutes. Égoutter.
-2. **Sueur des légumes :** Dans un grand faitout sur feu moyen, faire suer les oignons, les poireaux et l'ail avec l'huile d'olive, le sel, le poivre, le thym et le cumin pendant 20 minutes, jusqu'à ce que les légumes soient très tendres et translucides.
+1. **Trempage des lentilles :** Dans un grand saladier, couvrir les lentilles d'eau bouillante et laisser gonfler pendant 15 minutes. Égoutter soigneusement.
+2. **Sueur des légumes :** Dans un grand faitout à feu moyen, faire suer les oignons, les poireaux et l'ail dans l'huile d'olive avec le sel, le poivre, le thym et le cumin pendant 20 minutes, jusqu'à ce que les légumes soient très tendres et translucides.
 3. **Carottes et céleri :** Ajouter les carottes et le céleri en dés, puis poursuivre la cuisson pendant 10 minutes supplémentaires.
-4. **Mijotage :** Verser le bouillon de volaille, le concentré de tomates et les lentilles égouttées. Couvrir et porter à ébullition. Baisser le feu et laisser mijoter à découvert pendant environ 1 heure jusqu'à ce que les lentilles soient tendres et fondantes.
-5. **Assaisonnement et finition :** Rectifier l'assaisonnement en sel et poivre. Incorporer le vin rouge (ou vinaigre).
+4. **Mijotage :** Verser le bouillon de volaille chaud, le concentré de tomates et les lentilles égouttées. Porter à ébullition, puis baisser à feu doux et laisser mijoter à découvert pendant environ 1 heure jusqu'à ce que les lentilles soient tendres et fondantes.
+5. **Finition :** Rectifier l'assaisonnement en sel et poivre, puis incorporer le vin rouge (ou vinaigre de vin rouge).
 6. **Service :** Servir fumant dans des bols chauds, arrosé d'un filet d'huile d'olive et saupoudré de parmesan fraîchement râpé.
 
 ## Observations
 
-- Recette rapportée de San José en mars 2007 et réalisée le 14 mars à Rennes pour nous deux : excellente !
-- À noter qu'il est préférable de commencer par préparer le bouillon de poule, puis tous les légumes avant de les faire revenir.
+- **Contexte :** Recette rapportée de Californie en mars 2007 et cuisinée le 14 mars à Rennes pour nous deux : une merveille de soupe complète et parfumée !
+- **Organisation :** Il est recommandé de préparer d'abord le bouillon de volaille et de tailler tous les légumes en brunoise avant d'attaquer la cuisson.

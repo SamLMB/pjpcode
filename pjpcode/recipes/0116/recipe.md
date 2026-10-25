@@ -1,37 +1,38 @@
 ---
 layout: recipe
 number: 116
-title: Cheviche de Don Yohanito Béclino como en el Machu Pichu
+title: "Cheviche de Don Yohanito Béclino como en el Machu Pichu"
 ---
 
 [![Yohan Béclin en cuisine](image-01.jpg)](image-01.jpg)
 
-[![Cheviche de Don Yohanito Béclino como en el Machu Pichu — recette manuscrite](image-02.jpg)](image-02.jpg)
+📄 *[Consulter la recette manuscrite originale](image-02.jpg)*
 
 ## Ingrédients
 
-- 800 g de dos de cabillaud
-- jus et zeste de 4 gros citrons (ou de 8 citrons verts)
-- même quantité d'huile d'olive
+- 800 g de dos de cabillaud très frais
+- 4 gros citrons jaunes (ou 8 citrons verts)
+- Même volume d'huile d'olive que de jus de citron
 - 4 gros oignons jaunes
 - 2 grosses échalotes
-- une gousse d'ail
-- un trait de tabasco
-- un poivron rouge non piquant
-- deux tomates
-- des feuilles de coriandre (si on aime ça)
-- 2 cuillers à café de 5 baies
-- sel et poivre selon goût
+- 1 gousse d'ail
+- 1 poivron rouge doux
+- 2 tomates fraîches bien mûres
+- 2 c. à café de mélange cinq baies
+- 1 trait de Tabasco
+- Quelques brins de coriandre fraîche
+- Sel et poivre selon le goût
 
 ## Préparation
 
-- presser et zester les citrons
-- mettre le sel, le poivre, l'ail écrasé, le tabasco, l'huile, et passer au mixer pour broyer le zeste
-- débiter le cabillaud en petites lamelles et le mettre dans la marinade en remuant bien pour que le poisson s'imprègne
-- débiter oignons, tomates et échalotes en tranches fines et le poivron en lanières, et mettre dans un saladier avec marinade et poisson, bien remuer avec 5 baies et coriandre
-- finir en mettant dans le saladier le poisson au fond, le reste au-dessus et tout couvrir de marinade
-- couvrir avec un film transparent et mettre au frigo au moins 24 heures
+1. Presser les citrons et prélever finement leurs zestes.
+2. Dans un bol, réunir le jus et le zeste des citrons, l'huile d'olive, l'ail écrasé, le sel, le poivre et le trait de Tabasco, puis passer au mixeur plongeant pour bien broyer les zestes et émulsionner la marinade.
+3. Découper le cabillaud en petits dés ou fines lamelles, le déposer dans un grand saladier et bien remuer pour l'imprégner de marinade.
+4. Émincer finement les oignons, les échalotes et les tomates en tranches fines, et tailler le poivron rouge en fines lanières.
+5. Ajouter les légumes au poisson avec les cinq baies et la coriandre ciselée, puis mélanger intimement.
+6. Tasser délicatement dans le saladier en veillant à ce que le poisson et les légumes soient entièrement immergés sous la marinade.
+7. Couvrir hermétiquement d'un film alimentaire et réserver au réfrigérateur pendant au moins 24 heures afin que l'acidité cuise parfaitement la chair du poisson. Servir très frais.
 
 ## Observations
 
-- Préparation exécutée fin février 2007 à Quiberon par Yohan pour la famille Béclin qui a beaucoup apprécié.
+- **Contexte :** Recette exécutée fin février 2007 à Quiberon par Don Yohanito pour la famille Béclin, qui a été unanime sur la fraîcheur et les parfums de ce ceviche d'anthologie !

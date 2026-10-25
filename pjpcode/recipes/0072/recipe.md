@@ -1,48 +1,40 @@
 ---
 layout: recipe
 number: 72
-title: Œufs en meurette comme chez Mamy d'Armes (avec photo)
+title: "Œufs en meurette comme chez Mamy d'Armes"
 ---
 
-Recette n° 72 :
+![Œufs en meurette comme chez Mamy d'Armes](image-01.jpg)
 
-Oeufs en meurette comme chez Mamy d'Armes
+*Pour 4 personnes*
 
-[![](image-01.jpg)](image-01.jpg)
+## Ingrédients
 
-## Ingrédients (pour 4 personnes)
-
-- 100 g de beurre ou de margarine
-- 8 Oeufs  fermier extra-frais (cf. observation n°1 ci-dessous)
-- 120 g de poitrine demi-sel
-- 1 cuillère à soupe de ciboulette hachée
-- 1 cuillère à soupe d' huile
-- 4 carotte
-- 2  échalote
-- une bouteille de vin rouge très tannique
-- 4 oignons
-- Sel
-- 20 cl de vinaigre d'alcool ou de vin
-- sel et poivre, selon goût
+- 8 œufs fermiers extra-frais
+- 120 g de poitrine demi-sel (ou lardons)
+- 100 g de beurre
+- 1 c. à soupe d'huile
+- 4 carottes
+- 4 oignons jaunes
+- 2 échalotes
+- 1 bouteille de vin rouge tannique et charpenté
+- 20 cl de vinaigre d'alcool blanc
+- 1 c. à soupe de ciboulette fraîche ciselée
+- Sel et poivre du moulin
 
 ## Préparation
 
-- mettre le four à chauffer à 100C, y placer les assiettes
-Préparer la compote d'oignons :  Eplucher et émincer finement les oignons. Faire cuire dans le beurre pendant 20 à 25 min environ, jusqu'à ce qu'ils deviennent fondants.  Réserver au four couvert d'un papier d'aluminium afin que cela ne se désèche pas..
-Confectionner la sauce au vin rouge : Verser le vin dans une casserole de taille moyenne et portez-la à ébullition. Dès qu'il commence à bouillir, retirer la casserole du feu et  flamber le vin pour faire brûler l'alcool. Remettre la casserole sur le feu et laissez le vin réduire de moitié
-- Hacher les échalotes, ajouter à la réduction de vin et laisser encore réduire. La réduction doit être sirupeuse.
-- Peler et laver les carottes. Faire cuire à l'eau salée pendant 30 min. Egoutter et passer au mixeur pour les réduire en purée bien lisse.
-- Incorporer la réduction de vin à la purée. mélanger intimement et ajouter 50g de beurre en fouettant. Goûter et rectifier éventuellement l'assaisonnement
-Faire cuire les lardons
-- Couper la poitrine demi-sel en lardons. Faire sauter avec l'huile pendant 5 min. Puis, poser sur du papier absorbant pour les dégraisser.
-Faire cuire les oeufs pochés
-- Mettre à chauffer une casserole remplie de 2 litres d'eau non salée ; ajouter le vinaigre et fair bouillir. Casser successivement chaque oeuf dans une tasse..
-- Verser délicatement les oeufs, un par un au centre de la casserole d'eau vinaigrée, réduire aussitôt le feu et maintenir le liquide frémissant. fNe cuire les oeufs que 2 à la fois, afin qu'ils ne se mélangent pas. Laisser cuire environ 3 min, en veillant à bien vérifier la cuisson : pour cela, prélever un oeuf avec l'écumoire et appuyer délicatement sur l'oeuf avec le doigt pour constater que le blanc est coagulé et que le jaune reste bien crémeux.Poser les oeufs sur du papier absorbant ou sur un torchon, pour les égoutter.
-Dressez sur des assiettes chaudes
-- Répartir la purée d'oignons au fond de chaque assiette chaude, déposer 2 oeufs et quelques lardons, couvrir avec la sauce au vin rouge. Parsemer de ciboulette ciselée.
+1. **Compote d'oignons :** Éplucher et émincer finement les 4 oignons. Dans une casserole, les faire fondre doucement au beurre pendant 20 à 25 minutes jusqu'à ce qu'ils soient bien compotés et fondants sans coloration. Réserver au chaud au four à basse température (100°C / 212°F) sous une feuille d'aluminium.
+2. **Réduction de vin rouge :** Verser la bouteille de vin rouge dans une casserole et porter à ébullition. Dès les premiers bouillons, retirer du feu et flamber pour brûler l'alcool. Remettre sur feu doux et faire réduire de moitié.
+3. **Miroir au vin rouge :** Hacher finement les 2 échalotes, les ajouter au vin rouge réduit et poursuivre la réduction jusqu'à consistance sirupeuse.
+4. **Purée de carottes :** Peler et couper les carottes en rondelles, puis les cuire à l'eau bouillante salée pendant 30 minutes. Égoutter et mixer en purée très fine.
+5. **Liaison de la sauce :** Incorporer la réduction sirupeuse de vin rouge dans la purée de carottes. Fouetter vigoureusement sur feu doux en incorporant 50 g de beurre bien froid en dés pour monter la sauce. Goûter et rectifier l'assaisonnement.
+6. **Lardons dorés :** Couper la poitrine en lardons réguliers. Les faire dorer à sec à la poêle pendant 5 minutes, puis les égoutter sur du papier absorbant.
+7. **Pochage des œufs :** Dans une grande casserole, faire frémir 2 litres d'eau non salée avec les 20 cl de vinaigre blanc. Casser chaque œuf dans une tasse. Créer un tourbillon dans l'eau frémissante et y faire glisser les œufs 2 par 2. Pocher pendant 3 minutes chrono à frémissement doux. Sortir délicatement les œufs à l'écumoire et les égoutter sur un linge propre.
+8. **Dressage et service :** Dans chaque assiette creuse chaude, étaler un lit de compote d'oignons fondants, déposer 2 œufs pochés encore fumants, entourer de lardons croustillants et napper de sauce au vin rouge. Parsemer de ciboulette ciselée et servir immédiatement.
 
 ## Observations
 
-1 - plus les oeufs sont frais, plus leur jaune est épais, et mieux le pochage s'effectue.
-2- recette exécutée le 9 septembre 2006 à Quiberon pour Mamy et moi, puis refaites le 17 septembre pour 4 (Michel et Andrée Pioger en polus).
-3- le vin des oeufs était un Côtes du Marmandais, excellent ; le vin d'accompagnement un Irancy 2002 de chez Annick Navarre tout aussi excellent
+- **Fraîcheur des œufs :** Plus les œufs sont extra-frais, plus le blanc est serré autour du jaune et mieux le pochage s'effectue sans s'effilocher.
+- **Contexte :** Recette exécutée le 9 septembre 2006 à Quiberon pour Mamy et moi, puis refaite le 17 septembre pour 4 convives avec Michel et Andrée Pioger.
+- **Accords vins :** Le vin de confection était un Côtes-du-Marmandais très réussi ; le vin servi à table pour le repas était un superbe Irancy 2002 de chez Annick Navarre.

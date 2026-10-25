@@ -4,9 +4,9 @@ number: 54
 title: "Gelato au chocolat"
 ---
 
-[![Gelato au chocolat — recette manuscrite](image-01.jpg)](image-01.jpg)
-
 *Pour 6 personnes*
+
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -25,4 +25,6 @@ title: "Gelato au chocolat"
 5. **Lissage et crème :** Retirer du feu et fouetter énergiquement pour lisser. Laisser tiédir, puis incorporer les 375 ml de crème fraîche en fouettant pour obtenir un appareil crémeux et brillant.
 6. **Réfrigération et turbinage :** Laisser refroidir complètement à température ambiante puis placer plusieurs heures au réfrigérateur. Turbiner ensuite dans la sorbetière pendant 25 à 30 minutes.
 
-> **Observations :** Réalisé à de multiples reprises : au Costa Rica, à Marcy le 16/01/2006, et à Quiberon le 20/06/2006. Un gelato italien dense, intense et très chocolaté, plébiscité par les véritables amateurs de cacao noir.
+## Observations
+
+- **Contexte :** Réalisé à de multiples reprises : au Costa Rica, à Marcy le 16 janvier 2006, et à Quiberon le 20 juin 2006. Un gelato italien dense, intense et très chocolaté, plébiscité par les véritables amateurs de cacao noir.

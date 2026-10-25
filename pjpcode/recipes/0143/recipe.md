@@ -24,4 +24,6 @@ docx: recipe.docx
 4. **Turbinage :** Verser la préparation dans la sorbetière (une heure environ suffit pour obtenir la consistance idéale).
 5. **Variante sans sorbetière :** À défaut de sorbetière, verser dans un bac au congélateur et mélanger énergiquement à la fourchette toutes les 30 minutes jusqu'à prise complète.
 
-> **Observations :** Recette exécutée pour la première fois le 30 août 2006 à Quiberon ; puis réalisée de multiples fois à Rennes, à Marcq, à Escazú, à Ciudad Colón et à Bettendorf : un succès constant !
+## Observations
+
+- **Contexte :** Recette exécutée pour la première fois le 30 août 2006 à Quiberon ; puis réalisée de multiples fois à Rennes, à Marcq, à Escazú, à Ciudad Colón et à Bettendorf : un succès constant !

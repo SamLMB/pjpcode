@@ -4,9 +4,9 @@ number: 33
 title: "Omelette aux fines herbes de Mamy de Rennes"
 ---
 
-[![Omelette aux fines herbes — recette manuscrite](image-01.jpg)](image-01.jpg)
-
 *Pour 2 personnes (pour 4 convives, cuire en deux tournées successives ou utiliser une poêle géante)*
+
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -24,4 +24,6 @@ title: "Omelette aux fines herbes de Mamy de Rennes"
 5. **Pliage :** Lorsque l'omelette est encore bien baveuse à cœur et dorée dessous, la replier en deux (ou la rouler délicatement).
 6. **Service :** Faire glisser sur le plat de service et déguster immédiatement.
 
-> **Observations :** Dégustée avec une belle salade verte le 06/05/2006 à Quiberon (F. et J.P.) : un déjeuner simple et parfait !
+## Observations
+
+- **Contexte :** Dégustée avec une belle salade verte le 6 mai 2006 à Quiberon (F. et J.P.) : un déjeuner simple et parfait !

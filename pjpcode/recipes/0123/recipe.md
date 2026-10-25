@@ -1,51 +1,49 @@
 ---
 layout: recipe
 number: 123
-title: Couscous avec viandes cuites au four
+title: "Couscous avec viandes cuites au four"
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+[![Couscous avec viandes cuites au four — présentation](image-01.jpg)](image-01.jpg)
 
-Cette recette s'adresse à ceux qui aiment le couscous "classique"([cf. recette n°16](../0016/recipe.html)) mais qui trouvent que le poulet et le mouton,
-quand ils sont cuits avec les légumes, sont trop mous.
+Cette recette s'adresse à ceux qui aiment le couscous classique ([cf. recette n°16](../0016/recipe.html)) mais qui trouvent que le poulet et le mouton, quand ils sont cuits longuement avec les légumes, perdent de leur texture.
 
-[![](image-02.jpg)](image-02.jpg)
+[![Couscous — les viandes dorées au four](image-02.jpg)](image-02.jpg)
 
-Elle consiste à faire cuire séparément viandes et légumes, les premières au four, les seconds au bouillon d'un couscous antérieur,
-bouillon qu'on a pris le soin de conserver au congélateur. Moralité : si cette recette vous plaît, ne jetez plus vos bouillons de coucous !
+Elle consiste à faire cuire séparément viandes et légumes : les premières rôties au four pour être croustillantes et fondantes, les seconds mijotés dans le bouillon d'un couscous antérieur soigneusement conservé au congélateur. Moralité : ne jetez plus vos bouillons de couscous !
 
-[![](image-03.jpg)](image-03.jpg)
+[![Couscous — les légumes et le bouillon](image-03.jpg)](image-03.jpg)
 
-Cette recette a été exécutée en mai 2007 à Quiberon lors de la visite de Christine et Michel.
+*Pour 4 personnes (2 repas)*
+
 ## Ingrédients
 
-*pour 4 personnes mais 2 repas*
-un litre de bouillon de couscous conservé d'un couscous précédent
-750 g de graîne de couscous
-6 morceaux de poulet
-6 morceaux de mouton
-3 poivrons verts doux
-250 g de pois chiches cuits
-250 g de navets
-250 g de tomates
-une petite boîte concentré de tomates
-2 courgettes
-2 poireaux
-2 navets
-1 tube d'harissa
-huile d'olive
-sel, poivre
-thym et laurier
+- 6 morceaux de poulet (cuisses ou hauts de cuisse)
+- 6 morceaux de mouton ou d'agneau (collier, épaule ou côtes découvertes)
+- 1 litre de bouillon de couscous réservé d'une précédente préparation
+- 750 g de semoule de couscous moyenne
+- 3 poivrons verts doux
+- 250 g de pois chiches cuits
+- 250 g de navets
+- 250 g de tomates fraîches
+- 2 courgettes
+- 2 blancs de poireaux
+- 1 petite boîte de concentré de tomates
+- 1 tube de pâte de harissa
+- Huile d'olive
+- 1 bouquet garni (thym, laurier)
+- Sel et poivre du moulin
 
 ## Préparation
 
-Mettre le bouillon à chauffer et y plonger les légumes (sauf les pois chiches) en commençant par les plus durs (navets) et en finissant par les plus tendres (tomates). Les légumes doivent être complètement recouverts de bouillon (au besoin, compléter par de l'eau et rectifier l'assaisonnement (sel, poivre).
-Laisser mijoter à petit bouillon au moins deux heures (quatre heures, c'est très bien !)
-Une heure avant de servir, faire cuire au four poulet et mouton.
-Une demi-heure avant de servir, prendre du bouillon et mettre les pois chiches à réchauffer doucement.
-Un quart d'heure avant de servir, préparer la graîne (mettre dans un saladier avec quelques cuillers d'eau chaude salée, laisser se réhydrater quelques minutes,n mettre queques cuillers de beurre et remuer en chauffant jusqu'à obtention de la bonne consistance).
-Servir en plats séparés viandes, graînes, légumes (dans le bouillon ou hors du bouillon), bouillon, sans oublier la harissa qu'on sert à part (tous n'aiment pas ça).
+1. Dans un grand faitout, porter le bouillon de couscous à ébullition et y plonger les légumes lavés et tronçonnés (sauf les pois chiches), en commençant par les plus fermes (navets, poireaux) et en finissant par les plus tendres (courgettes, tomates). Les légumes doivent être bien immergés (compléter d'eau et assaisonner au besoin).
+2. Laisser mijoter à petit feu pendant au moins 2 heures (4 heures de mijotage doux sont idéales pour confire les légumes).
+3. Une heure avant de servir, préchauffer le four à 200°C (400°F) et enfourner les morceaux de poulet et de mouton sur une lèchefrite badigeonnée d'huile d'olive, salés et poivrés, jusqu'à ce qu'ils soient bien dorés et croustillants.
+4. Une demi-heure avant de passer à table, prélever deux louches de bouillon dans une petite casserole et y réchauffer doucement les pois chiches cuits.
+5. Quinze minutes avant de servir, préparer la graine de couscous dans un plat creux avec un filet d'eau chaude salée, laisser gonfler quelques minutes, puis égrainer à la fourchette avec quelques noix de beurre demi-sel en réchauffant à la vapeur.
+6. Dresser sur des plats séparés : le plat de viandes rôties croustillantes, le saladier de semoule égrainée, le plat de légumes confits et la soupière de bouillon brûlant. Servir la harissa délayée dans une louche de bouillon dans une saucière à part.
 
 ## Observations
 
-1 - Recette exécutée en mai 2007 lors du passage de Christine et Michel ; appréciée mais aurait peut-être été meilleure en immergeant les viandes cuites dans le bouillon un quart d'heure avant de servir : ce sera pour la prochaine fois...
+- **Contexte :** Recette exécutée en mai 2007 lors de la visite de Christine et Michel à Quiberon ; une variante très appréciée qui met en valeur la texture croustillante des viandes.
+- **Variante :** On peut aussi immerger les viandes rôties au four dans le bouillon bouillant pendant les 15 dernières minutes avant de servir pour combiner croustillant et imprégnation aromatique.

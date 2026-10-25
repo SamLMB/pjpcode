@@ -4,7 +4,7 @@ number: 57
 title: "Sauce vinaigrette au roquefort"
 ---
 
-[![Sauce vinaigrette au roquefort — recette manuscrite](image-01.jpg)](image-01.jpg)
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
@@ -20,4 +20,7 @@ title: "Sauce vinaigrette au roquefort"
 3. **Émulsion :** Incorporer l'huile d'olive en filet continu tout en fouettant pour monter la vinaigrette en une sauce crémeuse et veloutée. Donner un ou deux tours de moulin à poivre.
 4. **Service :** Napper une salade verte croquante (frisée, mâche ou endives, avec éventuellement des cerneaux de noix).
 
-> **Observations :** Réalisé à Quiberon le 15/06/2006 pour accommoder un reste de Roquefort. Apporte un relief et une saveur délicate incomparable à toute salade d'été ou d'hiver. *Avis aux non-amateurs de fromage persillé : s'abstenir !*
+## Observations
+
+- **Contexte :** Réalisé à Quiberon le 15 juin 2006 pour accommoder un reste de Roquefort.
+- **Accompagnement :** Apporte un relief et une saveur délicate incomparable à toute salade d'été ou d'hiver (avis aux non-amateurs de fromage persillé : s'abstenir !).

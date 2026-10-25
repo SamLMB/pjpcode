@@ -1,35 +1,34 @@
 ---
 layout: recipe
 number: 99
-title: Hamburgers à la plancha du commissaire Fred (avec photo de l'inventeur de cette recette)
+title: "Hamburgers à la plancha du commissaire Fred (avec photo de l'inventeur de cette recette)"
 ---
 
-**Recette n°99** :
+[![Hamburgers à la plancha du commissaire Fred](image-01.jpg)](image-01.jpg)
 
-Hamburgers à la plancha du commissaire Fred
+*Pour 4 personnes*
 
-[![](image-01.jpg)](image-01.jpg)
+## Ingrédients
 
-## Ingrédients (pour 4 personnes)
-
-- 4 petits pains à hamburger aux graines de sésame (type Harrys par exemple) précoupés en deux
--         une salade verte à grandes feuilles et sans trop de goût (laitue par exemple)
--         8 gros cornichons sucrés, type Pickle
--         8 tranches de fromage à hamburger
--         4 rondelles de tomate
--         2 oignons jaunes
--         400 g de steack haché pas gras en vrac
--         sauce ketchup et/ou moutarde
+- 4 petits pains à hamburger au sésame, précoupés en deux
+- 400 g de steak haché de bœuf peu gras
+- 8 tranches de fromage fondu pour hamburger (cheddar ou emmental)
+- 8 gros cornichons aigres-doux (type pickles ou Malossol)
+- 4 belles rondelles de tomate
+- 2 oignons jaunes
+- 1 salade verte à grandes feuilles tendres (type batavia ou laitue)
+- Sauces ketchup et moutarde selon le goût
 
 ## Préparation
 
--         faire chauffer la plancha
--         débiter les cornichons en rondelles
--         débiter la moitié des oignons en tranches, hacher l’autre moitié des oignons assez fin
--         préparer les 4 steacks en y insérant les oignons hachés
--         mettre à cuire sur la plancha : les steacks, les pains sur leur « face mie », les oignons en rondelles
--         mettre le tout au milieu de la table afin que les convives composent eux-mêmes leur hamburger
+1. Allumer et faire monter en température la plancha.
+2. Émincer les cornichons en fines rondelles dans le sens de la longueur.
+3. Couper un oignon en rondelles pour la cuisson et hacher très finement le second oignon.
+4. Façonner 4 beaux steaks hachés ronds en incorporant l'oignon haché à la viande.
+5. Déposer sur la plancha chaude : les steaks hachés, les rondelles d'oignon et les demi-pains côté mie pour les dorer légèrement.
+6. En fin de cuisson de la viande, déposer les tranches de fromage sur les steaks brûlants pour amorcer la fonte.
+7. Disposer l'ensemble des éléments au centre de la table pour que chaque convive assemble son propre hamburger sur mesure.
 
 ## Observations
 
-- recette préparée le 1er novembre 2006 à Porticcio ; excellente !
+- **Contexte :** Recette conviviale préparée le 1er novembre 2006 à Porticcio ; un régal apprécié de toute la tablée !

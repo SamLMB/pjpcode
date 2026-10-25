@@ -4,39 +4,36 @@ number: 196
 title: Glace à la tarte Tatin
 ---
 
-Recette n°196 : glace à la tarte Tatin
+## Ingrédients
 
-## Ingrédients (pour 8 personnes)
+*Pour 8 personnes*
 
-- 25 cl de crème fraîche non liquide
-- 15 cl de lait
-- 150 g de sucre pour la crème glacée
-- 1 sachet de sucre vanillé (7g environ) ou  une cuiller à soupe d'essence de vanille
-- 1 oeuf frais
-- 3 cuillers à soupe de chicorée liquide
-- un fond de tarte brisée
+### Pour la tarte Tatin
+- 1 fond de pâte brisée pur beurre
 - 3 pommes
 - 50 g de beurre
-- 50 g de sucre pour la cuisson des pommes
+- 50 g de sucre en poudre
+
+### Pour la crème glacée
+- 25 cl de crème fraîche épaisse
+- 15 cl de lait froid
+- 150 g de sucre en poudre
+- 1 sachet de sucre vanillé (ou 1 cuillère à soupe d'extrait de vanille)
+- 1 œuf extra-frais
+- 3 cuillères à soupe de chicorée liquide
 
 ## Préparation
 
-    a) préparation de la tarte Tatin :
-- faire cuire au four le fond de tarte seul (attention, c'est très rapide, 5 ou 6 minutes suffisent)
-- défourner et couper en tout petits morceaux, réserver
-- éplucher les pommes, les débiter en rondelles, les faire cuire dans 50 g de sucre
-- mélanger à la fourchette les morceaux de tarte et les pommes, mettre à refroidir au frigo
-    b) préparation de la crème glacée :
-- mélanger au mixer le lait, la chicorée, les sucres
-- battre la crème fraîche
-- battre l'oeuf entier (jaune et blanc, pas la coquille...)
-- battre au mixer l'ensemble
-- mettre au congélateur 30 minutes environ
-- mettre à la sorbetière  (30 à 40 minutes  environ doivent suffire pour obtenir la bonne consistance)
-    c) préparation de la crème glacée :
-- mélanger à la fourchette la crème glacée et la tarte Tartin broyée
-- mettre au congélateur
+1. **Cuisson de la pâte :** Faire cuire le fond de tarte brisée à blanc au four préchauffé à 180°C (350°F) pendant 5 à 6 minutes. Défourner, laisser tiédir et concasser en petits morceaux. Réserver.
+2. **Pommes caramélisées :** Éplucher les pommes, les émincer en lamelles et les faire poêler au beurre avec 50 g de sucre jusqu'à compotage doré.
+3. Écraser les pommes à la fourchette avec les brisures de pâte cuite et placer au réfrigérateur pour refroidir complètement.
+4. **Appareil à glace :** Dans le bol du mixeur, mélanger le lait, la chicorée liquide, le sucre et le sucre vanillé.
+5. Fouetter la crème fraîche puis battre l'œuf entier. Réunir l'ensemble dans le mixeur et battre vivement quelques instants.
+6. Placer l'appareil au congélateur pendant 30 minutes pour qu'il soit bien froid.
+7. **Turbinage :** Verser la préparation dans la sorbetière et faire turbiner 30 à 40 minutes jusqu'à consistance crémeuse.
+8. **Finition :** Dès que la glace a pris, incorporer délicatement à la fourchette le mélange froid pommes caramélisées et brisures de pâte.
+9. Remettre au congélateur jusqu'au moment du service.
 
 ## Observations
 
-recette préparée le 9 juillet 2008 à Quiberon pour enfants et petits-enfants, qui ont beaucoup apprécié.
+- **Contexte :** Recette préparée le 9 juillet 2008 à Quiberon pour enfants et petits-enfants, qui en ont raffolé.

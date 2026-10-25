@@ -4,20 +4,20 @@ number: 20
 title: "Glace aux noix de Pécan"
 ---
 
-[![Glace aux noix de Pécan — recette manuscrite](image-01.jpg)](image-01.jpg)
+*Pour 4 personnes*
 
-*Pour 4 à 6 personnes*
+📄 *[Consulter la recette manuscrite originale](image-01.jpg)*
 
 ## Ingrédients
 
-- 60 cl de lait (600 g)
-- 3 œufs entiers
-- 215 g de sucre
-- 2 c. à soupe de Maïzena
-- 4 c. à soupe bien pleines de crème fraîche
-- 125 g de noix de pécan broyées
+- 100 g de cerneaux de noix de pécan
+- 2 œufs entiers
+- 100 g de sucre en poudre
+- 1 c. à café d'extrait de vanille
+- 1/2 litre de lait
+- 15 cl de crème fraîche
+- 1 c. à café bombée de fécule de maïs (Maïzena)
 - 1 c. à soupe de rhum
-- 1 c. à soupe d'extrait de vanille (ou 1 sachet de sucre vanillé)
 
 ## Préparation
 
@@ -27,4 +27,7 @@ title: "Glace aux noix de Pécan"
 4. **Refroidissement :** Retirer du feu et fouetter vivement pour lisser. Laisser refroidir complètement à température ambiante, puis incorporer la crème fraîche, le rhum et les noix de pécan broyées. Réserver au réfrigérateur plusieurs heures jusqu'à ce que l'appareil soit bien froid.
 5. **Turbinage :** Passer la préparation à la sorbetière.
 
-> **Observations :** Recette expérimentée allée de Chevreuse le 29/03/2006. Très appréciée ! La consistance doit rester moelleuse. Si le congélateur est très froid, sortir la glace 15 à 30 minutes avant de la déguster.
+## Observations
+
+- **Contexte :** Recette expérimentée allée de Chevreuse le 29 mars 2006. Très appréciée !
+- **Texture :** La consistance doit rester moelleuse. Si le congélateur est très froid, sortir la glace 15 à 30 minutes avant de la déguster.

@@ -4,11 +4,11 @@ number: 50
 title: "Paella bretonne de Santez Anna"
 ---
 
-[![Paella bretonne de Santez Anna](image-01.jpg)](image-01.jpg)
-[![Paella bretonne — page 1](image-02.jpg)](image-02.jpg)
-[![Paella bretonne — page 2](image-03.jpg)](image-03.jpg)
+![Paella bretonne de Santez Anna](image-01.jpg)
 
 *Pour 4 personnes*
+
+📄 *Manuscrit original : [Page 1](image-02.jpg) · [Page 2](image-03.jpg)*
 
 ## Ingrédients
 
@@ -46,6 +46,7 @@ title: "Paella bretonne de Santez Anna"
 6. **Finition safranée :** Quelques minutes avant de couper le feu, saupoudrer les filaments de safran sur toute la surface.
 7. **Service :** Laisser reposer 5 minutes hors du feu sous un torchon propre et servir directement à table dans le plat à paella avec des quartiers de citron frais.
 
-> **Observations :** Réalisé le 18/06/2006 à Quiberon pour nous deux : « ¡ Que rico ! ¡ Olé ! »
->
-> *Conseils :* Ne surtout pas trop cuire le riz à l'eau lors de la première étape. L'adjonction de calamars apporte une saveur maritime bretonne authentique.
+## Observations
+
+- **Contexte :** Réalisé le 18 juin 2006 à Quiberon pour nous deux : « ¡ Que rico ! ¡ Olé ! »
+- **Conseils :** Ne surtout pas trop cuire le riz à l'eau lors de la première étape. L'adjonction de calamars apporte une saveur maritime bretonne authentique.

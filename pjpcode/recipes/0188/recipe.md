@@ -4,26 +4,25 @@ number: 188
 title: Marmelade de poires au caramel
 ---
 
-Recette n°188 : marmelade de poires au caramel
 ## Ingrédients
 
-*pour deux pots de marmelade (environ 750 g)*
-- 6 poires (Comice, Passecrassane, Williams, etc.)
-- 300 g de sucre
-- un citron
-- six cuillers à soupe d'eau
+- 1 kg de poires bien mûres (William ou Passe-Crassane)
+- 500 g de sucre en poudre
+- 1 citron jaune non traité
+- 6 cuillères à soupe d'eau
+- 2 cuillères à soupe d'eau-de-vie de prunes, de rhum ou de whisky (facultatif)
 
 ## Préparation
 
-1- peler et épépiner les poires, les couper en huit morceaux et les mettre dans un saladier
-2- rouler le citron du plat de la main sur la table pour le ramollir, le zester au willywalers, le presser, mettre son jus et son zeste avec les poires, mélanger
-3- préparer le caramel en mélangeant sucre et eau dans une sauteuse et en bouillir en remuant à la cuiller de bois jusqu'à ce qu'une couleur blonde apparaisse
-4- mélanger caramel et poires, mettre le tout à bouillir encore cinq à six minutes en écrasant à la fourchette à mi-cuisson
-5 - verser dans les pots (préalablement ébouillantés) en étalant progressivement le long de la paroi pour que le verre n'éclate pas
-6 - boucher les pots et les retourner sur un papier absorbant ; les remttre à l'endroit après une demi-heure minimum (attention à ne pas se brûler
+1. Peler et épépiner les poires, les couper en huit quartiers et les déposer dans un grand saladier.
+2. Rouler le citron sur la table pour le ramollir, prélever son zeste, presser son jus, puis mélanger le zeste et le jus aux poires.
+3. Dans une sauteuse, préparer le caramel en chauffant le sucre et l'eau à feu moyen sans remuer jusqu'à l'obtention d'une belle couleur blonde dorée.
+4. Verser les poires et leur jus dans le caramel bouillant, et laisser mijoter 5 à 6 minutes en écrasant les fruits à la fourchette à mi-cuisson (ou au mixeur pour une marmelade parfaitement lisse).
+5. Ajouter l'eau-de-vie si désiré en fin de cuisson.
+6. Verser la marmelade brûlante dans des pots préalablement ébouillantés en nappant d'abord les parois pour éviter tout choc thermique.
+7. Fermer hermétiquement les pots, les retourner sur un torchon propre pendant au moins 30 minutes, puis les remettre à l'endroit et laisser refroidir.
 
 ## Observations
 
-1 - recette exécutée à l'occasion des rencontres culinaires lavalloises de Belleuse fin mars 2008
-2 - j'avais ajouté 2 cuillers à soupe d'eau de vie de prunes, mais ce n'était pas nécessaire (du rhum ou du whisky peuvent aussi être envisagés)
-3 - si on aime les marmades très lisses, on peut mixer les poires à l'étape 1
+- **Contexte :** Recette exécutée lors des rencontres culinaires lavalloises de Belleuse fin mars 2008.
+- **Variante :** L'ajout d'alcool (prune, rhum ou whisky) apporte une note parfumée chaleureuse mais reste facultatif.

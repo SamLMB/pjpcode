@@ -1,35 +1,35 @@
 ---
 layout: recipe
 number: 120
-title: Piquillos farcis à la morue comme les prépare Fred à Porticcio
+title: "Piquillos farcis à la morue comme les prépare Fred à Porticcio"
 ---
 
 ## Ingrédients
 
-- 400 à 500 g de morue salée sans la peau
-- 500g de pommes de terre à purée
-- une gousse d'ail d'Arleux
-- 4 cuillers d'huile d'olive
-- 500 cl de crème fraîche liquide
-- 2 boîtes de piquillos (soit une vingtaine de piments del piquillos environ)
-- sel, poivre
+- 400 à 500 g de morue salée (dessalée, sans peau ni arêtes)
+- 500 g de pommes de terre à purée
+- 2 boîtes de piments piquillos entiers (environ 20 pièces)
+- 50 cl de crème fraîche liquide
+- 4 c. à soupe d'huile d'olive
+- 1 gousse d'ail d'Arleux
+- 1 pincée de piment d'Espelette en poudre
+- Sel et poivre du moulin
 
 ## Préparation
 
-- mettre la morue à dessaler 4 heures environ
-- faire cuire les pommes de terre à l'eau
-- éplucher les pommes de terre, les écraser au pilon ou à la fourchette
-- pocher la morue 10mn à l'eau bouillante, l'égoutter, la désarêter, l'effeuiller, la mélanger à l'huile à la main en ajoutant l'ail écrasé
-- mettre la morue à revenir dans une poêle, remuer en continu, ajouter peu à peu 100 cl de crème, remuer jusqu'à absorption complète
-- hors du feu, mélanger aux pommes de terre en malaxant bien à la main, saupoudrer de piments d'Espelette en poudre
-- sortir les piquillos de leurs boîtes, les égoutter
-- mettre le four à préchauffer à 180°C
-- farcir les piquillos sans les déchirer en se servant de la main gauche comme d'un cornet (opération délicate à faire sans se presser)
-- aligner en quinconce les piquillos dans un plat allant au four à bords hauts
-- couvrir avec la crème fraîche restante
-- enfourner et laisser finir de cuire 10 à 15 mn
-- servir immédiatement
+1. Dessaler la morue dans un grand récipient d'eau froide pendant 24 à 48 heures au réfrigérateur en renouvelant l'eau plusieurs fois.
+2. Faire cuire les pommes de terre dans une grande casserole d'eau bouillante salée jusqu'à ce qu'elles soient bien tendres. Les éplucher et les écraser en purée au presse-purée ou à la fourchette.
+3. Pocher la morue dessalée pendant 10 minutes dans de l'eau frémissante non salée. L'égoutter soigneusement, retirer les arêtes éventuelles et effeuiller la chair à la main.
+4. Dans un saladier, mélanger la chair de morue avec l'huile d'olive et la gousse d'ail écrasée.
+5. Verser la morue dans une poêle chaude et la faire suer à feu doux en remuant continuellement, tout en incorporant progressivement 10 cl de crème liquide jusqu'à absorption complète.
+6. Hors du feu, incorporer la morue à la purée de pommes de terre en malaxant intimement à la fourchette. Assaisonner d'une pincée de piment d'Espelette, de sel et de poivre.
+7. Égoutter délicatement les piquillos sur du papier absorbant.
+8. Préchauffer le four à 180°C (350°F / th. 6).
+9. Farcir chaque piment de brandade de morue avec précaution pour ne pas déchirer la chair délicate.
+10. Disposer les piquillos farcis en quinconce dans un plat à gratin à bords hauts.
+11. Napper l'ensemble avec les 40 cl de crème fraîche liquide restante.
+12. Enfourner et faire cuire pendant 10 à 15 minutes jusqu'à ce que la crème bouillonne doucement. Servir immédiatement.
 
 ## Observations
 
-Plat réalisé le 18 mars 2007 à Rennes pour Annie et François Lefort qui ont bien aimé.
+- **Contexte :** Plat basco-corse réalisé le 18 mars 2007 à Rennes pour Annie et François Lefort qui ont beaucoup apprécié la douceur des piments associée à la brandade onctueuse.

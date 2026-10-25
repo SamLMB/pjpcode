@@ -4,11 +4,11 @@ number: 175
 title: "Caramel Tupperware"
 ---
 
-[![Mamy et Papy de Kermorvan](image-01.jpg)](image-01.jpg)
+![Mamy et Papy de Kermorvan](image-01.jpg)
 
 > *Les vieilles recettes étant souvent les meilleures, nous avons retrouvé, en rangeant nos papiers, cette recette qu'il y a trente ans Mamy de Kermorvan préparait pour ses enfants ; il sentait si bon, ce caramel, qu'en fermant les yeux on le sent encore. Ah… la recherche du temps perdu… Sans en revenir aux célèbres madeleines et sans retourner du côté de chez Swann, nous avons refait ce caramel : en trente ans, il n'a pris aucune ride, pas plus que n'en a pris celle qui le faisait alors, et pas plus que son mari d'ailleurs…*
 
-[![Caramel Tupperware — recette manuscrite](image-02.jpg)](image-02.jpg)
+📄 *[Consulter la recette manuscrite originale](image-02.jpg)*
 
 ## Ingrédients
 

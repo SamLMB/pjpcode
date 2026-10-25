@@ -4,24 +4,24 @@ number: 176
 title: Chicons aux oeufs de truite et ciboulette sur lit de fromage blanc
 ---
 
-[![](image-01.jpg)](image-01.jpg)
+![Chicons aux œufs de truite et ciboulette](image-01.jpg)
 
 ## Ingrédients
 
-- 2 beaux chicons bien frais et bien immaculés
-- un pot de 250 g d'un bon fromage blanc frais à 20% (sniff!) de matière grasse
-- un petit pot d'oeufs de truite
-- quelques brins de ciboulette fraîche
+- 2 beaux chicons (endives) bien frais et fermes
+- 250 g de bon fromage blanc frais à 20% de matière grasse
+- 1 petit pot d'œufs de truite
+- Quelques brins de ciboulette fraîche
 
 ## Préparation
 
-- prélever 4 feuilles de chicons par convive environ
-- les disposer sur un plat de service bien à plat
-- mettre dans chaque feuille une cuiller à café de fromage blanc, une demi-cuiller d'oeufs de truite, un brin de ciboulette
-- conserver au frigo pas plus que quelques heures avant de servir avec un bon crêmant rosé d'Alsace
+1. Prélever environ 4 belles feuilles de chicon par convive.
+2. Les disposer bien à plat sur un plat de service.
+3. Garnir chaque feuille d'une cuillère à café de fromage blanc, d'une demi-cuillère à café d'œufs de truite et d'un brin de ciboulette.
+4. Conserver au réfrigérateur au maximum quelques heures avant de servir frais, idéalement accompagné d'un crémant rosé d'Alsace.
 
 ## Observations
 
-1 - préparé pour Annie de Chevré, Christine et Michel de Bourges, et nous le 24 janvier 2008 : pas une miette n'est restée !
-2 - à défaut de ciboulette, on peut mettre de l'aneth
-3 - à défaut de fromage blanc, on mettre une chantilly non sucrée
+- **Contexte :** Préparé pour Annie de Chevré, Christine et Michel de Bourges, et nous deux le 24 janvier 2008 : pas une miette n'est restée !
+- **Variante :** À défaut de ciboulette, assaisonner avec de l'aneth frais.
+- **Variante :** Le fromage blanc peut être remplacé par une crème chantilly salée non sucrée.
