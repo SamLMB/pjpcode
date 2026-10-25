@@ -4,7 +4,7 @@ number: 106
 title: Moules marinières à la façon de Grand-Père de Quiberon
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 
@@ -20,7 +20,7 @@ title: Moules marinières à la façon de Grand-Père de Quiberon
 
 ## Préparation
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 - sur feux doux, faire fondre dans la moitié du beurre fondu échalotes, oignon et ail sans que cela ne brûle
 - remuer 3 minutes afin que le mélange prenne une belle couleur blonde
@@ -32,7 +32,7 @@ title: Moules marinières à la façon de Grand-Père de Quiberon
 
 ## Observations
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 1 - Recette préparée bien des fois par Mamy de Rennes. Toujours parfaites (Mamy et la recette) ! La dernière fois à Quiberon avec Michel et Andrée à Quiberon le 18 novembre 2006 ; Michel avait fait des frites avec maestria (cf. recette n°107) pour accompagner : sublime avec une salade d'endives au vinaigre balsamique et un Margaux 1997 rapporté par William et Isabelle de leurs vacances d'été à Lacanau.
 2 - on peut remplacer le beurre par de la crème fraîche

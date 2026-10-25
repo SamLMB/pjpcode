@@ -4,9 +4,9 @@ number: 154
 title: Onion pie, la tarte à l'oignon qui a valu à Hannah et Samuel Mathews "the 2nd place in the 2007 International Pie Contest" d'Escazu
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-## Ingredients (for 12 servings)
+## Ingrédients / Ingredients (for 12 servings)
 
 -         dough (500g)
 -         large yellow onions (10)
@@ -17,7 +17,7 @@ title: Onion pie, la tarte à l'oignon qui a valu à Hannah et Samuel Mathews "t
 -         oil (2 tablespoons)
 -         salt and pepper (according to taste)
 
-## Preparation
+## Préparation / Preparation
 
 -         spray the oil on the piepan
 -         spread the dough on the piepan

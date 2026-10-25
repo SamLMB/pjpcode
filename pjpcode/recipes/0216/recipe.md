@@ -5,8 +5,9 @@ title: Sorbet à la mangue de Ciudad Colón
 ---
 
 Recette n°216 : sorbet à la mangue de Ciudad Colón
+## Ingrédients
 
-Ingrédients : pour une glace de 6 personnes
+*pour une glace de 6 personnes*
 3/4 de cup de sucre
 5 grosses mangues bien mûres, pelées et dénoyautées
 1/4 de cup de jus d'orange vrai

@@ -6,9 +6,11 @@ title: Soupe au potimarron (avec photo)
 
 Recette n° 203 : Soupe de potimarron
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-Ingrédients : pour 4 personnes
+## Ingrédients
+
+ pour 4 personnes
 - un potimarron de 1,2 kg environ
 - 1,5 litre de bouillon de poule
 - 3 carottes de la ferme de Kernavest

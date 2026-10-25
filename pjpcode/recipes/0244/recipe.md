@@ -6,7 +6,7 @@ title: Potage aux asperges et aux oignons
 
 Recette n° 244 : potage aux asperges et aux oignons
 
-## Ingredients (pour 4 à 6 personnes)
+## Ingrédients (pour 4 à 6 personnes)
 
 - 400 g d'asperges blanches cuites (en bocal)
 - un demi-litre de lait
@@ -17,7 +17,7 @@ Recette n° 244 : potage aux asperges et aux oignons
 - une cuiller d'huile d'olive
 - sel et poivre selon goût
 
-## Preparation
+## Préparation
 
 1- préparer le bouillon
 2 - couper les pointes des asperges et les réserver

@@ -6,7 +6,7 @@ title: Pintade heureuse à la broche
 
 Recette n°177 : pintade heureuse à la broche
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 

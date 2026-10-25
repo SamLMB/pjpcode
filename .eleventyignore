@@ -1,7 +1,7 @@
 node_modules
 _site
 README.md
-CLAUDE.md
+AGENTS.md
 tasks.md
 package.json
 package-lock.json

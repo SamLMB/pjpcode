@@ -6,7 +6,7 @@ title: Soupe de chicons légère et facile
 
 **Recette n°230 :** Soupe de chicons légère et facile
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 6 personnes)
 

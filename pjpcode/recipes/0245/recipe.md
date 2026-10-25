@@ -4,7 +4,7 @@ number: 245
 title: Soupe cajun à la chair de crabe et aux moules
 ---
 
-## Ingredients (pour 6 personnes)
+## Ingrédients (pour 6 personnes)
 
 1 - 1kg de moules fraîche et 500 g de chair de crabe en boîte
 2 - 50 g de beurre et une cuiller à soupe d'huile

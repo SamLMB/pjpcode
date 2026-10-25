@@ -4,11 +4,11 @@ number: 107
 title: Frites de Maître Michel du Bourny
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 - 3 belles pommes de terre à frites par personne
 - 2 litres d'huile à friture
@@ -16,7 +16,7 @@ title: Frites de Maître Michel du Bourny
 
 ## Préparation
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 - éplucher les pommes de terre
 - mettre l'huile à chauffer dans la friteuse

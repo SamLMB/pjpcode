@@ -3,8 +3,9 @@ layout: recipe
 number: 190
 title: Poulet au citron du chemin du fort de Porticcio, oint d'huile d'olive des Mées, de romarin thym et sauge de la falaise de Kermorvan, d'ail d'Arleux
 ---
+## Ingrédients
 
-Ingrédients : il faut s'y prendre le matin pour le repas du soir
+*il faut s'y prendre le matin pour le repas du soir*
 - un beau poulet de Loué (1200 à 1500 g environ) prêt à cuire
 - 4 ou 5 cuillers à soupe d'huile d'olive des Mées, rapportée par Michel et Andrée
 - 6 gousses d'ail d'Arleux

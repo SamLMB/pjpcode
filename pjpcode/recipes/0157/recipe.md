@@ -4,7 +4,7 @@ number: 157
 title: Poêlons de moules au beurre, à l'ail et au persil
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 
@@ -14,7 +14,7 @@ pour 4 personnes
 - 1 bouquet de persil
 - 2 grosses gousses d'ail d'Arleux
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 
@@ -31,7 +31,7 @@ pour 4 personnes
 - enfourner et laisser la farce bien cuire sans la bruler (une dizaine de minutes devraient suffire)
 - servir aussitôt avec des mouillettes pour  aller chercher le beurre fondu dans les alvéoles
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 ## Observations
 

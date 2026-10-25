@@ -6,7 +6,7 @@ title: Soupe de poireaux et pommes de terre comme la faisait Mémé de Laval (av
 
 On peut s'interroger sur l'intérêt d'une recette aussi banale qu celle d'une soupe de poireaux et de pommes de terre... Et pourtant, en regardant la question de plus près, on verra qu'on peut raffiner facilement cette recette de base, ne serait-ce qu'en adoptant une de ses quatre variantes plutôt qu'une autre, en mettant du bouillon plutôt que de l'eau, en faisant revenir le poireau, en gardant beaucoup de son vert, en complétant par du fromage, en servant en petites soupières, etc. laissez vous tenter...
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 6 personnes)
 

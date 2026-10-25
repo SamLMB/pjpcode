@@ -3,8 +3,9 @@ layout: recipe
 number: 169
 title: Marmelade aux trois agrumes (orange, citron, pamplemousse) à la mode de Babette
 ---
+## Ingrédients
 
-Ingrédients : pour 7 à 8 pots moyens
+*pour 7 à 8 pots moyens*
 - 4 oranges à jus
 - 2 pamplemousses à jus
 - 6 petits citrons jaunes

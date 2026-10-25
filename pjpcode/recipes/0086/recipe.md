@@ -11,7 +11,7 @@ pommes de terre&nbsp;; j'ai essayé de la faire en remplaçant certains
 ingrédients que je n'avais pas sous la main par d'autres. Cette soupe est
 excellente (un extrait du mail de Kurt est donné en observation n°5).
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 4 personnes)
 
@@ -37,7 +37,7 @@ excellente (un extrait du mail de Kurt est donné en observation n°5).
 - hacher ail et persil et réserver
 - hacher les oignons grossièrement et réserver
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 - faire revenir les oignons à la poêle dans un peu de beurre sans les
   brûler et réserver
@@ -45,7 +45,7 @@ excellente (un extrait du mail de Kurt est donné en observation n°5).
   dans un peu de beurre à la poêle, puis mélanger aux oignons et réserver
 - faire revenir le lard sans beurre s'il a assez de gras, puis réserver
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 - quand les pommes de terre sont cuites, passer au mixer électrique dans
   l'eau de cuisson, puis saler et poivrer selon goût
@@ -55,7 +55,7 @@ excellente (un extrait du mail de Kurt est donné en observation n°5).
 - servir immédiatement en petites soupières ou garder au chaud au four
   à 100°C
 
-![](image-04.jpg)
+[![](image-04.jpg)](image-04.jpg)
 
 ## Observations
 

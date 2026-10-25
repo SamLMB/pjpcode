@@ -7,7 +7,7 @@ title: Blumenkohl- und Kartoffel-Cremesuppe mit Speckstückchen und Zwiebel
 Note préliminaire :
 Cette recette est donnée en allemand car elle a été composée initialement à l'attention d'amis radio-amateurs allemands et croate (Kurt, Lothar, Ivan) ; pour les non-germanophones, une traduction en français est donnée un peu plus loin.
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 Zutaten
 (für 6 Portionen)
@@ -19,7 +19,7 @@ Zutaten
 - 2 Liter Wasser
 - Salz und Pfeffer, Sahne, eventuell
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 Zubereitung
 - Blumenkohl, Kartoffeln und Hühner Kraftbouillon in kaltes Wasser werfen ; dieises Wasser zum Sieden bringen ; kochen lassen.

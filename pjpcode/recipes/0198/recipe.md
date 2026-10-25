@@ -3,8 +3,9 @@ layout: recipe
 number: 198
 title: Glace aux palets sablés de Bretagne et au chocolat
 ---
+## Ingrédients
 
-Ingrédients : pour 8 personnes peu gourmandes
+*pour 8 personnes peu gourmandes*
 - 2 oeufs entiers battus
 - 200 g de poudre de cacao non sucré
 - 200 g de sucre en poudre

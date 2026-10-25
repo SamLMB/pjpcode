@@ -11,8 +11,9 @@ La première fois que j’ai entendu parler d’irish coffee, c’était en 1962
 
 Attention, ce breuvage est très alcoolisé et ni diététique ni bon pour la santé (il n'existe pas d'antidote connu) ; c'est une sorte de grog (en plus assassin encore). Donc, à ne consommer qu'entre adultes consentants et avertis, n'ayant pas la route à prendre ensuite, pouvant faire la sieste éventuellement et acceptant les conséquences de leurs actes sur leur organisme et sur leur entourage.
 Néanmoins excellent, comme beaucoup de choses ayant le même genre de défaut...
+## Ingrédients
 
-Ingrédients pour 1 personne (mais ce breuvage ne peut se concevoir qu'avec des invités...) :
+*pour 1 personne (mais ce breuvage ne peut se concevoir qu'avec des invités...) :*
 - 2 gros morceaux de sucre (de canne de préférence)
 - une grosse cuiller de crème fraîche épaisse très froide
 - 4 cl de café type expresso (bon de préférence...)

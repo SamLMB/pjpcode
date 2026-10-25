@@ -3,8 +3,9 @@ layout: recipe
 number: 171
 title: Confiture de poires et de pommes simplissime
 ---
+## Ingrédients
 
-Ingrédients pour 2 petits pots de confiture
+*pour 2 petits pots de confiture*
 - 2 poires épluchées et coupées en dés
 - 1 pomme épluchée et coupée en dés
 - 1 jus de petit citron jaune

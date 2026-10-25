@@ -16,29 +16,29 @@ Pour 6 personnes :
 - une grosse pincée de gros sel
 - une grosse pincée de poivre
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Préparation
 
 - préchauffer le four à 240C
 - dans un plat à hauts bords allant au four, mettre l'huile
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 - y déposer ensuite la viande
 - sur la viande appliquer le beurre en pommade
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 - enfourner à four chaud et laisser cuire entre 25 et 30 minutes suivant qu'on aime bien cuit ou pas
 
-![](image-04.jpg)
+[![](image-04.jpg)](image-04.jpg)
 
-![](image-05.jpg)
+[![](image-05.jpg)](image-05.jpg)
 
 - sortir, saler, poivrer, découper et servir aussitôt
 
-![](image-06.jpg)
+[![](image-06.jpg)](image-06.jpg)
 
 ## Observations
 

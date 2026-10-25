@@ -4,7 +4,7 @@ number: 94
 title: Salade tiède de moules au mesclun et aux oranges
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 4 personnes)
 

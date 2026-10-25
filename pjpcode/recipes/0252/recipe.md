@@ -5,8 +5,9 @@ title: Gigot de 7 heures
 ---
 
 **Gigot de sept heures (qui ne cuit que cinq heures)**
+## Ingrédients
 
-Ingrédients (pour 8 personnes)1 gigot de 3 kg ficelé3 oignons3 carottes1 branche de thym2 feuilles de laurier
+*(pour 8 personnes)1 gigot de 3 kg ficelé3 oignons3 carottes1 branche de thym2 feuilles de laurier*
 
 1 branche de céleri
 

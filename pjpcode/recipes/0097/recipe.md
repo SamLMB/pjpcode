@@ -6,13 +6,14 @@ title: Gelée d'arbouses du lac de Tolla (avec photo de Max et des arbouses)
 
 **Recette n°97** : gelée d’arbouses du lac de Tolla
 
-  ![](image-01.jpg)
+  [![](image-01.jpg)](image-01.jpg)
+## Ingrédients
 
-**Ingrédients :** (pour 3 pots de gelée)
+*(pour 3 pots de gelée)*
 - 2 kg d’arbouses bien mûres
 - 1 kg de sucre
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 

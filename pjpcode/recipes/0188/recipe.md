@@ -5,8 +5,9 @@ title: Marmelade de poires au caramel
 ---
 
 Recette n°188 : marmelade de poires au caramel
+## Ingrédients
 
-Ingrédients : pour deux pots de marmelade (environ 750 g)
+*pour deux pots de marmelade (environ 750 g)*
 - 6 poires (Comice, Passecrassane, Williams, etc.)
 - 300 g de sucre
 - un citron

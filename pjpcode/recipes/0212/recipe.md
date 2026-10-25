@@ -3,8 +3,9 @@ layout: recipe
 number: 212
 title: Concassé de poivrons rouges, tomates, pois chiches, ail et persil
 ---
+## Ingrédients
 
-Ingrédients : pour 3 pots à confiture (peut servir à faire des tapas pour 20 à 30 personnes...)
+*pour 3 pots à confiture (peut servir à faire des tapas pour 20 à 30 personnes...)*
 - un poivron rouge doux (environ 300 g)
 - une boîte de pulpe de tomates (environ 400 g)
 - une boîte de pois chiches cuits (environ 250 g égouttés)

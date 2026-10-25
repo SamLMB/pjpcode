@@ -4,7 +4,7 @@ number: 68
 title: Tarte au chocolat fondant et aux poires (avec photo)
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 

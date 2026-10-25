@@ -4,7 +4,7 @@ number: 84
 title: Ch'tites tapas de betterave, d'endive, de chou-fleur, de tomate, etc. (avec photos)
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 8 personnes)
 
@@ -16,7 +16,7 @@ title: Ch'tites tapas de betterave, d'endive, de chou-fleur, de tomate, etc. (av
 - 4 cuillers à soupe de sauce au pistou pour pâtes (cf. observation n°2)
 - 4 gousses d'ail
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 - 2 échalottes
 - 1 cuiller à café de cumin
@@ -27,7 +27,7 @@ title: Ch'tites tapas de betterave, d'endive, de chou-fleur, de tomate, etc. (av
 - 4 cuillers à soupe de de sagarroia (chutney basque)
 - sel et poivre selon goût
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 ## Préparation
 
@@ -45,7 +45,7 @@ title: Ch'tites tapas de betterave, d'endive, de chou-fleur, de tomate, etc. (av
     - bol n°3 : le quart du fromage blanc mélangé au cumin
     - bol n°4 : le quart du fromage blanc mélangé à l'ail et à l'échalote, puis salé/poivré selon goût
 
-![](image-04.jpg)
+[![](image-04.jpg)](image-04.jpg)
 
 ## Observations
 

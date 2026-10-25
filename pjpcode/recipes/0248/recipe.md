@@ -3,14 +3,14 @@ layout: recipe
 number: 248
 title: Confitures de bananes et oranges
 ---
+## Ingrédients
 
-Ingrédients pour 6 pots moyens** (quantités non critiques)
+*pour 6 pots moyens** (quantités non critiques)*
 1 - cinq bananes pas trop mûres (830 g non épluchées)
 2 - un beau citron (140 g)
 3 - quatre belles oranges (870 g)
 5 - un demi-litre de jus d'orange pur fruit
 6 - un kilog et demi de sucre
-**
 
 ## Préparation
 

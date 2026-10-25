@@ -4,7 +4,7 @@ number: 70
 title: Soupe quiberonnaise aux asperges du Nord (avec photos)
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 4 personnes)
 
@@ -15,7 +15,7 @@ title: Soupe quiberonnaise aux asperges du Nord (avec photos)
 - 3 cuillers à soupe d'huile, ou de margarine
 - sel, poivre, selon goût
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 

@@ -7,8 +7,9 @@ title: Béchamel, béchamel mucho
 **Recette n°126** :
 
 béchamel, béchamel mucho
+## Ingrédients
 
-Ingrédients : pour 4 personnes
+*pour 4 personnes*
 
 - 25 g de farine
 - 25 g de beurre

@@ -4,7 +4,7 @@ number: 108
 title: Fried rice de Madame Jieming de Melbourne
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients
 
@@ -19,7 +19,7 @@ title: Fried rice de Madame Jieming de Melbourne
 - 4 cuillers à soupe d'huile d'olive
 - sel et poivre selon goût
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 

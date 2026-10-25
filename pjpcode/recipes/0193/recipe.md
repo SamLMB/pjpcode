@@ -7,8 +7,9 @@ title: Citrons confits
 Recette n°193 : citrons confits
 Cette recette est due à Madame Soraya Collet, de Haute-Savoie. Merci à elle !
 Les citrons confits entrent dans la confection de plats tels que les tajines (cf. recette suivante n°194)
+## Ingrédients
 
-Ingrédients : pour confire 1 kg de citrons
+*pour confire 1 kg de citrons*
 - 2 bocaux de 1 litre à fermeture hermétique
 - 1 kg de citrons mûrs, non traités, si possible sans pépins
 - 125 g de sel fin

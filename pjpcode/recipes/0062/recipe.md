@@ -4,7 +4,7 @@ number: 62
 title: Râpé Parmentier aux filets d'anchois
 ---
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 6 personnes)
 
@@ -17,7 +17,7 @@ title: Râpé Parmentier aux filets d'anchois
 - deux grosses pincées de poivre
 - pas de sel (celui des anchois doit suffir)
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 
@@ -40,7 +40,7 @@ title: Râpé Parmentier aux filets d'anchois
 - réenfourner et laisser cuire encore 30 minutes
 - servir immédiatement après décoration avec les herbes
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 ## Observations
 
@@ -48,4 +48,4 @@ title: Râpé Parmentier aux filets d'anchois
 2 - bien apprécié, quoique la nécessité de saler ou non ait été discutée (certains convives trouvant qu'un peu de sel en plus améliorait le plat)
 3 - s'accompagne bien d'une grosse salade verte à l'huile d'olive, qu'on a laissé se fatiguer un peu,  et d'un Côtes du Rhône Villages4 - les pommes de terre râpées s'oxydent (et donc noircissent) très vite ; c'est pourquoi il est impératif de les râper au tout dernier moment
 
-![](image-04.jpg)
+[![](image-04.jpg)](image-04.jpg)

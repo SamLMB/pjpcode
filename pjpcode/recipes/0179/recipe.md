@@ -6,14 +6,15 @@ title: Coques aux pâtes (à ne pas confondre avec le coq en pâte)
 
 Recette n° 179 : coques aux pâtes (à ne pas confondre avec le coq en pâte)
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 Les coques sont de savoureux petits coquillages qu'on trouve en Atlantique et en Méditerranée enfouis dans le sable. On peut les pêcher soi-même, mais il faut alors bien veiller à les dessabler, ce qui nécessite du temps car il faut les changer d'eau à plusieurs reprises (de l'eau de mer, bien sûr).
 Sur les marchés, on en trouve qui ont été élevés (au Croisic, il y en a beaucoup) et qui n'ont pas de sable dedans.
 
 Contrairement aux moules, quoi ont un ratio "poids de chair"/"poids de coquille" élevé, les coques offrent peu de chair par kg acheté. Il est donc préférable de les manger comme assaisonnement d'un ingrédient plus consistant et les pâtes (spaghetti par exemple) font parfaitement l'affaire.
+## Ingrédients
 
-Ingrédients : pour 4 personnes
+*pour 4 personnes*
 - 500 g de spaghetti
 - 2 kg de coques
 - un gros bouquet de persil plat

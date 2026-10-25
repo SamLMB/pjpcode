@@ -8,7 +8,7 @@ title: Hamburgers à la plancha du commissaire Fred (avec photo de l'inventeur d
 
 Hamburgers à la plancha du commissaire Fred
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 4 personnes)
 

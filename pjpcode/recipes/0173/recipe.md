@@ -6,13 +6,13 @@ title: Sushis à la mode de Vitré, comme les prépare gente Dame Alix
 
 Bonjour ! Je m'appelle Alix et je vais vous expliquer comment on prépare les sushis à la mode de Vitré
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
 En ce 19 janvier 2008, nous étions invités chez Anne et Pierre à Vitré, ce qui nous donna l'occasion de goûter les sushis que prépara gente Dame Alix. Cette recette donne l'occasion de voir quelques photos de ce week-end.
 
 D'abord, voici le plat tel que servi à table, pour vous mettre l'eau à la bouche :
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Ingrédients
 
@@ -35,11 +35,11 @@ D'abord, voici le plat tel que servi à table, pour vous mettre l'eau à la bouc
 
 La préparation nécessite un peu de manipulation, et l'aide d'un vieux marmiton comme PJP peut être utile
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 Il faut bien les faire travailler un peu, les vieux, n'est-ce pas ?
 
-![](image-04.jpg)
+[![](image-04.jpg)](image-04.jpg)
 
 ## Préparation
 
@@ -64,7 +64,7 @@ Il faut bien les faire travailler un peu, les vieux, n'est-ce pas ?
 
 il faut penser au papier pour s'essuyer les mains car ça colle vraiment beaucoup
 
-![](image-05.jpg)
+[![](image-05.jpg)](image-05.jpg)
 
 ## Observations
 
@@ -72,20 +72,20 @@ Excellent même si nous avions prévu une sauce de trop (la sauce aux huîtres, 
 
 C'est un peu la patouille, cette recette !
 
-![](image-06.jpg)
+[![](image-06.jpg)](image-06.jpg)
 
 Les hôtes avant de commencer à goûter les sushis (remarquer leur regard chargé d'appréhension)
 
-![](image-07.jpg)
+[![](image-07.jpg)](image-07.jpg)
 
 Les mêmes hôtes, repus, après avoir mangé les sushis (non, ils ne sont pas étendus parce qu'ils sont malades)
 
-![](image-08.jpg)
+[![](image-08.jpg)](image-08.jpg)
 
 deux dernières photos : d'abord mon marmiton PJP et sa chef, qui a supervisé le travail
 
-![](image-09.jpg)
+[![](image-09.jpg)](image-09.jpg)
 
 et la chef de mon marmiton, seule en train de digérer
 
-![](image-10.jpg)
+[![](image-10.jpg)](image-10.jpg)

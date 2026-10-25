@@ -3,8 +3,9 @@ layout: recipe
 number: 195
 title: Soupe aux huit légumes pour 16 convives affamés
 ---
+## Ingrédients
 
-Ingrédients : pour 16 personnes
+*pour 16 personnes*
 - 4 litres d'eau
 - 32 pommes de terre moyennes
 - 8 carottes moyennes

@@ -4,7 +4,7 @@ number: 65
 title: Velouté de moules à l’infusion d'oseille (avec photos)
 ---
 
-.![](image-01.jpg)
+.[![](image-01.jpg)](image-01.jpg)
 
 ## Ingrédients (pour 4 personnes)
 
@@ -22,7 +22,7 @@ title: Velouté de moules à l’infusion d'oseille (avec photos)
 - 1/2 citron jaune
 - sel et poivre, selon goût
 
-![](image-02.jpg)
+[![](image-02.jpg)](image-02.jpg)
 
 ## Préparation
 
@@ -43,7 +43,7 @@ title: Velouté de moules à l’infusion d'oseille (avec photos)
 - mélanger les moules au jus mixé
 - servir en petites soupières avec quelques branches de persil, ou de cerfeuil, ou de coriandre
 
-![](image-03.jpg)
+[![](image-03.jpg)](image-03.jpg)
 
 ## Observations
 

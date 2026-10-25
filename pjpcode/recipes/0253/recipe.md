@@ -7,8 +7,9 @@ title: Ficelles bretonnes
 Avouons qu'avant d'être bretonnes, ces ficelles ont été picardes...
 Elles sont bretonnes parce que faites à partir de 8 crêpes (crêpes de froment ou galettes de sarrasin) bretonnes achetées fraîches le jour même.
 Il faut compter une heure tout compris, mais cela se sert sans attendre au sortir du four.
+## Ingrédients
 
-**Ingrédients** (pour 8 personnes, comme plat de résistance avec une salade verte) :
+*(pour 8 personnes, comme plat de résistance avec une salade verte) :*
 - 30 g de farine
 - 8 tranches de jambon blanc ou 500 g de dés de jambon
 - 500 g de champignons de Paris

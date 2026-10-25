@@ -5,8 +5,9 @@ title: Rouille verte, rouille rouge
 ---
 
 **Recette n°220 :** rouille verte, rouille rouge
+## Ingrédients
 
-Ingrédients :  pour 4 personnes
+*pour 4 personnes*
 - un poivron vert ou un poivron rouge (si on est accro du piment, on peut remplacer poivron par piment, mais ce sera très violent)
 - 4 grosses gousses d'ail d'Arleux
 - 4 cuillers à soupe d'huile d'olive des Mées

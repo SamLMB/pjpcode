@@ -3,8 +3,9 @@ layout: recipe
 number: 194
 title: Tajine d'agneau aux citrons confits comme le prépare Madame Collet de Haute-Savoie
 ---
+## Ingrédients
 
-Ingrédients pour 8 personnes :
+*pour 8 personnes :*
 - 1,6 kg d'épaule d'agneau non désossée et coupée en cubes de 4 cm d'arète
 - 200 g d'olives vertes (les violettes vont mieux, mais elles sont rares)
 - la peau de 3 citrons confits découpée en lanières de 1 cm de large (on jette le reste du citron

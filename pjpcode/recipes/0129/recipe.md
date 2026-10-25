@@ -8,9 +8,11 @@ title: Tarte épaisse comme les tortues géantes de Philéas Fogg au centre de l
 
 Tarte épaisse comme les tortues géantes de Philéas Fogg au centre de la terre
 
-![](image-01.jpg)
+[![](image-01.jpg)](image-01.jpg)
 
-Ingrédients : pour 8 personnes
+## Ingrédients
+
+ pour 8 personnes
 
 - 10 grosses pommes plutôt tendres
 - 4 cuillers de gelée d’arbouses

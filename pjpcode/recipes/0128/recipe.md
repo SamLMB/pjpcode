@@ -7,8 +7,9 @@ title: Quenelles comme chez Mamy de Kermorvan
 **Recette n°128** :
 
 Quenelles comme chez Mamy de Kermorvan
+## Ingrédients
 
-Ingrédients : pour 4 personnes
+*pour 4 personnes*
 
 - 12 quenelles au brochet
 - 2 boîtes de pulpe de tomate

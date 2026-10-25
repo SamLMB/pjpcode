@@ -5,8 +5,9 @@ title: Tarte aux poireaux et aux lardons
 ---
 
 Recette n° 202 : Tarte aux poireaux et aux lardons
+## Ingrédients
 
-Ingrédients : pour 6 personnes
+*pour 6 personnes*
 - une pâte à tarte pur beurre
 - 3oeufs
 - 3 beaux poireaux de la ferme de Kernavest

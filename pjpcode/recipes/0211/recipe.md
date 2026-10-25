@@ -5,8 +5,9 @@ title: Veau transatlantique
 ---
 
 Recette n° 211 : Veau transatlantique
+## Ingrédients
 
-Ingrédients : pour 6 personnes
+*pour 6 personnes*
 - un rôti de veau d'un bon kilo
 - 150 g de jambon blanc sans couenne
 - 1 litre de lait

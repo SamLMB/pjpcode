@@ -5,8 +5,9 @@ title: Soupe à l'oignon, la recette ultime
 ---
 
 Recette n°238 : soupe à loignon, la recette ultime
+## Ingrédients
 
-I ngrédients (pour 4 personnes) :
+*(pour 4 personnes) :*
 - 8 gros oignons jaunes
 - une cuiller de beurre ou d'huile d'olive
 - un verre de vin blanc
