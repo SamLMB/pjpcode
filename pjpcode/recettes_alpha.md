@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Liste alphabétique des recettes
-permalink: /pjpcode/recettes_alpha.htm
+permalink: /pjpcode/recettes_alpha.html
 ---
 
 Les 253 recettes du PJP code, classées par ordre alphabétique.
 Pour la liste classique par ordre d'inscription dans le cahier, voir le
-[sommaire](voici.htm).
+[sommaire](voici.html).
 
 <ul class="recipe-list">
 {%- for r in recipesAlpha %}

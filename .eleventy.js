@@ -18,6 +18,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("pjpcode/**/*.css");
   eleventyConfig.addPassthroughCopy("pjpcode/**/*.xls");
   eleventyConfig.addPassthroughCopy("pjpcode/**/*.xml");
+  eleventyConfig.addPassthroughCopy("pjpcode/**/*.js");
 
   // Repo-root files needed at the deployed root.
   eleventyConfig.addPassthroughCopy("index.html");
