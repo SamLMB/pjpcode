@@ -1,6 +1,6 @@
 // Curated list of all real photography (dishes, cooking steps, and family)
 // across the PJP code collection, excluding manuscript scans and diplomas.
-module.exports = [
+const photos = [
   {
     "number": null,
     "title": "Françoise et Jean-Pierre Bourdier — les cuisiniers du PJP code",
@@ -9,15 +9,15 @@ module.exports = [
   },
   {
     "number": 7,
-    "title": "Far de Tante Pierrette — préparation avec pruneaux",
-    "href": "/pjpcode/recipes/0007/recipe.html",
-    "src": "/pjpcode/recipes/0007/image-02.jpg"
-  },
-  {
-    "number": 7,
     "title": "Far de Tante Pierrette — cuisson terminée",
     "href": "/pjpcode/recipes/0007/recipe.html",
     "src": "/pjpcode/recipes/0007/image-03.jpg"
+  },
+  {
+    "number": 7,
+    "title": "Far de Tante Pierrette — préparation avec pruneaux",
+    "href": "/pjpcode/recipes/0007/recipe.html",
+    "src": "/pjpcode/recipes/0007/image-02.jpg"
   },
   {
     "number": 39,
@@ -663,15 +663,15 @@ module.exports = [
   },
   {
     "number": 173,
-    "title": "Sushis à la mode de Vitré, comme les prépare gente Dame Alix",
+    "title": "Sushis à la mode de Vitré — plat dressé",
     "href": "/pjpcode/recipes/0173/recipe.html",
-    "src": "/pjpcode/recipes/0173/image-01.jpg"
+    "src": "/pjpcode/recipes/0173/image-02.jpg"
   },
   {
     "number": 173,
-    "title": "Sushis à la mode de Vitré, comme les prépare gente Dame Alix",
+    "title": "Sushis à la mode de Vitré — gente Dame Alix",
     "href": "/pjpcode/recipes/0173/recipe.html",
-    "src": "/pjpcode/recipes/0173/image-02.jpg"
+    "src": "/pjpcode/recipes/0173/image-01.jpg"
   },
   {
     "number": 173,
@@ -1004,3 +1004,17 @@ module.exports = [
     "src": "/pjpcode/recipes/0250/image-04.jpg"
   }
 ];
+
+// Mark primary/hero photo for each unique recipe
+const seenRecipes = new Set();
+for (const p of photos) {
+  const key = p.number === null ? p.src : p.number;
+  if (!seenRecipes.has(key)) {
+    p.primary = true;
+    seenRecipes.add(key);
+  } else {
+    p.primary = false;
+  }
+}
+
+module.exports = photos;

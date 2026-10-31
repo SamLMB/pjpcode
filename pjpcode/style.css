@@ -175,6 +175,54 @@ a {
   font-style: italic;
 }
 
+/* Galerie photos */
+.gallery-controls {
+  margin: 1.5rem 0 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.view-toggle {
+  display: inline-flex;
+  background: #eee8e0;
+  border-radius: 4px;
+  padding: 3px;
+  gap: 3px;
+}
+
+.toggle-btn {
+  background: transparent;
+  border: none;
+  font-family: inherit;
+  font-size: 0.9rem;
+  padding: 0.4rem 0.85rem;
+  border-radius: 3px;
+  cursor: pointer;
+  color: var(--color-muted);
+  transition: all 0.15s ease-in-out;
+}
+
+.toggle-btn:hover {
+  color: var(--color-text);
+}
+
+.toggle-btn.active {
+  background: #fff;
+  color: var(--color-accent);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  font-weight: 600;
+}
+
+.gallery-count {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--color-muted);
+  font-style: italic;
+}
+
 .photo-grid {
   list-style: none;
   padding: 0;
@@ -199,4 +247,78 @@ a {
   display: block;
   border-radius: 4px;
   background: #eee;
+}
+
+/* Recherche de recettes */
+.search-box-container {
+  margin: 1.5rem 0 1rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-family: inherit;
+  font-size: 1.1rem;
+  color: var(--color-text);
+  background: #fff;
+  border: 1px solid var(--color-rule);
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px rgba(138, 61, 46, 0.15);
+}
+
+.search-tags {
+  margin: 0.6rem 0 1.25rem;
+  font-size: 0.85rem;
+  color: var(--color-muted);
+}
+
+.search-tag {
+  display: inline-block;
+  margin: 0.2rem 0.25rem;
+  padding: 0.15rem 0.5rem;
+  background: #eee8e0;
+  color: var(--color-text);
+  border-radius: 3px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+
+.search-tag:hover {
+  background: var(--color-accent);
+  color: #fff;
+}
+
+.search-status {
+  font-size: 0.9rem;
+  color: var(--color-muted);
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+.search-item-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  flex: 1;
+}
+
+.search-snippet {
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  line-height: 1.4;
+}
+
+.search-snippet mark {
+  background-color: #f7e1b5;
+  color: inherit;
+  padding: 0 2px;
+  border-radius: 2px;
 }

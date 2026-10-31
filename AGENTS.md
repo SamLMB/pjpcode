@@ -8,17 +8,17 @@ A static website serving the **PJP code**, a French family cookbook hosted at pj
 
 The two entry pages (`/index.html` and `pjpcode/indexpjpcode.html`) are
 preserved as the original author wrote them — don't restyle them. The
-generated content starts at `voici.htm`.
+generated content starts at `voici.html`.
 
 ## Site structure and navigation flow
 
 The site has a hand-built navigation hierarchy across three files in `pjpcode/`:
 
 1. `/index.html` — root splash, links into `pjpcode/indexpjpcode.html`.
-2. `pjpcode/indexpjpcode.html` — photo of the cooks; the photo links to `voici.htm`.
-3. `pjpcode/voici.htm` — the **sommaire**: a numbered list of every recipe with `<a href="…">` links to each recipe's page. Generated from `pjpcode/voici.md` iterating `_data/recipes.js`. Two further index pages (`recettes_alpha.htm`, `recettes_liste_par_numeros.htm`) are generated the same way and live at `pjpcode/` root.
+2. `pjpcode/indexpjpcode.html` — photo of the cooks; the photo links to `voici.html`.
+3. `pjpcode/voici.html` — the **sommaire**: a numbered list of every recipe with `<a href="…">` links to each recipe's page. Generated from `pjpcode/voici.md` iterating `_data/recipes.js`. Two further index pages (`recettes_alpha.html`, `recettes_liste_par_numeros.html`) are generated the same way and live at `pjpcode/` root.
 
-When adding a recipe, append an entry to `_data/recipes.js` (number, verbatim lowercase title, href) and create `pjpcode/recipes/XXXX/recipe.md`. The three index pages regenerate automatically.
+When adding a recipe, append an entry to `_data/recipes.js` (number, verbatim lowercase title, href) and create `pjpcode/recipes/XXXX/recipe.md`. The index pages regenerate automatically.
 
 ## Recipe storage layout
 
@@ -47,9 +47,9 @@ preserved by `permalink: recipe.html` directory data
   zero-padded, numbered in the order they appear in the recipe. The
   extension matches the original (`.jpg`, `.png`, `.gif`).
 
-Files at `pjpcode/` root are either generated index pages (`voici.htm`,
-`recettes_alpha.htm`, `recettes_liste_par_numeros.htm` — built from
-the corresponding `.md` files), entry/static pages
+Files at `pjpcode/` root are either generated index pages (`voici.html`,
+`recettes_alpha.html`, `recettes_liste_par_numeros.html`, `photos.html`,
+`recherche.html` — built from the corresponding `.md` files), entry/static pages
 (`indexpjpcode.html`, `lisez moi d'abord.htm`, `nous_deux.jpg`),
 the `recipes/` directory, the `orphan/` directory of unattributed
 files, or `RM_`-prefixed entries pending deletion — see `tasks.md`
@@ -68,16 +68,18 @@ _layouts/
   page.njk                    # generic page template (sommaire, etc.)
 _data/
   recipes.js                  # 253-entry nav-title list (verbatim lowercase
-                              #   from the original voici.htm) — drives the
-                              #   three index pages
+                              #   from the original voici) — drives the
+                              #   index pages
   recipesAlpha.js             # same list, French-collated alphabetically
 .github/workflows/deploy.yml  # GitHub Pages deploy via Actions
 pjpcode/
   style.css                   # shared stylesheet
   pjpcode.11tydata.js         # directory data: permalink keeps .html URLs flat
-  voici.md                    # sommaire (permalink: voici.htm)
-  recettes_alpha.md           # alpha index (permalink: recettes_alpha.htm)
-  recettes_liste_par_numeros.md
+  voici.md                    # sommaire (permalink: voici.html)
+  recettes_alpha.md           # alpha index (permalink: recettes_alpha.html)
+  recettes_liste_par_numeros.md # (permalink: recettes_liste_par_numeros.html)
+  photos.md                   # (permalink: photos.html)
+  recherche.md                # (permalink: recherche.html)
   recipes/XXXX/recipe.md      # one per recipe, all 253
 ```
 

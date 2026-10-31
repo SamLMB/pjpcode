@@ -343,8 +343,10 @@ serves the same number of recipe URLs as before, all from `.md` sources.
 ### Phase 4 — optional polish
 - [ ] Print stylesheet (`@media print`) for kitchen-friendly recipes.
 - [ ] `schema.org/Recipe` JSON-LD per recipe (good for SEO).
-- [ ] Client-side keyword search (replaces the old
-  `liste_par_mots_clefs.html` if missed).
+- [x] **Client-side keyword search** at `/pjpcode/recherche.htm` — powered
+  by MiniSearch with build-time `search-index.json` generation. Replaces the old
+  `liste_par_mots_clefs.html` with fuzzy, typo-tolerant, accent-normalized search
+  by title, ingredient, or recipe number. Linked from `voici.htm`.
 - [ ] RSS feed for new recipes.
 - [x] **Photo gallery** at `/pjpcode/photos.htm` — every recipe image
   on one page, click-through to the recipe. Linked from `voici.htm`.
